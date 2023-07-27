@@ -29,7 +29,10 @@ jobs:
           content=$(curl -s ${{ env.URL }})
           while IFS= read -r line; do
             username=$(echo "$line" | cut -d ',' -f 1)
-            echo "$content" > "SingBoxs/${username}-Reality-Singbox"
+            
+            if [ "$number" -gt 0 ]; then
+              echo "$content" > "SingBoxs/${username}-Reality-Singbox"
+            fi
           done < Users.txt
 
       - name: Commit and push changes

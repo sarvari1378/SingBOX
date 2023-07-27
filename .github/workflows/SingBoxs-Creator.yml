@@ -20,13 +20,22 @@ jobs:
       - name: Set URL
         run: echo "URL=https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/singbox/sfi_sfa.json" >> $GITHUB_ENV
 
+      - name: Check for changes to Users.txt
+        id: check_changes
+        run: |
+          changed=$(git diff --name-only HEAD^ HEAD | grep -c "Users.txt")
+          echo "::set-output name=changed::$changed"
+          
       - name: Create SingBOX directory
+        if: steps.check_changes.outputs.changed == '1'
         run: mkdir -p SingBoxs
 
       - name: Delete existing SingBOX files
+        if: steps.check_changes.outputs.changed == '1'
         run: rm -f SingBoxs/*
 
       - name: Create SingBOX files
+        if: steps.check_changes.outputs.changed == '1'
         run: |
           content=$(curl -s ${{ env.URL }})
           while IFS= read -r line; do
@@ -38,6 +47,7 @@ jobs:
           done < Users.txt
 
       - name: Commit and push changes
+        if: steps.check_changes.outputs.changed == '1'
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"

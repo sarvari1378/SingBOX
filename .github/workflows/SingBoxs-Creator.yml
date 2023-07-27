@@ -1,0 +1,35 @@
+name: Create SingBOX Files
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  create_files:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+
+      - name: Install dependencies
+        run: sudo apt-get update && sudo apt-get install -y jq
+
+      - name: Set URL
+        run: echo "URL=https://example.com/content.txt" >> $GITHUB_ENV
+
+      - name: Create SingBOX files
+        run: |
+          content=$(curl -s ${{ env.URL }})
+          while IFS= read -r line; do
+            username=$(echo "$line" | cut -d ',' -f 1)
+            echo "$content" > "SingBOX/${username}-Reality-Singbox"
+          done < Users.txt
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add .
+          git commit -m "Create SingBOX files"
+          git push

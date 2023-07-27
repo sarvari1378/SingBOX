@@ -18,12 +18,15 @@ jobs:
       - name: Set URL
         run: echo "URL=https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/singbox/sfi_sfa.json" >> $GITHUB_ENV
 
+      - name: Create SingBOX directory
+        run: mkdir -p SingBOX
+
       - name: Create SingBOX files
         run: |
           content=$(curl -s ${{ env.URL }})
           while IFS= read -r line; do
             username=$(echo "$line" | cut -d ',' -f 1)
-            echo "$content" > "SingBOXs/${username}-Reality-Singbox"
+            echo "$content" > "SingBOX/${username}-Reality-Singbox"
           done < Users.txt
 
       - name: Commit and push changes

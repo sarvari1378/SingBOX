@@ -21,7 +21,6 @@ jobs:
         run: echo "URL=https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/singbox/sfi_sfa.json" >> $GITHUB_ENV
 
       - name: Delete existing SingBOX files
-        if: steps.check_changes.outputs.changed == '1'
         run: rm -f SingBoxs/*
         
       - name: Create SingBOX directory

@@ -1,1 +1,2 @@
-sajed, 30
+Sajed, 30
+Ali, 40

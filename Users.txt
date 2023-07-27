@@ -1,2 +1,4 @@
 Sajed, 30
 Ali, 40
+Omid, -10
+Asghar, 0

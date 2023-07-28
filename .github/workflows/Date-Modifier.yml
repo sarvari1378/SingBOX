@@ -1,0 +1,30 @@
+name: Rozshomar
+on:
+     schedule:
+     - cron: '10 0 * * *'
+jobs:
+  update-users:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+        with:
+          ref: main
+      - name: Update Users.txt
+        run: |
+          while IFS= read -r line; do
+            name=$(echo "$line" | cut -d',' -f1)
+            number=$(echo "$line" | cut -d',' -f2)
+            new_number=$((number-1))
+            echo "$name, $new_number" >> Users.tmp
+          done < Users.txt
+          mv Users.tmp Users.txt
+      - name: Set up git
+        run: |
+          git config --global user.email "you@example.com"
+          git config --global user.name "Your Name"
+      - name: Commit changes
+        run: |
+          git add Users.txt
+          git commit -m "Update Users.txt"
+          git push origin main

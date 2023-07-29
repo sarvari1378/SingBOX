@@ -1,0 +1,2753 @@
+{
+    "log": {
+        "disabled": false,
+        "level": "warn",
+        "timestamp": true
+    },
+    "experimental": {
+        "clash_api": {
+            "external_controller": "0.0.0.0:9090",
+            "external_ui": "yacd",
+            "external_ui_download_url": "https:\/\/github.com\/MetaCubeX\/Yacd-meta\/archive\/gh-pages.zip",
+            "external_ui_download_detour": "direct",
+            "secret": "YEBEKHE",
+            "default_mode": "rule",
+            "store_selected": true,
+            "cache_file": "clash.db"
+        }
+    },
+    "dns": {
+        "servers": [
+            {
+                "address": "https:\/\/8.8.8.8\/dns-query",
+                "address_resolver": "dns-direct",
+                "strategy": "ipv4_only",
+                "tag": "dns-remote"
+            },
+            {
+                "address": "https:\/\/free.shecan.ir\/dns-query",
+                "address_resolver": "dns-local",
+                "detour": "direct",
+                "strategy": "ipv4_only",
+                "tag": "dns-direct"
+            },
+            {
+                "address": "local",
+                "detour": "direct",
+                "tag": "dns-local"
+            },
+            {
+                "address": "rcode:\/\/success",
+                "tag": "dns-block"
+            }
+        ],
+        "rules": [
+            {
+                "domain_suffix": [
+                    "ir"
+                ],
+                "server": "dns-direct"
+            },
+            {
+                "outbound": "direct",
+                "server": "dns-direct",
+                "rewrite_ttl": 20
+            },
+            {
+                "outbound": "any",
+                "server": "dns-direct",
+                "rewrite_ttl": 20
+            }
+        ],
+        "reverse_mapping": true,
+        "strategy": "ipv4_only",
+        "independent_cache": true
+    },
+    "inbounds": [
+        {
+            "listen": "0.0.0.0",
+            "listen_port": 6450,
+            "override_address": "8.8.8.8",
+            "override_port": 53,
+            "tag": "dns-in",
+            "type": "direct"
+        },
+        {
+            "type": "tun",
+            "tag": "tun-in",
+            "domain_strategy": "",
+            "interface_name": "tun0",
+            "inet4_address": "172.19.0.1\/30",
+            "mtu": 1280,
+            "auto_route": true,
+            "strict_route": true,
+            "stack": "system",
+            "endpoint_independent_nat": true,
+            "sniff": true,
+            "sniff_override_destination": false
+        },
+        {
+            "domain_strategy": "",
+            "listen": "0.0.0.0",
+            "listen_port": 2080,
+            "sniff": true,
+            "sniff_override_destination": false,
+            "tag": "mixed-in",
+            "type": "mixed"
+        }
+    ],
+    "outbounds": [
+        {
+            "tag": "proxy",
+            "type": "selector",
+            "outbounds": [
+                "URL-TEST",
+                "REALITY | @daorzadannet | DE🇩🇪 | 49.13.60.91:443 | 159.636ms",
+                "REALITY | @Outline_Vpn | FI🇫🇮 | 65.109.192.30:44971 | 175.1812ms",
+                "REALITY | @prrofile_purple | DE🇩🇪 | 2.melov2ray.store:443 | 391.5641ms",
+                "REALITY | @prrofile_purple | RU🇷🇺 | tolemayedar.rising-from-ashes.sbs:8443 | 389.7328ms",
+                "REALITY | @ShadowSocks_s | PL🇵🇱 | 188.116.21.168:443 | 152.3199ms",
+                "REALITY | @ShadowSocks_s | DE🇩🇪 | 167.235.249.207:1111 | 159.6429ms",
+                "REALITY | @ShadowSocks_s | DE🇩🇪 | 138.197.186.70:443 | 155.983ms",
+                "REALITY | @azadi_az_inja_migzare | GB🇬🇧 | 5.181.21.199:30223 | 184.0081ms",
+                "REALITY | @vmessorg | DE🇩🇪 | join-bede1.vmessorg.fun:8080 | 239.0511ms",
+                "REALITY | @vmessorg | DE🇩🇪 | join-bede1.vmessorg.fun:443 | 166.9772ms",
+                "REALITY | @vmessorg | DE🇩🇪 | join-bede1.vmessorg.fun:8080 | 162.2651ms",
+                "REALITY | @v2rayNG_Matsuri | DE🇩🇪 | srv23.kiava.fun:443 | 312.0048ms",
+                "REALITY | @ipV2Ray | DE🇩🇪 | 128.140.88.31:443 | 159.585ms",
+                "REALITY | @ipV2Ray | DE🇩🇪 | 128.140.88.31:443 | 159.6859ms",
+                "REALITY | @ipV2Ray | DE🇩🇪 | 128.140.88.31:443 | 159.6971ms",
+                "REALITY | @kiava | DE🇩🇪 | srv22.kiava.fun:443 | 210.881ms",
+                "REALITY | @kiava | DE🇩🇪 | srv23.kiava.fun:443 | 163.0449ms",
+                "REALITY | @kiava | DE🇩🇪 | srv24.kiava.fun:443 | 184.5312ms",
+                "REALITY | @Helix_Servers | NL🇳🇱 | 146.190.21.130:1443 | 153.074ms",
+                "REALITY | @Helix_Servers | GB🇬🇧 | 142.93.41.27:8443 | 145.4799ms",
+                "REALITY | @Helix_Servers | GB🇬🇧 | 142.93.41.27:1443 | 145.3562ms",
+                "REALITY | @VpnProSec | DE🇩🇪 | super2.vpnprosec.shop:2096 | 166.7459ms",
+                "REALITY | @VpnProSec | DE🇩🇪 | super1.vpnprosec.shop:2096 | 280.21ms",
+                "REALITY | @INIT1984 | CA🇨🇦 | 159.203.45.252:443 | 64.7991ms",
+                "REALITY | @INIT1984 | CA🇨🇦 | 159.203.45.252:50314 | 64.286ms",
+                "REALITY | @CloudCityy | DE🇩🇪 | 49.13.29.45:443 | 159.858ms",
+                "REALITY | @CloudCityy | DE🇩🇪 | 49.13.29.45:2053 | 159.5719ms",
+                "REALITY | @CloudCityy | DE🇩🇪 | 49.13.29.45:2087 | 159.575ms",
+                "REALITY | @shopingv2ray | DE🇩🇪 | 1.melov2ray.store:443 | 177.875ms",
+                "REALITY | @shopingv2ray | DE🇩🇪 | germany.safeaccessnet.xyz:2053 | 174.3858ms",
+                "REALITY | @shopingv2ray | LV🇱🇻 | 188.64.12.3:443 | 177.572ms",
+                "REALITY | @xrayproxy | RU🇷🇺 | 95.142.40.102:443 | 191.7081ms",
+                "REALITY | @xrayproxy | RU🇷🇺 | 95.142.40.124:443 | 193.14ms",
+                "REALITY | @v2ray_swhil | DE🇩🇪 | 2.melov2ray.store:443 | 215.2891ms",
+                "REALITY | @v2ray_swhil | RU🇷🇺 | telegramm-id.melov2ray.store:443 | 139.54ms",
+                "REALITY | @LoRd_uL4mo | US🇺🇸 | [::ffff:808c:7116]:24357 | 160.1131ms",
+                "REALITY | @LoRd_uL4mo | IR🇮🇷 | tl.flcfis.shop:443 | 334.3019ms",
+                "REALITY | @VmessProtocol | DE🇩🇪 | 49.13.63.0:443 | 160.8939ms",
+                "REALITY | @MehradLearn | DE🇩🇪 | join.mdvpnsec.cfd:2096 | 251.4369ms",
+                "REALITY | @SafeNet_Server | DE🇩🇪 | 167.235.249.207:1111 | 159.708ms",
+                "REALITY | @ovpn2 | FI🇫🇮 | speedtest.wlftest.xyz:443 | 189.456ms",
+                "REALITY | @vpn_tehran | DE🇩🇪 | 159.69.102.38:8180 | 159.7891ms",
+                "REALITY | @v2ray_vpn_ir | RU🇷🇺 | lauren.network-go.info:443 | 193.5751ms",
+                "REALITY | @v2_team | DE🇩🇪 | join.v2team.cfd:2083 | 210.0599ms",
+                "REALITY | @v2_team | DE🇩🇪 | join.v2team.cfd:2083 | 313.916ms",
+                "REALITY | @v2_team | DE🇩🇪 | join.v2team.cfd:2083 | 321.063ms",
+                "REALITY | @freeconfigv2 | RU🇷🇺 | telegramm-id.melov2ray.store:443 | 138.113ms",
+                "REALITY | @freeconfigv2 | DK🇩🇰 | telegram-id.melov2ray.store:443 | 169.7512ms",
+                "REALITY | @freeconfigv2 | LV🇱🇻 | 188.64.12.3:443 | 174.367ms",
+                "REALITY | @talentvpn | DE🇩🇪 | all.mahangalaxy.online:3755 | 589.355ms",
+                "REALITY | @Parsashonam | NL🇳🇱 | all2.Tel-Parsashonam.website:443 | 155.844ms",
+                "REALITY | @Parsashonam | DK🇩🇰 | all4.Tel-Parsashonam.website:443 | 239.3441ms",
+                "REALITY | @Parsashonam | RU🇷🇺 | all5.Tel-Parsashonam.website:443 | 154.1121ms",
+                "REALITY | @VPNCLOP | DE🇩🇪 | 167.235.249.207:1111 | 159.3649ms",
+                "REALITY | @VPNCLOP | FR🇫🇷 | free.carden-speed.com:13296 | 615.3531ms",
+                "REALITY | @V2pedia | DE🇩🇪 | te.argha-v2pedia.monster:443 | 318.598ms",
+                "REALITY | @V2pedia | DE🇩🇪 | te.argha-v2pedia.monster:443 | 266.8381ms",
+                "REALITY | @V2pedia | DE🇩🇪 | te.argha-v2pedia.monster:443 | 294.4331ms",
+                "REALITY | @molovpn | NL🇳🇱 | 194.116.215.93:443 | 207.8741ms",
+                "REALITY | @melov2ray | DE🇩🇪 | 1.melov2ray.store:443 | 166.1549ms",
+                "REALITY | @iP_CF | DE🇩🇪 | 91.107.189.98:2053 | 160.0721ms",
+                "REALITY | @v2rayng_config_amin | US🇺🇸 | [::ffff:808c:7116]:24357 | 160.0161ms",
+                "REALITY | @enjoy | FR🇫🇷 | likethis.masjedeman.online:32112 | 173.249ms",
+                "REALITY | @enjoy | FR🇫🇷 | likethis.masjedeman.online:32112 | 169.3809ms",
+                "REALITY | @enjoy | FR🇫🇷 | likethis.masjedeman.online:32112 | 167.0721ms",
+                "REALITY | @enjoy | FR🇫🇷 | likethis.masjedeman.online:32112 | 160.1992ms",
+                "REALITY | @sarina_esmailzadeh | NL🇳🇱 | 176.124.198.154:443 | 167.0711ms",
+                "REALITY | @sarina_esmailzadeh | NL🇳🇱 | 176.124.198.154:22 | 164.937ms",
+                "REALITY | @sarina_esmailzadeh | NL🇳🇱 | 176.124.198.154:2087 | 164.5198ms",
+                "REALITY | @sarina_esmailzadeh | NL🇳🇱 | 176.124.198.154:8880 | 169.8229ms",
+                "REALITY | @sarina_esmailzadeh | NL🇳🇱 | 176.124.198.154:10050 | 164.6922ms",
+                "REALITY | @sarina_esmailzadeh | NL🇳🇱 | 176.124.198.154:2085 | 164.2852ms",
+                "REALITY | @sarina_esmailzadeh | NL🇳🇱 | 176.124.198.154:2082 | 164.7761ms",
+                "REALITY | @sarina_esmailzadeh | NL🇳🇱 | 176.124.198.154:8443 | 166.8029ms",
+                "REALITY | @sarina_esmailzadeh | NL🇳🇱 | 176.124.198.154:6443 | 163.8849ms",
+                "REALITY | @sarina_esmailzadeh | NL🇳🇱 | 176.124.198.154:2096 | 164.1579ms",
+                "REALITY | @hadis_najafi | RU🇷🇺 | 5.42.77.71:443 | 195.3459ms",
+                "REALITY | @hadis_najafi | RU🇷🇺 | 5.42.77.71:22 | 191.427ms",
+                "REALITY | @hadis_najafi | RU🇷🇺 | 5.42.77.71:2087 | 192.2951ms",
+                "REALITY | @hadis_najafi | RU🇷🇺 | 5.42.77.71:8880 | 187.248ms",
+                "REALITY | @hadis_najafi | RU🇷🇺 | 5.42.77.71:10050 | 180.064ms",
+                "REALITY | @hadis_najafi | RU🇷🇺 | 5.42.77.71:2053 | 181.0551ms",
+                "REALITY | @hadis_najafi | RU🇷🇺 | 5.42.77.71:2082 | 198.035ms",
+                "REALITY | @hadis_najafi | RU🇷🇺 | 5.42.77.71:8443 | 178.0879ms",
+                "REALITY | @hadis_najafi | RU🇷🇺 | 5.42.77.71:6443 | 185.7629ms",
+                "REALITY | @hadis_najafi | RU🇷🇺 | 5.42.77.71:2096 | 180.378ms",
+                "REALITY | @way_of_freedom | RU🇷🇺 | 5.42.77.255:443 | 180.48ms",
+                "REALITY | @way_of_freedom | RU🇷🇺 | 5.42.77.255:22 | 184ms",
+                "REALITY | @way_of_freedom | RU🇷🇺 | 5.42.77.255:2087 | 191.4179ms",
+                "REALITY | @way_of_freedom | RU🇷🇺 | 5.42.77.255:8880 | 182.498ms",
+                "REALITY | @way_of_freedom | RU🇷🇺 | 5.42.77.255:10050 | 192.4608ms",
+                "REALITY | @way_of_freedom | RU🇷🇺 | 5.42.77.255:2053 | 178.3488ms",
+                "REALITY | @way_of_freedom | RU🇷🇺 | 5.42.77.255:2082 | 177.834ms",
+                "REALITY | @way_of_freedom | RU🇷🇺 | 5.42.77.255:8443 | 182.523ms",
+                "REALITY | @way_of_freedom | RU🇷🇺 | 5.42.77.255:6443 | 181.792ms",
+                "REALITY | @way_of_freedom | RU🇷🇺 | 5.42.77.255:2096 | 181.0598ms",
+                "REALITY | @kian_pirfalak | DE🇩🇪 | 5.230.67.53:443 | 378.2759ms",
+                "REALITY | @kian_pirfalak | DE🇩🇪 | 5.230.67.53:22 | 171.602ms",
+                "REALITY | @kian_pirfalak | DE🇩🇪 | 5.230.67.53:2058 | 155.5681ms",
+                "REALITY | @kian_pirfalak | DE🇩🇪 | 5.230.67.53:8880 | 156.013ms",
+                "REALITY | @kian_pirfalak | DE🇩🇪 | 5.230.67.53:10050 | 256.9811ms",
+                "REALITY | @kian_pirfalak | DE🇩🇪 | 5.230.67.53:19215 | 161.026ms",
+                "REALITY | @kian_pirfalak | DE🇩🇪 | 5.230.67.53:2082 | 155.8659ms",
+                "REALITY | @kian_pirfalak | DE🇩🇪 | 5.230.67.53:8443 | 155.7879ms",
+                "REALITY | @kian_pirfalak | DE🇩🇪 | 5.230.67.53:6443 | 160.9781ms",
+                "REALITY | @kian_pirfalak | DE🇩🇪 | 5.230.67.53:2096 | 159.6498ms"
+            ]
+        },
+        {
+            "tag": "URL-TEST",
+            "type": "urltest",
+            "outbounds": [
+                "REALITY | @daorzadannet | DE🇩🇪 | 49.13.60.91:443 | 159.636ms",
+                "REALITY | @Outline_Vpn | FI🇫🇮 | 65.109.192.30:44971 | 175.1812ms",
+                "REALITY | @prrofile_purple | DE🇩🇪 | 2.melov2ray.store:443 | 391.5641ms",
+                "REALITY | @prrofile_purple | RU🇷🇺 | tolemayedar.rising-from-ashes.sbs:8443 | 389.7328ms",
+                "REALITY | @ShadowSocks_s | PL🇵🇱 | 188.116.21.168:443 | 152.3199ms",
+                "REALITY | @ShadowSocks_s | DE🇩🇪 | 167.235.249.207:1111 | 159.6429ms",
+                "REALITY | @ShadowSocks_s | DE🇩🇪 | 138.197.186.70:443 | 155.983ms",
+                "REALITY | @azadi_az_inja_migzare | GB🇬🇧 | 5.181.21.199:30223 | 184.0081ms",
+                "REALITY | @vmessorg | DE🇩🇪 | join-bede1.vmessorg.fun:8080 | 239.0511ms",
+                "REALITY | @vmessorg | DE🇩🇪 | join-bede1.vmessorg.fun:443 | 166.9772ms",
+                "REALITY | @vmessorg | DE🇩🇪 | join-bede1.vmessorg.fun:8080 | 162.2651ms",
+                "REALITY | @v2rayNG_Matsuri | DE🇩🇪 | srv23.kiava.fun:443 | 312.0048ms",
+                "REALITY | @ipV2Ray | DE🇩🇪 | 128.140.88.31:443 | 159.585ms",
+                "REALITY | @ipV2Ray | DE🇩🇪 | 128.140.88.31:443 | 159.6859ms",
+                "REALITY | @ipV2Ray | DE🇩🇪 | 128.140.88.31:443 | 159.6971ms",
+                "REALITY | @kiava | DE🇩🇪 | srv22.kiava.fun:443 | 210.881ms",
+                "REALITY | @kiava | DE🇩🇪 | srv23.kiava.fun:443 | 163.0449ms",
+                "REALITY | @kiava | DE🇩🇪 | srv24.kiava.fun:443 | 184.5312ms",
+                "REALITY | @Helix_Servers | NL🇳🇱 | 146.190.21.130:1443 | 153.074ms",
+                "REALITY | @Helix_Servers | GB🇬🇧 | 142.93.41.27:8443 | 145.4799ms",
+                "REALITY | @Helix_Servers | GB🇬🇧 | 142.93.41.27:1443 | 145.3562ms",
+                "REALITY | @VpnProSec | DE🇩🇪 | super2.vpnprosec.shop:2096 | 166.7459ms",
+                "REALITY | @VpnProSec | DE🇩🇪 | super1.vpnprosec.shop:2096 | 280.21ms",
+                "REALITY | @INIT1984 | CA🇨🇦 | 159.203.45.252:443 | 64.7991ms",
+                "REALITY | @INIT1984 | CA🇨🇦 | 159.203.45.252:50314 | 64.286ms",
+                "REALITY | @CloudCityy | DE🇩🇪 | 49.13.29.45:443 | 159.858ms",
+                "REALITY | @CloudCityy | DE🇩🇪 | 49.13.29.45:2053 | 159.5719ms",
+                "REALITY | @CloudCityy | DE🇩🇪 | 49.13.29.45:2087 | 159.575ms",
+                "REALITY | @shopingv2ray | DE🇩🇪 | 1.melov2ray.store:443 | 177.875ms",
+                "REALITY | @shopingv2ray | DE🇩🇪 | germany.safeaccessnet.xyz:2053 | 174.3858ms",
+                "REALITY | @shopingv2ray | LV🇱🇻 | 188.64.12.3:443 | 177.572ms",
+                "REALITY | @xrayproxy | RU🇷🇺 | 95.142.40.102:443 | 191.7081ms",
+                "REALITY | @xrayproxy | RU🇷🇺 | 95.142.40.124:443 | 193.14ms",
+                "REALITY | @v2ray_swhil | DE🇩🇪 | 2.melov2ray.store:443 | 215.2891ms",
+                "REALITY | @v2ray_swhil | RU🇷🇺 | telegramm-id.melov2ray.store:443 | 139.54ms",
+                "REALITY | @LoRd_uL4mo | US🇺🇸 | [::ffff:808c:7116]:24357 | 160.1131ms",
+                "REALITY | @LoRd_uL4mo | IR🇮🇷 | tl.flcfis.shop:443 | 334.3019ms",
+                "REALITY | @VmessProtocol | DE🇩🇪 | 49.13.63.0:443 | 160.8939ms",
+                "REALITY | @MehradLearn | DE🇩🇪 | join.mdvpnsec.cfd:2096 | 251.4369ms",
+                "REALITY | @SafeNet_Server | DE🇩🇪 | 167.235.249.207:1111 | 159.708ms",
+                "REALITY | @ovpn2 | FI🇫🇮 | speedtest.wlftest.xyz:443 | 189.456ms",
+                "REALITY | @vpn_tehran | DE🇩🇪 | 159.69.102.38:8180 | 159.7891ms",
+                "REALITY | @v2ray_vpn_ir | RU🇷🇺 | lauren.network-go.info:443 | 193.5751ms",
+                "REALITY | @v2_team | DE🇩🇪 | join.v2team.cfd:2083 | 210.0599ms",
+                "REALITY | @v2_team | DE🇩🇪 | join.v2team.cfd:2083 | 313.916ms",
+                "REALITY | @v2_team | DE🇩🇪 | join.v2team.cfd:2083 | 321.063ms",
+                "REALITY | @freeconfigv2 | RU🇷🇺 | telegramm-id.melov2ray.store:443 | 138.113ms",
+                "REALITY | @freeconfigv2 | DK🇩🇰 | telegram-id.melov2ray.store:443 | 169.7512ms",
+                "REALITY | @freeconfigv2 | LV🇱🇻 | 188.64.12.3:443 | 174.367ms",
+                "REALITY | @talentvpn | DE🇩🇪 | all.mahangalaxy.online:3755 | 589.355ms",
+                "REALITY | @Parsashonam | NL🇳🇱 | all2.Tel-Parsashonam.website:443 | 155.844ms",
+                "REALITY | @Parsashonam | DK🇩🇰 | all4.Tel-Parsashonam.website:443 | 239.3441ms",
+                "REALITY | @Parsashonam | RU🇷🇺 | all5.Tel-Parsashonam.website:443 | 154.1121ms",
+                "REALITY | @VPNCLOP | DE🇩🇪 | 167.235.249.207:1111 | 159.3649ms",
+                "REALITY | @VPNCLOP | FR🇫🇷 | free.carden-speed.com:13296 | 615.3531ms",
+                "REALITY | @V2pedia | DE🇩🇪 | te.argha-v2pedia.monster:443 | 318.598ms",
+                "REALITY | @V2pedia | DE🇩🇪 | te.argha-v2pedia.monster:443 | 266.8381ms",
+                "REALITY | @V2pedia | DE🇩🇪 | te.argha-v2pedia.monster:443 | 294.4331ms",
+                "REALITY | @molovpn | NL🇳🇱 | 194.116.215.93:443 | 207.8741ms",
+                "REALITY | @melov2ray | DE🇩🇪 | 1.melov2ray.store:443 | 166.1549ms",
+                "REALITY | @iP_CF | DE🇩🇪 | 91.107.189.98:2053 | 160.0721ms",
+                "REALITY | @v2rayng_config_amin | US🇺🇸 | [::ffff:808c:7116]:24357 | 160.0161ms",
+                "REALITY | @enjoy | FR🇫🇷 | likethis.masjedeman.online:32112 | 173.249ms",
+                "REALITY | @enjoy | FR🇫🇷 | likethis.masjedeman.online:32112 | 169.3809ms",
+                "REALITY | @enjoy | FR🇫🇷 | likethis.masjedeman.online:32112 | 167.0721ms",
+                "REALITY | @enjoy | FR🇫🇷 | likethis.masjedeman.online:32112 | 160.1992ms",
+                "REALITY | @sarina_esmailzadeh | NL🇳🇱 | 176.124.198.154:443 | 167.0711ms",
+                "REALITY | @sarina_esmailzadeh | NL🇳🇱 | 176.124.198.154:22 | 164.937ms",
+                "REALITY | @sarina_esmailzadeh | NL🇳🇱 | 176.124.198.154:2087 | 164.5198ms",
+                "REALITY | @sarina_esmailzadeh | NL🇳🇱 | 176.124.198.154:8880 | 169.8229ms",
+                "REALITY | @sarina_esmailzadeh | NL🇳🇱 | 176.124.198.154:10050 | 164.6922ms",
+                "REALITY | @sarina_esmailzadeh | NL🇳🇱 | 176.124.198.154:2085 | 164.2852ms",
+                "REALITY | @sarina_esmailzadeh | NL🇳🇱 | 176.124.198.154:2082 | 164.7761ms",
+                "REALITY | @sarina_esmailzadeh | NL🇳🇱 | 176.124.198.154:8443 | 166.8029ms",
+                "REALITY | @sarina_esmailzadeh | NL🇳🇱 | 176.124.198.154:6443 | 163.8849ms",
+                "REALITY | @sarina_esmailzadeh | NL🇳🇱 | 176.124.198.154:2096 | 164.1579ms",
+                "REALITY | @hadis_najafi | RU🇷🇺 | 5.42.77.71:443 | 195.3459ms",
+                "REALITY | @hadis_najafi | RU🇷🇺 | 5.42.77.71:22 | 191.427ms",
+                "REALITY | @hadis_najafi | RU🇷🇺 | 5.42.77.71:2087 | 192.2951ms",
+                "REALITY | @hadis_najafi | RU🇷🇺 | 5.42.77.71:8880 | 187.248ms",
+                "REALITY | @hadis_najafi | RU🇷🇺 | 5.42.77.71:10050 | 180.064ms",
+                "REALITY | @hadis_najafi | RU🇷🇺 | 5.42.77.71:2053 | 181.0551ms",
+                "REALITY | @hadis_najafi | RU🇷🇺 | 5.42.77.71:2082 | 198.035ms",
+                "REALITY | @hadis_najafi | RU🇷🇺 | 5.42.77.71:8443 | 178.0879ms",
+                "REALITY | @hadis_najafi | RU🇷🇺 | 5.42.77.71:6443 | 185.7629ms",
+                "REALITY | @hadis_najafi | RU🇷🇺 | 5.42.77.71:2096 | 180.378ms",
+                "REALITY | @way_of_freedom | RU🇷🇺 | 5.42.77.255:443 | 180.48ms",
+                "REALITY | @way_of_freedom | RU🇷🇺 | 5.42.77.255:22 | 184ms",
+                "REALITY | @way_of_freedom | RU🇷🇺 | 5.42.77.255:2087 | 191.4179ms",
+                "REALITY | @way_of_freedom | RU🇷🇺 | 5.42.77.255:8880 | 182.498ms",
+                "REALITY | @way_of_freedom | RU🇷🇺 | 5.42.77.255:10050 | 192.4608ms",
+                "REALITY | @way_of_freedom | RU🇷🇺 | 5.42.77.255:2053 | 178.3488ms",
+                "REALITY | @way_of_freedom | RU🇷🇺 | 5.42.77.255:2082 | 177.834ms",
+                "REALITY | @way_of_freedom | RU🇷🇺 | 5.42.77.255:8443 | 182.523ms",
+                "REALITY | @way_of_freedom | RU🇷🇺 | 5.42.77.255:6443 | 181.792ms",
+                "REALITY | @way_of_freedom | RU🇷🇺 | 5.42.77.255:2096 | 181.0598ms",
+                "REALITY | @kian_pirfalak | DE🇩🇪 | 5.230.67.53:443 | 378.2759ms",
+                "REALITY | @kian_pirfalak | DE🇩🇪 | 5.230.67.53:22 | 171.602ms",
+                "REALITY | @kian_pirfalak | DE🇩🇪 | 5.230.67.53:2058 | 155.5681ms",
+                "REALITY | @kian_pirfalak | DE🇩🇪 | 5.230.67.53:8880 | 156.013ms",
+                "REALITY | @kian_pirfalak | DE🇩🇪 | 5.230.67.53:10050 | 256.9811ms",
+                "REALITY | @kian_pirfalak | DE🇩🇪 | 5.230.67.53:19215 | 161.026ms",
+                "REALITY | @kian_pirfalak | DE🇩🇪 | 5.230.67.53:2082 | 155.8659ms",
+                "REALITY | @kian_pirfalak | DE🇩🇪 | 5.230.67.53:8443 | 155.7879ms",
+                "REALITY | @kian_pirfalak | DE🇩🇪 | 5.230.67.53:6443 | 160.9781ms",
+                "REALITY | @kian_pirfalak | DE🇩🇪 | 5.230.67.53:2096 | 159.6498ms"
+            ],
+            "url": "http:\/\/www.gstatic.com\/generate_204",
+            "interval": "60s",
+            "tolerance": 0
+        },
+        {
+            "server": "49.13.60.91",
+            "server_port": 443,
+            "tag": "REALITY | @daorzadannet | DE🇩🇪 | 49.13.60.91:443 | 159.636ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "VcqHivYGGoBkcxOI6cSSjQmneltstkb2OhvO53dyhEM",
+                    "short_id": "f94414ba"
+                },
+                "server_name": "www.speedtest.net",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers"
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "ItsLegendaryking"
+        },
+        {
+            "server": "65.109.192.30",
+            "server_port": 44971,
+            "tag": "REALITY | @Outline_Vpn | FI🇫🇮 | 65.109.192.30:44971 | 175.1812ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "9BSy9ub-u6IGHWac_A8bIdgS7yfUb3liMekz83a5ixY",
+                    "short_id": "0430c2a7"
+                },
+                "server_name": "www.speedtest.net",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "Telegram:@SeyyedMT,Telegram:@SeyyedMT,Telegram:@SeyyedMT,Telegram:@SeyyedMT,Telegram:@SeyyedMT,Telegram:@SeyyedMT,Telegram:@SeyyedMT"
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "b8ea9ffd-f257-4700-86a6-ae47841977cd"
+        },
+        {
+            "server": "2.melov2ray.store",
+            "server_port": 443,
+            "tag": "REALITY | @prrofile_purple | DE🇩🇪 | 2.melov2ray.store:443 | 391.5641ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "D7SKQPsfMPHfjebl13nuN_d4QIZyu2ylIYX9yITzVUA",
+                    "short_id": "6879bbfd"
+                },
+                "server_name": "ftp.debian.org",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "e49641ae-327b-47c3-8554-d4056580f868"
+        },
+        {
+            "server": "tolemayedar.rising-from-ashes.sbs",
+            "server_port": 8443,
+            "tag": "REALITY | @prrofile_purple | RU🇷🇺 | tolemayedar.rising-from-ashes.sbs:8443 | 389.7328ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "qqM4djQRI_G7YZJFMjTeYDjGwY3eKWKF74yaJ290okQ",
+                    "short_id": "4b9f6368"
+                },
+                "server_name": "www.speedtest.net",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                }
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "d1c3fc52-5922-46fe-a8b1-f87c2fb312f2"
+        },
+        {
+            "server": "188.116.21.168",
+            "server_port": 443,
+            "tag": "REALITY | @ShadowSocks_s | PL🇵🇱 | 188.116.21.168:443 | 152.3199ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "DNgb_P-ioc2QGkWL4fjncdvn3uMoH8_IIPEqiihwyjc",
+                    "short_id": "7015e6"
+                },
+                "server_name": "account.zula.ir",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "cbbc04dc-ab1a-4410-a30b-5d83982374d5"
+        },
+        {
+            "server": "167.235.249.207",
+            "server_port": 1111,
+            "tag": "REALITY | @ShadowSocks_s | DE🇩🇪 | 167.235.249.207:1111 | 159.6429ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "TzZMN1ACUuOFRrJEARi80qTR4sXDi_qA9qiflWbY8jM",
+                    "short_id": "4a4c780f"
+                },
+                "server_name": "flutter.dev",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "c30e7dcc-79dd-49d9-bdce-ac0aa775dfbe"
+        },
+        {
+            "server": "138.197.186.70",
+            "server_port": 443,
+            "tag": "REALITY | @ShadowSocks_s | DE🇩🇪 | 138.197.186.70:443 | 155.983ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "Ad-q_mw4JueNznIK7Z2P_TnksRIWbodIGI4h9ovifh4",
+                    "short_id": ""
+                },
+                "server_name": "www.zula.ir",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "R4D_667"
+        },
+        {
+            "server": "5.181.21.199",
+            "server_port": 30223,
+            "tag": "REALITY | @azadi_az_inja_migzare | GB🇬🇧 | 5.181.21.199:30223 | 184.0081ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "R0x4p-bQc2Wcaoju4tlDPebpG_ypwN8erijU1pbHvQ0",
+                    "short_id": "cfe50e84"
+                },
+                "server_name": "ftp.debian.org",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF@iP_CF"
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "bf0accd0-00a4-4791-9a28-f8c4ca9f96c0"
+        },
+        {
+            "server": "join-bede1.vmessorg.fun",
+            "server_port": 8080,
+            "tag": "REALITY | @vmessorg | DE🇩🇪 | join-bede1.vmessorg.fun:8080 | 239.0511ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "HOoJ3WxAwQY_fQcdADMOyodERKBQpjlcd7MsJyha6R4",
+                    "short_id": "3e958d2b59bd"
+                },
+                "server_name": "discord.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "58855c1e-215e-4edb-e64a-8e4b8a31b853"
+        },
+        {
+            "server": "join-bede1.vmessorg.fun",
+            "server_port": 443,
+            "tag": "REALITY | @vmessorg | DE🇩🇪 | join-bede1.vmessorg.fun:443 | 166.9772ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "STFCKIrssyQnu6aJYmO9rIlPWXHB_c_h6waF6yt_ETw",
+                    "short_id": "9f5b"
+                },
+                "server_name": "zula.ir",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "e271dca6-e07a-4020-fe76-8d0ff8a2bc3a"
+        },
+        {
+            "server": "join-bede1.vmessorg.fun",
+            "server_port": 8080,
+            "tag": "REALITY | @vmessorg | DE🇩🇪 | join-bede1.vmessorg.fun:8080 | 162.2651ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "HOoJ3WxAwQY_fQcdADMOyodERKBQpjlcd7MsJyha6R4",
+                    "short_id": "3e958d2b59bd"
+                },
+                "server_name": "discord.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "eb0c038c-475c-4a61-a1aa-e5cc85eb63a8"
+        },
+        {
+            "server": "srv23.kiava.fun",
+            "server_port": 443,
+            "tag": "REALITY | @v2rayNG_Matsuri | DE🇩🇪 | srv23.kiava.fun:443 | 312.0048ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "qRkM1cIBrT4U8fDRPF8zKJIn2k5gArAc_UUX5wcQ-w0",
+                    "short_id": ""
+                },
+                "server_name": "coinmarketcap.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "9dd91462-55e1-4654-cd15-515dd1a2223a"
+        },
+        {
+            "server": "128.140.88.31",
+            "server_port": 443,
+            "tag": "REALITY | @ipV2Ray | DE🇩🇪 | 128.140.88.31:443 | 159.585ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc",
+                    "short_id": ""
+                },
+                "server_name": "check-host.net",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "@ipV2Ray,@ipV2Ray,@ipV2Ray,@ipV2Ray,@ipV2Ray"
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "LionKing-ipV2Ray"
+        },
+        {
+            "server": "128.140.88.31",
+            "server_port": 443,
+            "tag": "REALITY | @ipV2Ray | DE🇩🇪 | 128.140.88.31:443 | 159.6859ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc",
+                    "short_id": ""
+                },
+                "server_name": "check-host.net",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "@ipV2Ray"
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "ipV2Ray-LionKing"
+        },
+        {
+            "server": "128.140.88.31",
+            "server_port": 443,
+            "tag": "REALITY | @ipV2Ray | DE🇩🇪 | 128.140.88.31:443 | 159.6971ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "4comh-7Jm_wZXJQ5QiLSCbVGQIbMUzHUIBdb0aFtLzM",
+                    "short_id": ""
+                },
+                "server_name": "check-host.net",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "@ipV2Ray"
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "Force-ipV2Ray"
+        },
+        {
+            "server": "srv22.kiava.fun",
+            "server_port": 443,
+            "tag": "REALITY | @kiava | DE🇩🇪 | srv22.kiava.fun:443 | 210.881ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "4DGNr64OklJAvrl8GMvDZkJxGetLBIJtrFAzdUE_kwI",
+                    "short_id": ""
+                },
+                "server_name": "coinmarketcap.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "9dd91462-55e1-4654-cd15-515dd1a2223a"
+        },
+        {
+            "server": "srv23.kiava.fun",
+            "server_port": 443,
+            "tag": "REALITY | @kiava | DE🇩🇪 | srv23.kiava.fun:443 | 163.0449ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "qRkM1cIBrT4U8fDRPF8zKJIn2k5gArAc_UUX5wcQ-w0",
+                    "short_id": ""
+                },
+                "server_name": "coinmarketcap.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "9dd91462-55e1-4654-cd15-515dd1a2223a"
+        },
+        {
+            "server": "srv24.kiava.fun",
+            "server_port": 443,
+            "tag": "REALITY | @kiava | DE🇩🇪 | srv24.kiava.fun:443 | 184.5312ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "HlB65lAQIoftr2zcbVbI5GRAQaDbm578d5s5_tqmMms",
+                    "short_id": ""
+                },
+                "server_name": "coinmarketcap.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "9dd91462-55e1-4654-cd15-515dd1a2223a"
+        },
+        {
+            "server": "146.190.21.130",
+            "server_port": 1443,
+            "tag": "REALITY | @Helix_Servers | NL🇳🇱 | 146.190.21.130:1443 | 153.074ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "2aZaIOzJsR6qWg3ihK8AXAoI5xUqn1PjXSBZvbhDOXI",
+                    "short_id": "c73ce2a6"
+                },
+                "server_name": "flutter.dev",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "@Helix_Servers-@Helix_Servers-@Helix_Servers-@Helix_Servers-@Helix_Servers-@Helix_Servers-@Helix_Servers-@Helix_Servers"
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "52c7e3cc-0f2a-4a9b-8844-2aff73849d79"
+        },
+        {
+            "server": "142.93.41.27",
+            "server_port": 8443,
+            "tag": "REALITY | @Helix_Servers | GB🇬🇧 | 142.93.41.27:8443 | 145.4799ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "tzBIIqSDAC54XUis17CSaHQDYm9N0P3K1itW1t1puw0",
+                    "short_id": "d8678e7b"
+                },
+                "server_name": "discordapp.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "@Helix_Servers-@Helix_Servers-@Helix_Servers-@Helix_Servers-@Helix_Servers-@Helix_Servers-@Helix_Servers-@Helix_Servers"
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "bfac9338-3041-42d0-b163-337b0db5dc05"
+        },
+        {
+            "server": "142.93.41.27",
+            "server_port": 1443,
+            "tag": "REALITY | @Helix_Servers | GB🇬🇧 | 142.93.41.27:1443 | 145.3562ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "QQUI-stw7POzwuNAzWuiutW9rFIoMck9fesJBJzbs3Q",
+                    "short_id": "313fc03d"
+                },
+                "server_name": "cdn.accuweather.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "@Helix_Servers-@Helix_Servers-@Helix_Servers-@Helix_Servers-@Helix_Servers-@Helix_Servers-@Helix_Servers"
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "1b3b477e-f680-4751-aa53-108e55107344"
+        },
+        {
+            "server": "super2.vpnprosec.shop",
+            "server_port": 2096,
+            "tag": "REALITY | @VpnProSec | DE🇩🇪 | super2.vpnprosec.shop:2096 | 166.7459ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "Ut5KYqebsOQ1XwbCtz7CWZ2lhAkx-8gBZzp_icj0rSM",
+                    "short_id": "ebd34f00"
+                },
+                "server_name": "zula.ir",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec"
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "34b1a9fc-6564-4a20-ee4a-1336c657b63a"
+        },
+        {
+            "server": "super1.vpnprosec.shop",
+            "server_port": 2096,
+            "tag": "REALITY | @VpnProSec | DE🇩🇪 | super1.vpnprosec.shop:2096 | 280.21ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "Ut5KYqebsOQ1XwbCtz7CWZ2lhAkx-8gBZzp_icj0rSM",
+                    "short_id": "ebd34f00"
+                },
+                "server_name": "zula.ir",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec"
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "34b1a9fc-6564-4a20-ee4a-1336c657b63a"
+        },
+        {
+            "server": "159.203.45.252",
+            "server_port": 443,
+            "tag": "REALITY | @INIT1984 | CA🇨🇦 | 159.203.45.252:443 | 64.7991ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "9cAo81hN7C1BCVnpTGoGH2dzDWnbCjQM_RyF9gCfRx0",
+                    "short_id": "a540"
+                },
+                "server_name": "www.speedtest.net",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "safari"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "0fdc4405-82d2-4b7e-946a-5d8927b72065"
+        },
+        {
+            "server": "159.203.45.252",
+            "server_port": 50314,
+            "tag": "REALITY | @INIT1984 | CA🇨🇦 | 159.203.45.252:50314 | 64.286ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "TMf9GIlFr4O7XJu1tNbJF6tgo9HJBjrLBaxemQ7qHRE",
+                    "short_id": ""
+                },
+                "server_name": "ftp.debian.org",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "1688cfb2-4637-4cfb-fc2c-767a98d9125b"
+        },
+        {
+            "server": "49.13.29.45",
+            "server_port": 443,
+            "tag": "REALITY | @CloudCityy | DE🇩🇪 | 49.13.29.45:443 | 159.858ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "ofGwmHdjFJ0Iw06-h3XEGvjFEE4KtQHK8JEjSnt771s",
+                    "short_id": "fda96651"
+                },
+                "server_name": "www.zula.ir",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "@CloudCityy @CloudCityy"
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "CloudCityy"
+        },
+        {
+            "server": "49.13.29.45",
+            "server_port": 2053,
+            "tag": "REALITY | @CloudCityy | DE🇩🇪 | 49.13.29.45:2053 | 159.5719ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "BgDQYIYU7qInoL6MHnGjzh5c9foCFkx-QHvnkBNztnk",
+                    "short_id": "17751fe7"
+                },
+                "server_name": "zula.ir",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                }
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "CloudCityy"
+        },
+        {
+            "server": "49.13.29.45",
+            "server_port": 2087,
+            "tag": "REALITY | @CloudCityy | DE🇩🇪 | 49.13.29.45:2087 | 159.575ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "FM8N8vXMErdH9t4GwS2OnZMrZjg_pS6Znqj9ZTy3Ex0",
+                    "short_id": "a35bf992"
+                },
+                "server_name": "zula.ir",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "@CloudCityy @CloudCityy"
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "CloudCityy"
+        },
+        {
+            "server": "1.melov2ray.store",
+            "server_port": 443,
+            "tag": "REALITY | @shopingv2ray | DE🇩🇪 | 1.melov2ray.store:443 | 177.875ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "dEl9iCVBOir94dvNHjtNbqSRjZfJuIi2CeDw_9Nj2H0",
+                    "short_id": "12f471ac"
+                },
+                "server_name": "discordapp.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "9e63aae0-2714-4fa5-a9bb-3490fb4df687"
+        },
+        {
+            "server": "germany.safeaccessnet.xyz",
+            "server_port": 2053,
+            "tag": "REALITY | @shopingv2ray | DE🇩🇪 | germany.safeaccessnet.xyz:2053 | 174.3858ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
+                    "short_id": ""
+                },
+                "server_name": "www.speedtest.net",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "xyz"
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "4020ae77-23dc-4a23-b620-b6c13f478333"
+        },
+        {
+            "server": "188.64.12.3",
+            "server_port": 443,
+            "tag": "REALITY | @shopingv2ray | LV🇱🇻 | 188.64.12.3:443 | 177.572ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "R6OukSQVCA1QQUvrFziJhaDe6icgBG7kXUa7-7Ve1mI",
+                    "short_id": "7e4d2e6e"
+                },
+                "server_name": "cdn.accuweather.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                }
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "d0236924-dd68-4c96-8113-cbea03b917a1"
+        },
+        {
+            "server": "95.142.40.102",
+            "server_port": 443,
+            "tag": "REALITY | @xrayproxy | RU🇷🇺 | 95.142.40.102:443 | 191.7081ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "I4GxAZOzh1MAZ5qYraUMmfly3mnKrw7bY_7Yu7Yo1CU",
+                    "short_id": "552e548e32bd"
+                },
+                "server_name": "eset.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                }
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "7d8f1672-e3d8-4ae9-ee2e-4a0bd883a555"
+        },
+        {
+            "server": "95.142.40.124",
+            "server_port": 443,
+            "tag": "REALITY | @xrayproxy | RU🇷🇺 | 95.142.40.124:443 | 193.14ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "I4GxAZOzh1MAZ5qYraUMmfly3mnKrw7bY_7Yu7Yo1CU",
+                    "short_id": "552e548e32bd"
+                },
+                "server_name": "eset.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                }
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "7d8f1672-e3d8-4ae9-ee2e-4a0bd883a555"
+        },
+        {
+            "server": "2.melov2ray.store",
+            "server_port": 443,
+            "tag": "REALITY | @v2ray_swhil | DE🇩🇪 | 2.melov2ray.store:443 | 215.2891ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "D7SKQPsfMPHfjebl13nuN_d4QIZyu2ylIYX9yITzVUA",
+                    "short_id": "6879bbfd"
+                },
+                "server_name": "ftp.debian.org",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "e49641ae-327b-47c3-8554-d4056580f868"
+        },
+        {
+            "server": "telegramm-id.melov2ray.store",
+            "server_port": 443,
+            "tag": "REALITY | @v2ray_swhil | RU🇷🇺 | telegramm-id.melov2ray.store:443 | 139.54ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "mwLFSyilJq2KEk_LcbjKwSjZVStpQaJE0usT6jG5Bgw",
+                    "short_id": "07a35c9455dd99a9"
+                },
+                "server_name": "www.speedtest.net",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "66011312-53f6-4245-bf92-b1383f6cf690"
+        },
+        {
+            "server": "[::ffff:808c:7116]",
+            "server_port": 24357,
+            "tag": "REALITY | @LoRd_uL4mo | US🇺🇸 | [::ffff:808c:7116]:24357 | 160.1131ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "xYk1tL6vCAGIzzTZQo7GjuJvodVytA4WHCJiXxle6Vg",
+                    "short_id": "9790b03e"
+                },
+                "server_name": "www.speedtest.net",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "@XsV2ray,@XsV2ray"
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "0541fd1b-de95-4e8f-9edf-83959775b88e"
+        },
+        {
+            "server": "tl.flcfis.shop",
+            "server_port": 443,
+            "tag": "REALITY | @LoRd_uL4mo | IR🇮🇷 | tl.flcfis.shop:443 | 334.3019ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "mU23_lhcrcvxWxJjWt8xS8N3sUAeVacxfI7udJMGqAE",
+                    "short_id": "1112d9c7"
+                },
+                "server_name": "www.zula.ir",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "@FLCFiS"
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "FLCFiS"
+        },
+        {
+            "server": "49.13.63.0",
+            "server_port": 443,
+            "tag": "REALITY | @VmessProtocol | DE🇩🇪 | 49.13.63.0:443 | 160.8939ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "Sgy9PZYZhXPSSKnCEVSnj5YhQJbtu-l83SF_EOUKjzs",
+                    "short_id": "35eaa4a6"
+                },
+                "server_name": "www.speedtest.net",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "Telegram:@SeyyedMT,Telegram:@SeyyedMT,Telegram:@SeyyedMT,Telegram:@SeyyedMT,Telegram:@SeyyedMT,Telegram:@SeyyedMT,Telegram:@SeyyedMT"
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "2b0f7a90-d0fa-4b13-b38a-b951865ceab4"
+        },
+        {
+            "server": "join.mdvpnsec.cfd",
+            "server_port": 2096,
+            "tag": "REALITY | @MehradLearn | DE🇩🇪 | join.mdvpnsec.cfd:2096 | 251.4369ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "dYkulq2ZrmlYRyJybTDEHAYWKcy1WZPsYN5K9AUIcXk",
+                    "short_id": "ac8fe1af"
+                },
+                "server_name": "www.speedtest.net",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "Telegram:@MdVpnSec"
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "0e689bb3-d821-40b6-8c80-33f8b76551e7"
+        },
+        {
+            "server": "167.235.249.207",
+            "server_port": 1111,
+            "tag": "REALITY | @SafeNet_Server | DE🇩🇪 | 167.235.249.207:1111 | 159.708ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "TzZMN1ACUuOFRrJEARi80qTR4sXDi_qA9qiflWbY8jM",
+                    "short_id": "4a4c780f"
+                },
+                "server_name": "flutter.dev",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "c30e7dcc-79dd-49d9-bdce-ac0aa775dfbe"
+        },
+        {
+            "server": "speedtest.wlftest.xyz",
+            "server_port": 443,
+            "tag": "REALITY | @ovpn2 | FI🇫🇮 | speedtest.wlftest.xyz:443 | 189.456ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "NT3ozRtEyDjNV_2rUXFAf65Uf52OfdKANpePb3eZQAA",
+                    "short_id": "ce"
+                },
+                "server_name": "www.speedtest.net",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "TheHotVPN"
+        },
+        {
+            "server": "159.69.102.38",
+            "server_port": 8180,
+            "tag": "REALITY | @vpn_tehran | DE🇩🇪 | 159.69.102.38:8180 | 159.7891ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "LoB6KBDF95ShMmMuyRCzq5UahvxEVVs_FVDk7qvYRyA",
+                    "short_id": "d8cb4dd4"
+                },
+                "server_name": "yahoo.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                }
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "fc2195d3-ab83-4f19-d32e-0a3d3ec39d36"
+        },
+        {
+            "server": "lauren.network-go.info",
+            "server_port": 443,
+            "tag": "REALITY | @v2ray_vpn_ir | RU🇷🇺 | lauren.network-go.info:443 | 193.5751ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "I8h9ErTdl0xES3-WOy0HO-aWx9O50fN4n2P1wg5cv1U",
+                    "short_id": "325d8cbd"
+                },
+                "server_name": "www.speedtest.net",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                }
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "f26851a9-8d1d-4a8a-a2d8-6886e7544296"
+        },
+        {
+            "server": "join.v2team.cfd",
+            "server_port": 2083,
+            "tag": "REALITY | @v2_team | DE🇩🇪 | join.v2team.cfd:2083 | 210.0599ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "7P9Jg6K-CjbrZt8zh9LrHoXsZtQgfPZL4Eqs7p_SlX0",
+                    "short_id": "38e9e471"
+                },
+                "server_name": "www.speedtest.net",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMgonTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM"
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "b85b1b80-6771-4832-9efa-fbeea6417825"
+        },
+        {
+            "server": "join.v2team.cfd",
+            "server_port": 2083,
+            "tag": "REALITY | @v2_team | DE🇩🇪 | join.v2team.cfd:2083 | 313.916ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "7P9Jg6K-CjbrZt8zh9LrHoXsZtQgfPZL4Eqs7p_SlX0",
+                    "short_id": "38e9e471"
+                },
+                "server_name": "www.speedtest.net",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMgonTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM"
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "3a7c5b1d-8804-44f8-9361-4e7456057a9a"
+        },
+        {
+            "server": "join.v2team.cfd",
+            "server_port": 2083,
+            "tag": "REALITY | @v2_team | DE🇩🇪 | join.v2team.cfd:2083 | 321.063ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "7P9Jg6K-CjbrZt8zh9LrHoXsZtQgfPZL4Eqs7p_SlX0",
+                    "short_id": "38e9e471"
+                },
+                "server_name": "www.speedtest.net",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAMgonTelegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM,Telegram:@V2_TEAM"
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "e18009b6-6649-45ba-8c57-9b402d5747d2"
+        },
+        {
+            "server": "telegramm-id.melov2ray.store",
+            "server_port": 443,
+            "tag": "REALITY | @freeconfigv2 | RU🇷🇺 | telegramm-id.melov2ray.store:443 | 138.113ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "mwLFSyilJq2KEk_LcbjKwSjZVStpQaJE0usT6jG5Bgw",
+                    "short_id": "07a35c9455dd99a9"
+                },
+                "server_name": "www.speedtest.net",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "f9a91dea-0802-4a8c-bd42-4f883f92fa3f"
+        },
+        {
+            "server": "telegram-id.melov2ray.store",
+            "server_port": 443,
+            "tag": "REALITY | @freeconfigv2 | DK🇩🇰 | telegram-id.melov2ray.store:443 | 169.7512ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "rn_fjmYElCfRH8e_MXapjzzn98osbYmHRUVMAgFmFy4",
+                    "short_id": "d0df52ef6ae51c7c"
+                },
+                "server_name": "www.speedtest.net",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "33e38713-3e19-4110-94eb-cbfba4a1c022"
+        },
+        {
+            "server": "188.64.12.3",
+            "server_port": 443,
+            "tag": "REALITY | @freeconfigv2 | LV🇱🇻 | 188.64.12.3:443 | 174.367ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "R6OukSQVCA1QQUvrFziJhaDe6icgBG7kXUa7-7Ve1mI",
+                    "short_id": "7e4d2e6e"
+                },
+                "server_name": "cdn.accuweather.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "d0236924-dd68-4c96-8113-cbea03b917a1"
+        },
+        {
+            "server": "all.mahangalaxy.online",
+            "server_port": 3755,
+            "tag": "REALITY | @talentvpn | DE🇩🇪 | all.mahangalaxy.online:3755 | 589.355ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "C7Yz5zclRKx0qmZhgiadI2FW7nEeAa34ElJtquGpvx8",
+                    "short_id": ""
+                },
+                "server_name": "ftp.debian.org",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "849f812c-260f-473b-b39e-5dfe62921b1c"
+        },
+        {
+            "server": "all2.Tel-Parsashonam.website",
+            "server_port": 443,
+            "tag": "REALITY | @Parsashonam | NL🇳🇱 | all2.Tel-Parsashonam.website:443 | 155.844ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "nift-Kxq2HzJC-sxN93w2I_cLNHyluzFsOeks6zr3Fc",
+                    "short_id": "7c79fa1e"
+                },
+                "server_name": "www.speedtest.net",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam"
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "Parsashonam"
+        },
+        {
+            "server": "all4.Tel-Parsashonam.website",
+            "server_port": 443,
+            "tag": "REALITY | @Parsashonam | DK🇩🇰 | all4.Tel-Parsashonam.website:443 | 239.3441ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "oFfS8Fsuio9us3N51CyVsAeqvR_0f6-qJJrj5KC8mUI",
+                    "short_id": "dd0f19ad"
+                },
+                "server_name": "www.speedtest.net",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam"
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "Parsashonam"
+        },
+        {
+            "server": "all5.Tel-Parsashonam.website",
+            "server_port": 443,
+            "tag": "REALITY | @Parsashonam | RU🇷🇺 | all5.Tel-Parsashonam.website:443 | 154.1121ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "QDzaKKN7Zyr1js6EIUJhlYHbBcDhJ07CSwOSpr31qSQ",
+                    "short_id": "065dad75"
+                },
+                "server_name": "www.speedtest.net",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam"
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "Parsashonam"
+        },
+        {
+            "server": "167.235.249.207",
+            "server_port": 1111,
+            "tag": "REALITY | @VPNCLOP | DE🇩🇪 | 167.235.249.207:1111 | 159.3649ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "TzZMN1ACUuOFRrJEARi80qTR4sXDi_qA9qiflWbY8jM",
+                    "short_id": "4a4c780f"
+                },
+                "server_name": "flutter.dev",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "c30e7dcc-79dd-49d9-bdce-ac0aa775dfbe"
+        },
+        {
+            "server": "free.carden-speed.com",
+            "server_port": 13296,
+            "tag": "REALITY | @VPNCLOP | FR🇫🇷 | free.carden-speed.com:13296 | 615.3531ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "m1Xj7LGlv2uqP6qFHB9HI2VKJaSWqxgd38tZyihuwlE",
+                    "short_id": ""
+                },
+                "server_name": "www.speedtest.net",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "a8317b51-967a-489c-b607-7d43bb13b9cd"
+        },
+        {
+            "server": "te.argha-v2pedia.monster",
+            "server_port": 443,
+            "tag": "REALITY | @V2pedia | DE🇩🇪 | te.argha-v2pedia.monster:443 | 318.598ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "2UiGNeHpe86FMyFFvJichi_aWPOjPDwvjM96JWKxmUA",
+                    "short_id": "21fd4b08"
+                },
+                "server_name": "www.speedtest.net",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia"
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "a668949b-e84e-45d1-aa74-543fab711df8"
+        },
+        {
+            "server": "te.argha-v2pedia.monster",
+            "server_port": 443,
+            "tag": "REALITY | @V2pedia | DE🇩🇪 | te.argha-v2pedia.monster:443 | 266.8381ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "T33az5ejZgrKJAjSrV5w1IhiN7whgCHmDL0SZiAFOE4",
+                    "short_id": ""
+                },
+                "server_name": "",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "Telegram:"
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "3c1ea8ee-1d47-4e3c-9a8b-8d89a7c15ff8"
+        },
+        {
+            "server": "te.argha-v2pedia.monster",
+            "server_port": 443,
+            "tag": "REALITY | @V2pedia | DE🇩🇪 | te.argha-v2pedia.monster:443 | 294.4331ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "ioHMNEpBrQvFALlIDWXPERWCc-DmRvRIYapZL7s5nXM",
+                    "short_id": ""
+                },
+                "server_name": "",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "Telegram:"
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "06e3bc10-4b24-4229-809b-185f2cfcf8bc"
+        },
+        {
+            "server": "194.116.215.93",
+            "server_port": 443,
+            "tag": "REALITY | @molovpn | NL🇳🇱 | 194.116.215.93:443 | 207.8741ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "CE8ldgNiXSM011o-LcYUqhzbNgYS406s0KRy46eMehM",
+                    "short_id": "8bbb0018"
+                },
+                "server_name": "www.speedtest.net",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                }
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "e80afda1-3b34-44be-a2d4-569ce3f880ac"
+        },
+        {
+            "server": "1.melov2ray.store",
+            "server_port": 443,
+            "tag": "REALITY | @melov2ray | DE🇩🇪 | 1.melov2ray.store:443 | 166.1549ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "dEl9iCVBOir94dvNHjtNbqSRjZfJuIi2CeDw_9Nj2H0",
+                    "short_id": "12f471ac"
+                },
+                "server_name": "discordapp.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "fd328f5e-83fb-46c9-be43-6c4f24a1bcc3"
+        },
+        {
+            "server": "91.107.189.98",
+            "server_port": 2053,
+            "tag": "REALITY | @iP_CF | DE🇩🇪 | 91.107.189.98:2053 | 160.0721ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
+                    "short_id": ""
+                },
+                "server_name": "discordapp.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "xyz"
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "ab2f979a-ad96-4dfc-9727-b15101813a23"
+        },
+        {
+            "server": "[::ffff:808c:7116]",
+            "server_port": 24357,
+            "tag": "REALITY | @v2rayng_config_amin | US🇺🇸 | [::ffff:808c:7116]:24357 | 160.0161ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "xYk1tL6vCAGIzzTZQo7GjuJvodVytA4WHCJiXxle6Vg",
+                    "short_id": "9790b03e"
+                },
+                "server_name": "www.speedtest.net",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "@XsV2ray,@XsV2ray"
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "6e16aad5-2b1b-4f32-8604-eb9dd5c272f4"
+        },
+        {
+            "server": "likethis.masjedeman.online",
+            "server_port": 32112,
+            "tag": "REALITY | @enjoy | FR🇫🇷 | likethis.masjedeman.online:32112 | 173.249ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "CehVNLfLSxlYtn6FsZXxjwwtNKDa1hot3xcY1qhFB2w",
+                    "short_id": "a4c0894c"
+                },
+                "server_name": "www.discordapp.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "nowtimetoserviceforfree"
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "89e82b97-5b5c-469f-c0e7-73aea44df3f5"
+        },
+        {
+            "server": "likethis.masjedeman.online",
+            "server_port": 32112,
+            "tag": "REALITY | @enjoy | FR🇫🇷 | likethis.masjedeman.online:32112 | 169.3809ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "CehVNLfLSxlYtn6FsZXxjwwtNKDa1hot3xcY1qhFB2w",
+                    "short_id": "a4c0894c"
+                },
+                "server_name": "www.discordapp.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "nowtimetoserviceforfree"
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "0ad0dae2-1c83-447a-97ea-a09c4301f94b"
+        },
+        {
+            "server": "likethis.masjedeman.online",
+            "server_port": 32112,
+            "tag": "REALITY | @enjoy | FR🇫🇷 | likethis.masjedeman.online:32112 | 167.0721ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "CehVNLfLSxlYtn6FsZXxjwwtNKDa1hot3xcY1qhFB2w",
+                    "short_id": "a4c0894c"
+                },
+                "server_name": "www.discordapp.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "nowtimetoserviceforfree"
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "93bb493d-ed48-491b-aeaa-f82a352a1204"
+        },
+        {
+            "server": "likethis.masjedeman.online",
+            "server_port": 32112,
+            "tag": "REALITY | @enjoy | FR🇫🇷 | likethis.masjedeman.online:32112 | 160.1992ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "CehVNLfLSxlYtn6FsZXxjwwtNKDa1hot3xcY1qhFB2w",
+                    "short_id": "a4c0894c"
+                },
+                "server_name": "www.discordapp.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "nowtimetoserviceforfree"
+            },
+            "type": "vless",
+            "flow": "",
+            "uuid": "266bc4c7-86cb-4b5e-c896-3dd9399c5b5e"
+        },
+        {
+            "server": "176.124.198.154",
+            "server_port": 443,
+            "tag": "REALITY | @sarina_esmailzadeh | NL🇳🇱 | 176.124.198.154:443 | 167.0711ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "UmBrwLpyjI16UnDz5jmLyp_8OV4ZwEvta60M1CGX6xU",
+                    "short_id": "85c26eea59986e75"
+                },
+                "server_name": "www.datadoghq.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "2ad9f5d5-5c5c-4480-b357-82146fd63fa2"
+        },
+        {
+            "server": "176.124.198.154",
+            "server_port": 22,
+            "tag": "REALITY | @sarina_esmailzadeh | NL🇳🇱 | 176.124.198.154:22 | 164.937ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "UmBrwLpyjI16UnDz5jmLyp_8OV4ZwEvta60M1CGX6xU",
+                    "short_id": "85c26eea59986e75"
+                },
+                "server_name": "000webhost.ir",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "3d494ffd-95be-4b62-a65c-8754995ed69e"
+        },
+        {
+            "server": "176.124.198.154",
+            "server_port": 2087,
+            "tag": "REALITY | @sarina_esmailzadeh | NL🇳🇱 | 176.124.198.154:2087 | 164.5198ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "UmBrwLpyjI16UnDz5jmLyp_8OV4ZwEvta60M1CGX6xU",
+                    "short_id": "85c26eea59986e75"
+                },
+                "server_name": "www.speedtest.net",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "dfdbf02a-6c9e-49f5-83b2-7be53b9482aa"
+        },
+        {
+            "server": "176.124.198.154",
+            "server_port": 8880,
+            "tag": "REALITY | @sarina_esmailzadeh | NL🇳🇱 | 176.124.198.154:8880 | 169.8229ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "UmBrwLpyjI16UnDz5jmLyp_8OV4ZwEvta60M1CGX6xU",
+                    "short_id": "85c26eea59986e75"
+                },
+                "server_name": "speed.cloudflare.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "00416c37-04af-49c0-8782-67163cfdfa97"
+        },
+        {
+            "server": "176.124.198.154",
+            "server_port": 10050,
+            "tag": "REALITY | @sarina_esmailzadeh | NL🇳🇱 | 176.124.198.154:10050 | 164.6922ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "UmBrwLpyjI16UnDz5jmLyp_8OV4ZwEvta60M1CGX6xU",
+                    "short_id": "85c26eea59986e75"
+                },
+                "server_name": "fruitfulcode.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "9013c3fc-0c3d-428b-8ae2-056951d09911"
+        },
+        {
+            "server": "176.124.198.154",
+            "server_port": 2085,
+            "tag": "REALITY | @sarina_esmailzadeh | NL🇳🇱 | 176.124.198.154:2085 | 164.2852ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "UmBrwLpyjI16UnDz5jmLyp_8OV4ZwEvta60M1CGX6xU",
+                    "short_id": "85c26eea59986e75"
+                },
+                "server_name": "speedtest.iranet.ir",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "42161e23-5d1b-4ced-99b4-6f1549dc6ebb"
+        },
+        {
+            "server": "176.124.198.154",
+            "server_port": 2082,
+            "tag": "REALITY | @sarina_esmailzadeh | NL🇳🇱 | 176.124.198.154:2082 | 164.7761ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "UmBrwLpyjI16UnDz5jmLyp_8OV4ZwEvta60M1CGX6xU",
+                    "short_id": "85c26eea59986e75"
+                },
+                "server_name": "benecke.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "8cdf8876-2340-4d1b-be92-d2645a2695f3"
+        },
+        {
+            "server": "176.124.198.154",
+            "server_port": 8443,
+            "tag": "REALITY | @sarina_esmailzadeh | NL🇳🇱 | 176.124.198.154:8443 | 166.8029ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "UmBrwLpyjI16UnDz5jmLyp_8OV4ZwEvta60M1CGX6xU",
+                    "short_id": "85c26eea59986e75"
+                },
+                "server_name": "tarhpro.ir",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "a2bc7856-86ab-43ec-bf9e-d1cb2df1c80a"
+        },
+        {
+            "server": "176.124.198.154",
+            "server_port": 6443,
+            "tag": "REALITY | @sarina_esmailzadeh | NL🇳🇱 | 176.124.198.154:6443 | 163.8849ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "UmBrwLpyjI16UnDz5jmLyp_8OV4ZwEvta60M1CGX6xU",
+                    "short_id": "85c26eea59986e75"
+                },
+                "server_name": "fernandotrueba.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "7ccf42d9-23af-43b6-b606-4df094a45216"
+        },
+        {
+            "server": "176.124.198.154",
+            "server_port": 2096,
+            "tag": "REALITY | @sarina_esmailzadeh | NL🇳🇱 | 176.124.198.154:2096 | 164.1579ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "UmBrwLpyjI16UnDz5jmLyp_8OV4ZwEvta60M1CGX6xU",
+                    "short_id": "85c26eea59986e75"
+                },
+                "server_name": "mathhub.info",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "ca0382cd-2ef3-4115-a829-be9954849201"
+        },
+        {
+            "server": "5.42.77.71",
+            "server_port": 443,
+            "tag": "REALITY | @hadis_najafi | RU🇷🇺 | 5.42.77.71:443 | 195.3459ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "UOxByv6mvZNI4MdiwUDspQiRl4Sw05Ju87P7-wNRXUI",
+                    "short_id": "f13182bf83bf6c73"
+                },
+                "server_name": "www.datadoghq.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "661e0f43-4a9d-4450-ac22-171621092c87"
+        },
+        {
+            "server": "5.42.77.71",
+            "server_port": 22,
+            "tag": "REALITY | @hadis_najafi | RU🇷🇺 | 5.42.77.71:22 | 191.427ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "UOxByv6mvZNI4MdiwUDspQiRl4Sw05Ju87P7-wNRXUI",
+                    "short_id": "f13182bf83bf6c73"
+                },
+                "server_name": "000webhost.ir",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "49594c60-9fa5-4a09-a007-e131d42922d5"
+        },
+        {
+            "server": "5.42.77.71",
+            "server_port": 2087,
+            "tag": "REALITY | @hadis_najafi | RU🇷🇺 | 5.42.77.71:2087 | 192.2951ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "UOxByv6mvZNI4MdiwUDspQiRl4Sw05Ju87P7-wNRXUI",
+                    "short_id": "f13182bf83bf6c73"
+                },
+                "server_name": "speedtest.net",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "f932d7c0-a4c5-4cbc-bbe2-036e652e7a39"
+        },
+        {
+            "server": "5.42.77.71",
+            "server_port": 8880,
+            "tag": "REALITY | @hadis_najafi | RU🇷🇺 | 5.42.77.71:8880 | 187.248ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "UOxByv6mvZNI4MdiwUDspQiRl4Sw05Ju87P7-wNRXUI",
+                    "short_id": "f13182bf83bf6c73"
+                },
+                "server_name": "speed.cloudflare.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "31c596c0-b361-43b7-8355-c2d338d7efa4"
+        },
+        {
+            "server": "5.42.77.71",
+            "server_port": 10050,
+            "tag": "REALITY | @hadis_najafi | RU🇷🇺 | 5.42.77.71:10050 | 180.064ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "UOxByv6mvZNI4MdiwUDspQiRl4Sw05Ju87P7-wNRXUI",
+                    "short_id": "f13182bf83bf6c73"
+                },
+                "server_name": "fruitfulcode.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "6c001c63-1a2f-448c-b0e8-fb7975dbef06"
+        },
+        {
+            "server": "5.42.77.71",
+            "server_port": 2053,
+            "tag": "REALITY | @hadis_najafi | RU🇷🇺 | 5.42.77.71:2053 | 181.0551ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "UOxByv6mvZNI4MdiwUDspQiRl4Sw05Ju87P7-wNRXUI",
+                    "short_id": "f13182bf83bf6c73"
+                },
+                "server_name": "favakar.ir",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "4657a8a3-c28e-4d29-8e50-51d841a93d73"
+        },
+        {
+            "server": "5.42.77.71",
+            "server_port": 2082,
+            "tag": "REALITY | @hadis_najafi | RU🇷🇺 | 5.42.77.71:2082 | 198.035ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "UOxByv6mvZNI4MdiwUDspQiRl4Sw05Ju87P7-wNRXUI",
+                    "short_id": "f13182bf83bf6c73"
+                },
+                "server_name": "benecke.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "b6dae98f-af25-4fda-97b2-0fa068b7de52"
+        },
+        {
+            "server": "5.42.77.71",
+            "server_port": 8443,
+            "tag": "REALITY | @hadis_najafi | RU🇷🇺 | 5.42.77.71:8443 | 178.0879ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "UOxByv6mvZNI4MdiwUDspQiRl4Sw05Ju87P7-wNRXUI",
+                    "short_id": "f13182bf83bf6c73"
+                },
+                "server_name": "tarhpro.ir",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "80d77d40-2708-43d1-a47d-84a5acd08975"
+        },
+        {
+            "server": "5.42.77.71",
+            "server_port": 6443,
+            "tag": "REALITY | @hadis_najafi | RU🇷🇺 | 5.42.77.71:6443 | 185.7629ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "UOxByv6mvZNI4MdiwUDspQiRl4Sw05Ju87P7-wNRXUI",
+                    "short_id": "f13182bf83bf6c73"
+                },
+                "server_name": "fernandotrueba.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "1934d36f-88ee-4c9c-9420-65d2feeccf40"
+        },
+        {
+            "server": "5.42.77.71",
+            "server_port": 2096,
+            "tag": "REALITY | @hadis_najafi | RU🇷🇺 | 5.42.77.71:2096 | 180.378ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "UOxByv6mvZNI4MdiwUDspQiRl4Sw05Ju87P7-wNRXUI",
+                    "short_id": "f13182bf83bf6c73"
+                },
+                "server_name": "mathhub.info",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "0b121e5e-6d72-4321-9d09-26b0e8fdfe4e"
+        },
+        {
+            "server": "5.42.77.255",
+            "server_port": 443,
+            "tag": "REALITY | @way_of_freedom | RU🇷🇺 | 5.42.77.255:443 | 180.48ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "CrsvKk9gcDgBqF11Fvn_JxIYIjeCR9A2pwTir5ANfzg",
+                    "short_id": "7369641653a20e68"
+                },
+                "server_name": "www.datadoghq.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "f88dd84f-ced3-463c-beaa-665d2e7067ed"
+        },
+        {
+            "server": "5.42.77.255",
+            "server_port": 22,
+            "tag": "REALITY | @way_of_freedom | RU🇷🇺 | 5.42.77.255:22 | 184ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "CrsvKk9gcDgBqF11Fvn_JxIYIjeCR9A2pwTir5ANfzg",
+                    "short_id": "7369641653a20e68"
+                },
+                "server_name": "vj8mrscg.divarcdn.com,vj8mrscg.rubika.ir,vj8mrscg.irib.ir,vj8mrscg.iranlms.ir,vj8mrscg.soft98.ir",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "7bf25d70-1882-4435-85a2-1e157b0bc757"
+        },
+        {
+            "server": "5.42.77.255",
+            "server_port": 2087,
+            "tag": "REALITY | @way_of_freedom | RU🇷🇺 | 5.42.77.255:2087 | 191.4179ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "CrsvKk9gcDgBqF11Fvn_JxIYIjeCR9A2pwTir5ANfzg",
+                    "short_id": "7369641653a20e68"
+                },
+                "server_name": "speedtest.net",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "e95c8314-8e60-46eb-a195-4eca80df463c"
+        },
+        {
+            "server": "5.42.77.255",
+            "server_port": 8880,
+            "tag": "REALITY | @way_of_freedom | RU🇷🇺 | 5.42.77.255:8880 | 182.498ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "CrsvKk9gcDgBqF11Fvn_JxIYIjeCR9A2pwTir5ANfzg",
+                    "short_id": "7369641653a20e68"
+                },
+                "server_name": "speed.cloudflare.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "b1299373-7dbf-4281-8545-7932eb42ea33"
+        },
+        {
+            "server": "5.42.77.255",
+            "server_port": 10050,
+            "tag": "REALITY | @way_of_freedom | RU🇷🇺 | 5.42.77.255:10050 | 192.4608ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "CrsvKk9gcDgBqF11Fvn_JxIYIjeCR9A2pwTir5ANfzg",
+                    "short_id": "7369641653a20e68"
+                },
+                "server_name": "fruitfulcode.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "527fe844-a66f-4936-af96-fc5879a3947b"
+        },
+        {
+            "server": "5.42.77.255",
+            "server_port": 2053,
+            "tag": "REALITY | @way_of_freedom | RU🇷🇺 | 5.42.77.255:2053 | 178.3488ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "CrsvKk9gcDgBqF11Fvn_JxIYIjeCR9A2pwTir5ANfzg",
+                    "short_id": "7369641653a20e68"
+                },
+                "server_name": "favakar.ir",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "663a55fc-64ac-4faa-a760-2062abee76e4"
+        },
+        {
+            "server": "5.42.77.255",
+            "server_port": 2082,
+            "tag": "REALITY | @way_of_freedom | RU🇷🇺 | 5.42.77.255:2082 | 177.834ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "CrsvKk9gcDgBqF11Fvn_JxIYIjeCR9A2pwTir5ANfzg",
+                    "short_id": "7369641653a20e68"
+                },
+                "server_name": "benecke.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "d2e9523b-4faa-4cf6-82cb-74ee0997e469"
+        },
+        {
+            "server": "5.42.77.255",
+            "server_port": 8443,
+            "tag": "REALITY | @way_of_freedom | RU🇷🇺 | 5.42.77.255:8443 | 182.523ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "CrsvKk9gcDgBqF11Fvn_JxIYIjeCR9A2pwTir5ANfzg",
+                    "short_id": "7369641653a20e68"
+                },
+                "server_name": "tarhpro.ir",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "53cd8d86-487d-4574-9cf6-ee8c11bb158e"
+        },
+        {
+            "server": "5.42.77.255",
+            "server_port": 6443,
+            "tag": "REALITY | @way_of_freedom | RU🇷🇺 | 5.42.77.255:6443 | 181.792ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "CrsvKk9gcDgBqF11Fvn_JxIYIjeCR9A2pwTir5ANfzg",
+                    "short_id": "7369641653a20e68"
+                },
+                "server_name": "fernandotrueba.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "975d3639-6d23-4eec-a6e2-ea5c1d998121"
+        },
+        {
+            "server": "5.42.77.255",
+            "server_port": 2096,
+            "tag": "REALITY | @way_of_freedom | RU🇷🇺 | 5.42.77.255:2096 | 181.0598ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "CrsvKk9gcDgBqF11Fvn_JxIYIjeCR9A2pwTir5ANfzg",
+                    "short_id": "7369641653a20e68"
+                },
+                "server_name": "mathhub.info",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "78241664-19a1-4d75-a461-063a97bb6197"
+        },
+        {
+            "server": "5.230.67.53",
+            "server_port": 443,
+            "tag": "REALITY | @kian_pirfalak | DE🇩🇪 | 5.230.67.53:443 | 378.2759ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "wMBFTmcU4sbgccNOZH9-Xy7usvP4FnsmcbPIBzAPkgg",
+                    "short_id": "627252d863869be8"
+                },
+                "server_name": "www.datadoghq.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "32eb2f25-547a-40db-9961-f6f7ffb40bdf"
+        },
+        {
+            "server": "5.230.67.53",
+            "server_port": 22,
+            "tag": "REALITY | @kian_pirfalak | DE🇩🇪 | 5.230.67.53:22 | 171.602ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "wMBFTmcU4sbgccNOZH9-Xy7usvP4FnsmcbPIBzAPkgg",
+                    "short_id": "627252d863869be8"
+                },
+                "server_name": "000webhost.ir",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "83e3f34c-90c5-40b2-93ff-145408659b69"
+        },
+        {
+            "server": "5.230.67.53",
+            "server_port": 2058,
+            "tag": "REALITY | @kian_pirfalak | DE🇩🇪 | 5.230.67.53:2058 | 155.5681ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "wMBFTmcU4sbgccNOZH9-Xy7usvP4FnsmcbPIBzAPkgg",
+                    "short_id": "627252d863869be8"
+                },
+                "server_name": "speedtest.iranet.ir",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "19a01bc1-ba96-42b1-a8a2-8d2dc59bddb9"
+        },
+        {
+            "server": "5.230.67.53",
+            "server_port": 8880,
+            "tag": "REALITY | @kian_pirfalak | DE🇩🇪 | 5.230.67.53:8880 | 156.013ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "wMBFTmcU4sbgccNOZH9-Xy7usvP4FnsmcbPIBzAPkgg",
+                    "short_id": "627252d863869be8"
+                },
+                "server_name": "speed.cloudflare.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "98360877-f554-43cd-a3d1-59ce00611cc9"
+        },
+        {
+            "server": "5.230.67.53",
+            "server_port": 10050,
+            "tag": "REALITY | @kian_pirfalak | DE🇩🇪 | 5.230.67.53:10050 | 256.9811ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "wMBFTmcU4sbgccNOZH9-Xy7usvP4FnsmcbPIBzAPkgg",
+                    "short_id": "627252d863869be8"
+                },
+                "server_name": "fruitfulcode.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "73574db7-b18f-4e48-88ed-e0d0db3fdbd8"
+        },
+        {
+            "server": "5.230.67.53",
+            "server_port": 19215,
+            "tag": "REALITY | @kian_pirfalak | DE🇩🇪 | 5.230.67.53:19215 | 161.026ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "wMBFTmcU4sbgccNOZH9-Xy7usvP4FnsmcbPIBzAPkgg",
+                    "short_id": "627252d863869be8"
+                },
+                "server_name": "testspeed.parsonline.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "11b8383e-dd3d-4696-af41-642a41e69300"
+        },
+        {
+            "server": "5.230.67.53",
+            "server_port": 2082,
+            "tag": "REALITY | @kian_pirfalak | DE🇩🇪 | 5.230.67.53:2082 | 155.8659ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "wMBFTmcU4sbgccNOZH9-Xy7usvP4FnsmcbPIBzAPkgg",
+                    "short_id": "627252d863869be8"
+                },
+                "server_name": "benecke.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "a6c1f56b-8c96-453a-afec-cbe899040134"
+        },
+        {
+            "server": "5.230.67.53",
+            "server_port": 8443,
+            "tag": "REALITY | @kian_pirfalak | DE🇩🇪 | 5.230.67.53:8443 | 155.7879ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "wMBFTmcU4sbgccNOZH9-Xy7usvP4FnsmcbPIBzAPkgg",
+                    "short_id": "627252d863869be8"
+                },
+                "server_name": "tarhpro.ir",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "3df6d408-fec6-4b2a-8de3-154ef84b8cbb"
+        },
+        {
+            "server": "5.230.67.53",
+            "server_port": 6443,
+            "tag": "REALITY | @kian_pirfalak | DE🇩🇪 | 5.230.67.53:6443 | 160.9781ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "wMBFTmcU4sbgccNOZH9-Xy7usvP4FnsmcbPIBzAPkgg",
+                    "short_id": "627252d863869be8"
+                },
+                "server_name": "fernandotrueba.com",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "eaa52662-2bc8-4e96-8338-15ba10a18db4"
+        },
+        {
+            "server": "5.230.67.53",
+            "server_port": 2096,
+            "tag": "REALITY | @kian_pirfalak | DE🇩🇪 | 5.230.67.53:2096 | 159.6498ms",
+            "tls": {
+                "enabled": true,
+                "reality": {
+                    "enabled": true,
+                    "public_key": "wMBFTmcU4sbgccNOZH9-Xy7usvP4FnsmcbPIBzAPkgg",
+                    "short_id": "627252d863869be8"
+                },
+                "server_name": "mathhub.info",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "type": "vless",
+            "flow": "xtls-rprx-vision",
+            "uuid": "46e704f4-21c9-45be-91d5-c0d6e01a4811"
+        },
+        {
+            "tag": "direct",
+            "type": "direct"
+        },
+        {
+            "tag": "bypass",
+            "type": "direct"
+        },
+        {
+            "tag": "block",
+            "type": "block"
+        },
+        {
+            "tag": "dns-out",
+            "type": "dns"
+        }
+    ],
+    "route": {
+        "auto_detect_interface": true,
+        "override_android_vpn": true,
+        "final": "proxy",
+        "geoip": {
+            "download_url": "https:\/\/github.com\/malikshi\/sing-box-geo\/releases\/latest\/download\/geoip.db",
+            "download_detour": "direct"
+        },
+        "geosite": {
+            "download_url": "https:\/\/github.com\/malikshi\/v2ray-rules-dat\/releases\/latest\/download\/geosite.db",
+            "download_detour": "direct"
+        },
+        "rules": [
+            {
+                "outbound": "dns-out",
+                "port": [
+                    53
+                ]
+            },
+            {
+                "inbound": [
+                    "dns-in"
+                ],
+                "outbound": "dns-out"
+            },
+            {
+                "domain_suffix": [
+                    "ir"
+                ],
+                "outbound": "bypass"
+            },
+            {
+                "geoip": [
+                    "ir"
+                ],
+                "outbound": "bypass"
+            },
+            {
+                "ip_cidr": [
+                    "224.0.0.0\/3",
+                    "ff00::\/8"
+                ],
+                "outbound": "block",
+                "source_ip_cidr": [
+                    "224.0.0.0\/3",
+                    "ff00::\/8"
+                ]
+            }
+        ]
+    }
+}

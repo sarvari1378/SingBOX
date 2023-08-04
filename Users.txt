@@ -15,7 +15,7 @@ FatimaVakili, 97
 Babak, 24
 Seno, 24
 Sadegh, 24
-Akrami, -1
+Akrami, 30
 Rasta, 26
 Atie, 17
 Roshan, 17

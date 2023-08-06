@@ -139,7 +139,7 @@
                 "IN\ud83c\uddee\ud83c\uddf3",
                 "SE\ud83c\uddf8\ud83c\uddea"
             ],
-            "url": "instagram.com",
+            "url": "http://www.instagram.com",
             "interval": "60s",
             "tolerance": 0
         },
@@ -152,7 +152,7 @@
                 "REALITY | @V2Hub | US\ud83c\uddfa\ud83c\uddf8 | realpub-pic.ddns.net:443 | 125.36ms | \ud83c\udf88",
                 "REALITY | @V2Hub | US\ud83c\uddfa\ud83c\uddf8 | [::ffff:a516:78d2]:2053 | 79.03ms | \ud83c\udf88"
             ],
-            "url": "instagram.com",
+            "url": "http://www.instagram.com",
             "interval": "60s",
             "tolerance": 0
         },
@@ -252,7 +252,7 @@
                 "REALITY | @testreality | DE\ud83c\udde9\ud83c\uddea | 80.240.30.104:6443 | 89.78ms | \ud83c\udf82",
                 "REALITY | @testreality | DE\ud83c\udde9\ud83c\uddea | 80.240.30.104:2096 | 89.67ms | \ud83d\udc3b"
             ],
-            "url": "instagram.com",
+            "url": "http://www.instagram.com",
             "interval": "60s",
             "tolerance": 0
         },
@@ -274,7 +274,7 @@
                 "REALITY | @V2Hub | FI\ud83c\uddeb\ud83c\uddee | bia2.nufilter.online:443 | 138.23ms | \ud83d\ude0b",
                 "REALITY | @V2Hub | FI\ud83c\uddeb\ud83c\uddee | 65.109.240.81:443 | 117.01ms | \ud83e\udd23"
             ],
-            "url": "instagram.com",
+            "url": "http://www.instagram.com",
             "interval": "60s",
             "tolerance": 0
         },
@@ -327,7 +327,7 @@
                 "REALITY | @V2Hub | RU\ud83c\uddf7\ud83c\uddfa | joinzedmodeon.ddns.net:443 | 132.94ms | \ud83c\udf5f",
                 "REALITY | @V2Hub | RU\ud83c\uddf7\ud83c\uddfa | 185.22.153.168:30252 | 139.5ms | \ud83d\udc1e"
             ],
-            "url": "instagram.com",
+            "url": "http://www.instagram.com",
             "interval": "60s",
             "tolerance": 0
         },
@@ -338,7 +338,7 @@
                 "REALITY | @Helix_Servers | GB\ud83c\uddec\ud83c\udde7 | realitygermany.h3lixchannel.fun:8443 | 170.13ms | \ud83d\ude0b",
                 "REALITY | @V2Hub | GB\ud83c\uddec\ud83c\udde7 | realitygermany.h3lixchannel.fun:8443 | 105.87ms | \ud83d\udc20"
             ],
-            "url": "instagram.com",
+            "url": "http://www.instagram.com",
             "interval": "60s",
             "tolerance": 0
         },
@@ -358,7 +358,7 @@
                 "REALITY | @V2Hub | FR\ud83c\uddeb\ud83c\uddf7 | 172.232.61.135:443 | 85.9ms | \ud83c\udf80",
                 "REALITY | @V2Hub | FR\ud83c\uddeb\ud83c\uddf7 | realityfrance.h3lixchannel.fun:8443 | 297.75ms | \ud83d\ude18"
             ],
-            "url": "instagram.com",
+            "url": "http://www.instagram.com",
             "interval": "60s",
             "tolerance": 0
         },
@@ -387,7 +387,7 @@
                 "REALITY | @sarina_esmailzadeh | NL\ud83c\uddf3\ud83c\uddf1 | 176.124.198.154:2095 | 96.02ms | \ud83e\udd81",
                 "REALITY | @V2Hub | NL\ud83c\uddf3\ud83c\uddf1 | 93.88.74.97:443 | 85.9ms | \ud83d\udc2c"
             ],
-            "url": "instagram.com",
+            "url": "http://www.instagram.com",
             "interval": "60s",
             "tolerance": 0
         },
@@ -402,7 +402,7 @@
                 "REALITY | @V2Hub | DK\ud83c\udde9\ud83c\uddf0 | telegram-id.melov2ray.store:443 | 114.06ms | \ud83c\udf35",
                 "REALITY | @V2Hub | DK\ud83c\udde9\ud83c\uddf0 | 46.29.235.36:443 | 105.22ms | \ud83c\udfac"
             ],
-            "url": "instagram.com",
+            "url": "http://www.instagram.com",
             "interval": "60s",
             "tolerance": 0
         },
@@ -413,7 +413,7 @@
                 "REALITY | @v2rayng_config_amin | CZ\ud83c\udde8\ud83c\uddff | 194.87.31.66:443 | 96.7ms | \ud83d\udcbb",
                 "REALITY | @V2Hub | CZ\ud83c\udde8\ud83c\uddff | 194.87.31.66:443 | 96.55ms | \ud83c\udf55"
             ],
-            "url": "instagram.com",
+            "url": "http://www.instagram.com",
             "interval": "60s",
             "tolerance": 0
         },
@@ -423,7 +423,7 @@
             "outbounds": [
                 "REALITY | @V2Hub | CA\ud83c\udde8\ud83c\udde6 | 159.203.45.252:8585 | 19.08ms | \ud83d\udc2e"
             ],
-            "url": "instagram.com",
+            "url": "http://www.instagram.com",
             "interval": "60s",
             "tolerance": 0
         },
@@ -433,7 +433,7 @@
             "outbounds": [
                 "REALITY | @V2Hub | ES\ud83c\uddea\ud83c\uddf8 | 45.147.251.19:2053 | 97.92ms | \ud83c\udfac"
             ],
-            "url": "instagram.com",
+            "url": "http://www.instagram.com",
             "interval": "60s",
             "tolerance": 0
         },
@@ -444,7 +444,7 @@
                 "REALITY | @V2Hub | AT\ud83c\udde6\ud83c\uddf9 | 95.164.36.82:58275 | 90.01ms | \ud83c\udfa8",
                 "REALITY | @V2Hub | AT\ud83c\udde6\ud83c\uddf9 | 95.164.36.82:58275 | 91.23ms | \ud83c\udf81"
             ],
-            "url": "instagram.com",
+            "url": "http://www.instagram.com",
             "interval": "60s",
             "tolerance": 0
         },
@@ -454,7 +454,7 @@
             "outbounds": [
                 "REALITY | @V2Hub | UA\ud83c\uddfa\ud83c\udde6 | 91.231.182.30:443 | 125.6ms | \ud83d\udc37"
             ],
-            "url": "instagram.com",
+            "url": "http://www.instagram.com",
             "interval": "60s",
             "tolerance": 0
         },
@@ -478,7 +478,7 @@
                 "REALITY | @majidreza_rahnavard | IN\ud83c\uddee\ud83c\uddf3 | 148.113.3.134:2086 | 269.96ms | \ud83d\udc27",
                 "REALITY | @majidreza_rahnavard | IN\ud83c\uddee\ud83c\uddf3 | 148.113.3.134:2095 | 271.26ms | \ud83d\udc37"
             ],
-            "url": "instagram.com",
+            "url": "http://www.instagram.com",
             "interval": "60s",
             "tolerance": 0
         },
@@ -502,7 +502,7 @@
                 "REALITY | @reality_daily | SE\ud83c\uddf8\ud83c\uddea | 77.91.84.45:2086 | 117.74ms | \ud83e\udd89",
                 "REALITY | @reality_daily | SE\ud83c\uddf8\ud83c\uddea | 77.91.84.45:2095 | 113.25ms | \ud83d\udc35"
             ],
-            "url": "instagram.com",
+            "url": "http://www.instagram.com",
             "interval": "60s",
             "tolerance": 0
         },

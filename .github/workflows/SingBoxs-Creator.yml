@@ -18,7 +18,7 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y jq
 
       - name: Set URL
-        run: echo "URL=https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/singbox/sfi_sfa.json" >> $GITHUB_ENV
+        run: echo "URL=https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/singbox/sfi_sfa_lite.json" >> $GITHUB_ENV
 
       - name: Delete existing SingBOX files
         run: rm -f SingBoxs/*

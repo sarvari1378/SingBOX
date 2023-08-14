@@ -35,7 +35,7 @@ jobs:
           TODAY=$(python3 -c "import jdatetime; print(jdatetime.date.today().strftime('%Y-%m-%d'))")
           echo "TODAY=$TODAY" >> $GITHUB_ENV
           echo $TODAY
-          
+
       # Removes all files from the `SUB` folder if it exists
       - name: Remove files from SUB folder
         run: |
@@ -48,11 +48,11 @@ jobs:
         run: |
           curl -o file.txt "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/reality"
           Time=$(date +'%H:%M:%S' -d "$(curl -sI https://www.google.com | grep '^Date:' | cut -d' ' -f3-7) +3 hours 30 minutes")
-          
+
       # Creates the `SUB` directory if it doesn't exist, reads data from `Users.txt`, and creates/copies files based on its content
       - name: Create and copy files from users.txt
         run: |
-          
+
           if [ ! -d "SUB" ]; then
             mkdir SUB
           fi
@@ -63,7 +63,7 @@ jobs:
               j=1
               while read line; do
                  Flag=$(echo $line | python3 -c "import re, sys; print(re.search(r'[^\x00-\x7F]+', sys.stdin.read()).group())")
-                 
+
                 echo "${line/\#*/#$name-$Flag-$j-$TODAY}" >> "SUB/REALITY-$name"
                 j=$((j+1))
               done < file.txt
@@ -81,5 +81,5 @@ jobs:
            git config --global user.email 'action@github.com'
            git add .
            git commit -m "Updated"
-           git pull origin main
+           git pull origin main --rebase # <-- Added --rebase flag here to fix the error.
            git push origin main

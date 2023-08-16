@@ -30,7 +30,6 @@ parsaAlmasi, 22
 mahshad-2, 10
 maryamhajilo, 15
 Mahor, 24
-Pedram, -4
 Maryamahmadi, 994
 AtiKamyab, 6
 Mostafa, 26

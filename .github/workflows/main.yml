@@ -47,8 +47,8 @@ jobs:
       - name: Download file from URL
         run: |
           curl -o file.txt "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/reality"
-          Time=$(date +'%H:%M:%S' -d "$(curl -sI https://www.google.com | grep '^Date:' | cut -d' ' -f3-7) +3 hours 30 minutes")
-
+          TIME=$(TZ='Asia/Tehran' date '+%H:%M')
+          
       # Creates the `SUB` directory if it doesn't exist, reads data from `Users.txt`, and creates/copies files based on its content
       - name: Create and copy files from users.txt
         run: |
@@ -64,7 +64,7 @@ jobs:
               while read line; do
                  Flag=$(echo $line | python3 -c "import re, sys; print(re.search(r'[^\x00-\x7F]+', sys.stdin.read()).group())")
 
-                echo "${line/\#*/#$name-$Flag-$j-$TODAY}" >> "SUB/REALITY-$name"
+                echo "${line/\#*/#$name-$Flag-H:$TIME-D:$TODAY-$j}" >> "SUB/REALITY-$name"
                 j=$((j+1))
               done < file.txt
 

@@ -39,7 +39,7 @@ jobs:
           echo "TODAY=$TODAY" >> $GITHUB_ENV
           echo $TODAY
           Tiran = datetime.now(pytz.timezone('Asia/Tehran')).strftime('%H:%M')
-          TIME=$(TZ='Asia/Tehran' date '+%H:%M')
+          
       # Removes all files from the `SUB` folder if it exists
       - name: Remove files from SUB folder
         run: |
@@ -68,7 +68,7 @@ jobs:
               while read line; do
                  Flag=$(echo $line | python3 -c "import re, sys; print(re.search(r'[^\x00-\x7F]+', sys.stdin.read()).group())")
 
-                echo "${line/\#*/#$name-$Flag-H:$TIME-H2:Tiran-D:$TODAY-$j}" >> "SUB/REALITY-$name"
+                echo "${line/\#*/#$name-$Flag-H:Tiran-D:$TODAY-$j}" >> "SUB/REALITY-$name"
                 j=$((j+1))
               done < file.txt
 

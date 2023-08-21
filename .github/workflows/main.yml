@@ -32,6 +32,9 @@ jobs:
       - name: Set current date as environment variable in Jalali format
         run: |
           pip install jdatetime
+          pip install datetime
+          pip install pytz
+          
           TODAY=$(python3 -c "import jdatetime; print(jdatetime.date.today().strftime('%Y-%m-%d'))")
           echo "TODAY=$TODAY" >> $GITHUB_ENV
           echo $TODAY

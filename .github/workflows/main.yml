@@ -70,7 +70,7 @@ jobs:
               while read line; do
                  Flag=$(echo $line | python3 -c "import re, sys; print(re.search(r'[^\x00-\x7F]+', sys.stdin.read()).group())")
 
-                echo "${line/\#*/#$name-$Flag-H:$TIRAN-D:$TODAY-$j}" >> "SUB/REALITY-$name"
+                echo "${line/\#*/#$name-$Flag-H:$TIRAN-D:$TODAY-N:$j}" >> "SUB/REALITY-$name"
                 j=$((j+1))
               done < file.txt
 

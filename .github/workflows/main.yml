@@ -31,15 +31,17 @@ jobs:
       # Installs the `jdatetime` package, sets the current date in Jalali format as an environment variable named `TODAY`, and prints its value
       - name: Set current date as environment variable in Jalali format
         run: |
-          pip install jdatetime
+          pip install jdatetime pytz
 
-          TODAY=$(python3 -c "import jdatetime; print(jdatetime.date.today().strftime('%Y-%m-%d'))")
+                    
+          TODAY=$(python3 -c "import jdatetime, pytz; print(jdatetime.date.today().strftime('%Y-%m-%d'))")
           echo "TODAY=$TODAY" >> $GITHUB_ENV
           echo $TODAY
           
-          TIRAN=$(python3 -c "import jdatetime; print(f'{jdatetime.datetime.now().hour}:{jdatetime.datetime.now().minute}')")
+          TIRAN=$(python3 -c "import datetime, pytz; tehran = pytz.timezone('Asia/Tehran'); tehran_time = datetime.datetime.now(tehran); print(f'{tehran_time.hour}:{tehran_time.minute}')")
           echo "TIRAN=$TIRAN" >> $GITHUB_ENV
           echo $TIRAN
+          
       # Removes all files from the `SUB` folder if it exists
       - name: Remove files from SUB folder
         run: |

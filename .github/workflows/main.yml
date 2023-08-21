@@ -37,13 +37,6 @@ jobs:
           TODAY=$(python3 -c "import jdatetime; print(jdatetime.date.today().strftime('%Y-%m-%d'))")
           echo "TODAY=$TODAY" >> $GITHUB_ENV
           echo $TODAY
-
-          
-          # Get the current date and time
-          current_datetime = jdatetime.datetime.now()
-          
-          # Extract the hour and minute
-          Tiran = f"{current_datetime.hour}:{current_datetime.minute}"
                     
       # Removes all files from the `SUB` folder if it exists
       - name: Remove files from SUB folder
@@ -73,7 +66,7 @@ jobs:
               while read line; do
                  Flag=$(echo $line | python3 -c "import re, sys; print(re.search(r'[^\x00-\x7F]+', sys.stdin.read()).group())")
 
-                echo "${line/\#*/#$name-$Flag-H:Tiran-D:$TODAY-$j}" >> "SUB/REALITY-$name"
+                echo "${line/\#*/#$name-$Flag-H:-D:$TODAY-$j}" >> "SUB/REALITY-$name"
                 j=$((j+1))
               done < file.txt
 

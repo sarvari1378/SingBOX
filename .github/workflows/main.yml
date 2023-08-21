@@ -32,14 +32,19 @@ jobs:
       - name: Set current date as environment variable in Jalali format
         run: |
           pip install jdatetime
-          pip install datetime
-          pip install pytz
+          
           
           TODAY=$(python3 -c "import jdatetime; print(jdatetime.date.today().strftime('%Y-%m-%d'))")
           echo "TODAY=$TODAY" >> $GITHUB_ENV
           echo $TODAY
-          Tiran = datetime.now(pytz.timezone('Asia/Tehran')).strftime('%H:%M')
+
           
+          # Get the current date and time
+          current_datetime = jdatetime.datetime.now()
+          
+          # Extract the hour and minute
+          Tiran = f"{current_datetime.hour}:{current_datetime.minute}"
+                    
       # Removes all files from the `SUB` folder if it exists
       - name: Remove files from SUB folder
         run: |

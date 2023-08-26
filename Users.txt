@@ -1,11 +1,11 @@
 Sajed, 7
-Farzan, 1
+Farzan, 30
 Arman, 1
 Paria, 1
-ArefeKamyab, 1
+ArefeKamyab, 30
 Parnan, 1
 RezaSR, 1
-Arjmand, 1
+Arjmand, 30
 Mohammad, 1
 Mahshad, 0
 PedramMinai, 20
@@ -38,3 +38,4 @@ MohammadTakhtShahi, 18
 FahimeSarvari, 19
 MohsenKhakestari, 22
 Freshte, 28
+Abedi, 30

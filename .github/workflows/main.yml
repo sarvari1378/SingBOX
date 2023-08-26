@@ -52,7 +52,7 @@ jobs:
       # Downloads a file from a URL using `curl`
       - name: Download file from URL
         run: |
-          curl -o file.txt "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/reality"
+          curl -o file.txt "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/reality"
           
           
       # Creates the `SUB` directory if it doesn't exist, reads data from `Users.txt`, and creates/copies files based on its content

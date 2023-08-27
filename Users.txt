@@ -1,12 +1,7 @@
 Sajed, 6
 Farzan, 29
-Arman, 0
-Paria, 0
 ArefeKamyab, 29
-Parnan, 0
-RezaSR, 0
 Arjmand, 29
-Mohammad, 0
 Mahshad, -1
 PedramMinai, 34
 FatimaVakili, 74
@@ -23,7 +18,6 @@ Azad, 5
 Farnosh, 7
 Mhdi, 9
 parsaAlmasi, 11
-mahshad-2, -1
 maryamhajilo, 4
 Mahor, 13
 Maryamahmadi, 983
@@ -35,7 +29,6 @@ MohsenKhakestari, 21
 Freshte, 27
 Abedi, 29
 Elham, 27
-Elham-2, 27
 Melika, 2
 Borji, 30
 Danial, 30

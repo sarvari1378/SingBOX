@@ -8,7 +8,7 @@ RezaSR, 0
 Arjmand, 29
 Mohammad, 0
 Mahshad, -1
-PedramMinai, 4
+PedramMinai, 34
 FatimaVakili, 74
 Babak, 1
 Seno, 1

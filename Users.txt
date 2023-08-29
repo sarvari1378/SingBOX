@@ -8,11 +8,8 @@ Akrami, 5
 Rasta, 1
 Hesari, 3
 Ghazale, 6
-Alikamyab, 3
 Samira, 3
 Azad, 3
-Farnosh, 5
-Mhdi, 7
 parsaAlmasi, 9
 maryamhajilo, 2
 hosseinhajilo, 30

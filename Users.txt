@@ -5,9 +5,6 @@ Arjmand, 27
 Mahshad, 28
 PedramMinai, 32
 FatimaVakili, 72
-Babak, -1
-Seno, -1
-Sadegh, -1
 Akrami, 5
 Rasta, 1
 Hesari, 3
@@ -19,6 +16,7 @@ Farnosh, 5
 Mhdi, 7
 parsaAlmasi, 9
 maryamhajilo, 2
+hosseinhajilo, 30
 Mahor, 11
 Maryamahmadi, 11
 Mostafa, 13
@@ -29,7 +27,7 @@ MohsenKhakestari, 19
 Freshte, 25
 Abedi, 27
 Elham, 25
-Melika, 0
+Melika, 30
 Borji, 28
 Danial, 28
 PedramHS, 15

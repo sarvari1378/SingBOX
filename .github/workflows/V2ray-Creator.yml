@@ -1,5 +1,5 @@
 # This is a GitHub Actions workflow that performs several tasks
-name: Create files from users.txt
+name: Creat SUB Folder 
 
 # The workflow will run when there is a push to the `main` branch
 on:
@@ -53,7 +53,10 @@ jobs:
       - name: Download file from URL
         run: |
           curl -o file.txt "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/reality"
-          
+      
+      - name: Install regex module
+        run: pip install regex
+
           
       # Creates the `SUB` directory if it doesn't exist, reads data from `Users.txt`, and creates/copies files based on its content
       - name: Create and copy files from users.txt
@@ -71,9 +74,9 @@ jobs:
               echo "vless://64694d4a-2c05-4ffe-aef1-68c0169cccb7@146.248.115.39:443?encryption=none&fp=firefox&mode=gun&pbk=TXpA-KUEqsg6YlZUXf0gZIe14rFjKZZNAqWzjruNoh8&security=reality&serviceName=&sid=790d3c76&sni=www.speedtest.net&spx=%2F&type=grpc#|User:$name|Remain Days:$value|" >> "SUB/REALITY-$name"
 
               while read line; do
-                 Flag=$(echo $line | python3 -c "import re, sys; print(re.search(r'[^\x00-\x7F]+', sys.stdin.read()).group())")
+                 Flag=$(echo $line | python3 -c "import regex, sys; print(regex.search(r'\p{So}\p{So}', sys.stdin.read()).group())")
 
-                echo "${line/\#*/#|$name|H:$TIRAN|D:$TODAY|N:$j|}" >> "SUB/REALITY-$name"
+                echo "${line/\#*/#|$name|$Flag|H:$TIRAN|D:$TODAY|N:$j|}" >> "SUB/REALITY-$name"
                 j=$((j+1))
               done < file.txt
 

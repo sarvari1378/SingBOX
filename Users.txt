@@ -1,11 +1,10 @@
-Sajed, 3
+Sajed, 30
 Farzan, 26
 ArefeKamyab, 26
 Arjmand, 26
 PedramMinai, 31
 FatimaVakili, 71
 Akrami, 4
-Rasta, 0
 Hesari, 2
 Ghazale, 5
 Samira, 2

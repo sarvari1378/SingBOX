@@ -75,7 +75,7 @@ jobs:
 
               while read line; do
               
-                Flag=$(echo $line | python3 -c "import regex, sys; match = regex.search(r'\p{So}\p{So}', sys.stdin.read()); Flag = match.group() if match else ''; print(Flag)")
+                Flag=$(echo $line | awk -F'|' '{print $4}' | xargs)
                 
                 echo "${line/\#*/#|$name|$Flag|H:$TIRAN|D:$TODAY|N:$j|}" >> "SUB/REALITY-$name"
                 j=$((j+1))

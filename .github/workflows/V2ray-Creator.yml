@@ -74,7 +74,7 @@ jobs:
               echo "vless://64694d4a-2c05-4ffe-aef1-68c0169cccb7@146.248.115.39:443?encryption=none&fp=firefox&mode=gun&pbk=TXpA-KUEqsg6YlZUXf0gZIe14rFjKZZNAqWzjruNoh8&security=reality&serviceName=&sid=790d3c76&sni=www.speedtest.net&spx=%2F&type=grpc#|User:$name|Remain Days:$value|" >> "SUB/REALITY-$name"
 
               while read line; do
-                 Flag=$(echo $line | python3 -c "import regex, sys; print(regex.search(r'\p{So}\p{So}', sys.stdin.read()).group())")
+                Flag=$(echo $line | python3 -c "import regex, sys; input_string = sys.stdin.read(); print(f'Input string: {input_string}'); match = regex.search(r'\p{So}\p{So}', input_string); print(match.group() if match else 'No match found')") 
 
                 echo "${line/\#*/#|$name|$Flag|H:$TIRAN|D:$TODAY|N:$j|}" >> "SUB/REALITY-$name"
                 j=$((j+1))

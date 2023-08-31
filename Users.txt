@@ -8,7 +8,6 @@ Akrami, 3
 Hesari, 1
 Ghazale, 4
 Samira, 1
-Azad, 1
 parsaAlmasi, 7
 maryamhajilo, 0
 hosseinhajilo, 28

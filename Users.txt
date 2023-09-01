@@ -7,7 +7,7 @@ FatimaVakili, 69
 Akrami, 2
 Hesari, 0
 Ghazale, 3
-Samira, 0
+Samira, 30
 parsaAlmasi, 6
 maryamhajilo, 30
 hosseinhajilo, 27

@@ -6,7 +6,7 @@ PedramMinai, 27
 FatimaVakili, 67
 Akrami, 0
 Hesari, 28
-Ghazale, 1
+Ghazale, 31
 Samira, 28
 parsaAlmasi, 4
 maryamhajilo, 28

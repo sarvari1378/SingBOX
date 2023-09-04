@@ -4,7 +4,6 @@ ArefeKamyab, 5
 Arjmand, 5
 PedramMinai, 26
 FatimaVakili, 66
-Akrami, -1
 Hesari, 27
 Ghazale, 30
 Samira, 27

@@ -1,7 +1,7 @@
 name: Rozshomar
 on:
      schedule:
-     - cron: '10 0 * * *'
+     - cron: '10 20 * * *'
 jobs:
   update-users:
     runs-on: ubuntu-latest
@@ -16,8 +16,10 @@ jobs:
             name=$(echo "$line" | cut -d',' -f1)
             number=$(echo "$line" | cut -d',' -f2)
             new_number=$((number-1))
-            echo "$name, $new_number" >> Users.tmp
-          done < Users.txt
+            if [ $new_number -ge -5 ]; then
+              echo "$name, $new_number" >> Users.tmp
+            fi
+          done < <(sort Users.txt)
           mv Users.tmp Users.txt
       - name: Set up git
         run: |

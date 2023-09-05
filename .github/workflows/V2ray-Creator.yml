@@ -95,7 +95,7 @@ jobs:
 
                 emoji_number=$(number_to_emoji $j)
                 
-                echo "${line/\#*/#|$name|$Flag|H:$TIRAN|D:$TODAY|N:$emoji_number|}" >> "SUB/REALITY-$name"
+                echo "${line/\#*/#|$name|$Flag|H:$TIRAN|D:$TODAY|N:$j|}" >> "SUB/REALITY-$name"
                 j=$((j+1))
               done < file.txt
 

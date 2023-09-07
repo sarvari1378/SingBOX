@@ -29,7 +29,7 @@ jobs:
 
       - name: Create SingBOX files
         run: |
-          content=$(curl -s ${{ env.URL }})
+          content=$(curl -s ${{ env.URL }} | sed 's/رایگان//g')
           while IFS= read -r line; do
             username=$(echo "$line" | cut -d ',' -f 1)
             echo "$content" > "SingBoxs/${username}"

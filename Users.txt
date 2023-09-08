@@ -12,7 +12,7 @@ Freshte, 15
 Ghazale, 26
 Hesari, 23
 Mahor, 1
-Maryamahmadi, 1
+Maryamahmadi, 30
 Melika, 20
 MohammadTakhtShahi, 5
 MohsenKhakestari, 9
@@ -25,4 +25,4 @@ Samira, 23
 hosseinhajilo, 20
 karimian, 5
 maryamhajilo, 23
-parsaAlmasi, -1
+parsaAlmasi, 30

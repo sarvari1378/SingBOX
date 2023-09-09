@@ -1,7 +1,7 @@
 Abedi, 16
 AliDelbaz, 29
-ArefeKamyab, 0
-Arjmand, 0
+ArefeKamyab, 5
+Arjmand, 5
 Borji, 17
 Danial, 17
 Deli, 3

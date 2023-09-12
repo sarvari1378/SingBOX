@@ -7,7 +7,7 @@ Danial, 14
 Deli, 0
 Elham, 11
 FahimeSarvari, 2
-Farzan, 13
+Farzan, 30
 FatimaVakili, 58
 Freshte, 11
 Ghazale, 22
@@ -28,3 +28,4 @@ karimian, 31
 maryamhajilo, 19
 parsaAlmasi, 26
 ArefNazari, 30
+HamidSarvari, 30

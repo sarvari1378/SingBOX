@@ -20,7 +20,7 @@ Melika, 15
 MohammadTakhtShahi, 0
 MohsenKhakestari, 4
 Mostafa, -2
-PedramHS, 0
+PedramHS, 32
 PedramMinai, 17
 Roshan, 19
 Sajed, 16

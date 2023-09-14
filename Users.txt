@@ -5,7 +5,7 @@ ArefeKamyab, 9
 Arjmand, 9
 Borji, 12
 Danial, 12
-Deli, -2
+Deli, 31
 Elham, 9
 FahimeSarvari, 0
 Farzan, 28
@@ -14,12 +14,9 @@ Freshte, 9
 Ghazale, 20
 HamidSarvari, 28
 Hesari, 17
-Mahor, -5
 Maryamahmadi, 24
 Melika, 14
-MohammadTakhtShahi, -1
-MohsenKhakestari, 3
-Mostafa, -3
+MohsenKhakestari, 30
 PedramHS, 31
 PedramMinai, 16
 Roshan, 18

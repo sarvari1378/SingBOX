@@ -52,8 +52,8 @@ jobs:
       # Downloads a file from a URL using `curl`
       - name: Download file from URL
         run: |
-          curl -o file.txt "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/reality"
-      
+          curl "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/reality" | tail -n +7 > file.txt
+
       - name: Install regex module
         run: pip install regex
 

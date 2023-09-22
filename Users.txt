@@ -1,4 +1,4 @@
-Abedi, 3
+Abedi, 30
 AliDelbaz, 16
 ArefNazari, 20
 ArefeKamyab, 1
@@ -19,7 +19,6 @@ Hesari, 9
 Maryamahmadi, 16
 Melika, 6
 MohsenKhakestari, 22
-Nastaran, 26
 PedramHS, 23
 PedramMinai, 8
 Roshan, 10

@@ -2,9 +2,8 @@ Abedi, 26
 AliDelbaz, 12
 ArefNazari, 16
 ArefeKamyab, 30
-Arjmand, -3
 Borji, 27
-Danial, 0
+Danial, 32
 Deli, 19
 Eagle, 24
 Elham, 27

@@ -21,7 +21,7 @@ MohsenKhakestari, 15
 PedramHS, 16
 PedramMinai, 1
 Roshan, 3
-Sajed, 0
+Sajed, 30
 Samira, 2
 hosseinhajilo, 31
 karimian, 14

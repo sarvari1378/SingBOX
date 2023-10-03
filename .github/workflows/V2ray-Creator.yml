@@ -83,7 +83,7 @@ jobs:
           fi
 
           i=1
-          while IFS=, read -r name value; do
+          while IFS=, read -r name value username; do
             if [ "$value" -gt 0 ]; then
               j=1
 

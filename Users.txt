@@ -1,29 +1,29 @@
-Abedi, 18, @imohammadabedi
-AliDelbaz, 4, @A_Ali_1380
-ArefNazari, 8, @ArefNazari1996
-ArefeKamyab, 22, @Arefehkamyab
-Borji, 19
-Danial, 24, @Danial_hk
-Deli, 11, 
-Eagle, 16, 
-Elham, 20, @Lielhwm
-FaezeGhodrati, 10, @mahur_ght
-FahimeSarvari, 10
-Farzan, 28
-FatimaVakili, 36, @fatiw_vakili
-Freshte, 19, @Fereshte1970
-Ghazale, 30, @Ghzle_Bn
-HamidSarvari, 8
-Hesari, 27, @Sweet_life22
-Maryamahmadi, 4, @Marimaryo
-Melika, 25, 
-MohsenKhakestari, 10
-PedramHS, 11, @aghapedi8657
-PedramMinai, 27, @books_love_life
-Roshan, 29, 
-Sajed, 25
-Samira, 28
-hosseinhajilo, 26, @h281173
-karimian, 9, @a_karimianz
-maryamhajilo, 28, @maryam_hajiloo99
-parsaAlmasi, 4, @CrAsPa
+Abedi, 17
+AliDelbaz, 3
+ArefNazari, 7
+ArefeKamyab, 21
+Borji, 18
+Danial, 23
+Deli, 10
+Eagle, 15
+Elham, 19
+FaezeGhodrati, 9
+FahimeSarvari, 9
+Farzan, 27
+FatimaVakili, 35
+Freshte, 18
+Ghazale, 29
+HamidSarvari, 7
+Hesari, 26
+Maryamahmadi, 3
+Melika, 24
+MohsenKhakestari, 9
+PedramHS, 10
+PedramMinai, 26
+Roshan, 28
+Sajed, 24
+Samira, 27
+hosseinhajilo, 25
+karimian, 8
+maryamhajilo, 27
+parsaAlmasi, 3

@@ -1,5 +1,5 @@
 Abedi, 14
-AliDelbaz, 0
+AliDelbaz, 31
 ArefNazari, 4
 ArefeKamyab, 18
 Borji, 15
@@ -15,7 +15,7 @@ Freshte, 15
 Ghazale, 26
 HamidSarvari, 4
 Hesari, 23
-Maryamahmadi, 0
+Maryamahmadi, 31
 Melika, 21
 MohsenKhakestari, 6
 PedramHS, 7
@@ -26,4 +26,4 @@ Samira, 24
 hosseinhajilo, 22
 karimian, 5
 maryamhajilo, 24
-parsaAlmasi, 0
+parsaAlmasi, 31

@@ -8,7 +8,6 @@ Darvish, 26
 Deli, 1
 Eagle, 6
 Elham, 10
-FaezeGhodrati, 0
 FahimeSarvari, 28
 Farzan, 28
 FatimaVakili, 26
@@ -27,6 +26,5 @@ Roshan, 19
 Sajed, 15
 Samira, 18
 hosseinhajilo, 16
-karimian, -1
 maryamhajilo, 18
 parsaAlmasi, 25

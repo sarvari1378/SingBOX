@@ -1,12 +1,11 @@
-Abedi, 7
+Abedi, 30
 AliDelbaz, 24
 ArefNazari, 27
 ArefeKamyab, 11
-Borji, 8
+Borji, 31
 Danial, 13
 Darvish, 25
-Deli, 0
-Eagle, 5
+Eagle, 31
 Elham, 9
 FahimeSarvari, 27
 Farzan, 27
@@ -28,3 +27,4 @@ Samira, 17
 hosseinhajilo, 15
 maryamhajilo, 17
 parsaAlmasi, 24
+karimian, 31

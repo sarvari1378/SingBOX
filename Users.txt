@@ -6,7 +6,7 @@ Borji, 22
 Danial, 4
 Darvish, 16
 Eagle, 22
-Elham, 0
+Elham, 30
 FahimeSarvari, 18
 Farzan, 18
 FatimaVakili, 16

@@ -1,7 +1,7 @@
 Abedi, 19
 AliDelbaz, 13
 ArefNazari, 16
-ArefeKamyab, 0
+ArefeKamyab, 30
 Borji, 20
 Danial, 2
 Darvish, 14

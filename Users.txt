@@ -3,7 +3,6 @@ AliDelbaz, 11
 ArefNazari, 14
 ArefeKamyab, 28
 Borji, 18
-Danial, 0
 Darvish, 12
 Eagle, 18
 Elham, 26

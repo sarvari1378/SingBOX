@@ -1,4 +1,3 @@
-, -4
 Abedi, 10
 AliDelbaz, 4
 ArefNazari, 7
@@ -22,11 +21,9 @@ Negar, 6
 Negar2, 23
 PedramHS, 10
 PedramMinai, 176
-Roshan, -2
 Sajed, 49
-Samira, -3
+Samira, 30
 hosseinhajilo, 25
 karimian, 11
 maryamhajilo, 27
 parsaAlmasi, 4
-sarvariiiii, -4

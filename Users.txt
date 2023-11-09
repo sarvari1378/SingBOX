@@ -3,17 +3,16 @@ AliDelbaz, 29
 ArefNazari, 99997
 ArefeKamyab, 16
 Borji, 99997
-Darvish, 0
+Darvish, 30
 Eagle, 99997
 Elham, 15
 FahimeSarvari, 99997
 Farzan, 99997
-FatimaVakili, 0
+FatimaVakili, 90
 Ghazale, 24
 HamidSarvari, 99997
 Hesari, 22
 Mahdie, 29
-Maryamahmadi, -1
 Melika, 19
 MohsenKhakestari, 99997
 Nasim, 9
@@ -26,4 +25,3 @@ Samira, 25
 hosseinhajilo, 20
 karimian, 6
 maryamhajilo, 22
-parsaAlmasi, -1

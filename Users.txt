@@ -1,4 +1,4 @@
-Abedi, 0
+Abedi, 99992
 AliDelbaz, 24
 ArefNazari, 99992
 ArefeKamyab, 11
@@ -18,7 +18,7 @@ MohsenKhakestari, 99992
 Nasim, 4
 Negar, 26
 Negar2, 13
-PedramHS, 0
+PedramHS, 30
 PedramMinai, 166
 Sajed, 39
 Samira, 20

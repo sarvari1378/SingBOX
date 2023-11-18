@@ -15,7 +15,7 @@ Hesari, 13
 Mahdie, -4
 Melika, 10
 MohsenKhakestari, 99988
-Nasim, 0
+Nasim, 30
 Negar, 22
 Negar2, 9
 PedramHS, 26

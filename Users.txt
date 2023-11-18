@@ -12,7 +12,6 @@ FatimaVakili, 81
 Ghazale, 15
 HamidSarvari, 99988
 Hesari, 13
-Mahdie, -4
 Melika, 10
 MohsenKhakestari, 99988
 Nasim, 30

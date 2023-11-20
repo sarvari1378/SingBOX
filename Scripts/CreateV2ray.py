@@ -90,8 +90,9 @@ def Create_SUBs(users, urls,PROCTCOLE):
 url = 'https://raw.githubusercontent.com/sarvari1378/SingBOX/main/Users.txt'
 users = get_users(url)
 urls = [
-    "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/tuic",
-    "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/reality"
+    "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/vless",
+    "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/reality",
+    "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/tuic"
 ]
 
 Create_SUBs(users, urls,'TUIC')

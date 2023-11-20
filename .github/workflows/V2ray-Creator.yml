@@ -1,103 +1,38 @@
-# This is a GitHub Actions workflow that performs several tasks
-name: Creat SUB Folder 
+name: Create Configs
 
-# The workflow will run when there is a push to the `main` branch
 on:
-  push:
-    branches:
-      - main
-
-# The workflow will also run on a schedule, every 120 minutes
   schedule:
-    - cron: '*/120 * * * *'
+    - cron: '0 */2 * * *'  # Runs every 2 hours
+  push:  
 
-# Defines a job named `build`
 jobs:
   build:
-    # Specifies that the job will run on the latest version of Ubuntu
     runs-on: ubuntu-latest
 
     steps:
-      # Checks out the repository code using the `actions/checkout@v2` action
-      - name: Check out repository code
-        uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v2
 
-      # Sets up Git by configuring the user name and email
-      - name: Set up Git
-        run: |
-          git config user.name "GitHub Actions Bot"
-          git config user.email "<actions@github.com>"
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.11'
 
-      # Installs the `jdatetime` package, sets the current date in Jalali format as an environment variable named `TODAY`, and prints its value
-      - name: Set current date as environment variable in Jalali format
-        run: |
-          pip install jdatetime pytz
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pytz requests regex jdatetime
 
-                    
-          TODAY=$(python3 -c "import jdatetime, pytz; print(jdatetime.date.today().strftime('%Y-%m-%d'))")
-          echo "TODAY=$TODAY" >> $GITHUB_ENV
-          echo $TODAY
-          
-          TIRAN=$(python3 -c "import datetime, pytz; tehran = pytz.timezone('Asia/Tehran'); tehran_time = datetime.datetime.now(tehran); print(f'{tehran_time.hour}:{tehran_time.minute}')")
-          echo "TIRAN=$TIRAN" >> $GITHUB_ENV
-          echo $TIRAN
-          
-      # Removes all files from the `SUB` folder if it exists
-      - name: Remove files from SUB folder
-        run: |
-          if [ -d "SUB" ]; then
-            rm -rf SUB/*
-          fi
+    - name: Remove SUB directory
+      run: rm -rf SUB
 
-      # Downloads a file from a URL using `curl`
-      - name: Download file from URL
-        run: |
-          curl "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/vless" | tail -n +7 > file.txt
-
-      - name: Install regex module
-        run: pip install regex
-
-          
-      # Creates the `SUB` directory if it doesn't exist, reads data from `Users.txt`, and creates/copies files based on its content
-      - name: Create and copy files from users.txt
-        run: |
-
-          
-          if [ ! -d "SUB" ]; then
-            mkdir SUB
-          fi
-
-          i=1
-          while IFS=, read -r name value username; do
-            if [ "$value" -gt 0 ]; then
-              j=1
-
-              echo "vless://64694d4a-2c05-4ffe-aef1-68c0169cccb7@146.248.115.39:443?encryption=none&fp=firefox&mode=gun&pbk=TXpA-KUEqsg6YlZUXf0gZIe14rFjKZZNAqWzjruNoh8&security=reality&serviceName=&sid=790d3c76&sni=www.speedtest.net&spx=%2F&type=grpc#|👤User: $name|⌛️Remain Days:$value|" >> "SUB/REALITY-$name"
-
-              while read line; do
-              
-                Flag=$(echo $line | python3 -c "import regex, sys; match = regex.search(r'\p{So}\p{So}', sys.stdin.read()); Flag = match.group() if match else ''; print(Flag)")
-
-                emoji_number=$(number_to_emoji $j)
-                
-                echo "${line/\#*/#|$Flag|H:$TIRAN|D:$TODAY|N:$j|}" >> "SUB/REALITY-$name"
-                j=$((j+1))
-              done < file.txt
-
-              i=$((i+1))
-            else
-              
-              echo "vless://64694d4a-2c05-4ffe-aef1-68c0169cccb7@146.248.115.39:443?encryption=none&fp=firefox&mode=gun&pbk=TXpA-KUEqsg6YlZUXf0gZIe14rFjKZZNAqWzjruNoh8&security=reality&serviceName=&sid=790d3c76&sni=www.speedtest.net&spx=%2F&type=grpc#Your-subscription-has-ended." > "SUB/REALITY-$name"
-              
-            fi
-          done < Users.txt
-
-      # Adds, commits, and pushes changes to the `SUB` folder.
-      - name: Commit and push changes
-        run: |
-           git config --global user.name 'GitHub Action'
-           git config --global user.email 'action@github.com'
-           git add .
-           git commit -m "Updated"
-           git pull origin main --rebase # <-- Added --rebase flag here to fix the error.
-           git push origin main
+    - name: Run V2ray-Creator
+      run: python Scripts/CreateV2ray.py  # Replace with your script's filename
+      
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "Update files" || exit 0  # Exit successfully if there's nothing to commit
+        git push

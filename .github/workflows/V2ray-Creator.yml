@@ -35,4 +35,4 @@ jobs:
         git config --local user.name "GitHub Action"
         git add .
         git commit -m "Update files" || exit 0  # Exit successfully if there's nothing to commit
-        git push
+        git push --force

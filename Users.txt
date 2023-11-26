@@ -1,7 +1,7 @@
 Abedi, 99980
 AliDelbaz, 12
 ArefNazari, 99980
-ArefeKamyab, -1
+ArefeKamyab, 30
 Borji, 99980
 Darvish, 19
 Eagle, 99980

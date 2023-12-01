@@ -12,15 +12,14 @@ FatimaVakili, 68
 Ghazale, 2
 HamidSarvari, 99975
 Hesari, 30
-Mahoor, 20
+Mahoor, 99975
 Melika, 27
 MohsenKhakestari, 99975
 Nasim, 17
 Negar, 9
-Negar2, -4
 PedramHS, 13
 PedramMinai, 149
-Sajed, 22
+Sajed, 99975
 Samira, 3
 hosseinhajilo, 28
 karimian, 14

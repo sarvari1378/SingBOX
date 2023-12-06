@@ -22,7 +22,7 @@ Negar, 4
 PedramHS, 8
 PedramMinai, 144
 Sajed, 99970
-Samira, -2
+Samira, 30
 hosseinhajilo, 23
 karimian, 9
 maryamhajilo, 25

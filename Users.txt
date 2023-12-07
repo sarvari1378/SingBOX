@@ -1,5 +1,5 @@
 Abedi, 99968
-AliDelbaz, 0
+AliDelbaz, 30
 ArefNazari, 99968
 ArefeKamyab, 18
 Borji, 99968

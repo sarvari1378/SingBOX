@@ -28,6 +28,9 @@ jobs:
 
     - name: Run V2ray-Creator
       run: python Scripts/CreateV2ray.py  # Replace with your script's filename
+
+    - name: Run V2ray-Creator
+      run: python Scripts/TUIC-Creator.py.py
       
     - name: Commit and push changes
       run: |

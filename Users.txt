@@ -17,8 +17,7 @@ Mahoor, 99962
 Melika, 14
 MohsenKhakestari, 99962
 Nasim, 4
-Negar, -4
-PedramHS, 0
+PedramHS, 30
 PedramMinai, 136
 Sajed, 99962
 Samira, 22

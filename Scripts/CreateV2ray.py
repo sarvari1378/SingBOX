@@ -94,7 +94,7 @@ User_url = 'https://raw.githubusercontent.com/sarvari1378/SingBOX/main/Users.txt
 
 users = get_users(User_url)
 urls = [
-    "https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray"
+    "https://vahid.sajed-the-nerd5501.workers.dev/sub"
 ]
 
 responses = get_config(urls)

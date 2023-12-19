@@ -1,6 +1,13 @@
 name: Create Configs
 
-
+on:
+  push:
+    branches:
+      - main
+      
+  schedule:
+    - cron: '*/120 * * * *'
+    
 jobs:
   build:
     runs-on: ubuntu-latest

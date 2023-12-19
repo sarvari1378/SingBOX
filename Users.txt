@@ -16,13 +16,12 @@ Hesari, 12
 Mahoor, 99957
 Melika, 9
 MohsenKhakestari, 99957
-Nasim, -1
 PedramHS, 25
 PedramMinai, 131
 Sajed, 99957
 Samira, 17
-faeghe-2, 26
 hosseinhajilo, 10
 karimian, -4
 maryamhajilo, 12
 Mostafa, 9999999
+Andishmand, 999999

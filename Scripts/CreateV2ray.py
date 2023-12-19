@@ -94,8 +94,10 @@ User_url = 'https://raw.githubusercontent.com/sarvari1378/SingBOX/main/Users.txt
 
 users = get_users(User_url)
 urls = [
-    "https://nv2ron.ir/subscription.link.QV2RAY?"
+    "https://nv2ron.ir/subscription.link.QV2RAY?NDYyMjg4MDIxLTE3MDI5NjQyODg="
 ]
 
 responses = get_config(urls)
 Create_SUBs(users, responses, 'REALITY')
+
+

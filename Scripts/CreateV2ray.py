@@ -76,8 +76,8 @@ def Create_SUBs(users, urls,PROCTCOLE):
             content = 'vless://64694d4a-2c05-4ffe-aef1-68c0169cccb7@146.248.115.39:443?encryption=none&fp=firefox&mode=gun&pbk=TXpA-KUEqsg6YlZUXf0gZIe14rFjKZZNAqWzjruNoh8&security=reality&serviceName=&sid=790d3c76&sni=www.speedtest.net&spx=%2F&type=grpc#Your-subscription-has-ended'
         else:
             content = get_config(urls)
-            content = remove_lines(content,6)
             if content is not None:
+                
                 content = rename_configs(content, user.username)
                 line = f'vless://64694d4a-2c05-4ffe-aef1-68c0169cccb7@146.248.115.39:443?encryption=none&fp=firefox&mode=gun&pbk=TXpA-KUEqsg6YlZUXf0gZIe14rFjKZZNAqWzjruNoh8&security=reality&serviceName=&sid=790d3c76&sni=www.speedtest.net&spx=%2F&type=grpc#|👤User: {user.username}|⌛️Remain Days: {user.date}|'
                 content = line + '\n' + content

@@ -1,3 +1,4 @@
+
 from datetime import datetime
 import pytz
 import requests
@@ -5,18 +6,6 @@ import regex
 from collections import namedtuple
 import os
 import base64
-
-def get_content(url):
-    global TEMP
-    try:
-        response = requests.get(url)
-        if response.status_code == 200:
-            TEMP = response.text  # store the content in the global variable TEMP
-            print("Content stored in TEMP successfully.")
-        else:
-            print(f"Request failed with status code {response.status_code}.")
-    except requests.exceptions.RequestException as e:
-        print(f"An error occurred: {e}")
 
 def get_config(urls):
     responses = {}
@@ -78,6 +67,7 @@ def get_users(url):
 
     return users
 
+
 def Create_SUBs(users, responses, PROCTCOLE):
     # Create 'SUB' directory if it doesn't exist
     if not os.path.exists('SUB'):
@@ -100,13 +90,12 @@ def Create_SUBs(users, responses, PROCTCOLE):
         with open(filename, 'w') as f:
             f.write(content)
 
-url = 'https://raw.githubusercontent.com/sarvari1378/SingBOX/main/Users.txt'
+User_url = 'https://raw.githubusercontent.com/sarvari1378/SingBOX/main/Users.txt'
 
-users = get_users(url)
-
+users = get_users(User_url)
 urls = [
-    "https://nv2ron.ir/subscription.link.QV2RAY?NTYxNTc2Mjk3MS0xNzAyOTcwMzI0"
+    "https://nv2ron.ir/subscription.link.QV2RAY?NDYyMjg4MDIxLTE3MDI5NjQyODg="
 ]
 
-Response = get_content(urls)
-Create_SUBs(users, Response, 'REALITY')
+responses = get_config(urls)
+Create_SUBs(users, responses, 'REALITY')

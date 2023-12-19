@@ -1,4 +1,3 @@
-
 from datetime import datetime
 import pytz
 import requests
@@ -7,16 +6,29 @@ from collections import namedtuple
 import os
 import base64
 
+def get_content(url):
+    global TEMP
+    try:
+        response = requests.get(url)
+        if response.status_code == 200:
+            TEMP = response.text  # store the content in the global variable TEMP
+            print("Content stored in TEMP successfully.")
+        else:
+            print(f"Request failed with status code {response.status_code}.")
+    except requests.exceptions.RequestException as e:
+        print(f"An error occurred: {e}")
+
 def get_config(urls):
+    responses = {}
     for url in urls:
         if url:  # Check if the URL is not empty
             try:
                 response = requests.get(url)
                 if response.status_code == 200:
-                    return response.text  # get the raw content of the response
+                    responses[url] = response.text  # get the raw content of the response
             except requests.exceptions.RequestException as e:
                 print(f"An error occurred: {e}")
-    return None
+    return responses
 
 def extract_flag(line):
     match = regex.search(r'\p{So}\p{So}', line)
@@ -66,7 +78,7 @@ def get_users(url):
 
     return users
 
-def Create_SUBs(users, urls,PROCTCOLE):
+def Create_SUBs(users, responses, PROCTCOLE):
     # Create 'SUB' directory if it doesn't exist
     if not os.path.exists('SUB'):
         os.makedirs('SUB')
@@ -76,22 +88,25 @@ def Create_SUBs(users, urls,PROCTCOLE):
         if float(user.date) <= 0:
             content = 'vless://64694d4a-2c05-4ffe-aef1-68c0169cccb7@146.248.115.39:443?encryption=none&fp=firefox&mode=gun&pbk=TXpA-KUEqsg6YlZUXf0gZIe14rFjKZZNAqWzjruNoh8&security=reality&serviceName=&sid=790d3c76&sni=www.speedtest.net&spx=%2F&type=grpc#Your-subscription-has-ended'
         else:
-            content = get_config(urls)
-            if content is not None:
-                content = base64.b64decode(content).decode()
-                content = rename_configs(content, user.username)
-                line = f'vless://64694d4a-2c05-4ffe-aef1-68c0169cccb7@146.248.115.39:443?encryption=none&fp=firefox&mode=gun&pbk=TXpA-KUEqsg6YlZUXf0gZIe14rFjKZZNAqWzjruNoh8&security=reality&serviceName=&sid=790d3c76&sni=www.speedtest.net&spx=%2F&type=grpc#|👤User: {user.username}|⌛️Remain Days: {user.date}|'
-                content = line + '\n' + content
+            for url in responses:
+                content = responses[url]
+                if content is not None:
+                    content = base64.b64decode(content).decode()
+                    content = rename_configs(content, user.username)
+                    line = f'vless://64694d4a-2c05-4ffe-aef1-68c0169cccb7@146.248.115.39:443?encryption=none&fp=firefox&mode=gun&pbk=TXpA-KUEqsg6YlZUXf0gZIe14rFjKZZNAqWzjruNoh8&security=reality&serviceName=&sid=790d3c76&sni=www.speedtest.net&spx=%2F&type=grpc#|👤User: {user.username}|⌛️Remain Days: {user.date}|'
+                    content = line + '\n' + content
 
         filename = f'SUB/{PROCTCOLE}-{user.username}'
         with open(filename, 'w') as f:
             f.write(content)
 
-
 url = 'https://raw.githubusercontent.com/sarvari1378/SingBOX/main/Users.txt'
+
 users = get_users(url)
+
 urls = [
-    "https://nv2ron.ir/subscription.link.QV2RAY?NDYyMjg4MDIxLTE3MDI5NjQyODg="
+    "https://nv2ron.ir/subscription.link.QV2RAY?NTYxNTc2Mjk3MS0xNzAyOTcwMzI0"
 ]
 
-Create_SUBs(users, urls,'REALITY')
+Response = get_content(urls)
+Create_SUBs(users, Response, 'REALITY')

@@ -1,9 +1,5 @@
 name: Create Configs
 
-on:
-  schedule:
-    - cron: '0 */2 * * *'  # Runs every 2 hours
-  push:  
 
 jobs:
   build:

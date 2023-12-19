@@ -29,10 +29,10 @@ jobs:
     - name: Remove SUB directory
       run: rm -rf SUB
 
-    - name: Run V2ray-Creator
+    - name: Run REALITY-Creator
       run: python Scripts/CreateV2ray.py  # Replace with your script's filename
 
-    - name: Run V2ray-Creator
+    - name: Run TUIC-Creator
       run: python Scripts/TUIC-Creator.py
       
     - name: Commit and push changes

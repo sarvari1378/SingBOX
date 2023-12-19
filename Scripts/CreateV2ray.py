@@ -5,6 +5,7 @@ import requests
 import regex
 from collections import namedtuple
 import os
+import base64
 
 def get_config(urls):
     for url in urls:
@@ -77,7 +78,7 @@ def Create_SUBs(users, urls,PROCTCOLE):
         else:
             content = get_config(urls)
             if content is not None:
-                
+                content = base64.b64decode(content).decode()
                 content = rename_configs(content, user.username)
                 line = f'vless://64694d4a-2c05-4ffe-aef1-68c0169cccb7@146.248.115.39:443?encryption=none&fp=firefox&mode=gun&pbk=TXpA-KUEqsg6YlZUXf0gZIe14rFjKZZNAqWzjruNoh8&security=reality&serviceName=&sid=790d3c76&sni=www.speedtest.net&spx=%2F&type=grpc#|👤User: {user.username}|⌛️Remain Days: {user.date}|'
                 content = line + '\n' + content

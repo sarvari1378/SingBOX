@@ -7,6 +7,7 @@ from collections import namedtuple
 import os
 import base64
 
+#################### start of Functions
 def get_config(urls):
     responses = {}
     for url in urls:
@@ -18,11 +19,12 @@ def get_config(urls):
             except requests.exceptions.RequestException as e:
                 print(f"An error occurred: {e}")
     return responses
-
+####################
 def extract_flag(line):
     match = regex.search(r'\p{So}\p{So}', line)
     flag = match.group() if match else ''
     return flag
+####################
 
 def rename_configs(content, name):
     lines = content.split('\n')
@@ -42,16 +44,19 @@ def rename_configs(content, name):
             line += f'#|{flag}|{hour}|{date}|{name}|{i+1}|'
         new_lines.append(line)
     return '\n'.join(new_lines)
+####################
 
 def save_to_file(content, filename):
     with open(filename, 'w') as f:
         f.write(content)
+####################
 
 def remove_lines(content, num):
     lines = content.split('\n')
     # Remove the first 'num' lines
     del lines[:num]
     return '\n'.join(lines)
+####################
 
 def get_users(url):
     response = requests.get(url)
@@ -67,6 +72,7 @@ def get_users(url):
 
     return users
 
+####################
 
 def Create_SUBs(users, responses, PROCTCOLE):
     # Create 'SUB' directory if it doesn't exist
@@ -81,7 +87,11 @@ def Create_SUBs(users, responses, PROCTCOLE):
             for url in responses:
                 content = responses[url]
                 if content is not None:
-                    content = base64.b64decode(content).decode()
+                    try:
+                        base64.b64decode(content)
+                        content = base64.b64decode(content).decode()
+                    except Exception:
+                        pass
                     content = rename_configs(content, user.username)
                     line = f'vless://64694d4a-2c05-4ffe-aef1-68c0169cccb7@146.248.115.39:443?encryption=none&fp=firefox&mode=gun&pbk=TXpA-KUEqsg6YlZUXf0gZIe14rFjKZZNAqWzjruNoh8&security=reality&serviceName=&sid=790d3c76&sni=www.speedtest.net&spx=%2F&type=grpc#|👤User: {user.username}|⌛️Remain Days: {user.date}|'
                     content = line + '\n' + content
@@ -89,6 +99,8 @@ def Create_SUBs(users, responses, PROCTCOLE):
         filename = f'SUB/{PROCTCOLE}-{user.username}'
         with open(filename, 'w') as f:
             f.write(content)
+
+########################### end of functions
 
 User_url = 'https://raw.githubusercontent.com/sarvari1378/SingBOX/main/Users.txt'
 

@@ -9,25 +9,17 @@ import base64
 
 #################### start of Functions
 def get_config(urls):
-    merged_content = ""
+    responses = {}
     for url in urls:
         if url:  # Check if the URL is not empty
             try:
                 response = requests.get(url)
                 if response.status_code == 200:
-                    content = response.text  # get the raw content of the response
-                    try:
-                        # Try to decode the content
-                        decoded_content = base64.b64decode(content).decode('utf-8')
-                        merged_content += decoded_content
-                    except Exception:
-                        # If it's not base64, just add the raw content
-                        merged_content += content
-                    # Add a newline between contents of different links
-                    merged_content += "\n"
+                    responses[url] = response.text  # get the raw content of the response
             except requests.exceptions.RequestException as e:
                 print(f"An error occurred: {e}")
-    return merged_content
+    return responses
+    
 ####################
 def extract_flag(line):
     match = regex.search(r'\p{So}\p{So}', line)

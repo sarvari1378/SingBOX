@@ -242,8 +242,8 @@
                 " | REALITY | @reality_daily(free) | Donated | SE🇸🇪 | 7️⃣0️⃣",
                 " | REALITY | @testreality | Donated | DE🇩🇪 | 0️⃣1️⃣",
                 " | REALITY | @neda_aghasoltan | Donated | FR🇫🇷 | 0️⃣1️⃣",
-                " | REALITY | @shahid_ehsan(nazri) | Donated | DE🇩🇪 | 0️⃣1️⃣",
-                " | REALITY | @shahid_ehsan(nazri) | Donated | DE🇩🇪 | 0️⃣2️⃣",
+                " | REALITY | @shahid_ehsan(nazri) | Donated | FR🇫🇷 | 0️⃣1️⃣",
+                " | REALITY | @shahid_ehsan(nazri) | Donated | FR🇫🇷 | 0️⃣2️⃣",
                 " | REALITY | @mahsaamini | Donated | SE🇸🇪 | 0️⃣1️⃣",
                 " | REALITY | @mahsaamini | Donated | SE🇸🇪 | 0️⃣2️⃣",
                 " | REALITY | @mahsaamini | Donated | SE🇸🇪 | 0️⃣3️⃣",
@@ -393,8 +393,8 @@
                 " | REALITY | @reality_daily(free) | Donated | SE🇸🇪 | 7️⃣0️⃣",
                 " | REALITY | @testreality | Donated | DE🇩🇪 | 0️⃣1️⃣",
                 " | REALITY | @neda_aghasoltan | Donated | FR🇫🇷 | 0️⃣1️⃣",
-                " | REALITY | @shahid_ehsan(nazri) | Donated | DE🇩🇪 | 0️⃣1️⃣",
-                " | REALITY | @shahid_ehsan(nazri) | Donated | DE🇩🇪 | 0️⃣2️⃣",
+                " | REALITY | @shahid_ehsan(nazri) | Donated | FR🇫🇷 | 0️⃣1️⃣",
+                " | REALITY | @shahid_ehsan(nazri) | Donated | FR🇫🇷 | 0️⃣2️⃣",
                 " | REALITY | @mahsaamini | Donated | SE🇸🇪 | 0️⃣1️⃣",
                 " | REALITY | @mahsaamini | Donated | SE🇸🇪 | 0️⃣2️⃣",
                 " | REALITY | @mahsaamini | Donated | SE🇸🇪 | 0️⃣3️⃣",
@@ -4447,7 +4447,7 @@
             }
         },
         {
-            "tag": " | REALITY | @shahid_ehsan(nazri) | Donated | DE🇩🇪 | 0️⃣1️⃣",
+            "tag": " | REALITY | @shahid_ehsan(nazri) | Donated | FR🇫🇷 | 0️⃣1️⃣",
             "type": "vless",
             "server": "5.230.67.241",
             "server_port": 22,
@@ -4475,7 +4475,7 @@
             }
         },
         {
-            "tag": " | REALITY | @shahid_ehsan(nazri) | Donated | DE🇩🇪 | 0️⃣2️⃣",
+            "tag": " | REALITY | @shahid_ehsan(nazri) | Donated | FR🇫🇷 | 0️⃣2️⃣",
             "type": "vless",
             "server": "5.230.67.241",
             "server_port": 443,

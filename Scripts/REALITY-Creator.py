@@ -5,6 +5,7 @@ import regex
 from collections import namedtuple
 import os
 import base64
+import json
 
 #################### start of Functions
 def get_config(urls):
@@ -40,12 +41,40 @@ def extract_flag(line):
     flag = match.group() if match else ''
     return flag
 ####################
+def Vmess_rename(vmess_config, new_name):
+    # Decode vmess
+    vmess_data = vmess_config[8:]  # remove "vmess://"
+    config = json.loads(base64.b64decode(vmess_data))
+
+    # Rename
+    config["ps"] = new_name
+
+    # Encode vmess
+    encoded_data = base64.b64encode(json.dumps(config).encode()).decode()
+    vmess_config = "vmess://" + encoded_data
+
+    return vmess_config
+####################
 
 def rename_configs(content, name):
     lines = content.split('\n')
     new_lines = []
     for i, line in enumerate(lines):
-        if '#' in line:
+        if line.startswith('vmess://'):
+            # Extract country flag
+            flag = extract_flag(line)
+            
+            # Get current time and date
+            now = datetime.now(pytz.timezone('Asia/Tehran'))
+            hour = now.strftime('%H:%M')
+            date = now.strftime('%m-%d')
+            
+            # Construct new name
+            new_name = f'|{flag}|{hour}|{date}|{name}|{i+1}|'
+            
+            # Rename vmess configuration
+            line = Vmess_rename(line, new_name)
+        elif '#' in line:
             # Extract country flag
             flag = extract_flag(line)
             
@@ -53,12 +82,14 @@ def rename_configs(content, name):
             line = line.split('#')[0]
             
             now = datetime.now(pytz.timezone('Asia/Tehran'))
-            hour = now.strftime('%H:%M:%S')
-            date = now.strftime('%Y-%m-%d')
+            hour = now.strftime('%H:%M')
+            date = now.strftime('%m-%d')
             # Add flag to new name
             line += f'#|{flag}|{hour}|{date}|{name}|{i+1}|'
         new_lines.append(line)
     return '\n'.join(new_lines)
+
+
 ####################
 
 def save_to_file(content, filename):
@@ -100,13 +131,14 @@ def Create_SUBs(users, responses, PROTOCOL):
             content = 'vless://64694D4A-2C05-4FFE-AEF1-68C0169CCCB7@146.248.115.39:443?encryption=none&fp=firefox&mode=gun&pbk=TXpA-KUEqsg6YlZUXf0gZIe14rFjKZZNAqWzjruNoh8&security=reality&serviceName=&sid=790D3C76&sni=www.speedtest.net&spx=%2F&type=grpc#Your-subscription-has-ended'
         else:
             merged_content = merge_content(responses)
+            merged_content = remove_lines(merged_content,6)
             content = rename_configs(merged_content, user.username)
             line = f'vless://64694D4A-2C05-4FFE-AEF1-68C0169CCCB7@146.248.115.39:443?encryption=none&fp=firefox&mode=gun&pbk=TXpA-KUEqsg6YlZUXf0gZIe14rFjKZZNAqWzjruNoh8&security=reality&serviceName=&sid=790D3C76&sni=www.speedtest.net&spx=%2F&type=grpc#|👤User: {user.username}|⌛️Remain Days: {user.date}|'
             content = line + '\n' + content
 
         filename = f'SUB/{PROTOCOL}-{user.username}'
         with open(filename, 'w') as f:
-            f.write(content)
+            f.write(content)            
 
 ########################### end of functions
 

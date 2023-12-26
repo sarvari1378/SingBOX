@@ -119,4 +119,4 @@ urls = [
 ]
 
 responses = get_config(urls)
-Create_SUBs(users, responses, 'REALITY')
+Create_SUBs(users, responses, 'Worker')

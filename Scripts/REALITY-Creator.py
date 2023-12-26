@@ -36,16 +36,31 @@ def merge_content(responses):
 
 
 ####################
-def extract_flag(line):
+
+def Simple_extract_flag(line):
+    
     match = regex.search(r'\p{So}\p{So}', line)
     flag = match.group() if match else ''
+    
     return flag
+
+
+def extract_flag(line):
+    if line.startswith('vmess://'):
+        line = line[8:]
+        line = json.loads(base64.b64decode(line))
+        namePart = line["ps"]
+        flag = Simple_extract_flag(namePart)
+    else:
+        flag = Simple_extract_flag(line)
+    return flag
+
 ####################
 def Vmess_rename(vmess_config, new_name):
     # Decode vmess
     vmess_data = vmess_config[8:]  # remove "vmess://"
     config = json.loads(base64.b64decode(vmess_data))
-
+    
     # Rename
     config["ps"] = new_name
 
@@ -54,6 +69,7 @@ def Vmess_rename(vmess_config, new_name):
     vmess_config = "vmess://" + encoded_data
 
     return vmess_config
+
 ####################
 
 def rename_configs(content, name):
@@ -62,8 +78,10 @@ def rename_configs(content, name):
     for i, line in enumerate(lines):
         if line.startswith('vmess://'):
             # Extract country flag
+            
             flag = extract_flag(line)
             
+
             # Get current time and date
             now = datetime.now(pytz.timezone('Asia/Tehran'))
             hour = now.strftime('%H:%M')

@@ -165,7 +165,8 @@ User_url = 'https://raw.githubusercontent.com/sarvari1378/SingBOX/main/Users.txt
 
 users = get_users(User_url)
 urls = [
-    "https://api.yebekhe.link/tested-config/?operator=mci&base64=true"
+    "https://api.yebekhe.link/tested-config/?operator=mci&base64=true",
+    "http://51.77.38.99/subscribe.txt"
 ]
 
 responses = get_config(urls)

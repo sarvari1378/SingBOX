@@ -86,7 +86,7 @@ def rename_configs(content, name):
             # Get current time and date
             now = datetime.now(pytz.timezone('Asia/Tehran'))
             hour = now.strftime('%H:%M')
-            date = now.strftime('%m-%d')
+            date = jdatetime.date.today().strftime('%Y-%m-%d')
             
             # Construct new name
             new_name = f'|{flag}|{hour}|{date}|{name}|{i+1}|'

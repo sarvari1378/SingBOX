@@ -32,8 +32,8 @@ jobs:
     - name: Run REALITY-Creator
       run: python Scripts/REALITY-Creator.py  
    
-    - name: Run WORKER-Creator
-      run: python Scripts/WORKER-Creator.py  
+    ##- name: Run WORKER-Creator
+      ##run: python Scripts/WORKER-Creator.py  
    
     - name: Run TUIC-Creator
       run: python Scripts/TUIC-Creator.py

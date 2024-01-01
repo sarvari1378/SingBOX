@@ -116,7 +116,7 @@
                 " | REALITY | @v2logy | DE🇩🇪 | 0️⃣4️⃣",
                 " | REALITY | @V2rayCollectorDonate | SE🇸🇪 | 0️⃣3️⃣",
                 " | REALITY | @V2rayCollectorDonate | SE🇸🇪 | 0️⃣4️⃣",
-                " | REALITY | @V2RayTz | FI🇫🇮 | 0️⃣1️⃣",
+                " | REALITY | @V2RayTz | FI🇫🇮 | 0️⃣2️⃣",
                 " | REALITY | @FreakConfig | DE🇩🇪 | 0️⃣1️⃣",
                 " | REALITY | @flyv2ray | TR🇹🇷 | 0️⃣6️⃣",
                 " | REALITY | @nofiltering2 | NL🇳🇱 | 0️⃣3️⃣",
@@ -324,7 +324,7 @@
                 " | REALITY | @v2logy | DE🇩🇪 | 0️⃣4️⃣",
                 " | REALITY | @V2rayCollectorDonate | SE🇸🇪 | 0️⃣3️⃣",
                 " | REALITY | @V2rayCollectorDonate | SE🇸🇪 | 0️⃣4️⃣",
-                " | REALITY | @V2RayTz | FI🇫🇮 | 0️⃣1️⃣",
+                " | REALITY | @V2RayTz | FI🇫🇮 | 0️⃣2️⃣",
                 " | REALITY | @FreakConfig | DE🇩🇪 | 0️⃣1️⃣",
                 " | REALITY | @flyv2ray | TR🇹🇷 | 0️⃣6️⃣",
                 " | REALITY | @nofiltering2 | NL🇳🇱 | 0️⃣3️⃣",
@@ -837,7 +837,7 @@
             }
         },
         {
-            "tag": " | REALITY | @V2RayTz | FI🇫🇮 | 0️⃣1️⃣",
+            "tag": " | REALITY | @V2RayTz | FI🇫🇮 | 0️⃣2️⃣",
             "type": "vless",
             "server": "65.109.227.210",
             "server_port": 443,

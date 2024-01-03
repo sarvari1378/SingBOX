@@ -10,7 +10,7 @@ FaegheArbabi, 27
 FahimeSarvari, 99942
 Farzan, 99942
 FatimaVakili, 35
-Ghazale, -1
+Ghazale, 30
 HamidSarvari, 99942
 Hesari, 27
 Mahoor, 99942

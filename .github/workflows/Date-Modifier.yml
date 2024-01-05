@@ -10,23 +10,21 @@ jobs:
         uses: actions/checkout@v3
         with:
           ref: main
-      - name: Update Users.txt
+     
+      
+      - name: Install dependencies
         run: |
-          while IFS= read -r line; do
-            name=$(echo "$line" | cut -d',' -f1)
-            number=$(echo "$line" | cut -d',' -f2)
-            new_number=$((number-1))
-            if [ $new_number -ge -5 ]; then
-              echo "$name, $new_number" >> Users.tmp
-            fi
-          done < <(sort Users.txt)
-          mv Users.tmp Users.txt
-      - name: Set up git
+          python -m pip install --upgrade pip
+          pip install requests
+          
+      - name: Run Date_Modifier
         run: |
-          git config --global user.email "you@example.com"
-          git config --global user.name "Your Name"
-      - name: Commit changes
+          python Scripts/Date_Modifier.py  
+       
+      - name: Commit and push changes
         run: |
-          git add Users.txt
-          git commit -m "Update Users.txt"
-          git push origin main
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Update files" || exit 0  # Exit successfully if there's nothing to commit
+          git push --force

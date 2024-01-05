@@ -26,7 +26,7 @@ def write_users_to_file(users, filename):
         for user in users:
             line = f"{user.name}, {user.date}"
             if user.tel_username:
-                line += f", @{user.tel_username}"
+                line += f", {user.tel_username}"
             file.write(line + '\n')
 
 

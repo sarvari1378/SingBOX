@@ -31,7 +31,7 @@ def write_users_to_file(users, filename):
 
 
 # Example of usage
-users = read_users_from_url('https://raw.githubusercontent.com/sarvari1378/GPTscripts/main/Users.txt')
+users = read_users_from_url('https://raw.githubusercontent.com/sarvari1378/SingBOX/main/Users.txt')
 
 for user in users:
     user.date = user.date - 1

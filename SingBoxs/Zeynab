@@ -108,9 +108,12 @@
                 "URL-TEST | ",
                 " | REALITY | @EliV2ray | US🇺🇸 | 0️⃣4️⃣",
                 " | REALITY | @EliV2ray | US🇺🇸 | 0️⃣5️⃣",
-                " | REALITY | @V2rayCollectorDonate | DE🇩🇪 | 0️⃣6️⃣",
+                " | REALITY | @V2rayCollectorDonate | US🇺🇸 | 0️⃣2️⃣",
+                " | REALITY | @V2rayCollectorDonate | DE🇩🇪 | 0️⃣8️⃣",
                 " | REALITY | @v2ray_swhil | DE🇩🇪 | 0️⃣1️⃣",
-                " | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣2️⃣",
+                " | REALITY | @V2RayTz | SE🇸🇪 | 0️⃣1️⃣",
+                " | REALITY | @V2RayTz | SE🇸🇪 | 0️⃣2️⃣",
+                " | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣6️⃣",
                 " | REALITY | @fnet00 | DE🇩🇪 | 0️⃣1️⃣",
                 " | REALITY | @vpn_go67 | FI🇫🇮 | 0️⃣1️⃣",
                 " | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣",
@@ -185,9 +188,12 @@
             "outbounds": [
                 " | REALITY | @EliV2ray | US🇺🇸 | 0️⃣4️⃣",
                 " | REALITY | @EliV2ray | US🇺🇸 | 0️⃣5️⃣",
-                " | REALITY | @V2rayCollectorDonate | DE🇩🇪 | 0️⃣6️⃣",
+                " | REALITY | @V2rayCollectorDonate | US🇺🇸 | 0️⃣2️⃣",
+                " | REALITY | @V2rayCollectorDonate | DE🇩🇪 | 0️⃣8️⃣",
                 " | REALITY | @v2ray_swhil | DE🇩🇪 | 0️⃣1️⃣",
-                " | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣2️⃣",
+                " | REALITY | @V2RayTz | SE🇸🇪 | 0️⃣1️⃣",
+                " | REALITY | @V2RayTz | SE🇸🇪 | 0️⃣2️⃣",
+                " | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣6️⃣",
                 " | REALITY | @fnet00 | DE🇩🇪 | 0️⃣1️⃣",
                 " | REALITY | @vpn_go67 | FI🇫🇮 | 0️⃣1️⃣",
                 " | REALITY | @freeconfigv2 | DE🇩🇪 | 0️⃣2️⃣",
@@ -316,7 +322,42 @@
             }
         },
         {
-            "tag": " | REALITY | @V2rayCollectorDonate | DE🇩🇪 | 0️⃣6️⃣",
+            "tag": " | REALITY | @V2rayCollectorDonate | US🇺🇸 | 0️⃣2️⃣",
+            "type": "vless",
+            "server": "146.190.2.170",
+            "server_port": 25365,
+            "uuid": "66a98130-7146-4df6-8ef7-fc6051e3636e",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.discord.com",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "AJgczSVooXamRbfZ1XGejQRiXHeFEI4vtD534MWFMlo",
+                    "short_id": "46158348"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "@ZEDMODEON",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
+            "tag": " | REALITY | @V2rayCollectorDonate | DE🇩🇪 | 0️⃣8️⃣",
             "type": "vless",
             "server": "free01.miraclev2ray.online",
             "server_port": 443,
@@ -372,7 +413,63 @@
             }
         },
         {
-            "tag": " | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣2️⃣",
+            "tag": " | REALITY | @V2RayTz | SE🇸🇪 | 0️⃣1️⃣",
+            "type": "vless",
+            "server": "28-Join.V2RayTz.sbs",
+            "server_port": 443,
+            "uuid": "2c59ff33-916d-459b-a4c0-8b7432c4c3bb",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "lolstatic-a.akamaihd.net",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "epYeD9A7qEJL4zfdb2YgYK7q7RrX_CEYj_xP5arOIkU",
+                    "short_id": "87bf"
+                }
+            }
+        },
+        {
+            "tag": " | REALITY | @V2RayTz | SE🇸🇪 | 0️⃣2️⃣",
+            "type": "vless",
+            "server": "27-Join.V2RayTz.sbs",
+            "server_port": 443,
+            "uuid": "2c59ff33-916d-459b-a4c0-8b7432c4c3bb",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "lolstatic-a.akamaihd.net",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "hSJ9dxBiyK-r8AEJ31tQvOdEfADk8BthO-Y9N8C56Q4",
+                    "short_id": "249e"
+                }
+            }
+        },
+        {
+            "tag": " | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣6️⃣",
             "type": "vless",
             "server": "23-Join.V2RayTz.sbs",
             "server_port": 443,

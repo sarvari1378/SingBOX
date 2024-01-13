@@ -1,4 +1,4 @@
-Abedi, 99933
+Abedi, 99939
 AliDelbaz, 24, @A_Ali_1380
 ArefNazari, 99933
 ArefeKamyab, 13
@@ -22,7 +22,6 @@ Mostafa, 9999975
 PedramHS, 30, @aghapedi8657
 PedramMinai, 107, @books_love_life
 Sajed, 99933
-Samira, -8
 Zeynab, 999975
 hosseinhajilo, 15, @h281173
 karimian, 9, @a_karimianz

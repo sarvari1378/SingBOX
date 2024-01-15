@@ -77,6 +77,8 @@ def Create_SUBs(users, urls,PROCTCOLE):
         else:
             content = get_config(urls)
             content = remove_lines(content,6)
+            content = content.replace('رایگان', ' ')
+
 
         filename = f'SUB/{PROCTCOLE}-{user.username}'
         with open(filename, 'w') as f:

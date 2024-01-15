@@ -83,7 +83,7 @@ def Create_SUBs(users, urls,PROCTCOLE):
             f.write(content)
 
 
-url = 'https://raw.githubusercontent.com/sarvari1378/GPTscripts/main/Users.txt'
+url = 'https://raw.githubusercontent.com/sarvari1378/SingBOX/main/Users.txt'
 users = get_users(url)
 urls = ["https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/singbox/tuic.json"]
 

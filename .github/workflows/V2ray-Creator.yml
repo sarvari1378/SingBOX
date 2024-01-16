@@ -40,6 +40,9 @@ jobs:
         
     - name: Run TUIC-Creator
       run: python Scripts/TUIC-Creator.py
+
+    - name: Run WIRE-Creator
+      run: python Scripts/WIRE-Creator.py
       
     - name: Commit and push changes
       run: |

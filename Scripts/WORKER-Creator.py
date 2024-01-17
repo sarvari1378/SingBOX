@@ -165,7 +165,7 @@ User_url = 'https://raw.githubusercontent.com/sarvari1378/SingBOX/main/Users.txt
 
 users = get_users(User_url)
 urls = [
-    "https://nv2ron.ir/subscription.link.QV2RAY?NTYxNTc2Mjk3MS0xNzA4MzM0MTA5"
+    "https://qv2raychannel.top/subscription.link.QV2RAY?NTYxNTc2Mjk3MS0xNzA1NTA1NjI5"
 ]
 
 responses = get_config(urls)

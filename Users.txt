@@ -3,7 +3,6 @@ AliDelbaz, 16, @A_Ali_1380
 ArefNazari, 99925
 ArefeKamyab, 5
 Borji, 99925
-Darvish, -7
 Eagle, 99925
 Elham, 13
 FaegheArbabi, 9, @FaeghekhanOom

@@ -23,6 +23,5 @@ PedramMinai, 97, @books_love_life
 Sajed, 99923
 Zeynab, 999965
 hosseinhajilo, 5, @h281173
-karimian, -1, @a_karimianz
 maryamhajilo, 7, @maryam_hajiloo99
 Samira, 23

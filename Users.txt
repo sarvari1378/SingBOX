@@ -16,7 +16,7 @@ Mahoor, 99923
 Melika, 4
 MohammadReza, 999965
 MohsenKhakestari, 99923
-Mona, -3, @Mona_tahmasbi77
+Mona, -1, @Mona_tahmasbi77
 Mostafa, 9999965
 PedramHS, 20, @aghapedi8657
 PedramMinai, 97, @books_love_life

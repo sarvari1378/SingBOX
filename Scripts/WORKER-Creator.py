@@ -21,8 +21,8 @@ import jdatetime
 # variables
 
 # Telegram API credentials
-api_id = 'TELEGRAM_API_ID'
-api_hash = 'TELEGRAM_API_HASH'
+api_id = os.environ.get('TELEGRAM_API_ID')
+api_hash = os.environ.get('TELEGRAM_API_HASH')
 Session = 'Telegram/Session/@ssarvari1378.session'
 
 

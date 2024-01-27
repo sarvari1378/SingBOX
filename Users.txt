@@ -1,7 +1,7 @@
 Abedi, 99925
 AliDelbaz, 10, @A_Ali_1380
 ArefNazari, 99919
-ArefeKamyab, -1
+ArefeKamyab, -5
 Borji, 99919
 Eagle, 99919
 Elham, 7

@@ -101,10 +101,10 @@
             "outbounds": [
                 "URL-TEST",
                 "🇺🇸US | tuic | @FAKEOFTVC | 0",
-                "🇺🇸US | tuic | @TUICity | 34",
-                "🇳🇱NL | tuic | @TUICity | 45",
-                "🇩🇪DE | tuic | @TUICity | 46",
-                "🇺🇸US | tuic | @TUICity | 48"
+                "🇺🇸US | tuic | @TUICity | 47",
+                "🇳🇱NL | tuic | @TUICity | 58",
+                "🇩🇪DE | tuic | @TUICity | 59",
+                "🇺🇸US | tuic | @TUICity | 61"
             ]
         },
         {
@@ -112,10 +112,10 @@
             "type": "urltest",
             "outbounds": [
                 "🇺🇸US | tuic | @FAKEOFTVC | 0",
-                "🇺🇸US | tuic | @TUICity | 34",
-                "🇳🇱NL | tuic | @TUICity | 45",
-                "🇩🇪DE | tuic | @TUICity | 46",
-                "🇺🇸US | tuic | @TUICity | 48"
+                "🇺🇸US | tuic | @TUICity | 47",
+                "🇳🇱NL | tuic | @TUICity | 58",
+                "🇩🇪DE | tuic | @TUICity | 59",
+                "🇺🇸US | tuic | @TUICity | 61"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "3m",
@@ -161,7 +161,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | tuic | @TUICity | 34",
+            "tag": "🇺🇸US | tuic | @TUICity | 47",
             "type": "tuic",
             "server": "64.110.25.10",
             "server_port": 11227,
@@ -184,7 +184,7 @@
             }
         },
         {
-            "tag": "🇳🇱NL | tuic | @TUICity | 45",
+            "tag": "🇳🇱NL | tuic | @TUICity | 58",
             "type": "tuic",
             "server": "209.250.254.198",
             "server_port": 443,
@@ -207,7 +207,7 @@
             }
         },
         {
-            "tag": "🇩🇪DE | tuic | @TUICity | 46",
+            "tag": "🇩🇪DE | tuic | @TUICity | 59",
             "type": "tuic",
             "server": "136.244.88.153",
             "server_port": 443,
@@ -230,7 +230,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | tuic | @TUICity | 48",
+            "tag": "🇺🇸US | tuic | @TUICity | 61",
             "type": "tuic",
             "server": "108.181.22.239",
             "server_port": 45600,

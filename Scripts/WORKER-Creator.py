@@ -1,3 +1,11 @@
+# libraries
+from telethon.sync import TelegramClient
+import pickle
+import time
+from datetime import datetime, timedelta
+import random
+import re
+import requests
 from datetime import datetime
 import pytz
 import requests
@@ -8,7 +16,91 @@ import base64
 import json
 import jdatetime
 
-#################### start of Functions
+
+
+# variables
+
+# Telegram API credentials
+api_id = 'TELEGRAM_API_ID'
+api_hash = 'TELEGRAM_API_HASH'
+Session = 'Telegram/Session/@ssarvari1378.session'
+
+
+
+# functions
+def send_message(username, message):
+    try:
+        # Get the entity (user) to send the message to
+        target = client.get_entity(username)
+        
+        # Send the message
+        client.send_message(target, message)
+        print(f"Message sent to {username}")
+    except Exception as e:
+        print(f"Failed to send message to {username}: {e}")
+
+def get_last_message_containing_string(username, check_string):
+    try:
+        # Get the entity (user) to check the last message in PV
+        target = client.get_entity(username)
+
+        # Retrieve the last messages in the private chat
+        messages = client.get_messages(target, limit=10)  # You can adjust the limit as needed
+
+        # Iterate through messages in normal order
+        for message in messages:
+            if check_string in message.message:
+                return message.message
+    except Exception as e:
+        print(f"Failed to get last message containing '{check_string}' for {username}: {e}")
+    
+    return None
+
+def extract_url_from_message(message_text):
+    # Regular expression pattern to match URLs
+    url_pattern = r'https?://\S+'
+    
+    # Search for URLs in the message text
+    match = re.search(url_pattern, message_text)
+    
+    if match:
+        return match.group(0)  # Return the matched URL
+    else:
+        return None
+
+def get_last_message_url(username, check_string):
+    try:
+        # Get the last message containing the check_string
+        last_message = get_last_message_containing_string(username, check_string)
+        
+        if last_message:
+            # Extract URL from the last message
+            url = extract_url_from_message(last_message)
+            return url
+    except Exception as e:
+        print(f"Failed to get URL from last message containing '{check_string}' for {username}: {e}")
+    
+    return None
+
+def check_url_content(url, check_string):
+    try:
+        response = requests.get(url)
+        if response.status_code == 200:
+            if check_string in response.text:
+                return False
+            else:
+                return True
+        else:
+            print(f"Failed to fetch content from URL: {url}. Status code: {response.status_code}")
+            return True
+    except requests.RequestException as e:
+        print(f"Request Exception: {e}")
+        return True
+    except Exception as e:
+        print(f"An error occurred: {e}")
+        return True
+
+#################### start of Functions fo creating subs
 def get_config(urls):
     responses = {}
     for url in urls:
@@ -20,7 +112,6 @@ def get_config(urls):
             except requests.exceptions.RequestException as e:
                 print(f"An error occurred: {e}")
     return responses
-
 ####################
 def merge_content(responses):
     merged_content = ''
@@ -34,8 +125,6 @@ def merge_content(responses):
                 # Content is not base64 encoded, add as it is
                 merged_content += content + '\n'
     return merged_content
-
-
 ####################
 
 def Simple_extract_flag(line):
@@ -44,7 +133,6 @@ def Simple_extract_flag(line):
     flag = match.group() if match else ''
     
     return flag
-
 
 def extract_flag(line):
     if line.startswith('vmess://'):
@@ -72,7 +160,6 @@ def Vmess_rename(vmess_config, new_name):
     return vmess_config
 
 ####################
-
 def rename_configs(content, name):
     lines = content.split('\n')
     new_lines = []
@@ -110,19 +197,16 @@ def rename_configs(content, name):
 
 
 ####################
-
 def save_to_file(content, filename):
     with open(filename, 'w') as f:
         f.write(content)
 ####################
-
 def remove_lines(content, num):
     lines = content.split('\n')
     # Remove the first 'num' lines
     del lines[:num]
     return '\n'.join(lines)
 ####################
-
 def get_users(url):
     response = requests.get(url)
     content = response.text.splitlines()
@@ -138,7 +222,6 @@ def get_users(url):
     return users
 
 ####################
-
 def Create_SUBs(users, responses, PROTOCOL):
     # Create 'SUB' directory if it doesn't exist
     if not os.path.exists('SUB'):
@@ -147,26 +230,46 @@ def Create_SUBs(users, responses, PROTOCOL):
     for user in users:
         # Check if user's date as a number is zero or less
         if float(user.date) <= 0:
-            content = 'vless://64694D4A-2C05-4FFE-AEF1-68C0169CCCB7@146.248.115.39:443?encryption=none&fp=firefox&mode=gun&pbk=TXpA-KUEqsg6YlZUXf0gZIe14rFjKZZNAqWzjruNoh8&security=reality&serviceName=&sid=790D3C76&sni=www.speedtest.net&spx=%2F&type=grpc#اشتراک شما به پایان رسیده است.'
+            content = 'vless://64694D4A-2C05-4FFE-AEF1-68C0169CCCB7@146.248.115.39:443?encryption=none&fp=firefox&mode=gun&pbk=TXpA-KUEqsg6YlZUXf0gZIe14rFjKZZNAqWzjruNoh8&security=reality&serviceName=&sid=790D3C76&sni=www.speedtest.net&spx=%2F&type=grpc#Your-subscription-has-ended'
         else:
             merged_content = merge_content(responses)
             merged_content = remove_lines(merged_content,6)
             content = rename_configs(merged_content, user.username)
-            line = f'vless://64694D4A-2C05-4FFE-AEF1-68C0169CCCB7@146.248.115.39:443?encryption=none&fp=firefox&mode=gun&pbk=TXpA-KUEqsg6YlZUXf0gZIe14rFjKZZNAqWzjruNoh8&security=reality&serviceName=&sid=790D3C76&sni=www.speedtest.net&spx=%2F&type=grpc#|👤نام: {user.username}|⌛️روز های باقی مانده: {user.date}|'
+            line = f'vless://64694D4A-2C05-4FFE-AEF1-68C0169CCCB7@146.248.115.39:443?encryption=none&fp=firefox&mode=gun&pbk=TXpA-KUEqsg6YlZUXf0gZIe14rFjKZZNAqWzjruNoh8&security=reality&serviceName=&sid=790D3C76&sni=www.speedtest.net&spx=%2F&type=grpc#|👤User: {user.username}|⌛️Remain Days: {user.date}|'
             content = line + '\n' + content
 
         filename = f'SUB/{PROTOCOL}-{user.username}'
         with open(filename, 'w') as f:
             f.write(content)            
 
-########################### end of functions
+########################### end of functions for creating subs
 
+
+# Create a TelegramClient object
+client = TelegramClient(Session, api_id, api_hash)
+
+
+# Connect to the Telegram servers
+client.start()
+url = get_last_message_url('@Qv2raybot', 'https://')
+check_string = 'trojan://pooya'
+
+#Check if the Main SUB time has ended or not
+if check_url_content(url, check_string):
+        print(f"The content of {url} does not contain '{check_string}'.")
+        used_SUB_link = url 
+else:
+        print(f"The content of {url} contains '{check_string}'.")
+        #getting new SUB
+        send_message('@Qv2raybot', 'Xray')
+        time.sleep(5)
+        used_SUB_link = get_last_message_url('@Qv2raybot', 'https://')
+# Close the connection when done
+client.disconnect()
+
+#Ceate SUBS
 User_url = 'https://raw.githubusercontent.com/sarvari1378/SingBOX/main/Users.txt'
-
 users = get_users(User_url)
-urls = [
-    "https://qv2raychannel.top/subscription.link.QV2RAY?NDYyMjg4MDIxLTE3MDYxNzE0NTc="
-]
-
+urls = [used_SUB_link]
 responses = get_config(urls)
 Create_SUBs(users, responses, 'WORKER')

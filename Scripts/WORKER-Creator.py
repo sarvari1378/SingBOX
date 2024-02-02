@@ -244,29 +244,6 @@ def Create_SUBs(users, responses, PROTOCOL):
 
 ########################### end of functions for creating subs
 
-
-# Create a TelegramClient object
-client = TelegramClient(Session, api_id, api_hash)
-
-
-# Connect to the Telegram servers
-client.start()
-url = get_last_message_url('@Qv2raybot', 'https://')
-check_string = 'trojan://pooya'
-
-#Check if the Main SUB time has ended or not
-if check_url_content(url, check_string):
-        print(f"The content of {url} does not contain '{check_string}'.")
-        used_SUB_link = url 
-else:
-        print(f"The content of {url} contains '{check_string}'.")
-        #getting new SUB
-        send_message('@Qv2raybot', 'Xray')
-        time.sleep(5)
-        used_SUB_link = get_last_message_url('@Qv2raybot', 'https://')
-# Close the connection when done
-client.disconnect()
-
 #Ceate SUBS
 User_url = 'https://raw.githubusercontent.com/sarvari1378/SingBOX/main/Users.txt'
 users = get_users(User_url)

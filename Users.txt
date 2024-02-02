@@ -9,7 +9,7 @@ FaegheArbabi, 27, @FaeghekhanOom
 FahimeSarvari, 99913
 Farzan, 99913
 FatimaVakili, 5, @fatiw_vakili
-Ghazale, 0, @Ghzle_Bn
+Ghazale, 30, @Ghzle_Bn
 HamidSarvari, 99913
 Hesari, 26, @Sweet_life22
 Mahoor, 99913

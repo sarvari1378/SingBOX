@@ -1,5 +1,5 @@
 Abedi, 99916
-AliDelbaz, 1, @A_Ali_1380
+AliDelbaz, 31, @A_Ali_1380
 ArefNazari, 99910
 ArefeKamyab, 22
 Borji, 99910

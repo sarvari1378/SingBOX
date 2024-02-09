@@ -8,7 +8,7 @@ Test, 4
 FaegheArbabi, 22, @FaeghekhanOom
 FahimeSarvari, 99908
 Farzan, 99908
-FatimaVakili, 0, @fatiw_vakili
+FatimaVakili, 90, @fatiw_vakili
 Ghazale, 25, @Ghzle_Bn
 HamidSarvari, 99908
 Hesari, 21, @Sweet_life22

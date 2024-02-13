@@ -24,10 +24,10 @@ Sajed, 999986
 Zeynab, 999945
 hosseinhajilo, 15, @h281173
 maryamhajilo, 17, @maryam_hajiloo99
-Samira, 3
+Samira, 33
 HosseinAndishmand, 16
 Moshaverinia, 999986
 Mojtabakamyab, 25
 Ela, 25
-Tara, 28, @tara_ba
+Tara, 0, @tara_ba
 Behnaz, 29

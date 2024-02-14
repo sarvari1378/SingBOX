@@ -4,7 +4,6 @@ ArefNazari, 99903
 ArefeKamyab, 15
 Borji, 99903
 Eagle, 99903
-Test, 0
 FaegheArbabi, 17, @FaeghekhanOom
 FahimeSarvari, 99903
 Farzan, 99903
@@ -27,7 +26,7 @@ maryamhajilo, 17, @maryam_hajiloo99
 Samira, 33
 HosseinAndishmand, 16
 Moshaverinia, 999986
-Mojtabakamyab, 25
+Mojtabakamyab, 30
 Ela, 25
 Tara, 30, @tara_ba
 Behnaz, 29

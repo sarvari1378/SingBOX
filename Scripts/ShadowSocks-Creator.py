@@ -165,7 +165,7 @@ User_url = 'https://raw.githubusercontent.com/sarvari1378/SingBOX/main/Users.txt
 
 users = get_users(User_url)
 urls = [
-    "https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/normal/shadowsocks"
+    "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/shadowsocks"
 ]
 
 responses = get_config(urls)

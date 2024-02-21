@@ -46,6 +46,10 @@ jobs:
 
       - name: Run WIRE-Creator
         run: python Scripts/WIRE-Creator.py
+      
+      - name: Run WIRE-Creator
+        run: python Scripts/ShadowSocks-Creator.py
+
           
       - name: Commit and push changes
         run: |

@@ -39,5 +39,4 @@ MahnazKamyab, 26
 HosseinKamyab, 26
 Test, 3
 AlirezaSazegar, 28
-NoTV2VPN, 3
 Python_vpn_channel, 3

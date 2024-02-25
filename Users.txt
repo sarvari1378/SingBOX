@@ -37,6 +37,4 @@ Kamyab_3, 25
 Amirparnan, 23
 MahnazKamyab, 25
 HosseinKamyab, 25
-Test, 2
 AlirezaSazegar, 27
-Python_vpn_channel, 2

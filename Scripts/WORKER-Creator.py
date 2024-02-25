@@ -1,9 +1,6 @@
 # libraries
 from telethon.sync import TelegramClient
-import pickle
-import time
 from datetime import datetime, timedelta
-import random
 import re
 import requests
 from datetime import datetime
@@ -23,11 +20,78 @@ import jdatetime
 # Telegram API credentials
 api_id = os.environ.get('TELEGRAM_API_ID')
 api_hash = os.environ.get('TELEGRAM_API_HASH')
-Session = 'Telegram/Session/@ssarvari1378.session'
+session_file = 'Telegram/Session/@AliDelbaz.session'
 
 
 
 # functions
+
+
+def get_last_message_from_id(client, sender_id):
+    # Get the last message sent by the specified sender_id
+    messages = client.get_messages(sender_id, limit=1)
+    
+    # Return the message text if available, otherwise return None
+    if messages:
+        return messages[0].message
+    else:
+        return None
+    
+def extract_link(text):
+    # Regular expression pattern to match HTTPS links
+    pattern = r'https://\S+'
+    
+    # Find all matches of the pattern in the text
+    matches = re.findall(pattern, text)
+    
+    # Return the first match (if any)
+    if matches:
+        return matches[0]
+    else:
+        return None
+
+def check_url(url, phrase):
+    try:
+        # Make a GET request to the URL
+        response = requests.get(url)
+        
+        # Check if the request was successful (status code 200)
+        if response.status_code == 200:
+            # Search for the phrase in the raw content of the response
+            if phrase in response.text:
+                return True
+            else:
+                return False
+        else:
+            print(f"Request failed with status code: {response.status_code}")
+            return False
+    except requests.RequestException as e:
+        # Handle any exceptions that may occur during the request
+        print(f"Error: {e}")
+        return False
+
+
+def Provide_Link ():
+    client = TelegramClient(session_file, api_id, api_hash)
+    client.start()
+    Last_message = get_last_message_from_id(client,'@Qv2raybot')
+    Last_Link = extract_link(Last_message)
+
+    check_url (Last_Link, 'trojan://pooya')
+
+    if check_url == True:
+        print
+        maghsad = "@Qv2raybot"
+        message = "Xray"
+        client.send_message(maghsad, message)
+        Last_message = get_last_message_from_id(client,'@Qv2raybot')
+        Last_Link = extract_link(Last_message)
+        Using_link = Last_Link
+    else:
+        Using_link = Last_Link
+    client.disconnect()
+
+    return Using_link
 
 #################### start of Functions fo creating subs
 def get_config(urls):
@@ -176,11 +240,16 @@ def Create_SUBs(users, responses, PROTOCOL):
         with open(filename, 'w') as f:
             f.write(content)            
 
+###########################
+
 ########################### end of functions for creating subs
 
 #Ceate SUBS
+
+Using_link = Provide_Link()
 User_url = 'https://raw.githubusercontent.com/sarvari1378/SingBOX/main/Users.txt'
 users = get_users(User_url)
-urls = ['https://af5734d8-de4d-4ce3-9572-be8d6fc682ae.qconnect.top/cce04e91-40ff-461a-a600-cc572811de0cU049']
+urls = []
+urls.append(Using_link)
 responses = get_config(urls)
 Create_SUBs(users, responses, 'WORKER')

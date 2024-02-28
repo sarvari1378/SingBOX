@@ -37,6 +37,6 @@ Kamyab_3, 22
 Amirparnan, 20
 MahnazKamyab, 22
 HosseinKamyab, 22
-AlirezaSazegar, 996
+AlirezaSazegar, 900
 Torabpour, 28
 Gholinezhad, 28

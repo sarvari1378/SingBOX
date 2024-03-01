@@ -249,7 +249,7 @@ def Create_SUBs(users, responses, PROTOCOL):
 Using_link = Provide_Link()
 User_url = 'https://raw.githubusercontent.com/sarvari1378/SingBOX/main/Users.txt'
 users = get_users(User_url)
-urls = []
+urls = ['https://af5734d8-de4d-4ce3-9572-be8d6fc682ae.qconnect.top/cce04e91-40ff-461a-a600-cc572811de0cU049']
 urls.append(Using_link)
 responses = get_config(urls)
 Create_SUBs(users, responses, 'WORKER')

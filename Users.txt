@@ -33,7 +33,6 @@ HosseinKamyab, 20
 AlirezaSazegar, 898
 Torabpour, 26
 Gholinezhad, 26
-Haghighi, 1
 Mom, 995
 Father, 995
 VIP, 998

@@ -37,3 +37,4 @@ Haghighi, 1
 Mom, 995
 Father, 995
 VIP, 998
+Deli, 30

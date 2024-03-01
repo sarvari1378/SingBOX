@@ -34,3 +34,5 @@ AlirezaSazegar, 898
 Torabpour, 26
 Gholinezhad, 26
 Haghighi, 1
+Mom, 998
+Father, 998

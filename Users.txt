@@ -1,6 +1,6 @@
 AliDelbaz, 27, @A_Ali_1380
 ArefNazari, 972
-ArefeKamyab, 987
+ArefeKamyab, 30
 Borji, 990
 FaegheArbabi, 20, @FaeghekhanOom
 FahimeSarvari, 972
@@ -34,10 +34,9 @@ AlirezaSazegar, 887
 Torabpour, 15
 Gholinezhad, 15
 Mom, 984
-Father, 984
 VIP, 987
 Deli, 19
 Abedi, 22
 Elham, 23
 Donya, 27
-NegarErfani, -1, @NegarErfani1973
+

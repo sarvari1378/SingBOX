@@ -21,7 +21,7 @@ HosseinAndishmand, 17, @andishmand_h
 Moshaverinia, 970
 Mojtabakamyab, 24
 Ela, 26
-Tara, 1, @tara_ba
+Tara, 31, @tara_ba
 Behnaz, 30
 RezaSaeedifar, 1, @saeedifarahmadreza
 PariaGhasemi, 2, @Paria_ghasemi

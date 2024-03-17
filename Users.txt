@@ -24,7 +24,7 @@ Ela, 23
 Tara, 28, @tara_ba
 Behnaz, 27
 PariaGhasemi, 29, @Paria_ghasemi
-Yasamin, 2, @yas_min94
+Yasamin, 12, @yas_min94
 Kamyab_3, 4
 Amirparnan, 2
 MahnazKamyab, 4

@@ -26,7 +26,7 @@ Behnaz, 23
 PariaGhasemi, 25, @Paria_ghasemi
 Yasamin, 8, @yas_min94
 Kamyab_3, 0
-Amirparnan, -2
+Amirparnan, 30
 MahnazKamyab, 0
 HosseinKamyab, 0
 AlirezaSazegar, 878

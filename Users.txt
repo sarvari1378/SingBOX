@@ -28,7 +28,6 @@ Yasamin, 2, @yas_min94
 Amirparnan, 24
 AlirezaSazegar, 872
 Torabpour, 30
-Gholinezhad, 0
 Mom, 966
 BehnazKhosravi, 19
 Deli, 4

@@ -14,8 +14,7 @@ Mona, 0, @Mona_tahmasbi77
 Mostafa, 953
 PedramHS, 15, @aghapedi8657
 PedramMinai, 31, @books_love_life
-hosseinhajilo, -1, @h281173
-maryamhajilo, 1, @maryam_hajiloo99
+maryamhajilo, 31, @maryam_hajiloo99
 Samira, 17
 HosseinAndishmand, 0, @andishmand_h
 Moshaverinia, 953

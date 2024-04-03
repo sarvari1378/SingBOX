@@ -30,7 +30,7 @@ Torabpour, 22
 Mom, 958
 BehnazKhosravi, 11
 Deli, 26
-Abedi, -1
+Abedi, 31
 Elham, 0
 Donya, 4
 AtieKamyab, 24

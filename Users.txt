@@ -16,14 +16,12 @@ PedramHS, 6, @aghapedi8657
 PedramMinai, 22, @books_love_life
 maryamhajilo, 22, @maryam_hajiloo99
 Samira, 8
-HosseinAndishmand, -9, @andishmand_h
 Moshaverinia, 944
 Mojtabakamyab, 30
 Ela, 30, @ela7675
 Tara, 5, @tara_ba
 Behnaz, 4
 PariaGhasemi, 6, @Paria_ghasemi
-Yasamin, -11, @yas_min94
 Amirparnan, 11
 AlirezaSazegar, 859
 Torabpour, 17
@@ -31,6 +29,5 @@ Mom, 953
 BehnazKhosravi, 6
 Deli, 21
 Abedi, 26
-Elham, -5
-Donya, -1
+Donya, 30
 AtieKamyab, 19

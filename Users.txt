@@ -21,7 +21,7 @@ Mojtabakamyab, 24
 Ela, 24, @ela7675
 Tara, 29, @tara_ba
 Behnaz, 28
-PariaGhasemi, 0, @Paria_ghasemi
+PariaGhasemi, 30, @Paria_ghasemi
 Amirparnan, 5
 AlirezaSazegar, 853
 Torabpour, 11

@@ -22,7 +22,7 @@ Ela, 19, @ela7675
 Tara, 24, @tara_ba
 Behnaz, 23
 PariaGhasemi, 25, @Paria_ghasemi
-Amirparnan, 0
+Amirparnan, 30
 Torabpour, 6
 Mom, 942
 Deli, 10

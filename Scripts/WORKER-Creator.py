@@ -248,6 +248,6 @@ def Create_SUBs(users, responses, PROTOCOL):
 
 User_url = 'https://raw.githubusercontent.com/sarvari1378/SingBOX/main/Users.txt'
 users = get_users(User_url)
-urls = ['https://af5734d8-de4d-4ce3-9572-be8d6fc682ae.qconnect.top/2d1190a3-3395-4135-b6af-d68fc2de302eU102']
+urls = ['https://af5734d8-de4d-4ce3-9572-be8d6fc682ae.qconnect.top/2d1190a3-3395-4135-b6af-d68fc2de302eU102','https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/vmess']
 responses = get_config(urls)
 Create_SUBs(users, responses, 'WORKER')

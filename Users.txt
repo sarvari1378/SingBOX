@@ -3,7 +3,6 @@ VIP, 956
 NafiseKamyab, 14
 Borji, 944
 FaegheArbabi, 4, @FaeghekhanOom
-Hesam, -1, @yas_min94
 Farzan, 926
 FatimaVakili, 12, @fatiw_vakili
 Ghazale, 7, @Ghzle_Bn

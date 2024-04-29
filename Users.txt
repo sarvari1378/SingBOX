@@ -24,7 +24,7 @@ PariaGhasemi, 15, @Paria_ghasemi
 Amirparnan, 20
 Torabpour, -4
 Mom, 932
-Deli, 0
+Deli, 30
 Abedi, 5
 Donya, 9
 AtieKamyab, 28

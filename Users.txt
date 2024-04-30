@@ -2,7 +2,7 @@ AliDelbaz, 8, @A_Ali_1380
 VIP, 952
 NafiseKamyab, 11
 Borji, 941
-FaegheArbabi, 1, @FaeghekhanOom
+FaegheArbabi, 31, @FaeghekhanOom
 Farzan, 923
 FatimaVakili, 9, @fatiw_vakili
 Ghazale, 4, @Ghzle_Bn

@@ -23,10 +23,10 @@ PariaGhasemi, 14, @Paria_ghasemi
 Amirparnan, 19
 Mom, 931
 Deli, 29
-Abedi, 4
+Abedi, 4, @imohammadabedi
 Donya, 8
 AtieKamyab, 27
 Rozhana, 14, @roozhanaa
-AlirezaSazegar, 17
+AlirezaSazegar, 17, @Sazegar_telegram
 Parham, 20
 ArashYousefi, 30

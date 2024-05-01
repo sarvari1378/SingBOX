@@ -21,7 +21,6 @@ Tara, 13, @tara_ba
 Behnaz, 12
 PariaGhasemi, 14, @Paria_ghasemi
 Amirparnan, 19
-Torabpour, -5
 Mom, 931
 Deli, 29
 Abedi, 4

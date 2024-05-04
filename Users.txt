@@ -30,3 +30,4 @@ Rozhana, 11, @roozhanaa
 AlirezaSazegar, 14, @Sazegar_telegram
 Parham, 17
 ArashYousefi, 27
+Amir@$, 1

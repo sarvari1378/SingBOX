@@ -1,6 +1,5 @@
 AliDelbaz, 23, @A_Ali_1380
 VIP, 937
-NafiseKamyab, -4
 Borji, 926
 FaegheArbabi, 16, @FaeghekhanOom
 Farzan, 908

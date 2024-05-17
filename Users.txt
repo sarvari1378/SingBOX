@@ -22,8 +22,7 @@ Amirparnan, 3
 Mom, 915
 Deli, 13
 AtieKamyab, 11
-Faride, -1
-AlirezaSazegar, 1, @Sazegar_telegram
+AlirezaSazegar, 6, @Sazegar_telegram
 Parham, 4
 ArashYousefi, 14
 Arnavaee, 20

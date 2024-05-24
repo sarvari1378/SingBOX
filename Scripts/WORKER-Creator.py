@@ -248,6 +248,6 @@ def Create_SUBs(users, responses, PROTOCOL):
 
 User_url = 'https://raw.githubusercontent.com/sarvari1378/SingBOX/main/Users.txt'
 users = get_users(User_url)
-urls = ['https://qv2raychannel.top/subscription.link.QV2RAY?NTYxNTc2Mjk3MS0xNzE2NDY0MjE4', 'https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/%40vpnstorefast.txt','https://af5734d8-de4d-4ce3-9572-be8d6fc682ae.qconnect.top/2d1190a3-3395-4135-b6af-d68fc2de302eU102']
+urls = ['https://d2e6a033db368a.nv2ron.ir/07c63fdd-3f35-484a-ae2a-9c32b637b027U002', 'https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/%40vpnstorefast.txt','https://af5734d8-de4d-4ce3-9572-be8d6fc682ae.qconnect.top/2d1190a3-3395-4135-b6af-d68fc2de302eU102']
 responses = get_config(urls)
 Create_SUBs(users, responses, 'WORKER')

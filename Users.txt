@@ -18,7 +18,6 @@ Ela, 13, @ela7675
 Tara, 18, @tara_ba
 Behnaz, 17
 PariaGhasemi, 22, @Paria_ghasemi
-Amirparnan, -6
 Mom, 906
 Deli, 4
 AtieKamyab, 2
@@ -27,4 +26,4 @@ Parham, 25
 ArashYousefi, 10
 Arnavaee, 11
 Andishmand, 20
-MohsenRahmati, 29
+MohsenRahmati, 29, @MR1298

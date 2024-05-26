@@ -11,10 +11,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
-    env:
-      TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
-      TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
@@ -32,24 +28,9 @@ jobs:
       - name: Remove SUB directory
         run: rm -rf SUB
 
-      - name: Run REALITY-Creator
-        run: python Scripts/REALITY-Creator.py  
+      - name: Run Profile-Creator
+        run: python Scripts/Profile-Creator.py  
       
-      - name: Run WORKER-Creator
-        run: python Scripts/WORKER-Creator.py  
-
-      - name: Run SIngBox-Creator
-        run: python Scripts/SingBox-Creator.py  
-          
-      - name: Run TUIC-Creator
-        run: python Scripts/TUIC-Creator.py
-
-      #- name: Run WIRE-Creator
-        #run: python Scripts/WIRE-Creator.py
-      
-      #- name: Run WIRE-Creator
-        #run: python Scripts/ShadowSocks-Creator.py
-
           
       - name: Commit and push changes
         run: |

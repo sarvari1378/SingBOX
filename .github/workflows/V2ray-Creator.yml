@@ -23,13 +23,13 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install pytz requests regex jdatetime telethon
+          pip install pytz requests regex jdatetime
 
       - name: Remove SUB directory
         run: rm -rf SUB
 
       - name: Run Profile-Creator
-        run: python Scripts/Profile-Creator.py  
+        run: python Scripts/Profile_Creator.py  
       
           
       - name: Commit and push changes

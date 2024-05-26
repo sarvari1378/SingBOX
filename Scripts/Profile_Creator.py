@@ -1,5 +1,4 @@
 # libraries
-from telethon.sync import TelegramClient
 import pickle
 import time
 from datetime import datetime, timedelta

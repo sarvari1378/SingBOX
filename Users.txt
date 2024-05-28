@@ -29,4 +29,4 @@ Andishmand, 18
 MohsenRahmati, 27, @MR1298
 Masud, 29
 Zohre, 29
-AmirParnan, 30
+Amirparnan, 30

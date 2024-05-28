@@ -20,7 +20,7 @@ Behnaz, 15
 PariaGhasemi, 20, @Paria_ghasemi
 Mom, 904
 Deli, 2
-AtieKamyab, 0
+AtieKamyab, 30
 AlirezaSazegar, 20, @Sazegar_telegram
 Parham, 23
 ArashYousefi, 8

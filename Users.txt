@@ -19,7 +19,7 @@ Tara, 14, @tara_ba
 Behnaz, 13
 PariaGhasemi, 18, @Paria_ghasemi
 Mom, 902
-Deli, 0
+Deli, 30
 AtieKamyab, 28
 AlirezaSazegar, 18, @Sazegar_telegram
 Parham, 21

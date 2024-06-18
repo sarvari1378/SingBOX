@@ -21,7 +21,7 @@ PariaGhasemi, 0, @Paria_ghasemi
 Mom, 884
 Deli, 12
 AtieKamyab, 10
-AlirezaSazegar, 0, @Sazegar_telegram
+AlirezaSazegar, 30, @Sazegar_telegram
 Parham, 3
 Andishmand, -2
 MohsenRahmati, 7, @MR1298

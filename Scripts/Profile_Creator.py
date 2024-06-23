@@ -14,6 +14,12 @@ import base64
 import json
 import jdatetime
 
+def add_base64_padding(base64_string):
+    padding_needed = 4 - (len(base64_string) % 4)
+    if padding_needed:
+        base64_string += "=" * padding_needed
+    return base64_string
+
 def check_url_content(url, check_string):
     try:
         response = requests.get(url)
@@ -64,19 +70,28 @@ def Simple_extract_flag(line):
 def extract_flag(line):
     if line.startswith('vmess://'):
         line = line[8:]
-        line = json.loads(base64.b64decode(line))
-        namePart = line["ps"]
-        flag = Simple_extract_flag(namePart)
+        line = add_base64_padding(line)
+        try:
+            line = json.loads(base64.b64decode(line))
+            namePart = line["ps"]
+            flag = Simple_extract_flag(namePart)
+        except (json.JSONDecodeError, binascii.Error) as e:
+            print(f"Error decoding base64 or JSON: {e}")
+            flag = ''
     else:
         flag = Simple_extract_flag(line)
     return flag
 
 def Vmess_rename(vmess_config, new_name):
     vmess_data = vmess_config[8:]
-    config = json.loads(base64.b64decode(vmess_data))
-    config["ps"] = new_name
-    encoded_data = base64.b64encode(json.dumps(config).encode()).decode()
-    vmess_config = "vmess://" + encoded_data
+    vmess_data = add_base64_padding(vmess_data)
+    try:
+        config = json.loads(base64.b64decode(vmess_data))
+        config["ps"] = new_name
+        encoded_data = base64.b64encode(json.dumps(config).encode()).decode()
+        vmess_config = "vmess://" + encoded_data
+    except (json.JSONDecodeError, binascii.Error) as e:
+        print(f"Error decoding or encoding JSON: {e}")
     return vmess_config
 
 def rename_configs(content, name):

@@ -20,7 +20,7 @@ Mom, 879
 Deli, 7
 AtieKamyab, 5
 AlirezaSazegar, 25, @Sazegar_telegram
-Parham, -2
+Parham, 30
 MohsenRahmati, 2, @MR1298
 Masud, 4
 Zohre, 4

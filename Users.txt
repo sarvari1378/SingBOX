@@ -1,5 +1,5 @@
 AliDelbaz, 14, @A_Ali_1380
-VIP, 898
+VIP, 800
 Borji, 799
 FaegheArbabi, 7, @FaeghekhanOom
 Farzan, 972

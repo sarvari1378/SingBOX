@@ -23,7 +23,7 @@ AlirezaSazegar, 20, @Sazegar_telegram
 Parham, 25
 MohsenRahmati, -3, @MR1298
 Masud, -1
-Zohre, -1
+Zohre, 30
 Amirparnan, 0
 MohammadHoseinzade, 2
 Mohadese, -2

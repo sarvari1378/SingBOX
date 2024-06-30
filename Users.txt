@@ -23,5 +23,5 @@ AlirezaSazegar, 18, @Sazegar_telegram
 Parham, 23
 Zohre, 28
 Amirparnan, 28
-MohammadHoseinzade, 0
+MohammadHoseinzade, 30
 Mohadese, -4

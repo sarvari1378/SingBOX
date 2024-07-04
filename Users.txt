@@ -4,7 +4,7 @@ Borji, 789
 FaegheArbabi, -3, @FaeghekhanOom
 Farzan, 962
 FatimaVakili, 35, @fatiw_vakili
-Farideh, 1, @Fbhziii
+Farideh, 31, @Fbhziii
 HamidSarvari, 859
 Hesari, 26, @Sweet_life22
 Melika, 24

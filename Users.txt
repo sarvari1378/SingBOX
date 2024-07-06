@@ -1,8 +1,7 @@
 AliDelbaz, 2, @A_Ali_1380
 VIP, 788
 Borji, 787
-FaegheArbabi, -5, @FaeghekhanOom
-Farzan, 960
+Farzan, 800
 FatimaVakili, 33, @fatiw_vakili
 Farideh, 29, @Fbhziii
 HamidSarvari, 857

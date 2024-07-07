@@ -1,4 +1,4 @@
-AliDelbaz, 1, @A_Ali_1380
+AliDelbaz, 31, @A_Ali_1380
 VIP, 787
 Borji, 786
 Farzan, 799

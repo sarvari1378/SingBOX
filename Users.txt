@@ -22,4 +22,4 @@ AlirezaSazegar, 20, @Sazegar_telegram
 Zohre, 0
 Amirparnan, 0
 MohammadHoseinzade, 2
-ghanai, 30
+Ghanai, 30

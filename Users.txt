@@ -20,7 +20,7 @@ Deli, 2
 AtieKamyab, 30, @Arefehkamyab
 AlirezaSazegar, 20, @Sazegar_telegram
 Amirparnan, 0, @Arefehkamyab
-MohammadHoseinzade, 32, 
+MohammadHoseinzade, 32 
 Ghanai, 30, @Mahshid_ghanaei
 Alighanai, 30, @Mahshid_ghanaei
 HomaKhademi, 25, @Arefehkamyab

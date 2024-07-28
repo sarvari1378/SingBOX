@@ -1,5 +1,4 @@
 UserName, 1, @ssarvari1378
 5days, 5, +989156691466
-chatID, 1, 462288021
 Khali, 1
 

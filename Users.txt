@@ -17,9 +17,10 @@ Behnaz, 15
 PariaGhasemi, 20, @Paria_ghasemi
 Mom, 844
 Deli, 2
-AtieKamyab, 0
+AtieKamyab, 30
 AlirezaSazegar, 20, @Sazegar_telegram
 Amirparnan, 0
 MohammadHoseinzade, 2
 Ghanai, 30
 Alighanai, 30
+HomaKhademi, 25

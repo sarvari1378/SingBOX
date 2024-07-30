@@ -1,7 +1,7 @@
 {
     "Protocol": [
       {
-        "Name": "WORKER",
+        "Name": "WORKER-2",
         "Links": [
           "https://d2e6a033db368a.nv2ron.ir/6bc7a1d7-f973-4fbb-82e0-ed9455676940U032"
         ]
@@ -16,6 +16,15 @@
         "Name": "ShadowSocks",
         "Links":[
             "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/shadowsocks"
+        ]
+      },
+      {
+        "Name": "WORKER",
+        "Links":[
+            "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/%40vpnstorefast.txt",
+            "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/Seyyed_Cloud.txt",
+            "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/%40v2Line.txt",
+            "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/%40Freakconfig.txt"
         ]
       },
       {

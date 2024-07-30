@@ -1,5 +1,5 @@
 AliDelbaz, 8, @A_Ali_1380
-VIP, 794
+VIP, 750
 Borji, 791
 Farzan, 776
 FatimaVakili, 9, @fatiw_vakili

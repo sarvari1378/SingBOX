@@ -13,6 +13,7 @@ import os
 import base64
 import json
 import jdatetime
+import binascii  # Added binascii import
 
 def add_base64_padding(base64_string):
     padding_needed = 4 - (len(base64_string) % 4)
@@ -72,7 +73,7 @@ def extract_flag(line):
         line = line[8:]
         line = add_base64_padding(line)
         try:
-            line = json.loads(base64.b64decode(line))
+            line = json.loads(base64.b64decode(line).decode('utf-8'))
             namePart = line["ps"]
             flag = Simple_extract_flag(namePart)
         except (json.JSONDecodeError, binascii.Error) as e:
@@ -86,7 +87,7 @@ def Vmess_rename(vmess_config, new_name):
     vmess_data = vmess_config[8:]
     vmess_data = add_base64_padding(vmess_data)
     try:
-        config = json.loads(base64.b64decode(vmess_data))
+        config = json.loads(base64.b64decode(vmess_data).decode('utf-8'))
         config["ps"] = new_name
         encoded_data = base64.b64encode(json.dumps(config).encode()).decode()
         vmess_config = "vmess://" + encoded_data

@@ -24,4 +24,4 @@ MohammadHoseinzade, 26, 245239916
 Ghanai, 24, @Mahshid_ghanaei
 Alighanai, 24, @Mahshid_ghanaei
 HomaKhademi, 19, @Arefehkamyab
-Zohre, 24
+Zohre, 24, @Farzansarvari

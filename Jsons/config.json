@@ -1,20 +1,6 @@
 {
   "Protocol": [
       {
-          "Name": "REALITY",
-          "Links": [
-              "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/vmess"
-          ],
-          "Split": false
-      },
-      {
-          "Name": "ShadowSocks",
-          "Links": [
-              "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/shadowsocks"
-          ],
-          "Split": false
-      },
-      {
           "Name": "WORKER",
           "Links": [
               "https://qv2raylinks.mobel85128.workers.dev",

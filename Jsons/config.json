@@ -1,34 +1,51 @@
 {
-    "Protocol": [
+  "Protocol": [
       {
-        "Name": "REALITY",
-        "Links":[
-            "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/vmess"
-        ]
+          "Name": "REALITY",
+          "Links": [
+              "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/vmess"
+          ],
+          "Split": false
       },
       {
-        "Name": "ShadowSocks",
-        "Links":[
-            "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/shadowsocks"
-        ]
+          "Name": "ShadowSocks",
+          "Links": [
+              "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/shadowsocks"
+          ],
+          "Split": false
       },
       {
-        "Name": "WORKER",
-        "Links":[
-            "https://qv2raylinks.mobel85128.workers.dev",
-            "https://raw.githubusercontent.com/xc0000e9/deatnote/main/Hiddify-next.fragment",
-            "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/Seyyed_Cloud.txt"
-        ]
+          "Name": "WORKER",
+          "Links": [
+              "https://qv2raylinks.mobel85128.workers.dev",
+              "https://raw.githubusercontent.com/xc0000e9/deatnote/main/Hiddify-next.fragment"
+          ],
+          "Split": false
       },
       {
-        "Name": "BackUp",
-        "Links":[
-            "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/%40vpnstorefast.txt",
-            "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/Seyyed_Cloud.txt",
-            "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/%40v2Line.txt",
-            "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/%40Freakconfig.txt"
-        ]
-      }
-    ]
-  }
-  
+          "Name": "BackUp",
+          "Links": [
+              "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/%40vpnstorefast.txt",
+              "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/Seyyed_Cloud.txt",
+              "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/%40v2Line.txt",
+              "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/%40Freakconfig.txt"
+          ],
+          "Split": false
+      },
+      {
+        "Name": "Fredom",
+        "Links": [
+            "https://falling-hall-5f98.gadol28038.workers.dev/sub",
+            "https://ancient-paper-27a6.nepeno5867.workers.dev/sub",
+            "https://vahid.sajed-the-nerd5501.workers.dev/sub",
+            "https://fragrant-dream-07a4.ms-sarvari13783804.workers.dev/sub",
+            "https://hossein.hosein-ahani82.workers.dev/sub",
+            "https://little-night-b5b8.yadalev566.workers.dev/sub",
+            "https://cold-truth-2604.fiyor71228.workers.dev/sub",
+            "https://shiny-water-ef14.wigil77608.workers.dev/sub"
+
+        ],
+        "Split": true
+    }
+  ]
+}

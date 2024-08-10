@@ -62,23 +62,26 @@ def extract_flag(line):
             namePart = line["ps"]
             flag = Simple_extract_flag(namePart)
         except (json.JSONDecodeError, binascii.Error) as e:
-            print(f"Error decoding base64 or JSON: {e}")
+            pass
             flag = ''
     else:
         flag = Simple_extract_flag(line)
     return flag
 
 def Vmess_rename(vmess_config, new_name):
-    vmess_data = vmess_config[8:]
-    vmess_data = add_base64_padding(vmess_data)
+    vmess_data = vmess_config[8:]  # Remove the 'vmess://' prefix
+    vmess_data = add_base64_padding(vmess_data)  # Ensure base64 string is properly padded
     try:
-        config = json.loads(base64.b64decode(vmess_data).decode('utf-8'))
+        # Decode base64, parse JSON, modify the configuration, and encode it back
+        config = json.loads(base64.b64decode(vmess_data))
         config["ps"] = new_name
         encoded_data = base64.b64encode(json.dumps(config).encode()).decode()
         vmess_config = "vmess://" + encoded_data
-    except (json.JSONDecodeError, binascii.Error) as e:
-        print(f"Error decoding or encoding JSON: {e}")
+    except (json.JSONDecodeError, binascii.Error):
+        # If an error occurs during decoding or JSON processing, handle it silently
+        pass
     return vmess_config
+
 
 def rename_configs(content, name):
     lines = content.split('\n')

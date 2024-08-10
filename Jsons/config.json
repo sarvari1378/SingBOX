@@ -4,7 +4,10 @@
           "Name": "WORKER",
           "Links": [
               "https://qv2raylinks.mobel85128.workers.dev",
-              "https://sub.moryvpnbot.workers.dev/bot/normal"
+              "https://sub.moryvpnbot.workers.dev/bot/normal",
+              "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/%40vpnstorefast.txt",
+              "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/%40v2Line.txt"
+              
           ],
           "Split": false
       },

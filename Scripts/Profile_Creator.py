@@ -1,9 +1,5 @@
 # libraries
-import pickle
-import time
 from datetime import datetime, timedelta
-import random
-import re
 import requests
 from datetime import datetime
 import pytz
@@ -13,31 +9,13 @@ import os
 import base64
 import json
 import jdatetime
-import binascii  # Added binascii import
+import binascii 
 
 def add_base64_padding(base64_string):
     padding_needed = 4 - (len(base64_string) % 4)
     if padding_needed:
         base64_string += "=" * padding_needed
     return base64_string
-
-def check_url_content(url, check_string):
-    try:
-        response = requests.get(url)
-        if response.status_code == 200:
-            if check_string in response.text:
-                return False
-            else:
-                return True
-        else:
-            print(f"Failed to fetch content from URL: {url}. Status code: {response.status_code}")
-            return True
-    except requests.RequestException as e:
-        print(f"Request Exception: {e}")
-        return True
-    except Exception as e:
-        print(f"An error occurred: {e}")
-        return True
 
 def get_config(urls):
     responses = {}
@@ -116,10 +94,6 @@ def rename_configs(content, name):
         new_lines.append(line)
     return '\n'.join(new_lines)
 
-def save_to_file(content, filename):
-    with open(filename, 'w') as f:
-        f.write(content)
-
 def remove_lines(content, num):
     lines = content.split('\n')
     del lines[:num]
@@ -136,67 +110,66 @@ def get_users(url):
             users.append(User(items[0].strip(), items[1].strip()))
     return users
 
-def Create_SUBs_True(users, responses, protocol_name, links):
+def Create_SUBs(users, responses, protocol_name, links=None):
     if not os.path.exists('SUB'):
         os.makedirs('SUB')
     
-    num_links = len(links)
-    num_users = len(users)
-    
-    if num_links == 0:
-        print(f"No links available for protocol: {protocol_name}")
-        return
-
-    # Calculate the number of users per link
-    users_per_link = num_users // num_links
-    remainder = num_users % num_links
-
-    user_index = 0
-    for i, link in enumerate(links):
-        if i >= num_links:
-            break
-        # Determine the range of users for this link
-        start_index = user_index
-        end_index = user_index + users_per_link + (1 if i < remainder else 0)
-        link_users = users[start_index:end_index]
-        user_index = end_index
-        
-        # Get content for the current link
-        if link in responses:
-            content = responses[link]
-        else:
-            print(f"No content found for link: {link}")
-            continue
-
-        # Process content and create SUB files for users
-        merged_content = merge_content({link: content})
-        for user in link_users:
+    if links is None:
+        # Process when 'Split' is False
+        for user in users:
             if float(user.date) <= 0:
                 content = 'vless://64694D4A-2C05-4FFE-AEF1-68C0169CCCB7@146.248.115.39:443?encryption=none&fp=firefox&mode=gun&pbk=TXpA-KUEqsg6YlZUXf0gZIe14rFjKZZNAqWzjruNoh8&security=reality&serviceName=&sid=790D3C76&sni=www.speedtest.net&spx=%2F&type=grpc#اشتراک شما به پایان رسیده است.'
             else:
+                merged_content = merge_content(responses)
                 content = rename_configs(merged_content, user.username)
                 line = f'vless://64694D4A-2C05-4FFE-AEF1-68C0169CCCB7@146.248.115.39:443?encryption=none&fp=firefox&mode=gun&pbk=TXpA-KUEqsg6YlZUXf0gZIe14rFjKZZNAqWzjruNoh8&security=reality&serviceName=&sid=790D3C76&sni=www.speedtest.net&spx=%2F&type=grpc#|👤نام: {user.username}|⌛️روز های باقی مانده: {user.date}|'
                 content = line + '\n' + content
-
             filename = f'SUB/{protocol_name}-{user.username}'
             with open(filename, 'w') as f:
                 f.write(content)
+    else:
+        # Process when 'Split' is True
+        num_links = len(links)
+        num_users = len(users)
+        
+        if num_links == 0:
+            print(f"No links available for protocol: {protocol_name}")
+            return
 
+        # Calculate the number of users per link
+        users_per_link = num_users // num_links
+        remainder = num_users % num_links
 
-def Create_SUBs_False(users, responses, protocol_name):
-    if not os.path.exists('SUB'):
-        os.makedirs('SUB')
-    for user in users:
-        if float(user.date) <= 0:
-            content = 'vless://64694D4A-2C05-4FFE-AEF1-68C0169CCCB7@146.248.115.39:443?encryption=none&fp=firefox&mode=gun&pbk=TXpA-KUEqsg6YlZUXf0gZIe14rFjKZZNAqWzjruNoh8&security=reality&serviceName=&sid=790D3C76&sni=www.speedtest.net&spx=%2F&type=grpc#اشتراک شما به پایان رسیده است.'
-        else:
-            merged_content = merge_content(responses)
-            content = rename_configs(merged_content, user.username)
-            line = f'vless://64694D4A-2C05-4FFE-AEF1-68C0169CCCB7@146.248.115.39:443?encryption=none&fp=firefox&mode=gun&pbk=TXpA-KUEqsg6YlZUXf0gZIe14rFjKZZNAqWzjruNoh8&security=reality&serviceName=&sid=790D3C76&sni=www.speedtest.net&spx=%2F&type=grpc#|👤نام: {user.username}|⌛️روز های باقی مانده: {user.date}|'
-            content = line + '\n' + content
-        filename = f'SUB/{protocol_name}-{user.username}'
-        with open(filename, 'w') as f:
-            f.write(content)
+        user_index = 0
+        for i, link in enumerate(links):
+            if i >= num_links:
+                break
+            # Determine the range of users for this link
+            start_index = user_index
+            end_index = user_index + users_per_link + (1 if i < remainder else 0)
+            link_users = users[start_index:end_index]
+            user_index = end_index
+            
+            # Get content for the current link
+            if link in responses:
+                content = responses[link]
+            else:
+                print(f"No content found for link: {link}")
+                continue
+
+            # Process content and create SUB files for users
+            merged_content = merge_content({link: content})
+            for user in link_users:
+                if float(user.date) <= 0:
+                    content = 'vless://64694D4A-2C05-4FFE-AEF1-68C0169CCCB7@146.248.115.39:443?encryption=none&fp=firefox&mode=gun&pbk=TXpA-KUEqsg6YlZUXf0gZIe14rFjKZZNAqWzjruNoh8&security=reality&serviceName=&sid=790D3C76&sni=www.speedtest.net&spx=%2F&type=grpc#اشتراک شما به پایان رسیده است.'
+                else:
+                    content = rename_configs(merged_content, user.username)
+                    line = f'vless://64694D4A-2C05-4FFE-AEF1-68C0169CCCB7@146.248.115.39:443?encryption=none&fp=firefox&mode=gun&pbk=TXpA-KUEqsg6YlZUXf0gZIe14rFjKZZNAqWzjruNoh8&security=reality&serviceName=&sid=790D3C76&sni=www.speedtest.net&spx=%2F&type=grpc#|👤نام: {user.username}|⌛️روز های باقی مانده: {user.date}|'
+                    content = line + '\n' + content
+
+                filename = f'SUB/{protocol_name}-{user.username}'
+                with open(filename, 'w') as f:
+                    f.write(content)
 
 # Read JSON configuration file
 json_file_path = 'Jsons/config.json'  # Adjust the path to your JSON file
@@ -206,20 +179,19 @@ with open(json_file_path, 'r') as f:
 protocols = config_data['Protocol']
 
 # Get users
-User_url = 'https://raw.githubusercontent.com/sarvari1378/SingBOX/main/Users.txt'
+User_url = 'https://raw.githubusercontent.com/sarvari1378/GPTscripts/main/Users.txt'
 users = get_users(User_url)
 
-# Process only protocols where 'Split' field is True
+# Example usage
 for protocol in protocols:
     protocol_name = protocol['Name']
     protocol_links = protocol['Links']
     
-    # Check if 'Split' field exists and is True, process if it is True
     if protocol.get('Split', False):
         responses = get_config(protocol_links)
-        Create_SUBs_True(users, responses, protocol_name, protocol_links)
+        Create_SUBs(users, responses, protocol_name, protocol_links)
         print(f"{protocol_name} is Splited")
     else:
         responses = get_config(protocol_links)
-        Create_SUBs_False(users, responses, protocol_name)
-        print(f" {protocol_name} is not splited")
+        Create_SUBs(users, responses, protocol_name)
+        print(f"{protocol_name} is not splited")

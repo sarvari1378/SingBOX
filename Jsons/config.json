@@ -3,7 +3,8 @@
       {
           "Name": "WORKER",
           "Links": [
-              "https://qv2raylinks.mobel85128.workers.dev"
+              "https://qv2raylinks.mobel85128.workers.dev",
+              "https://sub.moryvpnbot.workers.dev/bot/normal"
           ],
           "Split": false
       },

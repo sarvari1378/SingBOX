@@ -14,7 +14,7 @@ Behnaz, 26, +989157380448
 PariaGhasemi, 31, @Paria_ghasemi
 Deli, 13, +989351280136
 AtieKamyab, 11, @Arefehkamyab
-AlirezaSazegar, 1, @Sazegar_telegram
+AlirezaSazegar, 31, @Sazegar_telegram
 Amirparnan, 11, @Arefehkamyab
 MohammadHoseinzade, 13, 245239916
 Ghanai, 11, @Mahshid_ghanaei

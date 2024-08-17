@@ -22,7 +22,7 @@
           "Split": false
       },
       {
-          "Name": "shadowSocks",
+          "Name": "ShadowSocks",
           "Links": [
               "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/shadowsocks"
           ],

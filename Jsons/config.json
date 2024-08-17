@@ -22,6 +22,13 @@
           "Split": false
       },
       {
+          "Name": "shadowSocks",
+          "Links": [
+              "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/shadowsocks"
+          ],
+          "Split": false
+      },
+      {
         "Name": "Fredom",
         "Links": [
             "https://falling-hall-5f98.gadol28038.workers.dev/sub",

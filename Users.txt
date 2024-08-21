@@ -24,4 +24,3 @@ Zohre, 6, @Farzansarvari
 PedramHS, 14, @aghapedi8657
 Abedi, 15, @imohammadabedi
 Parham, 25, @Paria_ghasemi
-pakartgraphic, 30, @pakartgraphic

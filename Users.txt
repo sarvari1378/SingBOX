@@ -20,7 +20,7 @@ MohammadHoseinzade, 3, 245239916
 Ghanai, 31, @Mahshid_ghanaei
 Alighanai, 31, @Mahshid_ghanaei
 HomaKhademi, 26, @Arefehkamyab
-Zohre, 1, @Farzansarvari
+Zohre, 31, @Farzansarvari
 PedramHS, 9, @aghapedi8657
 Abedi, 10, @imohammadabedi
 Parham, 20, @Paria_ghasemi

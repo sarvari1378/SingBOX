@@ -13,12 +13,12 @@ Ela, 15, @ela7675
 Behnaz, 16, +989157380448
 PariaGhasemi, 21, @Paria_ghasemi
 Deli, 3, +989351280136
-AtieKamyab, 1, @Arefehkamyab
+AtieKamyab, 31, @Arefehkamyab
 AlirezaSazegar, 21, @Sazegar_telegram
-Amirparnan, 1, @Arefehkamyab
+Amirparnan, 31, @Arefehkamyab
 MohammadHoseinzade, 3, 245239916
-Ghanai, 1, @Mahshid_ghanaei
-Alighanai, 1, @Mahshid_ghanaei
+Ghanai, 31, @Mahshid_ghanaei
+Alighanai, 31, @Mahshid_ghanaei
 HomaKhademi, 26, @Arefehkamyab
 Zohre, 1, @Farzansarvari
 PedramHS, 9, @aghapedi8657

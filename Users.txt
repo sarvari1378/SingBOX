@@ -1,26 +1,26 @@
-Ali, 5, @A_Ali_1380
-VIP, 717
-Farzan, 743
-FatimaVakili, 66, @fatiw_vakili
-Farideh, 2, @Fbhziii
-Hesari, 34, @Sweet_life22
-PedramMinai, 58, @books_love_life
-maryamhajilo, 30, @maryam_hajiloo99
-Moshaverinia, 800
-Mojtabakamyab, 7, @Arefehkamyab
-Ela, 9, @ela7675
-Behnaz, 10, +989157380448
-PariaGhasemi, 15, @Paria_ghasemi
-Deli, 27, +989351280136
-AtieKamyab, 25, @Arefehkamyab
-AlirezaSazegar, 15, @Sazegar_telegram
-Amirparnan, 25, @Arefehkamyab
-MohammadHoseinzade, -3, 245239916
-Ghanai, 25, @Mahshid_ghanaei
-Alighanai, 25, @Mahshid_ghanaei
-HomaKhademi, 20, @Arefehkamyab
-Zohre, 25, @Farzansarvari
-PedramHS, 3, @aghapedi8657
-Abedi, 4, @imohammadabedi
-Parham, 14, @Paria_ghasemi
-Malekaz, 173, @maleka0_0
+Ali, 4, @A_Ali_1380
+VIP, 716
+Farzan, 742
+FatimaVakili, 65, @fatiw_vakili
+Farideh, 1, @Fbhziii
+Hesari, 33, @Sweet_life22
+PedramMinai, 57, @books_love_life
+maryamhajilo, 29, @maryam_hajiloo99
+Moshaverinia, 799
+Mojtabakamyab, 6, @Arefehkamyab
+Ela, 8, @ela7675
+Behnaz, 9, +989157380448
+PariaGhasemi, 14, @Paria_ghasemi
+Deli, 26, +989351280136
+AtieKamyab, 24, @Arefehkamyab
+AlirezaSazegar, 14, @Sazegar_telegram
+Amirparnan, 24, @Arefehkamyab
+MohammadHoseinzade, -4, 245239916
+Ghanai, 24, @Mahshid_ghanaei
+Alighanai, 24, @Mahshid_ghanaei
+HomaKhademi, 19, @Arefehkamyab
+Zohre, 24, @Farzansarvari
+PedramHS, 2, @aghapedi8657
+Abedi, 3, @imohammadabedi
+Parham, 13, @Paria_ghasemi
+Malekaz, 172, @maleka0_0

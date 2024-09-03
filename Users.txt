@@ -20,7 +20,7 @@ Ghanai, 23, @Mahshid_ghanaei
 Alighanai, 23, @Mahshid_ghanaei
 HomaKhademi, 18, @Arefehkamyab
 Zohre, 23, @Farzansarvari
-PedramHS, 1, @aghapedi8657
+PedramHS, 31, @aghapedi8657
 Abedi, 2, @imohammadabedi
 Parham, 12, @Paria_ghasemi
 Malekaz, 171, @maleka0_0

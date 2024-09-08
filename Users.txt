@@ -15,13 +15,11 @@ Deli, 20, +989351280136
 AtieKamyab, 18, @Arefehkamyab
 AlirezaSazegar, 8, @Sazegar_telegram
 Amirparnan, 18, @Arefehkamyab
-MohammadHoseinzade, -10, 245239916
 Ghanai, 18, @Mahshid_ghanaei
 Alighanai, 18, @Mahshid_ghanaei
 HomaKhademi, 13, @Arefehkamyab
 Zohre, 18, @Farzansarvari
 PedramHS, 26, @aghapedi8657
-Abedi, -3, @imohammadabedi
 Parham, 7, @Paria_ghasemi
 Malekaz, 166, @maleka0_0
 Parisa, 29, @parisa_yzdani

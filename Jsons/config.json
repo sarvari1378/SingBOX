@@ -3,9 +3,9 @@
       {
           "Name": "WORKER",
           "Links": [
-              "https://qv2raylinks.mobel85128.workers.dev",
+              "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/%40Qv2rayCONFIG.txt",
               "https://sub.moryvpnbot.workers.dev/bot/normal",
-              "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/%40vpnstorefast.txt",
+              "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/%40DailyV2RY.txt",
               "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/%40v2Line.txt"
               
           ],
@@ -14,10 +14,9 @@
       {
           "Name": "BackUp",
           "Links": [
-              "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/%40vpnstorefast.txt",
-              "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/Seyyed_Cloud.txt",
-              "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/%40v2Line.txt",
-              "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/%40Freakconfig.txt"
+              "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/%40DailyV2RY.txt",
+              "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/%40V2RAYROZ.txt",
+              "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/Seyyed_Cloud.txt"
           ],
           "Split": false
       },

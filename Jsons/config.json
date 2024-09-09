@@ -3,7 +3,7 @@
       {
           "Name": "WORKER",
           "Links": [
-              "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/%40Qv2rayCONFIG.txt",
+              "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/AutoWorker.txt",
               "https://sub.moryvpnbot.workers.dev/bot/normal",
               "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/%40DailyV2RY.txt",
               "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/%40v2Line.txt"

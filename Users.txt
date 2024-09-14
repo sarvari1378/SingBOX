@@ -20,7 +20,7 @@ Alighanai, 12, @Mahshid_ghanaei
 HomaKhademi, 7, @Arefehkamyab
 Zohre, 12, @Farzansarvari
 PedramHS, 20, @aghapedi8657
-Parham, 1, @Chemical700
+Parham, 31, @Chemical700
 Malekaz, 160, @maleka0_0
 Parisa, 23, @parisa_yzdani
 Sepehri, 23, @Chemical700

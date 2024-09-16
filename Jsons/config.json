@@ -18,8 +18,8 @@
           "Name": "WORKER",
           "Links": [
               "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/AutoWorker.txt",
+              "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/%40V2RAYROZ.txt",
               "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/%40DailyV2RY.txt",
-              "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/%40Freakconfig.txt",
               "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/%40Freakconfig.txt"
           ],
           "Split": false
@@ -49,7 +49,8 @@
             "https://fancy-fire-74fa.fitimas970.workers.dev/sub",
             "https://delicate-union-51a6.pebig40682.workers.dev/sub",
             "https://wild-mouse-13fc.cilih16475.workers.dev/sub",
-            "https://misty-lake-7543.robim48060.workers.dev/sub"
+            "https://misty-lake-7543.robim48060.workers.dev/sub",
+            "https://blue-sound-44a7.tamexo2730.workers.dev/sub"
         ],
         "Split": true
     }

@@ -42,11 +42,9 @@ def merge_content(responses):
         content = responses[url]
         if content is not None:
             try:
-                decoded_content = base64.b64decode(content).decode('utf-8')
+                decoded_content = base64.b64decode(content).decode()
                 merged_content += decoded_content + '\n'
-            except (binascii.Error, UnicodeDecodeError):
-                # Handle invalid Base64 or decoding issues
-                print(f"Skipping invalid Base64 or non-UTF-8 content for {url}")
+            except Exception:
                 merged_content += content + '\n'
     return merged_content
 
@@ -60,16 +58,11 @@ def extract_flag(line):
         line = line[8:]
         line = add_base64_padding(line)
         try:
-            decoded_data = base64.b64decode(line)
-            # Try decoding as UTF-8, fallback to other encodings if necessary
-            try:
-                line = json.loads(decoded_data.decode('utf-8'))
-            except UnicodeDecodeError:
-                line = json.loads(decoded_data.decode('latin1'))  # Fallback to another encoding
+            line = json.loads(base64.b64decode(line).decode('utf-8'))
             namePart = line["ps"]
             flag = Simple_extract_flag(namePart)
-        except (json.JSONDecodeError, binascii.Error, UnicodeDecodeError) as e:
-            print(f"Failed to decode: {line} -> Error: {e}")
+        except (json.JSONDecodeError, binascii.Error) as e:
+            pass
             flag = ''
     else:
         flag = Simple_extract_flag(line)
@@ -88,6 +81,7 @@ def Vmess_rename(vmess_config, new_name):
         # If an error occurs during decoding or JSON processing, handle it silently
         pass
     return vmess_config
+
 
 def rename_configs(content, name):
     lines = content.split('\n')
@@ -190,3 +184,28 @@ def Create_SUBs(users, responses, protocol_name, links=None):
         with ThreadPoolExecutor(max_workers=10) as executor:
             for filename, content in tasks:
                 executor.submit(write_to_file, filename, content)
+
+# Read JSON configuration file
+json_file_path = 'Jsons/config.json'  # Adjust the path to your JSON file
+with open(json_file_path, 'r') as f:
+    config_data = json.load(f)
+
+protocols = config_data['Protocol']
+
+# Get users
+User_url = 'https://raw.githubusercontent.com/sarvari1378/GPTscripts/main/Users.txt'
+users = get_users(User_url)
+
+# Example usage
+for protocol in protocols:
+    protocol_name = protocol['Name']
+    protocol_links = protocol['Links']
+    
+    if protocol.get('Split', False):
+        responses = get_config(protocol_links)
+        Create_SUBs(users, responses, protocol_name, protocol_links)
+        print(f"{protocol_name} is Splited")
+    else:
+        responses = get_config(protocol_links)
+        Create_SUBs(users, responses, protocol_name)
+        print(f"{protocol_name} is not splited")

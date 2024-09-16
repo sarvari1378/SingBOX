@@ -42,9 +42,11 @@ def merge_content(responses):
         content = responses[url]
         if content is not None:
             try:
-                decoded_content = base64.b64decode(content).decode()
+                decoded_content = base64.b64decode(content).decode('utf-8')
                 merged_content += decoded_content + '\n'
-            except Exception:
+            except (binascii.Error, UnicodeDecodeError):
+                # Handle invalid Base64 or decoding issues
+                print(f"Skipping invalid Base64 or non-UTF-8 content for {url}")
                 merged_content += content + '\n'
     return merged_content
 
@@ -58,11 +60,15 @@ def extract_flag(line):
         line = line[8:]
         line = add_base64_padding(line)
         try:
-            line = json.loads(base64.b64decode(line).decode('utf-8'))
+            decoded_data = base64.b64decode(line)
+            try:
+                line = json.loads(decoded_data.decode('utf-8'))
+            except UnicodeDecodeError:
+                line = json.loads(decoded_data.decode('latin1'))  # Fallback to another encoding
             namePart = line["ps"]
             flag = Simple_extract_flag(namePart)
-        except (json.JSONDecodeError, binascii.Error) as e:
-            pass
+        except (json.JSONDecodeError, binascii.Error, UnicodeDecodeError) as e:
+            print(f"Failed to decode: {line} -> Error: {e}")
             flag = ''
     else:
         flag = Simple_extract_flag(line)
@@ -78,10 +84,8 @@ def Vmess_rename(vmess_config, new_name):
         encoded_data = base64.b64encode(json.dumps(config).encode()).decode()
         vmess_config = "vmess://" + encoded_data
     except (json.JSONDecodeError, binascii.Error):
-        # If an error occurs during decoding or JSON processing, handle it silently
-        pass
+        pass  # If an error occurs during decoding or JSON processing, handle it silently
     return vmess_config
-
 
 def rename_configs(content, name):
     lines = content.split('\n')
@@ -119,13 +123,15 @@ def get_users(url):
     return users
 
 def write_to_file(filename, content):
+    # Ensure the folder structure exists before writing the file
+    os.makedirs(os.path.dirname(filename), exist_ok=True)
     with open(filename, 'w') as f:
         f.write(content)
 
 def Create_SUBs(users, responses, protocol_name, links=None):
-    if not os.path.exists('SUB'):
-        os.makedirs('SUB')
-    
+    # Ensure SUB folder exists
+    os.makedirs('SUB', exist_ok=True)
+
     tasks = []
     if links is None:
         for user in users:
@@ -136,7 +142,7 @@ def Create_SUBs(users, responses, protocol_name, links=None):
                 content = rename_configs(merged_content, user.username)
                 line = f'vless://64694D4A-2C05-4FFE-AEF1-68C0169CCCB7@146.248.115.39:443?encryption=none&fp=firefox&mode=gun&pbk=TXpA-KUEqsg6YlZUXf0gZIe14rFjKZZNAqWzjruNoh8&security=reality&serviceName=&sid=790D3C76&sni=www.speedtest.net&spx=%2F&type=grpc#|👤نام: {user.username}|⌛️روز های باقی مانده: {user.date}|'
                 content = line + '\n' + content
-            filename = f'SUB/{protocol_name}-{user.username}'
+            filename = f'SUB/{protocol_name}-{user.username}.txt'
             tasks.append((filename, content))
         
         with ThreadPoolExecutor(max_workers=10) as executor:
@@ -178,7 +184,7 @@ def Create_SUBs(users, responses, protocol_name, links=None):
                     line = f'vless://64694D4A-2C05-4FFE-AEF1-68C0169CCCB7@146.248.115.39:443?encryption=none&fp=firefox&mode=gun&pbk=TXpA-KUEqsg6YlZUXf0gZIe14rFjKZZNAqWzjruNoh8&security=reality&serviceName=&sid=790D3C76&sni=www.speedtest.net&spx=%2F&type=grpc#|👤نام: {user.username}|⌛️روز های باقی مانده: {user.date}|'
                     content = line + '\n' + content
 
-                filename = f'SUB/{protocol_name}-{user.username}'
+                filename = f'SUB/{protocol_name}-{user.username}.txt'
                 tasks.append((filename, content))
 
         with ThreadPoolExecutor(max_workers=10) as executor:
@@ -193,7 +199,7 @@ with open(json_file_path, 'r') as f:
 protocols = config_data['Protocol']
 
 # Get users
-User_url = 'https://raw.githubusercontent.com/sarvari1378/GPTscripts/main/Users.txt'
+User_url = 'https://raw.githubusercontent.com/sarvari1378/SingBOX/main/Users.txt'
 users = get_users(User_url)
 
 # Example usage

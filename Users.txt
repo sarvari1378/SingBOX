@@ -1,5 +1,5 @@
 Ali, 20, @A_Ali_1380
-VIP, 703
+VIP, 700
 Farzan, 729
 FatimaVakili, 50, @fatiw_vakili
 Farideh, 17, @Fbhziii

@@ -1,22 +1,9 @@
 {
   "Protocol": [
       {
-          "Name": "WORKER",
+          "Name": "REALITY",
           "Links": [
-              "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/AutoWorker.txt",
-              "https://sub.moryvpnbot.workers.dev/bot/normal",
-              "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/%40DailyV2RY.txt",
-              "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/%40v2Line.txt"
-              
-          ],
-          "Split": false
-      },
-      {
-          "Name": "BackUp",
-          "Links": [
-              "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/%40DailyV2RY.txt",
-              "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/%40V2RAYROZ.txt",
-              "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/Seyyed_Cloud.txt"
+              "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/vmess"
           ],
           "Split": false
       },
@@ -28,22 +15,36 @@
           "Split": false
       },
       {
+          "Name": "WORKER",
+          "Links": [
+              "https://qv2raylinks.mobel85128.workers.dev",
+              "https://sub.moryvpnbot.workers.dev/bot/normal"
+          ],
+          "Split": false
+      },
+      {
+          "Name": "BackUp",
+          "Links": [
+              "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/%40vpnstorefast.txt",
+              "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/Seyyed_Cloud.txt",
+              "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/%40v2Line.txt",
+              "https://raw.githubusercontent.com/sarvari1378/Telegram_Collector/main/Subs/%40Freakconfig.txt"
+          ],
+          "Split": false
+      },
+      {
         "Name": "Fredom",
         "Links": [
             "https://falling-hall-5f98.gadol28038.workers.dev/sub",
             "https://ancient-paper-27a6.nepeno5867.workers.dev/sub",
             "https://vahid.sajed-the-nerd5501.workers.dev/sub",
             "https://fragrant-dream-07a4.ms-sarvari13783804.workers.dev/sub",
-            "https://sweet-bread-8276.wivica7662.workers.dev/sub",
+            "https://hossein.hosein-ahani82.workers.dev/sub",
             "https://little-night-b5b8.yadalev566.workers.dev/sub",
             "https://cold-truth-2604.fiyor71228.workers.dev/sub",
             "https://shiny-water-ef14.wigil77608.workers.dev/sub",
             "https://polished-dew-b6ea.jojik63153.workers.dev/sub",
-            "https://fancy-fire-74fa.fitimas970.workers.dev/sub",
-            "https://delicate-union-51a6.pebig40682.workers.dev/sub",
-            "https://wild-mouse-13fc.cilih16475.workers.dev/sub",
-            "https://misty-lake-7543.robim48060.workers.dev/sub"
-
+            "https://fancy-fire-74fa.fitimas970.workers.dev/sub"
         ],
         "Split": true
     }

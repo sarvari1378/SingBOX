@@ -56,7 +56,7 @@ def Simple_extract_flag(line):
 def extract_flag(line):
     if line.startswith('vmess://'):
         line = line[8:]
-        #line = add_base64_padding(line)
+        line = add_base64_padding(line)
         try:
             line = json.loads(base64.b64decode(line).decode('utf-8'))
             namePart = line["ps"]
@@ -71,16 +71,30 @@ def extract_flag(line):
 def Vmess_rename(vmess_config, new_name):
     vmess_data = vmess_config[8:]  # Remove the 'vmess://' prefix
     vmess_data = add_base64_padding(vmess_data)  # Ensure base64 string is properly padded
+    
     try:
-        # Decode base64, parse JSON, modify the configuration, and encode it back
-        config = json.loads(base64.b64decode(vmess_data))
+        # Decode base64 data
+        decoded_data = base64.b64decode(vmess_data)
+        
+        # Attempt to decode to a string (UTF-8)
+        config_str = decoded_data.decode('utf-8')
+        
+        # Parse JSON, modify the configuration, and encode it back
+        config = json.loads(config_str)
         config["ps"] = new_name
-        encoded_data = base64.b64encode(json.dumps(config).encode()).decode()
+        
+        # Re-encode the modified config back to base64
+        encoded_data = base64.b64encode(json.dumps(config).encode('utf-8')).decode('utf-8')
+        
+        # Return the modified vmess config
         vmess_config = "vmess://" + encoded_data
-    except (json.JSONDecodeError, binascii.Error):
-        # If an error occurs during decoding or JSON processing, handle it silently
-        pass
+    
+    except (json.JSONDecodeError, binascii.Error, UnicodeDecodeError) as e:
+        # Log the error for debugging purposes
+        print(f"Error while processing vmess config: {e}")
+    
     return vmess_config
+
 
 
 def rename_configs(content, name):

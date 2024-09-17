@@ -55,18 +55,34 @@ def Simple_extract_flag(line):
 
 def extract_flag(line):
     if line.startswith('vmess://'):
-        line = line[8:]
-        line = add_base64_padding(line)
+        line = line[8:]  # Remove the 'vmess://' prefix
+        line = add_base64_padding(line)  # Add padding to Base64 string
+        
         try:
-            line = json.loads(base64.b64decode(line).decode('utf-8'))
-            namePart = line["ps"]
+            # Decode Base64 content
+            decoded_data = base64.b64decode(line)
+            
+            # Try decoding as UTF-8. If it fails, return an empty flag.
+            line = decoded_data.decode('utf-8')
+            
+            # Try to load JSON and extract the "ps" field
+            json_data = json.loads(line)
+            namePart = json_data.get("ps", "")
+            
+            # Extract and return the flag
             flag = Simple_extract_flag(namePart)
-        except (json.JSONDecodeError, binascii.Error) as e:
-            pass
-            flag = ''
+        except (json.JSONDecodeError, binascii.Error, UnicodeDecodeError) as e:
+            # Log or handle the error
+            print(f"Error while decoding or extracting flag: {e}")
+            flag = ''  # Return an empty flag in case of error
     else:
+        # Handle non-vmess lines
         flag = Simple_extract_flag(line)
+    
     return flag
+
+
+
 
 def Vmess_rename(vmess_config, new_name):
     vmess_data = vmess_config[8:]  # Remove the 'vmess://' prefix

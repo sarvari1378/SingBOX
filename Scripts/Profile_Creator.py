@@ -56,7 +56,7 @@ def Simple_extract_flag(line):
 def extract_flag(line):
     if line.startswith('vmess://'):
         line = line[8:]
-        line = add_base64_padding(line)
+        #line = add_base64_padding(line)
         try:
             line = json.loads(base64.b64decode(line).decode('utf-8'))
             namePart = line["ps"]

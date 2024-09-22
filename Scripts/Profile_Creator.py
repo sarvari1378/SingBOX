@@ -215,6 +215,24 @@ def Create_SUBs(users, responses, protocol_name, links=None):
             for filename, content in tasks:
                 executor.submit(write_to_file, filename, content)
 
+def reorder_json_links(file_path):
+    # Load the JSON file
+    with open(file_path, 'r') as file:
+        data = json.load(file)
+    
+    # Find the "Fredom" group
+    for group in data['Protocol']:
+        if group['Name'] == 'Fredom':
+            # Reorder the "Links" list: move the first item to the last
+            if group['Links']:
+                group['Links'].append(group['Links'].pop(0))
+    
+    # Save the modified JSON back to the file
+    with open(file_path, 'w') as file:
+        json.dump(data, file, indent=4)
+
+
+
 # Read JSON configuration file
 json_file_path = 'Jsons/config.json'  # Adjust the path to your JSON file
 with open(json_file_path, 'r') as f:
@@ -239,3 +257,7 @@ for protocol in protocols:
         responses = get_config(protocol_links)
         Create_SUBs(users, responses, protocol_name)
         print(f"{protocol_name} is not splited")
+
+
+file_path = 'Jsons/config.json'  # Replace with the actual path to your JSON file
+reorder_json_links(file_path)

@@ -15,8 +15,8 @@ Deli, 3, +989351280136
 AtieKamyab, 1, @Arefehkamyab
 AlirezaSazegar, 21, @Sazegar_telegram
 Amirparnan, 1, @Arefehkamyab
-Ghanai, 1, @Mahshid_ghanaei
-Alighanai, 1, @Mahshid_ghanaei
+Ghanai, 31, @Mahshid_ghanaei
+Alighanai, 31, @Mahshid_ghanaei
 HomaKhademi, 26, @Arefehkamyab
 Zohre, 1, @Farzansarvari
 PedramHS, 9, @aghapedi8657

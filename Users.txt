@@ -18,7 +18,7 @@ Amirparnan, 25, @Arefehkamyab
 Ghanai, 25, @Mahshid_ghanaei
 Alighanai, 25, @Mahshid_ghanaei
 HomaKhademi, 20, @Arefehkamyab
-Zohre, -5, @Farzansarvari
+Zohre, 45, @Farzansarvari
 PedramHS, 3, @aghapedi8657
 Parham, 14, @Chemical700
 Malekaz, 143, @maleka0_0

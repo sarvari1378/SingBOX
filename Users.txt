@@ -25,5 +25,5 @@ Malekaz, 143, @maleka0_0
 Parisa, 6, @parisa_yzdani
 Sepehri, 6, @Chemical700
 Mahsa, 10, @l_Mhs_l
-Bahmani, -3, @Toranjchap_com1
+Bahmani, 31, @Toranjchap_com1
 AmirHossein, 12, @Amir6a6h5m

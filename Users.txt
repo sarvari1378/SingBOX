@@ -10,10 +10,10 @@ Moshaverinia, 757
 Mojtabakamyab, 23, @Arefehkamyab
 Ela, 25, @ela7675
 Behnaz, 26, +989157380448
-PariaGhasemi, 1, @Paria_ghasemi
+PariaGhasemi, 31, @Paria_ghasemi
 Deli, 13, +989351280136
 AtieKamyab, 11, @Arefehkamyab
-AlirezaSazegar, 1, @Sazegar_telegram
+AlirezaSazegar, 31, @Sazegar_telegram
 Amirparnan, 11, @Arefehkamyab
 Ghanai, 11, @Mahshid_ghanaei
 Alighanai, 11, @Mahshid_ghanaei
@@ -23,7 +23,6 @@ PedramHS, 19, @aghapedi8657
 Parham, 0, @Chemical700
 Malekaz, 129, @maleka0_0
 Parisa, 22, @parisa_yzdani
-Sepehri, -8, @Chemical700
 Mahsa, -4, @l_Mhs_l
 Bahmani, 17, @Toranjchap_com1
 AmirHossein, -2, @Amir6a6h5m

@@ -17,7 +17,7 @@ AlirezaSazegar, 26, @Sazegar_telegram
 Amirparnan, 6, @Arefehkamyab
 Ghanai, 6, @Mahshid_ghanaei
 Alighanai, 6, @Mahshid_ghanaei
-HomaKhademi, 1, @Arefehkamyab
+HomaKhademi, 31, @Arefehkamyab
 Zohre, 26, @Farzansarvari
 PedramHS, 14, @aghapedi8657
 Parham, -5, @Chemical700

@@ -4,7 +4,7 @@ Shahrbano, 686
 FatimaVakili, 11, @fatiw_vakili
 Farideh, 8, @Fbhziii
 Hesari, 10, @Sweet_life22
-PedramMinai, 4, @books_love_life
+PedramMinai, 184, @books_love_life
 maryamhajilo, 9, @maryam_hajiloo99
 Moshaverinia, 747
 Mojtabakamyab, 13, @Arefehkamyab
@@ -12,11 +12,11 @@ Ela, 15, @ela7675
 Behnaz, 16, +989157380448
 PariaGhasemi, 21, @Paria_ghasemi
 Deli, 3, +989351280136
-AtieKamyab, 1, @Arefehkamyab
+AtieKamyab, 31, @Arefehkamyab
 AlirezaSazegar, 21, @Sazegar_telegram
-Amirparnan, 1, @Arefehkamyab
-Ghanai, 1, @Mahshid_ghanaei
-Alighanai, 1, @Mahshid_ghanaei
+Amirparnan, 31, @Arefehkamyab
+Ghanai, 31, @Mahshid_ghanaei
+Alighanai, 31, @Mahshid_ghanaei
 HomaKhademi, 26, @Arefehkamyab
 Zohre, 21, @Farzansarvari
 PedramHS, 9, @aghapedi8657

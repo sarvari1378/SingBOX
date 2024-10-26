@@ -15,7 +15,6 @@ Deli, 2, +989351280136
 AtieKamyab, 30, @Arefehkamyab
 AlirezaSazegar, 20, @Sazegar_telegram
 Amirparnan, 30, @Arefehkamyab
-Ghanai, 30, @Mahshid_ghanaei
 Alighanai, 30, @Mahshid_ghanaei
 HomaKhademi, 25, @Arefehkamyab
 Zohre, 20, @Farzansarvari

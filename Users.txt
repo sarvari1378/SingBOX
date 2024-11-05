@@ -1,6 +1,6 @@
 Ali, 0, @A_Ali_1380
 VIP, 703
-FatimaVakili, 0, @fatiw_vakili
+FatimaVakili,30, @fatiw_vakili
 Farideh, 27, @Fbhziii
 Hesari, 29, @Sweet_life22
 PedramMinai, 173, @books_love_life
@@ -17,7 +17,7 @@ Amirparnan, 20, @Arefehkamyab
 Alighanai, 20, @Mahshid_ghanaei
 HomaKhademi, 15, @Arefehkamyab
 Zohre, 10, @Farzansarvari
-PedramHS, -2, @aghapedi8657
+PedramHS, 30, @aghapedi8657
 Malekaz, 108, @maleka0_0
 Parisa, 1, @parisa_yzdani
 Mahsa, 10, @l_Mhs_l

@@ -7,8 +7,7 @@ PedramMinai, 169, @books_love_life
 maryamhajilo, 24, @maryam_hajiloo99
 Moshaverinia, 732
 Mojtabakamyab, 29, @Arefehkamyab
-Ela, 0
-Behnaz, 1, +989157380448
+Behnaz, 31, +989157380448
 PariaGhasemi, 6, @Paria_ghasemi
 Deli, 18, +989351280136
 AtieKamyab, 16, @Arefehkamyab

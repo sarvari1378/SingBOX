@@ -15,7 +15,7 @@ AlirezaSazegar, 5, @Sazegar_telegram
 Amirparnan, 15, @Arefehkamyab
 Alighanai, 15, @Mahshid_ghanaei
 HomaKhademi, 10, @Arefehkamyab
-Zohre, 5, @Farzansarvari
+Zohre, 35, @Farzansarvari
 PedramHS, 25, @aghapedi8657
 Malekaz, 103, @maleka0_0
 Parisa, 26, @parisa_yzdani

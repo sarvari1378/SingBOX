@@ -21,7 +21,7 @@ Malekaz, 99, @maleka0_0
 Parisa, 22, @parisa_yzdani
 Mahsa, 1, @l_Mhs_l
 Bahmani, 17, @Toranjchap_com1
-ParhamGhasemi, 1, @Chemical1373
+ParhamGhasemi, 31, @Chemical1373
 YeganeMarami, 18
 ES, 22
 Ela, 30, +989152877130

@@ -3,7 +3,7 @@ import requests
 from pathlib import Path
 
 # Retrieve the GitHub Personal Access Token from the environment variable
-GITHUB_TOKEN = os.getenv('PERIVATE_TOKEN_VIEWER')  # Make sure to set this environment variable
+GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')  # Make sure to set this environment variable
 if not GITHUB_TOKEN:
     print("Error: GitHub token (PERIVATE_TOKEN_VIEWER) not found in the environment.")
     exit(1)

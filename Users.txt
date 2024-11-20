@@ -23,6 +23,4 @@ Mahsa, 25, @l_Mhs_l
 Bahmani, 11, @Toranjchap_com1
 ParhamGhasemi, 25, @Chemical1373
 YeganeMarami, 12
-ES, 16
 Ela, 24, +989152877130
-ShakilaFathi, 4, @Shakila1997fathi

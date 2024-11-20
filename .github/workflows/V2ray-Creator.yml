@@ -27,10 +27,15 @@ jobs:
 
       - name: Remove SUB directory
         run: rm -rf SUB
-
+      - name: Run Downloader of collected links
+        run: python Scripts/Download_Collected_Links.py  
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERIVATE_TOKEN_VIEWER }}  # Inject the secret as an environment variable
+          
       - name: Run Profile-Creator
         run: python Scripts/Profile_Creator.py  
-      
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERIVATE_TOKEN_VIEWER }}  # Inject the secret as an environment variable
           
       - name: Commit and push changes
         run: |

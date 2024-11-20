@@ -27,6 +27,11 @@ jobs:
 
       - name: Remove SUB directory
         run: rm -rf SUB
+
+      - name: Debug - Check Environment Variables
+        run: |
+          echo "GITHUB_TOKEN=$GITHUB_TOKEN"  # Check if the secret is being passed correctly (Don't print sensitive info in production)
+          
       - name: Run Downloader of collected links
         run: python Scripts/Download_Collected_Links.py  
         env:

@@ -12,7 +12,7 @@ if not GITHUB_TOKEN:
 REPO_OWNER = 'sarvari1378'  # Replace with the owner of the repo
 REPO_NAME = 'Telegram_Collector'  # Replace with the repository name
 FOLDER_PATH = 'Subs'  # The folder in the repo you want to download
-DEST_FOLDER = 'Collected_from_telegram'  # Destination folder for the downloaded files
+DEST_FOLDER = 'Collected_Links'  # Destination folder for the downloaded files
 
 # GitHub API URL to list the contents of a folder in the repository
 API_URL = f'https://api.github.com/repos/{REPO_OWNER}/{REPO_NAME}/contents/{FOLDER_PATH}'

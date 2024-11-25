@@ -1,3 +1,4 @@
+vless://1a563e92-9f9b-4158-b800-50ed4fc98214@www.speedtest.net:443?path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560&security=tls&encryption=none&host=ai.photo.www.speedtest.net.abrha.co.ZA&type=ws&sni=ai.photo.www.speedtest.net.abrha.co.ZA#1403|09|05_18:36:08
 vless://f82c2052-7411-40e8-96ef-d433127979a6@my.jasrama.com:2096?path=%2F&security=reality&encryption=none&pbk=9LY8_rbDS8zJoZLk9J4BYbdKOYK8vdKg11Wab5IetXY&fp=chrome&type=http&sni=dalfak.com&sid=a56f693ce784b4cc#1403|09|05_17:23:39
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBcz1RZTBKVnZI@150.241.95.62:57263#1403|09|05_17:23:39
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.164:443#1403|09|05_17:23:39
@@ -37,4 +38,3 @@ vmess://eyJhZGQiOiAic29ja3M1dG9iZWZyZWUueWRucy5ldSIsICJhaWQiOiAiMCIsICJhbHBuIjog
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#1403|09|05_10:54:24
 vless://40dde5dd-0eca-4218-8e13-8125303d343a@revolution.fastly80-2.hosting-ip.com:80?encryption=none&security=none&type=ws&host=join-VPNCUSTOMIZE-join-VPNCUSTOMIZE.ac.ir&path=%2FTelegram-VPNCUSTOMIZE%3Fed%3D2560#1403|09|05_08:44:18
 vless://Parsashonam-114@185.146.173.39:8880?encryption=none&security=none&type=httpupgrade&host=Search.DigiKala.CYoU.&path=%2F#1403|09|05_08:44:18
-vless://Parsashonam-114@zmaoz.faculty.ucdavis.edu:443?encryption=none&security=tls&sni=Zmaoz.Faculty.Ucdavis.Edu.&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=Parsashonam0.com&path=%2F%40Parsashonam%2Fws%3Fed%3D2560#1403|09|05_08:44:18

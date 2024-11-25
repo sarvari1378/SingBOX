@@ -1,5 +1,5 @@
-vless://8aeb2814-5485-4f42-99aa-a6ba97fed09d@FastSho.fastly80-2.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=email.amirreza.ir&type=ws#1403|09|05_22:10:20
-vless://f4311364-42a0-4751-a21f-80f2740a59db@www.speedtest.net:443?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=eg-v2ray-x.pages.dev&fp=firefox&type=ws&sni=pAgeS.dev.#1403|09|05_22:10:20
+vless://SVNTEAM2@SvnTeam.fastly80-2.hosting-ip.com:80?path=%2FSvnTeam-SvnTeam-SvnTeam%3Fed%3D8880&security=none&encryption=none&host=SvnTeam.Svn10.ir&type=ws#1403|09|05_22:10:20
+vless://SVNTEAM2@SvnTeam.fastly80-2.hosting-ip.com:80?path=%2FSvnTeam-SvnTeam-SvnTeam%3Fed%3D8880&security=none&encryption=none&host=SvnTeam.Svn11.ir&type=ws#1403|09|05_22:10:20
 vless://602c94a1-13cb-4d3c-9c05-bd365bb1be5c@FastSho.fastly80-2.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=cloud.amirrayan.ir&type=ws#1403|09|05_20:23:56
 vless://602c94a1-13cb-4d3c-9c05-bd365bb1be5c@FastSho.fastly80-2.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=cloud.amirrayan.ir&type=ws#1403|09|05_12:14:55
 vless://602c94a1-13cb-4d3c-9c05-bd365bb1be5c@FastSho.fastly80-2.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=cloud.amirrayan.ir&type=ws#1403|09|05_12:13:40

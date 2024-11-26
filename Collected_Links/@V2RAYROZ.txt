@@ -1,4 +1,4 @@
-vless://30062a25-707c-4060-b584-cbf01affcee7@151.101.2.133:443?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=tls&encryption=none&host=barkatc1.ir&type=ws&sni=mio.splashthat.com#1403|09|06_22:03:05
+vless://46729f51-58c3-4e5f-a191-ad1c737aad5a@sgoodd.ir.iphone-shopp.ir:5443?mode=gun&security=reality&encryption=none&pbk=y3s1kJ6fXvxa_ROS1VwzHeWs0NPIJwsVJ89f5l6HmV4&fp=chrome&type=grpc&serviceName=mgrpcm&sni=refersion.com&sid=902736d426f64e34#1403|09|06_22:03:05
 vless://a6509149-08dd-4f83-b96e-8c6b0885bc29@FastSho.fastly80-2.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=email.amirreza.ir&type=ws#1403|09|06_19:56:18
 vless://7a854584-50ca-4035-955e-74db006bd378@live.wkrq.com:443?path=%2F%40v2rayip1------%40v2rayip1------%40v2rayip1------%40v2rayip1------%40v2rayip1------%40v2rayip1------%40v2rayip1------%40v2rayip1------%40v2rayip1%3Fed%3D2048&security=tls&alpn=h2&encryption=none&host=v2rayip1.net&fp=firefox&type=ws&sni=live.wkrq.com#1403|09|06_12:14:49
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#1403|09|06_12:14:49

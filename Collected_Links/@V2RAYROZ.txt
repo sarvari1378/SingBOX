@@ -1,7 +1,7 @@
+vless://a6509149-08dd-4f83-b96e-8c6b0885bc29@FastSho.fastly80-2.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=email.amirreza.ir&type=ws#1403|09|06_19:56:18
 vless://7a854584-50ca-4035-955e-74db006bd378@live.wkrq.com:443?path=%2F%40v2rayip1------%40v2rayip1------%40v2rayip1------%40v2rayip1------%40v2rayip1------%40v2rayip1------%40v2rayip1------%40v2rayip1------%40v2rayip1%3Fed%3D2048&security=tls&alpn=h2&encryption=none&host=v2rayip1.net&fp=firefox&type=ws&sni=live.wkrq.com#1403|09|06_12:14:49
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#1403|09|06_12:14:49
-vless://7a854584-50ca-4035-955e-74db006bd378@live.wkrq.com:443?path=%2F%40v2rayip1------%40v2rayip1------%40v2rayip1------%40v2rayip1------%40v2rayip1------%40v2rayip1------%40v2rayip1------%40v2rayip1------%40v2rayip1%3Fed%3D2048&security=tls&alpn=h2&encryption=none&host=v2rayip1.net&fp=firefox&type=ws&sni=live.wkrq.com#1403|09|06_12:11:07
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#1403|09|06_12:11:07
+vless://a6509149-08dd-4f83-b96e-8c6b0885bc29@FastSho.fastly80-2.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=email.amirreza.ir&type=ws#1403|09|06_12:11:07
 vless://SVNTEAM2@SvnTeam.fastly80-2.hosting-ip.com:80?path=%2FSvnTeam-SvnTeam-SvnTeam%3Fed%3D8880&security=none&encryption=none&host=SvnTeam.Svn10.ir&type=ws#1403|09|05_22:10:20
 vless://SVNTEAM2@SvnTeam.fastly80-2.hosting-ip.com:80?path=%2FSvnTeam-SvnTeam-SvnTeam%3Fed%3D8880&security=none&encryption=none&host=SvnTeam.Svn11.ir&type=ws#1403|09|05_22:10:20
 vless://602c94a1-13cb-4d3c-9c05-bd365bb1be5c@FastSho.fastly80-2.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=cloud.amirrayan.ir&type=ws#1403|09|05_20:23:56

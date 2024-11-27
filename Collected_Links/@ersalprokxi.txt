@@ -1,3 +1,5 @@
+vless://9131f564-6c99-451d-96bc-7c244ae5a6ed@151.101.3.8:80?path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560&security=none&encryption=none&host=www.acc.ir&type=ws#1403|09|07_14:08:59
+vless://9131f564-6c99-451d-96bc-7c244ae5a6ed@151.101.3.8:80?path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560&security=none&encryption=none&host=www.acc.ir&type=ws#1403|09|07_13:43:19
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI=@205.134.180.150:443#1403|09|07_13:38:02
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#1403|09|07_13:38:02
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7307#1403|09|07_13:38:02
@@ -36,5 +38,3 @@ vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-``teldIGIv2``-DIGIV&s
 vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-teldIGIv2-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.harmale.ir.&type=ws#1403|09|07_03:08:24
 vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-``teldIGIv2``-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#1403|09|07_01:33:27
 vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-teldIGIv2-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.harmale.ir.&type=ws#1403|09|07_01:33:27
-vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-``teldIGIv2``-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#1403|09|07_01:14:10
-vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-teldIGIv2-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.harmale.ir.&type=ws#1403|09|07_01:14:10

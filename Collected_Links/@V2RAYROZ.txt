@@ -1,5 +1,4 @@
-vless://5dd5a6e1-0e30-4d8f-8007-925b2da3d635@FastShoVpn.fastly80-2.hosting-ip.com:80?path=%2F%40FastShoVpn----%40FastShoVpn----%40FastShoVpn----%40FastShoVpn----%40FastShoVpn----%40FastShoVpn----%40FastShoVpn----%40FastShoVpn----%40FastShoVpn----%40FastShoVpn----%40FastShoVpn----%40FastShoVpn%3Fed%3D2048&security=none&encryption=none&host=FastShoVpn.TelegramChannel.com&type=ws#1403|09|07_21:52:33
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.53.198:443#1403|09|07_21:52:33
+vless://ID-ViraV2ray-6925@104.19.150.10:2095?path=digikala.com%2Flogin%2F%40ViraV2ray%2C%40ViraV2ray%2C%40ViraV2ray%3Fed%3D2560&security=none&encryption=none&host=vira.www.speedtest.net.zula.digikala.com.avincloud.ir&type=httpupgrade#1403|09|07_21:52:33
 vless://9dac67dc-e6d5-4d1f-b2dd-6356e8b56b39@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=ntsafe.pages.dev&type=ws&sni=ntsafe.pages.dev#1403|09|07_20:06:30
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#1403|09|07_12:17:02
 vless://9dac67dc-e6d5-4d1f-b2dd-6356e8b56b39@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=ntsafe.pages.dev&type=ws&sni=ntsafe.pages.dev#1403|09|07_12:15:52
@@ -13,3 +12,4 @@ vless://SVNTEAM2@SvnTeam.fastly80-2.hosting-ip.com:80?path=%2FSvnTeam-SvnTeam-Sv
 vless://602c94a1-13cb-4d3c-9c05-bd365bb1be5c@FastSho.fastly80-2.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=cloud.amirrayan.ir&type=ws#1403|09|05_20:23:56
 vless://602c94a1-13cb-4d3c-9c05-bd365bb1be5c@FastSho.fastly80-2.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=cloud.amirrayan.ir&type=ws#1403|09|05_12:14:55
 vless://602c94a1-13cb-4d3c-9c05-bd365bb1be5c@FastSho.fastly80-2.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=cloud.amirrayan.ir&type=ws#1403|09|05_12:13:40
+vless://f3b386af-1626-4fc0-dfb6-af6fe23bd31c@151.101.2.165:80?path=%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D20483D2056&security=none&encryption=none&host=XpnTeam.ir&type=ws#1403|09|04_22:17:54

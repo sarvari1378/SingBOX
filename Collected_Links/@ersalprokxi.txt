@@ -1,3 +1,6 @@
+vless://SAVTEAM13@live.989bull.com:443?path=%2F%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam%3Fed%3D443&security=tls&encryption=none&alpn=http/1.1&host=Savteam.io&fp=chrome&type=ws&sni=live.989bull.com#1403|09|07_23:31:57
+vless://SAVTEAM13@live.989bull.com:443?path=%2F%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam%3Fed%3D443&security=tls&encryption=none&alpn=http/1.1&host=Savteam.io&fp=chrome&type=ws&sni=live.989bull.com#1403|09|07_23:16:57
+vless://SAVTEAM13@live.989bull.com:443?path=%2F%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam%3Fed%3D443&security=tls&encryption=none&alpn=http/1.1&host=Savteam.io&fp=chrome&type=ws&sni=live.989bull.com#1403|09|07_22:46:32
 vless://e2ad5fd4-2b9a-4b5e-bec6-4df07d415afd@151.101.2.133:443?type=ws&host=barkatc1.ir&path=/Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray?ed%3D2048&security=tls&sni=mio.splashthat.com#1403|09|07_22:23:28
 vless://ea52c459-86ac-4707-8062-564ca031ae43@151.101.2.133:443?type=ws&host=barkatc2.ir&path=/Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray?ed%3D2048&security=tls&sni=mio.splashthat.com#1403|09|07_22:23:28
 vless://c462f3aa-419e-47c4-8f0d-1b10c6ad5938@151.101.3.8:80?type=ws&host=barkatc3.ir&path=/Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray?ed%3D2048&security=none#1403|09|07_22:23:28
@@ -35,6 +38,3 @@ vless://9131f564-6c99-451d-96bc-7c244ae5a6ed@151.101.3.8:80?path=%2FTelegram%2CV
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI=@205.134.180.150:443#1403|09|07_13:38:02
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#1403|09|07_13:38:02
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7307#1403|09|07_13:38:02
-vless://2101f57e-4a06-42dc-ab70-9059f1d25715@62.60.178.127:2053?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#1403|09|07_13:37:40
-vless://9131f564-6c99-451d-96bc-7c244ae5a6ed@151.101.3.8:80?path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560&security=none&encryption=none&host=www.acc.ir&type=ws#1403|09|07_13:29:48
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI=@205.134.180.150:443#1403|09|07_13:13:30

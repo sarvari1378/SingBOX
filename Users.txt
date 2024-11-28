@@ -9,7 +9,7 @@ Moshaverinia, 713
 Mojtabakamyab, 10, @Arefehkamyab
 Behnaz, 12, +989157380448
 PariaGhasemi, 17, @Paria_ghasemi
-Deli, -1, +989351280136
+Deli, -4, +989351280136
 AtieKamyab, 27, @Arefehkamyab
 AlirezaSazegar, 17, @Sazegar_telegram
 Amirparnan, 27, @Arefehkamyab

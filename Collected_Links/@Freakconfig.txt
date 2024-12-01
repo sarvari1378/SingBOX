@@ -1,3 +1,5 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@Freakconfig5.usecharge.ir:443#1403|09|11_13:49:59
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@Freakconfig6.usecharge.ir:443#1403|09|11_13:49:59
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@Freakconfig5.usecharge.ir:443#1403|09|11_01:04:43
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@Freakconfig6.usecharge.ir:443#1403|09|11_01:04:43
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig3.usecharge.ir:443#1403|09|10_12:29:33
@@ -11,5 +13,3 @@ vless://a195c07f-7ad4-40c9-bd18-e1c5e7b17fc1@151.101.3.8:80?path=%2FPROXY_MTM-PR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#1403|09|09_01:41:58
 vless://3cff1332-9020-4a58-8dbf-3ff31bd271a4@104.26.14.16:8080?path=%2F%40rskhivpn%40rskhivpn%40rskhivpn%40rskhivpn%40rskhivpn%40rskhivpn%40rskhivpn%40rskhivpn%40rskhivpn&security=none&encryption=none&host=newi.rskhibotss.ir.&type=httpupgrade#1403|09|09_01:41:58
 vless://fce9ae11-0fd2-4989-b1d5-c6e1e1d5e2fd@185.146.173.185:2095?path=Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-&security=none&encryption=none&host=hgggggggvgvv.ghhhrhjrhfjfjfjhdhd-fhhgghgfgggfghj.BLOG&type=httpupgrade#1403|09|08_20:41:09
-vless://c97861ff-0b79-44df-9019-6f8b5dd796ee@185.119.240.34:4009?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#1403|09|08_20:41:09
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.95.183:443#1403|09|08_20:41:09

@@ -11,10 +11,9 @@
             "Split": false
         },
         {
-            "Name": "BackUp_alaki",
+            "Name": "ShadowSocks",
             "Links": [
-                "https://raw.githubusercontent.com/sarvari1378/SingBOX/main/Collected_Links/main/Subs/%40ersalprokxi.txt",
-                "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/de/mixed"
+                "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/shadowsocks"
             ],
             "Split": false
         },

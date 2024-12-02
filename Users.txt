@@ -1,13 +1,12 @@
 Ali, 4, @A_Ali_1380
 VIP, 791
 FatimaVakili, 72, @fatiw_vakili
-Farideh, 30, @Fbhziii
 Hesari, 2, @Sweet_life22
 PedramMinai, 146, @books_love_life
 maryamhajilo, 31, @maryam_hajiloo99
 Moshaverinia, 709
 Mojtabakamyab, 6, @Arefehkamyab
-Behnaz, 8, +989157380448
+Behnaz, 8
 PariaGhasemi, 13, @Paria_ghasemi
 Deli, -8, +989351280136
 AtieKamyab, 23, @Arefehkamyab
@@ -18,10 +17,10 @@ HomaKhademi, 18, @Arefehkamyab
 Zohre, 13, @Farzansarvari
 PedramHS, 3, @aghapedi8657
 Malekaz, 81, @maleka0_0
-Parisa, 4, @parisa_yzdani
+Parisa, 4
 MahsaMoradi, 13, @l_Mhs_l
 Bahmani, 30, @Toranjchap_com1
 ParhamGhasemi, 16, @Chemical1373
 ParhamGhasemi-2, 16, @Chemical1373
 YeganeMarami, 30
-Ela, 12, +989152877130
+Ela, 12

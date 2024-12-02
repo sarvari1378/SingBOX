@@ -1,3 +1,4 @@
+vless://Joining--ZEDMODEON@connectcarolina.sites.unc.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=mitrarank.ir&type=ws&sni=connectcarolina.sites.unc.edu#1403|09|12_18:03:30
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.53.198:443#1403|09|12_17:12:01
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#1403|09|12_17:12:01
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsV2FHUFZGam1uYWc%3D@205.134.180.139:443#1403|09|12_17:12:01
@@ -37,4 +38,3 @@ vless://Mainv2ray-telegram22@Rev2r-ay.cloudflare80.hosting-ip.com:80?path=/TELEG
 vless://Mainv2ray-telegram22@Mainv2-ray.cloudflare80.hosting-ip.com:8080?path=/TELEGRAM-@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray%3Fed%3D8880&security=none&encryption=none&host=JOiNMAiN.MRaLPHa-Vpn.CoM.&type=ws#1403|09|12_13:35:49
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#1403|09|12_13:24:15
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@82.115.20.250:1001?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#1403|09|12_13:24:15
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig6.usecharge.ir:443#1403|09|12_12:34:13

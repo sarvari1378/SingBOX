@@ -3,10 +3,7 @@
         {
             "Name": "WORKER",
             "Links": [
-                "https://raw.githubusercontent.com/sarvari1378/SingBOX/main/Collected_Links/AutoWorker.txt",
-                "https://raw.githubusercontent.com/sarvari1378/SingBOX/main/Collected_Links/%40V2RAYROZ.txt",
-                "https://raw.githubusercontent.com/sarvari1378/SingBOX/main/Collected_Links/%40DailyV2RY.txt",
-                "https://raw.githubusercontent.com/sarvari1378/SingBOX/main/Collected_Links/%40Freakconfig.txt"
+                "https://raw.githubusercontent.com/sarvari1378/SingBOX/main/Collected_Links/AutoWorker.txt"
             ],
             "Split": false
         },

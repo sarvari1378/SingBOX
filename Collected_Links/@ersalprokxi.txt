@@ -1,3 +1,5 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig6.usecharge.ir:443#1403|09|12_12:34:13
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig7.usecharge.ir:443#1403|09|12_12:34:13
 vless://99431a1c-670c-4dee-a374-2b5a93c9002f@analytics.datacrawlerhub.com:80?path=%2F&security=none&encryption=none&type=ws#1403|09|12_09:44:34
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBEYWlseV9Db25maWdzIiwNCiAgImFkZCI6ICJzeWQtMDEub2NpLmVlIiwNCiAgInBvcnQiOiAiMjM0NTEiLA0KICAiaWQiOiAiNWJhZjlmZjQtM2EzMC00NDRhLWJiNzUtZTQwMGIzYjIxYzRmIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJzeWQtMDEub2NpLmVlIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfSMxNDAzfDA5fDEyXzA3OjU2OjU3
 vless://1a1eff5f-97b8-4a4e-910d-6415441b371a@172.66.46.224:8443?encryption=none&security=tls&sni=trojanyu.pages.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=trojanyu.pages.dev&path=%2F%40Msv2raynp--%40Msv2raynp--%40Msv2raynp--%40Msv2raynp--%40Msv2raynp--%40Msv2raynp--%40Msv2raynp--%40Msv2raynp--%40Msv2raynp--%40Msv2raynp--%40Msv2raynp--%40Msv2raynp--%3Fed%3D2560#1403|09|12_07:56:57
@@ -36,5 +38,3 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.53.198:443#1403|09|11_19:05:02
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#1403|09|11_19:05:02
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsV2FHUFZGam1uYWc%3D@205.134.180.139:443#1403|09|11_19:05:02
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.240:443#1403|09|11_19:05:02
-vless://dc3837aa-704d-4732-a7ec-049bda54fe6a@104.17.234.128:8080?path=%40UnlimitedDev----%40UnlimitedDev-----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev%3Fed%3D8880&security=none&encryption=none&host=join.bede.unlimiteddev.www.speedtest.net.de.abrha.co.unlimiteddev.community.&type=ws#1403|09|11_18:57:17
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI=@205.134.180.150:443#1403|09|11_18:41:12

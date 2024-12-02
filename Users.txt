@@ -1,7 +1,7 @@
 Ali, 4, @A_Ali_1380
 VIP, 791
 FatimaVakili, 72, @fatiw_vakili
-Farideh, 0, @Fbhziii
+Farideh, 30, @Fbhziii
 Hesari, 2, @Sweet_life22
 PedramMinai, 146, @books_love_life
 maryamhajilo, 1, @maryam_hajiloo99
@@ -23,5 +23,5 @@ MahsaMoradi, 13, @l_Mhs_l
 Bahmani, -1, @Toranjchap_com1
 ParhamGhasemi, 16, @Chemical1373
 ParhamGhasemi-2, 16, @Chemical1373
-YeganeMarami, 0
+YeganeMarami, 30
 Ela, 12, +989152877130

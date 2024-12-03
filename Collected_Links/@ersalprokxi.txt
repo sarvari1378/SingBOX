@@ -1,3 +1,4 @@
+vless://67678b11-99e5-445e-88c2-675005feaa49@live.989bull.com:443?path=CHANNEL---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=Golestanvpn.com&fp=firefox&type=ws&sni=live.989bull.com#1403|09|13_23:07:49
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.53.198:443#1403|09|13_22:23:03
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#1403|09|13_22:23:03
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsV2FHUFZGam1uYWc%3D@205.134.180.139:443#1403|09|13_22:23:03
@@ -37,4 +38,3 @@ vless://76a39525-c67c-4bd9-b181-0e5d084786fc@wss.ahmadi4ux.ir:443?path=%2F&secur
 vless://76a39525-c67c-4bd9-b181-0e5d084786fc@wss.ahmadi4ux.ir:443?path=%2F&security=tls&encryption=none&host=wss.ahmadi4ux.ir&fp=firefox&type=ws&sni=wss.ahmadi4ux.ir#1403|09|13_13:48:14
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@ip.sb:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#1403|09|13_13:48:14
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@kinsta.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#1403|09|13_13:48:14
-vless://9e3d07c0-4103-4bd6-80f3-457fa6160184@185.77.96.75:39411?security=none&encryption=none&headerType=none&type=tcp#1403|09|13_13:48:14

@@ -15,7 +15,7 @@ Amirparnan, 21, @Arefehkamyab
 Alighanai, 21, @Mahshid_ghanaei
 HomaKhademi, 16, @Arefehkamyab
 Zohre, 11, @Farzansarvari
-PedramHS, 1, @aghapedi8657
+PedramHS, 31, @aghapedi8657
 Malekaz, 79, @maleka0_0
 Parisa, 2
 MahsaMoradi, 11, @l_Mhs_l

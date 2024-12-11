@@ -1,3 +1,5 @@
+vless://47e9b63c-6a86-4ae6-acd0-4361f475f53a@65.109.176.108:2053?mode=auto&path=%2Ftest%3Fed%3D2560&security=none&encryption=none&type=xhttp#1403|09|21_13:12:40
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.47.131:443#1403|09|21_13:12:40
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#1403|09|21_12:41:19
 vless://d578322a-266b-479d-9eda-f1b41324e721@199.232.8.123:80?encryption=none&security=none&type=ws&host=IRANINGOAT2.IR&path=%2FRsAMasAPMX5yb1YZ%3Fed%3D2560#1403|09|21_12:41:19
 vless://2d5d4230-10e2-4ee9-afe5-a55c20d2cb3b@san.dornagamesco.ir:1621?encryption=none&flow=xtls-rprx-vision&security=reality&sni=wwww.refersion.com&fp=chrome&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642&type=tcp&headerType=none#1403|09|21_12:41:19
@@ -36,5 +38,3 @@ vless://b9a06ec7-c95b-443d-8c9d-29e30f24d48c@live.989bull.com:443?path=CHANNEL--
 vless://47e9b63c-6a86-4ae6-acd0-4361f475f53a@65.109.176.108:2053?mode=auto&path=%2Ftest%3Fed%3D2560&security=none&encryption=none&type=xhttp#1403|09|20_22:41:41
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.47.131:443#1403|09|20_22:41:41
 vless://2d5d4230-10e2-4ee9-afe5-a55c20d2cb3b@san.dornagamesco.ir:1621?security=reality&encryption=none&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wwww.refersion.com&sid=3a622700e73c6642#1403|09|20_22:37:39
-vless://2d5d4230-10e2-4ee9-afe5-a55c20d2cb3b@osi.dornagamesco.ir:1620?security=reality&encryption=none&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=3a622700e73c6642#1403|09|20_22:37:39
-vless://2d5d4230-10e2-4ee9-afe5-a55c20d2cb3b@san.dornagamesco.ir:1616?security=reality&encryption=none&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wwww.refersion.com&sid=3a622700e73c6642#1403|09|20_22:37:39

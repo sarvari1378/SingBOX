@@ -1,3 +1,5 @@
+vless://telegram-id-ArV2ray@live.skornorth.com:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=cdiuw68.net&fp=chrome&type=ws&sni=live.skornorth.com#1403|09|22_13:14:54
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#1403|09|22_13:00:39
 vless://telegram-id-ArV2ray@live.skornorth.com:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=cdiuw68.net&fp=chrome&type=ws&sni=live.skornorth.com#1403|09|22_12:37:41
 vless://telegram-id-ArV2ray@live.skornorth.com:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=cdiuw68.net&fp=chrome&type=ws&sni=live.skornorth.com#1403|09|22_12:18:08
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@69.84.182.1:443?encryption=none&security=tls&sni=vbbc.ylks2024.us.kg&type=ws&host=vbbc.ylks2024.us.kg&path=%2Fyoulingkaishi#1403|09|22_11:22:12
@@ -36,5 +38,3 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.178:443#1403|09|21_21:29:57
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#1403|09|21_21:29:57
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@69.50.93.86:8888#1403|09|21_21:29:57
 vless://d0709789-47b8-4c7b-9cfd-91a868307064@servger.sanjesh.online:7642?security=none&encryption=none&headerType=none&type=tcp#1403|09|21_21:29:57
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptenlZcmlQWVluQ1dEeG95@52.237.155.68:443#1403|09|21_21:29:57
-vless://ab51af2e-2819-480e-afaf-b682c82dc63f@hajlab.ucdavis.edu:80?security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v09.TzZLiMitTNeWz.NeT&type=ws#1403|09|21_21:29:57

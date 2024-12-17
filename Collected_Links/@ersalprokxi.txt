@@ -1,3 +1,5 @@
+vless://11a943c5-67a5-4b46-b124-e8274cb9ef6e@live.skornorth.com:443?path=%2F%40custom_config%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=easy4all.com&fp=chrome&type=ws&sni=live.skornorth.com#1403|09|27_11:24:55
+vless://11a943c5-67a5-4b46-b124-e8274cb9ef6e@live.skornorth.com:443?path=%2F%40custom_config%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=easy4all.com&fp=chrome&type=ws&sni=live.skornorth.com#1403|09|27_11:11:31
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#1403|09|27_10:16:54
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.53.198:443#1403|09|27_10:16:54
 vless://64ccb313-d2bd-4b44-a6fd-522a14c819fd@151.101.64.155:80?path=%2F%3Fed&security=none&encryption=none&host=iranvpn.com.&type=ws&sni=iranvpn.com.#1403|09|27_10:16:54
@@ -36,5 +38,3 @@ vless://99ece951-d623-4fcd-adac-021b97d0f887@151.101.66.228:80?security=none&enc
 vless://Joinin--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=snappshop.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#1403|09|26_22:47:38
 vless://Joining--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=okala.com&type=ws&sni=zmaoz.faculty.ucdavis.edu#1403|09|26_22:47:38
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#1403|09|26_22:22:33
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@japan.com:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=1-600g.hc1212.top&fp=random&type=ws&sni=1-600g.hc1212.top#1403|09|26_22:22:33
-vless://6416f6e7-d71a-4b5f-be6d-4777f0cf288e@188.245.90.214:1633?security=reality&encryption=none&pbk=ANlgAsYC8HmKfJnc5SFvru822urkxG1PzW1Zw4Vbm0Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=9bc0a55a5379c0ed#1403|09|26_22:22:33

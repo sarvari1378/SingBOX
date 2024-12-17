@@ -17,9 +17,9 @@ HomaKhademi, 3, @Arefehkamyab
 Zohre, 28, @Farzansarvari
 PedramHS, 18, @aghapedi8657
 Malekaz, 66, @maleka0_0
-MahsaMoradi, -2, @l_Mhs_l
+MahsaMoradi, 32, @l_Mhs_l
 Bahmani, 15, @Toranjchap_com1
-ParhamGhasemi, 1, @Chemical1373
-ParhamGhasemi-2, 1, @Chemical1373
+ParhamGhasemi, 31, @Chemical1373
+ParhamGhasemi-2, 31, @Chemical1373
 Mehti, 25, @Mehti94
 MehdiPoor, 25

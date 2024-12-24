@@ -1,3 +1,5 @@
+vless://08045682-2c75-4462-c23a-0ffc159adf8c@37.27.220.2:45493?path=%2Froshd&security=none&encryption=none&host=torob.com&type=ws#t.me%2FParsa_V2rayng`
+ss://08045682-2c75-4462-c23a-0ffc159adf8c@37.27.220.2:45493?path=%2Froshd&security=none&encryption=none&host=torob.com&type=ws#t.me%2FParsa_V2rayng`
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@singapore.com:8443?encryption=none&security=tls&sni=4-4646ddf.huanglaoshi.cfd&fp=random&type=ws&host=4-4646ddf.huanglaoshi.cfd&path=%2F%3Fed%3D2560#%40Daily_Configs
 vless://64b56571-1f22-4479-85b5-63aebc28cea0@45.138.24.74:8443?encryption=none&security=reality&sni=www.speedtest.net&fp=chrome&pbk=daLrAi9S3YY1Dapy8-3Wo_Lt4akOcmJqNhfJjMT5XCU&sid=531b669cdbf7&spx=%2F&type=grpc&authority=&serviceName=JoinBadeChannel%40antimeli&mode=gun#%40Daily_Configs
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@brazil.com:2083?encryption=none&security=tls&sni=4-4646ddf.huanglaoshi.cfd&fp=random&type=ws&host=4-4646ddf.huanglaoshi.cfd&path=%2F%3Fed%3D2560#%40Daily_Configs
@@ -80,11 +82,3 @@ vless://v2rayng__76@www.speedtest.net:2052?path=%2Fwww.zula.ir%3Fed%3D2052&secur
 ss://v2rayng__76@zula.ir:8443?mode=gun&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&type=grpc&serviceName=bo2bo2.bia2bax.shop&sni=bo2bo2.bia2bax.shop#%F0%9F%86%94v2rayng_76
 ss://v2rayng__76@Zula.ir:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=bo2bo2.bia2bax.shoP.&type=ws#%F0%9F%86%94v2rayng_76
 ss://v2rayng__76@www.speedtest.net:2052?path=%2Fwww.zula.ir%3Fed%3D2052&security=none&encryption=none&host=Bo2bo2.bia2bax.shoP.&type=httpupgrade#%F0%9F%86%94v2rayng_76`
-vless://d5fd2bce-50a6-48a9-b0a9-4dbe95a62536@89.169.53.222:8880?security=none&encryption=none&headerType=none&type=tcp#%E2%9C%85
-ss://d5fd2bce-50a6-48a9-b0a9-4dbe95a62536@89.169.53.222:8880?security=none&encryption=none&headerType=none&type=tcp#%E2%9C%85
-vless://4bb8f1d9-d0da-4d75-bcb8-0bd96cd1b7db@A33.fastly80-2.hosting-ip.com:80?path=%2FPROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM%3Fed%3D2048&security=none&encryption=none&host=mmd.ir&type=ws#.
-ss://4bb8f1d9-d0da-4d75-bcb8-0bd96cd1b7db@A33.fastly80-2.hosting-ip.com:80?path=%2FPROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM%3Fed%3D2048&security=none&encryption=none&host=mmd.ir&type=ws#.
-vless://6fdcddbd-cebb-486e-b292-d023b26d7137@www.mizbanonline.icu:4146?security=none&encryption=none&headerType=http&type=tcp#1-twixrocket01376
-ss://6fdcddbd-cebb-486e-b292-d023b26d7137@www.mizbanonline.icu:4146?security=none&encryption=none&headerType=http&type=tcp#1-twixrocket01376
-vless://Telegram-id-@AB_841@46.202.153.192:4030?mode=gun&security=reality&encryption=none&authority=&pbk=_K0bH9gnO2Ogq7UogfYB3gHbNzfEcy5urnG5tecElBY&fp=random&spx=%2Ftelegram-%40AB_841&type=grpc&serviceName=&sni=wordpress.org&sid=d7#r2vgta8h```
-ss://Telegram-id-@AB_841@46.202.153.192:4030?mode=gun&security=reality&encryption=none&authority=&pbk=_K0bH9gnO2Ogq7UogfYB3gHbNzfEcy5urnG5tecElBY&fp=random&spx=%2Ftelegram-%40AB_841&type=grpc&serviceName=&sni=wordpress.org&sid=d7#r2vgta8h```

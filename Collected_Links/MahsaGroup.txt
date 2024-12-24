@@ -76,9 +76,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:
 ss://telegram-id-ArV2ray@151.101.194.133:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=cdiuw91.net&fp=chrome&type=ws&sni=mio.splashthat.com#%40Daily_Configs`
 vless://6672b8c5-762b-4d58-bd54-d6e31bcf47ea@xe101-test1-unlimiteddev.sabadyt.ir:80?path=%2F&security=none&encryption=none&type=ws#BESTIIVPNBOT
 ss://6672b8c5-762b-4d58-bd54-d6e31bcf47ea@xe101-test1-unlimiteddev.sabadyt.ir:80?path=%2F&security=none&encryption=none&type=ws#BESTIIVPNBOT
-vless://v2rayng__76@zula.ir:8443?mode=gun&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&type=grpc&serviceName=bo2bo2.bia2bax.shop&sni=bo2bo2.bia2bax.shop#%F0%9F%86%94v2rayng_76
-vless://v2rayng__76@Zula.ir:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=bo2bo2.bia2bax.shoP.&type=ws#%F0%9F%86%94v2rayng_76
-vless://v2rayng__76@www.speedtest.net:2052?path=%2Fwww.zula.ir%3Fed%3D2052&security=none&encryption=none&host=Bo2bo2.bia2bax.shoP.&type=httpupgrade#%F0%9F%86%94v2rayng_76`
-ss://v2rayng__76@zula.ir:8443?mode=gun&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&type=grpc&serviceName=bo2bo2.bia2bax.shop&sni=bo2bo2.bia2bax.shop#%F0%9F%86%94v2rayng_76
-ss://v2rayng__76@Zula.ir:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=bo2bo2.bia2bax.shoP.&type=ws#%F0%9F%86%94v2rayng_76
-ss://v2rayng__76@www.speedtest.net:2052?path=%2Fwww.zula.ir%3Fed%3D2052&security=none&encryption=none&host=Bo2bo2.bia2bax.shoP.&type=httpupgrade#%F0%9F%86%94v2rayng_76`

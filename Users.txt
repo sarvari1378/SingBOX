@@ -9,10 +9,9 @@ Mojtabakamyab, 13, @Arefehkamyab
 Behnaz, 17, +989157380448
 PariaGhasemi, 20, @Paria_ghasemi
 Deli, 16, +989351280136
-AtieKamyab, 0, @Arefehkamyab
+AtieKamyab, 30, @Arefehkamyab
 AlirezaSazegar, 20, @Sazegar_telegram
-Amirparnan, 0, @Arefehkamyab
-Alighanai, 0, @Mahshid_ghanaei
+Amirparnan, 30, @Arefehkamyab
 HomaKhademi, 25, @Arefehkamyab
 Zohre, 20, @Farzansarvari
 PedramHS, 10, @aghapedi8657

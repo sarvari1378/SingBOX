@@ -1,3 +1,1 @@
-https://t.me/daily_configs/1375)**
-https://github.com/mahsanet/NikaNG/releases/download/v1.8.38/NikaNG_1.8.38_universal-signed.apk)
-https://gist.githubusercontent.com/Mahyar5803/fb72e4c7ae4551d583c2ab3b3c8c1385/raw/9b49459ea3f1063597ee0b5b4b21c58f9e0e0c22/Yuv2ray
+https://t.me/proxy?server=192.168.1.1.asmdns.net_mpir.com.asmdns.net&port=2024&secret=ee81e9137fa2e2c32a085b89306ddf378973332e616d617a6f6e6177732e636f6d

@@ -1,15 +1,2 @@
 vless://933caed5-2ec1-4211-84c2-c9521370d04c@fast.gambronservice.site:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=edu.tabligh.au&type=ws#Germany%20%F0%9F%87%A9%F0%9F%87%AA%20t.me%2FParsV2rayIR`
 ss://933caed5-2ec1-4211-84c2-c9521370d04c@fast.gambronservice.site:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=edu.tabligh.au&type=ws#Germany%20%F0%9F%87%A9%F0%9F%87%AA%20t.me%2FParsV2rayIR`
-vless://telegram-id-ArV2ray@151.101.194.133:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=12.irfrn3sn.net&fp=chrome&type=ws&sni=mio.splashthat.com#%40iranfreeserver
-ss://telegram-id-ArV2ray@151.101.194.133:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=12.irfrn3sn.net&fp=chrome&type=ws&sni=mio.splashthat.com#%40iranfreeserver
-vless://9c81f5a7-c48d-4839-b5cb-5d3a6d3e8759@pourya.tunnel.gpair7electronics.com:2008?security=none&encryption=none&host=www.speedtest.netJokerrvpnTelegram%20%3A&headerType=none&type=tcp#..
-vless://913e1424-c68d-4e56-ac6f-e7b6dfe79606@patch.com:443?path=%2F%3Fed%3D8192Telegram%20%3A&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=vpngaming.ir&fp=chrome&type=ws&sni=patch.com#t
-vless://18718278-7994-4392-7042-783bd67a4b54@162.159.41.92:443?mode=multi&security=tls&alpn=h2&encryption=none&fp=random&type=grpc&serviceName=grpc&sni=cglx.ewqmeta.com#%D9%84
-vless://9c81f5a7-c48d-4839-b5cb-5d3a6d3e8759@pourya.tunnel.gpair7electronics.com:2030?security=none&encryption=none&host=www.speedtest.netTelegram%20%3A&headerType=none&type=tcp#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-vless://be6d2019-b9c8-48c4-a915-90a99c2c562c@ns2.esfahansiman.com:2052?path=%2F%3Fed%3D2560&security=none&encryption=none&host=FTP.tehrANSiman.coM.&type=httpupgrade#teleg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%D9%85
-ss://9c81f5a7-c48d-4839-b5cb-5d3a6d3e8759@pourya.tunnel.gpair7electronics.com:2008?security=none&encryption=none&host=www.speedtest.netJokerrvpnTelegram%20%3A&headerType=none&type=tcp#..
-ss://913e1424-c68d-4e56-ac6f-e7b6dfe79606@patch.com:443?path=%2F%3Fed%3D8192Telegram%20%3A&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=vpngaming.ir&fp=chrome&type=ws&sni=patch.com#t
-ss://18718278-7994-4392-7042-783bd67a4b54@162.159.41.92:443?mode=multi&security=tls&alpn=h2&encryption=none&fp=random&type=grpc&serviceName=grpc&sni=cglx.ewqmeta.com#%D9%84
-ss://9c81f5a7-c48d-4839-b5cb-5d3a6d3e8759@pourya.tunnel.gpair7electronics.com:2030?security=none&encryption=none&host=www.speedtest.netTelegram%20%3A&headerType=none&type=tcp#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-ss://be6d2019-b9c8-48c4-a915-90a99c2c562c@ns2.esfahansiman.com:2052?path=%2F%3Fed%3D2560&security=none&encryption=none&host=FTP.tehrANSiman.coM.&type=httpupgrade#teleg

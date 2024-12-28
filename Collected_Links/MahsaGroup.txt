@@ -24,11 +24,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQN1BxUXBueWhzbnpLTnJt@admin.c3.havij.co:443#
 ss://e6e93d1d-d9e6-40ba-a583-04f7681d6be7@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#%40Daily_Configs
 ss://6483829c-9a1b-4ab8-bd1b-1bc2a87a6d18@zmaoz.faculty.ucdavis.edu:443?encryption=none&security=tls&sni=zmaoz.faculty.ucdavis.edu.&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=fonmelo.com&path=%2Folem%2Fws%3Fed%3D4096#%40Daily_Configs
 ss://eaf17659-8e0c-42c7-8578-dc052ddfa7e3@151.101.158.204:80?encryption=none&security=none&sni=zmaoz.faculty.ucdavis.edu.&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=fatmelo.com&path=%2Folem%2Fws%3Fed%3D64#%40Daily_Configs`
-vless://chanel:v2rayng__76@zula.ir:8443?mode=gun&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&type=grpc&serviceName=bo2bo2.bia2bax.shop&sni=bo2bo2.bia2bax.shop#%F0%9F%86%94v2rayng_76
-vless://chanel:v2rayng__76@Zula.ir:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=bo2bo2.bia2bax.shoP.&type=ws#%F0%9F%86%94v2rayng_76
-vless://chanel:v2rayng__76@www.speedtest.net:2052?path=%2Fwww.zula.ir%3Fed%3D2052&security=none&encryption=none&host=Bo2bo2.bia2bax.shoP.&type=httpupgrade#%F0%9F%86%94v2rayng_76
-vless://chanel:v2rayng__76@baby.bia2bax.shop:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%86%94v2rayng_76
-ss://chanel:v2rayng__76@zula.ir:8443?mode=gun&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&type=grpc&serviceName=bo2bo2.bia2bax.shop&sni=bo2bo2.bia2bax.shop#%F0%9F%86%94v2rayng_76
-ss://chanel:v2rayng__76@Zula.ir:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=bo2bo2.bia2bax.shoP.&type=ws#%F0%9F%86%94v2rayng_76
-ss://chanel:v2rayng__76@www.speedtest.net:2052?path=%2Fwww.zula.ir%3Fed%3D2052&security=none&encryption=none&host=Bo2bo2.bia2bax.shoP.&type=httpupgrade#%F0%9F%86%94v2rayng_76
-ss://chanel:v2rayng__76@baby.bia2bax.shop:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%86%94v2rayng_76

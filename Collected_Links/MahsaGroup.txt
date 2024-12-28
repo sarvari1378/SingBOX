@@ -1,2 +1,0 @@
-vless://634f41c5-ccbf-4056-996d-c774a1ba50c6@turkey.jjavaher.ir:7711?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#BESTIIVPNBOT+%D8%AA%D8%B3%D8%AA+%D9%88+%D8%AE%D8%B1%DB%8C%D8%AF
-ss://634f41c5-ccbf-4056-996d-c774a1ba50c6@turkey.jjavaher.ir:7711?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#BESTIIVPNBOT+%D8%AA%D8%B3%D8%AA+%D9%88+%D8%AE%D8%B1%DB%8C%D8%AF

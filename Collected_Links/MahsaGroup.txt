@@ -6,5 +6,3 @@ ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.86.59:2198?type=tcp#🇫🇷
 ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.156:2198?type=tcp#🇳🇱
 ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.107:2198?type=tcp#🇩🇪
 ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.124.195:2198?type=tcp#🇨🇾```
-vless://28dbc7fd-60fb-4d2f-87b0-2e179cefeabb@my.parshost.news:2097?type=tcp&path=%2F&headerType=http&security=none#Gramny%F0%9F%87%A9%F0%9F%87%AA-Test`
-ss://28dbc7fd-60fb-4d2f-87b0-2e179cefeabb@my.parshost.news:2097?type=tcp&path=%2F&headerType=http&security=none#Gramny%F0%9F%87%A9%F0%9F%87%AA-Test`

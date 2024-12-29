@@ -1,0 +1,2 @@
+vless://158223be-708a-4db8-9aa7-35ff306311e9@my.parshost.news:2097?security=&encryption=none&headerType=http&type=tcp#%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%20%D9%87%D8%A7%20%F0%9F%87%A9%F0%9F%87%AA-Test`
+ss://158223be-708a-4db8-9aa7-35ff306311e9@my.parshost.news:2097?security=&encryption=none&headerType=http&type=tcp#%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%20%D9%87%D8%A7%20%F0%9F%87%A9%F0%9F%87%AA-Test`

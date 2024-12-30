@@ -1,3 +1,5 @@
+vless://b2468339-7d26-4141-b804-140dbcd97aa3@my.parshost.news:2097?type=tcp&path=%2F&headerType=http&security=none#%F0%9F%87%A9%F0%9F%87%AA%20%E2%80%A2%20%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%AA%D8%B3%D8%AA%2010`
+ss://b2468339-7d26-4141-b804-140dbcd97aa3@my.parshost.news:2097?type=tcp&path=%2F&headerType=http&security=none#%F0%9F%87%A9%F0%9F%87%AA%20%E2%80%A2%20%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%AA%D8%B3%D8%AA%2010`
 vless://d404d958-d1ed-4002-a3d4-88c10fa7007a@[2a01:4f8:c012:2a1c::1]:30546?security=none&encryption=none&headerType=none&type=tcp#%40TRICK_MOBIL
 vless://fab84a1b-1832-4f4e-ad95-4049ce54a9af@join.kiava.cloud.ohbah.com:2083?mode=auto&path=%2F&security=tls&alpn=h2&encryption=none&host=s1-join.kiava.live&fp=chrome&type=xhttp&sni=s1-join.kiava.live#%40TRICK_MOBIL
 ss://d404d958-d1ed-4002-a3d4-88c10fa7007a@[2a01:4f8:c012:2a1c::1]:30546?security=none&encryption=none&headerType=none&type=tcp#%40TRICK_MOBIL

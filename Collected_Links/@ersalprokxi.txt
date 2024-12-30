@@ -1,3 +1,4 @@
+vless://82b3a57e-c0ca-4d01-a62d-dd7a68932ee1@fishlab.ucdavis.edu:443?path=/telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560&security=tls&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&type=ws&sni=fishlab.ucdavis.edu#1403|10|11_00:46:04
 vless://39f57930-9789-4a00-922e-7343a2e32929@Zmaoz.Faculty.Ucdavis.Edu:80/?type=ws&path=%2Ftelegram-configMs%2Ctelegram-configMs%2Ctelegram-configMs%2Ctelegram-configMs%2Ctelegram-configMs%2Ctelegram-configMs%2Ctelegram-configMs%2Ctelegram-configMs%3Fed%3D80&host=6.fidsxss1x.ir&security=none#1403|10|11_00:39:10
 vless://telegram-ArV2ray@151.101.2.216:80?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry&security=none&encryption=none&host=v2.fxpw9ls.ir&type=ws#1403|10|10_23:02:19
 vless://a71d6694-a48e-4f91-beab-55a9ba323a06@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560&security=none&encryption=none&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&type=ws#1403|10|10_19:39:33
@@ -37,4 +38,3 @@ vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.125.182:2198?encryption=none
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.107:2198?encryption=none&security=none&type=tcp&headerType=none#1403|10|10_14:17:29
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.117.49:2198?encryption=none&security=none&type=tcp&headerType=none#1403|10|10_14:17:29
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@77.91.122.108:2198?encryption=none&security=none&type=tcp&headerType=none#1403|10|10_14:17:29
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.18:2198?encryption=none&security=none&type=tcp&headerType=none#1403|10|10_14:17:29

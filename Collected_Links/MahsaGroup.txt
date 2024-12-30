@@ -1,0 +1,2 @@
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@91.225.219.118:2198?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B2%F0%9F%87%A9%F0%9F%93%A1%40MPFUSA`
+ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@91.225.219.118:2198?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B2%F0%9F%87%A9%F0%9F%93%A1%40MPFUSA`

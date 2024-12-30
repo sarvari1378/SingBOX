@@ -44,11 +44,3 @@ ss://SAVTEAM9@live.989bull.com:443?path=%2F%40SavTeam----%40SavTeam----%40SavTea
 ss://eyJhZGQiOiI1LjM0LjE3Ni4xMTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNGU1NWNlNDAtOWY4ZS00MTdkLWY4YWUtYWE2YWY5N2E3MDk3IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1NzYxNCIsInBzIjoiQERhaWx5X0NvbmZpZ3MiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 ss://5f9b89f8-4305-4b6a-d01e-6f115a2c93ec@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=&encryption=none&host=foffmelo.com&type=ws#%40Daily_Configs
 ss://860fe05e-c554-4c69-a54e-392a2a550af6@151.101.158.204:80?path=%2Folem%2Fws%3Fed%3D64&security=&alpn=h2%2Chttp%2F1.1&encryption=none&host=fatmelo.com&fp=chrome&type=ws&sni=zmaoz.faculty.ucdavis.edu.#%40Daily_Configs
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.86.59:2198?type=tcp#🇫🇷
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.156:2198?type=tcp#🇳🇱
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.107:2198?type=tcp#🇩🇪
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.124.195:2198?type=tcp#🇨🇾```
-ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.86.59:2198?type=tcp#🇫🇷
-ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.156:2198?type=tcp#🇳🇱
-ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.107:2198?type=tcp#🇩🇪
-ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.124.195:2198?type=tcp#🇨🇾```

@@ -31,25 +31,20 @@
             "Links": [
                 "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_1.txt",
                 "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_2.txt",
-                "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_3.txt",
-                "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_4.txt",
                 "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_1.txt",
-                "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_2.txt",
-                "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_3.txt",
-                "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_4.txt"
+                "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_2.txt"
             ],
             "Split": false
         },
         {
             "Name": "Fredom",
             "Links": [
-                "https://cold-truth-2604.fiyor71228.workers.dev/sub",
-                "https://polished-dew-b6ea.jojik63153.workers.dev/sub",
-                "https://hithisissajedsarvariandthisismine.wivica7662.workers.dev/4c09703b-34b4-4523-8658-7418a923102a?sub",
-                "https://ktahiktegvelefbvstuarkzifladfb.nepeno5867.workers.dev/cb5d3b65-4a77-4907-b8c7-6fcd3e793285?sub",
-                "https://wild-mouse-13fc.cilih16475.workers.dev/sub",
-                "https://sdiwhfgodleosiwartotpslsmiwjqnsiop.kayobod144.workers.dev/c2a32cc4-c67f-48cd-a3c0-1251b4d497b2?sub",
-                "https://misty-lake-7543.robim48060.workers.dev/sub"
+    
+                "https://hithisissajedsarvariandthisismine.wivica7662.workers.dev/31ff2d15-10b8-4a0d-a0fc-1035efd11852?sub",
+                "https://qwnsodlfmhjsainsomaismsindflenso.deyat25348.workers.dev/ec1e67fa-e455-482a-b1b4-4bb9099aada6?sub",
+                "https://whitesunsetd548efffvhkknktvjiyovop7p7.hosela7814.workers.dev/1765c809-8706-475f-b2d1-027c76c2728b?sub",
+                "https://springdream7ee8springdream7ee8.doripoc806.workers.dev/6c7359b3-df51-4559-b0fb-0a1315370d88",
+                ""
             ],
             "Split": true
         }

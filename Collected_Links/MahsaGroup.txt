@@ -51,7 +51,3 @@ ss://bea3e2e7-5433-43b3-db13-6b481e8dab5a@speedtest.net:80?path=%2Folem%2Fws%3Fe
 ss://1efdef9d-31e6-4273-b64e-de6451a85b62@nanishopact.ramvadminshop.com:32578?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40TRICK_MOBIL
 ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@94.232.244.5:2198?security=none&encryption=none&headerType=none&type=tcp#%40TRICK_MOBIL
 ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@94.232.244.5:2198?security=none&encryption=none&headerType=none&type=tcp#%40TRICK_MOBIL`
-vless://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@turkey-vless-tel-id-ab_841.ab-841.ip-ddns.com:8443?security=tls&alpn=h2&encryption=none&headerType=none&fp=chrome&type=tcp&sni=vkvd127.mycdn.me#%F0%9F%87%B9%F0%9F%87%B7TR%20%7C%20%40V2_Key```
-vless://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@turkey-vless-tel-id-ab_841.ab-841.ip-ddns.com:8443?security=tls&alpn=h2&encryption=none&headerType=none&fp=chrome&type=tcp&sni=vkvd127.mycdn.me#%F0%9F%87%B9%F0%9F%87%B7TR%20%7C%20%40V2_Key```
-ss://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@turkey-vless-tel-id-ab_841.ab-841.ip-ddns.com:8443?security=tls&alpn=h2&encryption=none&headerType=none&fp=chrome&type=tcp&sni=vkvd127.mycdn.me#%F0%9F%87%B9%F0%9F%87%B7TR%20%7C%20%40V2_Key```
-ss://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@turkey-vless-tel-id-ab_841.ab-841.ip-ddns.com:8443?security=tls&alpn=h2&encryption=none&headerType=none&fp=chrome&type=tcp&sni=vkvd127.mycdn.me#%F0%9F%87%B9%F0%9F%87%B7TR%20%7C%20%40V2_Key```

@@ -1,4 +1,4 @@
-vless://a8af9c7e-3e05-4c2f-a5f3-2f2faa0f819a@www.speedtest.net:443?path=%2Fa8af9c7e-3e05-4c2f-a5f3-2f2faa0f819a&security=tls&alpn=h2&encryption=none&host=iran.hosting-ip.com&fp=firefox&type=ws&sni=iran.hosting-ip.com#1403|10|12_21:56:03
+vless://--V2RAXX--@speedtest.net:80?path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&encryption=none&host=V2RAXX.ir&type=ws#1403|10|12_21:56:03
 vless://d9491ad9-4113-4757-9163-f93748952130@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560&security=none&encryption=none&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&type=ws#1403|10|12_20:19:38
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#1403|10|12_12:30:17
 vless://d908f5ab-6fe6-4371-85ba-3d7da5d0eea1@spd.fastly80-3.hosting-ip.com:80?path=%2Fspdnet%3Fed%3D1024&security=none&encryption=none&host=PINF.spdnet.ir.&type=ws#1403|10|12_11:53:28

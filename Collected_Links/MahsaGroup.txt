@@ -1,3 +1,5 @@
+vless://a2a8b449-c84e-4347-981e-41d249fdec80@hajlab.ucdavis.edu:443?path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&security=tls&encryption=none&host=joinxvproxybedee.ir&type=ws&sni=hajlab.ucdavis.edu#Ws%20-%20%40XvProxy-3uzgatw3
+ss://a2a8b449-c84e-4347-981e-41d249fdec80@hajlab.ucdavis.edu:443?path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&security=tls&encryption=none&host=joinxvproxybedee.ir&type=ws&sni=hajlab.ucdavis.edu#Ws%20-%20%40XvProxy-3uzgatw3
 vless://b5e3d701-3b7e-4fc6-a107-5c82a3f8b414@v5.vixsm.ir:443?security=none&encryption=none&host=archlinux.org&headerType=http&type=tcp#%40Daily_Configs
 vless://0069b36c-ba6c-4c70-ae39-71be514b9820@v4.vixsm.ir:443?security=none&encryption=none&host=archlinux.org&headerType=http&type=tcp#%40Daily_Configs
 vless://7cc88852-6c8c-4ddc-9211-5628824b223d@p3.vixsm.ir:45147?security=none&encryption=none&host=archlinux.org&headerType=http&type=tcp#%40Daily_Configs

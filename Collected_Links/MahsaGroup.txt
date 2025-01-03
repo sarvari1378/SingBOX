@@ -1,3 +1,5 @@
+vless://96cd3ee0-9bff-477b-c812-08d4341025bf@de.ab-841.ip-ddns.com:4433?mode=gun&security=none&encryption=none&type=grpc&serviceName=https%3A%2F%2Ft.me%2FAB_841#tnts6qdbc```
+ss://96cd3ee0-9bff-477b-c812-08d4341025bf@de.ab-841.ip-ddns.com:4433?mode=gun&security=none&encryption=none&type=grpc&serviceName=https%3A%2F%2Ft.me%2FAB_841#tnts6qdbc```
 vless://ea136d8b-2581-4414-80d6-7673c24276da@199.232.5.153:443?path=%2FLeGaCy%3Fed%3D1024&security=tls&alpn=h2&encryption=none&host=mobile.ir.&fp=randomized&type=ws&sni=mobile.ir.#1
 ss://ea136d8b-2581-4414-80d6-7673c24276da@199.232.5.153:443?path=%2FLeGaCy%3Fed%3D1024&security=tls&alpn=h2&encryption=none&host=mobile.ir.&fp=randomized&type=ws&sni=mobile.ir.#1
 vless://46153d1a-ebe7-4218-9155-19618285a286@ir.bamtech.site:1720?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40TRICK_MOBIL

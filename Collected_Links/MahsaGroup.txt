@@ -1,3 +1,5 @@
+vless://ea136d8b-2581-4414-80d6-7673c24276da@199.232.5.153:443?path=%2FLeGaCy%3Fed%3D1024&security=tls&alpn=h2&encryption=none&host=mobile.ir.&fp=randomized&type=ws&sni=mobile.ir.#1
+ss://ea136d8b-2581-4414-80d6-7673c24276da@199.232.5.153:443?path=%2FLeGaCy%3Fed%3D1024&security=tls&alpn=h2&encryption=none&host=mobile.ir.&fp=randomized&type=ws&sni=mobile.ir.#1
 vless://46153d1a-ebe7-4218-9155-19618285a286@ir.bamtech.site:1720?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40TRICK_MOBIL
 vless://3aef1001-72a9-4aa8-8e5a-cc9a73d8cfad@outshop.bestshop10.ir:26745?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40TRICK_MOBIL
 vless://677a41e5-dbe6-429b-8f91-cc014b1ae1bd@146.190.16.108:23701?security=none&encryption=none&host=Speedtest.net&headerType=http&type=tcp#%40TRICK_MOBIL

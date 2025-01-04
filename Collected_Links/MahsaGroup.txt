@@ -1,3 +1,13 @@
+vless://4c7512e3-d919-4dcb-a9ad-7c24cf933259@209.38.190.74:48397?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%5BEmadGraphic%5D+vless-DE`
+vless://7320522d-56c1-4e35-9fa7-88a151d76828@104.21.64.1:2086?path=%2FDdAtLiofda1FCcda%3Fed%3D2560&security=none&encryption=none&host=07fd36f0-yuv2ray3131331456346534643.cocefob714.workers.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%5BEmadGraphic%5D+vless-CA`
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@185.236.233.55:2198?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%5BEmadGraphic%5D+vless-NL`
+vless://26721978-890e-4946-bafa-cb03c9ff7f4a@212.237.218.123:38142?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%5BEmadGraphic%5D+vless-FI`
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@80.92.206.33:2198?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%5BEmadGraphic%5D+vless-NL`
+ss://4c7512e3-d919-4dcb-a9ad-7c24cf933259@209.38.190.74:48397?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%5BEmadGraphic%5D+vless-DE`
+ss://7320522d-56c1-4e35-9fa7-88a151d76828@104.21.64.1:2086?path=%2FDdAtLiofda1FCcda%3Fed%3D2560&security=none&encryption=none&host=07fd36f0-yuv2ray3131331456346534643.cocefob714.workers.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%5BEmadGraphic%5D+vless-CA`
+ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@185.236.233.55:2198?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%5BEmadGraphic%5D+vless-NL`
+ss://26721978-890e-4946-bafa-cb03c9ff7f4a@212.237.218.123:38142?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%5BEmadGraphic%5D+vless-FI`
+ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@80.92.206.33:2198?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%5BEmadGraphic%5D+vless-NL`
 vless://e7faa732-70bd-564b-b329-7552dda889eb@live.skornorth.com:443?encryption=none&security=tls&sni=live.skornorth.com&fp=qq&type=ws&host=0-MO-SI-V2.COM&path=%2F#%40Daily_Configs
 vless://2b62f819-e006-4cb7-83f1-f9962f00caa1@151.101.194.133:443?encryption=none&security=tls&sni=mio.splashthat.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=leader-of-www.com&path=%2F%40custom_config%3Fed%3D2048#%40Daily_Configs
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.124.195:2198?encryption=none&security=none&type=tcp&headerType=none#%40Daily_Configs

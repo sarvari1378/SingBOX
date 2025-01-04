@@ -1,3 +1,13 @@
+**`vless://Bia--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=prisons.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#%F0%9F%87%A7%F0%9F%87%AA%20%40Hajmvpn
+vless://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=sabteahval.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#1403|10|15_17:24:10
+vless://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=isipo.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#1403|10|15_17:24:10
+vless://Joinin--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=niopdc.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#1403|10|15_17:24:10
+vless://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=gsi.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#1403|10|15_17:24:10
+vless://4c7512e3-d919-4dcb-a9ad-7c24cf933259@209.38.190.74:48397?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#1403|10|15_16:58:13
+vless://7320522d-56c1-4e35-9fa7-88a151d76828@104.21.64.1:2086?path=%2FDdAtLiofda1FCcda%3Fed%3D2560&security=none&encryption=none&host=07fd36f0-yuv2ray3131331456346534643.cocefob714.workers.dev&type=ws#1403|10|15_16:58:13
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@185.236.233.55:2198?security=none&encryption=none&headerType=none&type=tcp#1403|10|15_16:58:13
+vless://26721978-890e-4946-bafa-cb03c9ff7f4a@212.237.218.123:38142?security=none&encryption=none&headerType=none&type=tcp#1403|10|15_16:58:13
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@80.92.206.33:2198?security=none&encryption=none&headerType=none&type=tcp#1403|10|15_16:58:13
 vless://db541062-04bd-431e-b056-b9b331e7a6a6@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=/telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560&security=none&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&type=ws#1403|10|15_16:19:23
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#1403|10|15_15:54:13
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#1403|10|15_15:54:13
@@ -28,13 +38,3 @@ vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@80.92.206.33:2198?encryption=none&s
 vless://4c7512e3-d919-4dcb-a9ad-7c24cf933259@209.38.190.74:48397?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#1403|10|15_10:32:07
 vless://7320522d-56c1-4e35-9fa7-88a151d76828@104.21.64.1:2086?path=%2FDdAtLiofda1FCcda%3Fed%3D2560&security=none&encryption=none&host=07fd36f0-yuv2ray3131331456346534643.cocefob714.workers.dev&type=ws#1403|10|15_10:32:07
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@185.236.233.55:2198?security=none&encryption=none&headerType=none&type=tcp#1403|10|15_10:32:07
-vless://26721978-890e-4946-bafa-cb03c9ff7f4a@212.237.218.123:38142?security=none&encryption=none&headerType=none&type=tcp#1403|10|15_10:32:07
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@80.92.206.33:2198?security=none&encryption=none&headerType=none&type=tcp#1403|10|15_10:32:07
-vless://e7faa732-70bd-564b-b329-7552dda889eb@live.skornorth.com:443?encryption=none&security=tls&sni=live.skornorth.com&fp=qq&type=ws&host=0-MO-SI-V2.COM&path=%2F#1403|10|15_07:41:45
-vless://2b62f819-e006-4cb7-83f1-f9962f00caa1@151.101.194.133:443?encryption=none&security=tls&sni=mio.splashthat.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=leader-of-www.com&path=%2F%40custom_config%3Fed%3D2048#1403|10|15_07:41:45
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.188:8080#1403|10|15_07:41:45
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.124.195:2198?encryption=none&security=none&type=tcp&headerType=none#1403|10|15_07:41:45
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1UnVpdlBPVTlqUTRWTWZLaHVlSlhV@138.124.93.193:38500#1403|10|15_07:41:45
-vless://2b62f819-e006-4cb7-83f1-f9962f00caa1@151.101.2.216:80?encryption=none&security=none&type=ws&host=leader-of-www.com&path=%2F%40custom_config%3Fed%3D2048#1403|10|15_07:41:45
-vless://ae2228d1-9b8f-4914-9e0a-68a115f8dbe1@174.138.13.224:15891?encryption=none&security=reality&sni=ftp.debian.org&fp=random&pbk=4FNDHgDP2lnetuRioH6DsE9kMnDyhkJ2NHLMpZgyci0&sid=10f1&type=tcp&headerType=none#1403|10|15_07:41:45
-vless://8160a5b8-74e3-5eff-a8a0-ecd4f72e81fe@coffeegenome.ucdavis.edu:443?encryption=none&security=tls&sni=coffeegenome.ucdavis.edu&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=speedtest.net.ftp.debian.org.1.2.3.a.b.c.netspeedtest.net.eng2.moiasl.ir&path=%2Fvless%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560#1403|10|15_07:41:45

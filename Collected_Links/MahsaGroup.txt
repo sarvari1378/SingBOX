@@ -25,5 +25,3 @@ ss://eyJhZGQiOiI3OS4xMjcuMjI5LjU0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3Q
 ss://b6b685f3-0115-425f-a26f-c0d4421cc528@aws.rugrag.ir:52837?mode=gun&security=none&encryption=none&type=grpc#TEL%3A%20%40Daily_Configs
 ss://eyJhZGQiOiI5Mi4yNDIuMjIwLjIyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjhkZWUxOWFiLTUwY2UtNGQwNi1iZTQyLTVlNTNjODk4OWNjYyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzc4ODUiLCJwcyI6IlRFTDogQERhaWx5X0NvbmZpZ3MiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 ss://7cc88852-6c8c-4ddc-9211-5628824b223d@p4.vixsm.ir:45147?security=none&encryption=none&host=archlinux.org&headerType=http&type=tcp#TEL%3A%20%40Daily_Configs
-vless://8a0f634c-4e80-4f5d-89f0-25736fce7048@185.255.112.175:5600?security=reality&encryption=none&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#Public```
-ss://8a0f634c-4e80-4f5d-89f0-25736fce7048@185.255.112.175:5600?security=reality&encryption=none&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#Public```

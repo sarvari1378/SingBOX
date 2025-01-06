@@ -1,4 +1,2 @@
-vless://d6a95da1-ff08-49cd-a41c-32ecdc289846@ELi.Elena.com.co:7642?type=tcp#🇫🇮ELiV2ray
-vless://bca312f3-afc4-540f-a174-ac90596a3bbc@ELii.Elena.com.co:80?mode=gun&type=grpc&serviceName=vless-grpc#🇸🇰@ELiV2RAY
-ss://d6a95da1-ff08-49cd-a41c-32ecdc289846@ELi.Elena.com.co:7642?type=tcp#🇫🇮ELiV2ray
-ss://bca312f3-afc4-540f-a174-ac90596a3bbc@ELii.Elena.com.co:80?mode=gun&type=grpc&serviceName=vless-grpc#🇸🇰@ELiV2RAY
+vless://ab7be265-4f70-4191-8c7d-428be6d436e4@online.parshost.news:9514?security=&encryption=none&host=refersion.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20%D8%A2%D9%84%D9%85%D8%A7%D9%86%20%D9%88%DB%8C%DA%98%D9%87`
+ss://ab7be265-4f70-4191-8c7d-428be6d436e4@online.parshost.news:9514?security=&encryption=none&host=refersion.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20%D8%A2%D9%84%D9%85%D8%A7%D9%86%20%D9%88%DB%8C%DA%98%D9%87`

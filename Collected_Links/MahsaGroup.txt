@@ -23,13 +23,3 @@ ss://6a2db678-6eea-4fd9-aa70-b264008bdd5d@95.216.140.41:44439?security=none&encr
 ss://6a2db678-6eea-4fd9-aa70-b264008bdd5d@95.216.140.41:44439?security=none&encryption=none&headerType=none&type=tcp#telegra
 vless://6a2db678-6eea-4fd9-aa70-b264008bdd5d@95.216.140.41:44439?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%92%94
 ss://6a2db678-6eea-4fd9-aa70-b264008bdd5d@95.216.140.41:44439?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%92%94
-vless://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=isipo.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#8
-vless://Biain--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=prisons.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#9
-vless://Join--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=niopdc.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#10
-vless://754df1ef-cbfc-49f7-a874-21c5d7a958fd@51.91.175.21:7260?security=none&encryption=none&host=ponisha.ir&headerType=http&type=tcp#11
-vless://3c2e5f39-d738-40d4-929c-249ea568cb4a@65.109.228.235:45743?security=none&encryption=none&headerType=none&type=tcp#12
-ss://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=isipo.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#8
-ss://Biain--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=prisons.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#9
-ss://Join--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=niopdc.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#10
-ss://754df1ef-cbfc-49f7-a874-21c5d7a958fd@51.91.175.21:7260?security=none&encryption=none&host=ponisha.ir&headerType=http&type=tcp#11
-ss://3c2e5f39-d738-40d4-929c-249ea568cb4a@65.109.228.235:45743?security=none&encryption=none&headerType=none&type=tcp#12

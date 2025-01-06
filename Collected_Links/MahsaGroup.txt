@@ -33,17 +33,3 @@ ss://Biain--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODE
 ss://Join--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=niopdc.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#10
 ss://754df1ef-cbfc-49f7-a874-21c5d7a958fd@51.91.175.21:7260?security=none&encryption=none&host=ponisha.ir&headerType=http&type=tcp#11
 ss://3c2e5f39-d738-40d4-929c-249ea568cb4a@65.109.228.235:45743?security=none&encryption=none&headerType=none&type=tcp#12
-vless://3c2e5f39-d738-40d4-929c-249ea568cb4a@65.109.228.235:45743?security=none&encryption=none&headerType=none&type=tcp#1
-vless://928c7c5b-5928-4b7c-98d7-dcfca65d02f3@3.79.61.93:20733?security=none&encryption=none&headerType=none&type=tcp#2
-vless://express_v2ray@91.107.129.223:42090?mode=auto&path=%2F&security=reality&encryption=none&pbk=CrfqNf37Q8FXrPxPOJV0j9HFKuO0KHoyG5WnruII51Y&fp=chrome&spx=%2F&type=xhttp&sni=yahoo.com&sid=3a#3
-vless://3c2e5f39-d738-40d4-929c-249ea568cb4a@65.109.228.235:45743?security=none&encryption=none&headerType=none&type=tcp#4
-vless://4d8426b2-0af1-4eb5-a231-b62152d7b9b9@cloud.xmsvx.com:443?path=%2FTorVipxyy%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=aft.vc&fp=chrome&type=ws&sni=live.989bull.com#5
-vless://express_v2ray@91.107.129.223:42090?mode=auto&path=%2F&security=reality&encryption=none&pbk=CrfqNf37Q8FXrPxPOJV0j9HFKuO0KHoyG5WnruII51Y&fp=chrome&spx=%2F&type=xhttp&sni=yahoo.com&sid=3a#6
-vless://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=gsi.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#7
-ss://3c2e5f39-d738-40d4-929c-249ea568cb4a@65.109.228.235:45743?security=none&encryption=none&headerType=none&type=tcp#1
-ss://928c7c5b-5928-4b7c-98d7-dcfca65d02f3@3.79.61.93:20733?security=none&encryption=none&headerType=none&type=tcp#2
-ss://express_v2ray@91.107.129.223:42090?mode=auto&path=%2F&security=reality&encryption=none&pbk=CrfqNf37Q8FXrPxPOJV0j9HFKuO0KHoyG5WnruII51Y&fp=chrome&spx=%2F&type=xhttp&sni=yahoo.com&sid=3a#3
-ss://3c2e5f39-d738-40d4-929c-249ea568cb4a@65.109.228.235:45743?security=none&encryption=none&headerType=none&type=tcp#4
-ss://4d8426b2-0af1-4eb5-a231-b62152d7b9b9@cloud.xmsvx.com:443?path=%2FTorVipxyy%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=aft.vc&fp=chrome&type=ws&sni=live.989bull.com#5
-ss://express_v2ray@91.107.129.223:42090?mode=auto&path=%2F&security=reality&encryption=none&pbk=CrfqNf37Q8FXrPxPOJV0j9HFKuO0KHoyG5WnruII51Y&fp=chrome&spx=%2F&type=xhttp&sni=yahoo.com&sid=3a#6
-ss://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=gsi.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#7

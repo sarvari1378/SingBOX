@@ -1,3 +1,5 @@
+vless://68b0b67a-c480-408f-b49e-78b9b3302cec@www.speedtest.net:80?path=%2FTelegram-Xv2ry2%3Fed%3D512&security=none&encryption=none&host=www.speedtest.net.nl1.70.18.432.20.20.20.20.ir.xn--g28h.dns-dynamic.net.tohidjanebi.xyz.&type=ws#4rfwx3tw`
+ss://68b0b67a-c480-408f-b49e-78b9b3302cec@www.speedtest.net:80?path=%2FTelegram-Xv2ry2%3Fed%3D512&security=none&encryption=none&host=www.speedtest.net.nl1.70.18.432.20.20.20.20.ir.xn--g28h.dns-dynamic.net.tohidjanebi.xyz.&type=ws#4rfwx3tw`
 vless://3a4a6052-9fe6-416d-94c3-83fa5e700342@de.spirako.com:443?security=reality&encryption=none&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=website.com#BESTIIVPNBOT
 vless://3a4a6052-9fe6-416d-94c3-83fa5e700342@us.spirako.com:443?security=reality&encryption=none&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#BESTIIVPNBOT
 vless://3a4a6052-9fe6-416d-94c3-83fa5e700342@tr.spirako.com:443?security=reality&encryption=none&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#BESTIIVPNBOT

@@ -1,3 +1,5 @@
+vless://1f2d5568-2bc3-4d67-bcca-4dafb952c05c@g.soskom.ir:52439?type=grpc&mode=gun&security=reality&fp=chrome&sni=yahoo.com&pbk=2Vxork2cQs-t5sqBYPt5ObPyex0jk7E2ND5we52m_0Y&sid=2e094153c17b67&spx=/#@vpnstorefast
+ss://1f2d5568-2bc3-4d67-bcca-4dafb952c05c@g.soskom.ir:52439?type=grpc&mode=gun&security=reality&fp=chrome&sni=yahoo.com&pbk=2Vxork2cQs-t5sqBYPt5ObPyex0jk7E2ND5we52m_0Y&sid=2e094153c17b67&spx=/#@vpnstorefast
 vless://SVNTEAM@CN.GiSVN.iR:443/?type=tcp&security=reality&pbk=PX3Iw8tKNRnG6_MqONvC96D7G1RWe_VvBJ99UGN150k&fp=chrome&sni=www.latimes.com&sid=&spx=%2FSVN#@vpnstorefast
 ss://SVNTEAM@CN.GiSVN.iR:443/?type=tcp&security=reality&pbk=PX3Iw8tKNRnG6_MqONvC96D7G1RWe_VvBJ99UGN150k&fp=chrome&sni=www.latimes.com&sid=&spx=%2FSVN#@vpnstorefast
 vless://41bb7247-c37a-48ab-8421-c9f76f4ed570@ns4.esfahansiman.com:443/?type=ws&encryption=none&host=WWW.pegAh-Esfahan.De.&security=tls&sni=WWW.pegAh-Esfahan.De.&alpn=h2%2Chttp%2F1.1&fp=chrome#@mobilesignal

@@ -12,7 +12,7 @@ AlirezaSazegar, 3, @Sazegar_telegram
 Amirparnan, 13, @Arefehkamyab
 HomaKhademi, 8, @Arefehkamyab
 Zohre, 3, @Farzansarvari
-PedramHS, -7, @aghapedi8657
+PedramHS, 31, @aghapedi8657
 Malekaz, 41, @maleka0_0
 MahsaMoradi, 7, @l_Mhs_l
 ParhamGhasemi, 6, @Chemical1373

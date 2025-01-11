@@ -30,5 +30,3 @@ vless://7e65034d-bc41-42dd-bd85-547aec41da26@fishlab.ucdavis.edu:443?path=JoinBe
 ss://7e65034d-bc41-42dd-bd85-547aec41da26@fishlab.ucdavis.edu:443?path=JoinBede,@ELiV2RAY--JoinBede,@ELiV2RAY--JoinBede,@ELiV2RAY--JoinBede,@ELiV2RAY--JoinBede@ELiV2RAY3Fed%3D2560&security=tls&encryption=none&host=ELiV2RAY.cc&fp=randomized&type=ws&sni=fishlab.ucdavis.edu#DynamicIP-@ELiV2RAY`
 vless://2d7c7aa5-364a-4dbb-937a-f8e4f5f73007@94.131.111.195:443?security=tls&sni=de4.connecton.surf&type=ws&path=%2Fvless&allowInsecure=1#🇩🇪[openproxylist.com]
 ss://2d7c7aa5-364a-4dbb-937a-f8e4f5f73007@94.131.111.195:443?security=tls&sni=de4.connecton.surf&type=ws&path=%2Fvless&allowInsecure=1#🇩🇪[openproxylist.com]
-vless://44956c15-75bb-4e09-b5b8-d58af3c1f5cb@13.39.214.100:21464?type=tcp&security=none#21464-IP`
-ss://44956c15-75bb-4e09-b5b8-d58af3c1f5cb@13.39.214.100:21464?type=tcp&security=none#21464-IP`

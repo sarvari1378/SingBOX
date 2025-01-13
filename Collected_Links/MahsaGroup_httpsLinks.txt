@@ -1,3 +1,15 @@
+https://iptv-org.github.io/iptv/index.m3u`
+https://iptv-org.github.io/iptv/languages/fas.m3u`
+https://iptv-org.github.io/iptv/languages/tur.m3u`
+https://iptv-org.github.io/iptv/languages/aze.m3u`
+https://iptv-org.github.io/iptv/languages/deu.m3u`
+https://iptv-org.github.io/iptv/languages/eng.m3u`
+https://iptv-org.github.io/iptv/languages/afr.m3u`
+https://iptv-org.github.io/iptv/countries/in.m3u`
+https://iptv-org.github.io/iptv/categories/sports.m3u`
+https://iptv-org.github.io/iptv/categories/news.m3u`
+https://iptv-org.github.io/iptv/categories/kids.m3u`
+https://t.me/addlist/EUit7cGiK0g0YWVk)
 https://t.me/daily_configs/1375)**
 https://github.com/mahsanet/NikaNG/releases/download/v1.8.38/NikaNG_1.8.38_universal-signed.apk)
 https://t.me/vpn_kade01)

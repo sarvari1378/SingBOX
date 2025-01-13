@@ -11,7 +11,7 @@ AtieKamyab, 11, @Arefehkamyab
 AlirezaSazegar, 31, @Sazegar_telegram
 Amirparnan, 11, @Arefehkamyab
 HomaKhademi, 6, @Arefehkamyab
-Zohre, 1, @Farzansarvari
+Zohre, 31, @Farzansarvari
 PedramHS, 29, @aghapedi8657
 Malekaz, 39, @maleka0_0
 MahsaMoradi, 5, @l_Mhs_l

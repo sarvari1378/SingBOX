@@ -1,3 +1,5 @@
+vless://78e4df0c-5174-4e18-a874-995ef6e6a38d@expressvpn_420.fastly80.hosting-ip.com:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#t.me%2Ffast2ng+%7C+%2846%29+DO```
+ss://78e4df0c-5174-4e18-a874-995ef6e6a38d@expressvpn_420.fastly80.hosting-ip.com:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#t.me%2Ffast2ng+%7C+%2846%29+DO```
 vless://Parsashonam-147@[2a01:4f8:1c1b:26eb::1]:8888?security=none&encryption=none&headerType=none&type=tcp#t.me%2Ffast2ng+%7C+%2843%29+ID```
 vless://Parsashonam-147@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#t.me%2Ffast2ng+%7C+%2844%29+ID```
 ss://Parsashonam-147@[2a01:4f8:1c1b:26eb::1]:8888?security=none&encryption=none&headerType=none&type=tcp#t.me%2Ffast2ng+%7C+%2843%29+ID```
@@ -17,8 +19,3 @@ vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.0:80?path=%2F%3Fed%3D2560&
 ss://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.0:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=edge.validbv3528.ir&type=ws#%F0%9F%87%BA%F0%9F%87%B2%E2%9E%A3%40V2WRAY```
 vless://3f0fe596-2a98-4724-bee1-72ba87403cd0@2.56.126.163:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%A8%F0%9F%87%BE%E2%9E%A3%40V2WRAY```
 ss://3f0fe596-2a98-4724-bee1-72ba87403cd0@2.56.126.163:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%A8%F0%9F%87%BE%E2%9E%A3%40V2WRAY```
-vless://758e7d83-eb97-450b-8783-f01cfc153d23@37.27.189.156:80?mode=gun&security=reality&encryption=none&pbk=WlFuoEk4ZxK57YiQv52yKuLS4kzP2-6kMcVO5zpBzVk&fp=chrome&type=grpc&serviceName=%40VPN_KING_V2RAY%40VPN_KING_V2RAY%40VPN_KING_V2RAY&sni=www.speedtest.net&sid=1c6ce2#%F0%9F%87%AB%F0%9F%87%AE%E2%9E%A3%40V2WRAY```
-ss://758e7d83-eb97-450b-8783-f01cfc153d23@37.27.189.156:80?mode=gun&security=reality&encryption=none&pbk=WlFuoEk4ZxK57YiQv52yKuLS4kzP2-6kMcVO5zpBzVk&fp=chrome&type=grpc&serviceName=%40VPN_KING_V2RAY%40VPN_KING_V2RAY%40VPN_KING_V2RAY&sni=www.speedtest.net&sid=1c6ce2#%F0%9F%87%AB%F0%9F%87%AE%E2%9E%A3%40V2WRAY```
-vless://219ee52a-0e91-4f36-93a5-3e28a4830a7a@45.95.233.11:8443?security=reality&encryption=none&pbk=os2QbCQyqdqE4vr-vVWTQMBiqxFXEDSLhMncRy5RIwg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bunny.net&sid=f8d8d12585198cb5#%F0%9F%87%AB%F0%9F%87%B7%E2%9E%A3%40V2WRAY```
-ss://219ee52a-0e91-4f36-93a5-3e28a4830a7a@45.95.233.11:8443?security=reality&encryption=none&pbk=os2QbCQyqdqE4vr-vVWTQMBiqxFXEDSLhMncRy5RIwg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bunny.net&sid=f8d8d12585198cb5#%F0%9F%87%AB%F0%9F%87%B7%E2%9E%A3%40V2WRAY```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@169.150.202.174:990#%F0%9F%87%AE%F0%9F%87%B1%E2%9E%A3%40V2WRAY```

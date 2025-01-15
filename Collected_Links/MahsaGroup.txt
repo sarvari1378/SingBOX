@@ -1,3 +1,14 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#Channel%20id%3A%40shokhmiplus
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#Channel%20id%3A%20%40shokhmiplus%20%F0%9F%87%AC%F0%9F%87%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#Channel%20id%3A%20%40shokhmiplus%20%F0%9F%87%A7%F0%9F%87%AD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#Channel%20id%3A%20%40shokhmiplus%20%F0%9F%87%A6%F0%9F%87%AA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#Channel%20id%3A%20%40shokhmiplus%20%F0%9F%87%A6%F0%9F%87%AA
+vless://v2rayng_____76@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#%F0%9F%86%94v2rayng_76
+vless://v2rayng_____76@upgrade.bia2bax.shop:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#%F0%9F%86%94v2rayng_76
+vless://v2rayng_____76@baby.bia2bax.shop:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%86%94v2rayng_76
+ss://v2rayng_____76@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#%F0%9F%86%94v2rayng_76
+ss://v2rayng_____76@upgrade.bia2bax.shop:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#%F0%9F%86%94v2rayng_76
+ss://v2rayng_____76@baby.bia2bax.shop:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%86%94v2rayng_76
 vless://78e4df0c-5174-4e18-a874-995ef6e6a38d@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#%D8%A8%D9%87%20%D8%B9%D8%B4%D9%82%20%D8%A8%DA%86%D9%87%20%D9%87%D8%A7%DB%8C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%F0%9F%98%8D%E2%99%A5%EF%B8%8F`
 ss://78e4df0c-5174-4e18-a874-995ef6e6a38d@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#%D8%A8%D9%87%20%D8%B9%D8%B4%D9%82%20%D8%A8%DA%86%D9%87%20%D9%87%D8%A7%DB%8C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%F0%9F%98%8D%E2%99%A5%EF%B8%8F`
 vless://219ee52a-0e91-4f36-93a5-3e28a4830a7a@ru.srv.flexiblenet.org:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=bunny.net&fp=chrome&pbk=os2QbCQyqdqE4vr-vVWTQMBiqxFXEDSLhMncRy5RIwg&sid=f8d8d12585198cb5&type=tcp&headerType=none#%40Daily_Configs
@@ -66,7 +77,3 @@ vless://25303e19-5105-5489-90bf-9dac9588ec46@sPeEdtEsT.nEt:80?security=none&encr
 vless://25303e19-5105-5489-90bf-9dac9588ec46@live.skornorth.com:443?allowInsecure=1&security=tls&host=0-MOSIV2-0.COM&fp=qq&type=ws&sni=live.skornorth.com#@mobilesignal```
 ss://25303e19-5105-5489-90bf-9dac9588ec46@sPeEdtEsT.nEt:80?security=none&encryption=none&host=0-MOSIV2-0.COM&type=ws#@mobilesignal
 ss://25303e19-5105-5489-90bf-9dac9588ec46@live.skornorth.com:443?allowInsecure=1&security=tls&host=0-MOSIV2-0.COM&fp=qq&type=ws&sni=live.skornorth.com#@mobilesignal```
-vless://0bd318cd-519a-40d7-a1f4-e2992a04f0d3@fishlab.ucdavis.edu:443?security=tls&fp=firefox&host=Bia2.Channel-ELiV2RaY.ir&type=ws&sni=fishlab.ucdavis.edu#S2-DynamicIP-@ELiV2RAY`
-vless://0bd318cd-519a-40d7-a1f4-e2992a04f0d3@151.101.66.228:443?security=tls&allowInsecure=1&host=Bia2.Channel-ELiV2RaY.ir&fp=chrome&type=ws&sni=Bia2.Channel-ELiV2RaY.ir#DynamicIP-@ELiV2RAY`
-ss://0bd318cd-519a-40d7-a1f4-e2992a04f0d3@fishlab.ucdavis.edu:443?security=tls&fp=firefox&host=Bia2.Channel-ELiV2RaY.ir&type=ws&sni=fishlab.ucdavis.edu#S2-DynamicIP-@ELiV2RAY`
-ss://0bd318cd-519a-40d7-a1f4-e2992a04f0d3@151.101.66.228:443?security=tls&allowInsecure=1&host=Bia2.Channel-ELiV2RaY.ir&fp=chrome&type=ws&sni=Bia2.Channel-ELiV2RaY.ir#DynamicIP-@ELiV2RAY`

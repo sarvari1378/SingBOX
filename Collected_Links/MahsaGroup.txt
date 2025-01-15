@@ -1,3 +1,5 @@
+vless://78e4df0c-5174-4e18-a874-995ef6e6a38d@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#%D8%A8%D9%87%20%D8%B9%D8%B4%D9%82%20%D8%A8%DA%86%D9%87%20%D9%87%D8%A7%DB%8C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%F0%9F%98%8D%E2%99%A5%EF%B8%8F`
+ss://78e4df0c-5174-4e18-a874-995ef6e6a38d@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#%D8%A8%D9%87%20%D8%B9%D8%B4%D9%82%20%D8%A8%DA%86%D9%87%20%D9%87%D8%A7%DB%8C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%F0%9F%98%8D%E2%99%A5%EF%B8%8F`
 vless://219ee52a-0e91-4f36-93a5-3e28a4830a7a@ru.srv.flexiblenet.org:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=bunny.net&fp=chrome&pbk=os2QbCQyqdqE4vr-vVWTQMBiqxFXEDSLhMncRy5RIwg&sid=f8d8d12585198cb5&type=tcp&headerType=none#%40Daily_Configs
 vless://e8e6921c-da08-4d51-af5a-9d7710134fcf@5.75.193.5:48363?encryption=none&security=reality&sni=docker.com&fp=chrome&pbk=w8xfpG5vc5edKaa7eizbn0dWQ22Ayo_1cIuI-DOUPHk&sid=29bc6c739408&type=xhttp&path=%2F&mode=auto#%40Daily_Configs
 vless://dabdece4-d99d-45bf-b525-1e1d419277f8@bestco.bestshop10.ir:40240?encryption=none&security=none&type=tcp&headerType=http&host=canva.com#%40Daily_Configs
@@ -68,5 +70,3 @@ vless://0bd318cd-519a-40d7-a1f4-e2992a04f0d3@fishlab.ucdavis.edu:443?security=tl
 vless://0bd318cd-519a-40d7-a1f4-e2992a04f0d3@151.101.66.228:443?security=tls&allowInsecure=1&host=Bia2.Channel-ELiV2RaY.ir&fp=chrome&type=ws&sni=Bia2.Channel-ELiV2RaY.ir#DynamicIP-@ELiV2RAY`
 ss://0bd318cd-519a-40d7-a1f4-e2992a04f0d3@fishlab.ucdavis.edu:443?security=tls&fp=firefox&host=Bia2.Channel-ELiV2RaY.ir&type=ws&sni=fishlab.ucdavis.edu#S2-DynamicIP-@ELiV2RAY`
 ss://0bd318cd-519a-40d7-a1f4-e2992a04f0d3@151.101.66.228:443?security=tls&allowInsecure=1&host=Bia2.Channel-ELiV2RaY.ir&fp=chrome&type=ws&sni=Bia2.Channel-ELiV2RaY.ir#DynamicIP-@ELiV2RAY`
-vless://LunarVPN_222665@89.110.127.19:443?security=reality&encryption=none&pbk=yNeR-NDxjmPWkZ8MQ9ywJiRA8j8zuHwNTlp6NS8D3DA&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=apple.com.com&sid=ffffffffff#-%F0%9F%87%B3%F0%9F%87%B1
-ss://LunarVPN_222665@89.110.127.19:443?security=reality&encryption=none&pbk=yNeR-NDxjmPWkZ8MQ9ywJiRA8j8zuHwNTlp6NS8D3DA&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=apple.com.com&sid=ffffffffff#-%F0%9F%87%B3%F0%9F%87%B1

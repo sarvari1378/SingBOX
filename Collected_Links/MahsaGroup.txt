@@ -1,3 +1,5 @@
+vless://c692a87c-fb69-48d4-bbd1-78d47afd3d1f@ir.mobileariya.com:8080?type=tcp&path=%2F&host=cloudflare.com&headerType=http&security=none#CFM-7354354_ali
+ss://c692a87c-fb69-48d4-bbd1-78d47afd3d1f@ir.mobileariya.com:8080?type=tcp&path=%2F&host=cloudflare.com&headerType=http&security=none#CFM-7354354_ali
 vless://af19d60b-1ef2-5da6-8fe3-b4710944b045@45.133.216.209:2052?path=%2Fvless%23Telegram%40fast2ng&security=none&encryption=none&type=ws#t.me%2Ffast2ng+%7C+%2848%29+LT```
 ss://af19d60b-1ef2-5da6-8fe3-b4710944b045@45.133.216.209:2052?path=%2Fvless%23Telegram%40fast2ng&security=none&encryption=none&type=ws#t.me%2Ffast2ng+%7C+%2848%29+LT```
 vless://78c81d02-e44b-44d8-bd09-c42645664993@ir.mobileariya.com:8080?type=tcp&path=%2F&host=cloudflare.com&headerType=http&security=none#CFM-alijalil-joon
@@ -22,5 +24,3 @@ ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.111.114.114:8118#%40Daily_Configs
 ss://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBEYWlseV9Db25maWdzIiwNCiAgImFkZCI6ICJ1cy0yMS5oaWh1Lm5ldCIsDQogICJwb3J0IjogIjgwIiwNCiAgImlkIjogImE1MTNjODkwLWQwMDMtMTFlZi1iNDM2LTIwNWM2ZDVmNWQ3OCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICItLS0iLA0KICAiaG9zdCI6ICJtdG4uem0iLA0KICAicGF0aCI6ICIva255ODF2OWEiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.6:443#%40Daily_Configs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNc0lCRnc2WFBtZmNwTFpYaFVOcEpkcjFnN0ZPYlpDVDVBZ0FFekYzT0VHZjFUNWQ%3D@95.128.71.141:41348#%40Daily_Configs`
-vless://e7a4e3eb-c317-4c4e-a7f7-a1a019f1f8bd@de1p.samsung-marketshop.ir:2087?path=%2Fwww.speedtest.net.Xiaomi%3Fed%3D80&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=gr1m.mimarketshop.info&fp=chrome&type=httpupgrade&sni=gr1m.mimarketshop.info#%D9%85%D9%85%D9%86%D9%88%D9%86%20%D9%85%DB%8C%D8%B4%D9%85%20%D8%AD%D9%85%D8%A7%DB%8C%D8%AA%D9%85%20%DA%A9%D9%86%DB%8C%20%40mifastvpn`**
-ss://e7a4e3eb-c317-4c4e-a7f7-a1a019f1f8bd@de1p.samsung-marketshop.ir:2087?path=%2Fwww.speedtest.net.Xiaomi%3Fed%3D80&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=gr1m.mimarketshop.info&fp=chrome&type=httpupgrade&sni=gr1m.mimarketshop.info#%D9%85%D9%85%D9%86%D9%88%D9%86%20%D9%85%DB%8C%D8%B4%D9%85%20%D8%AD%D9%85%D8%A7%DB%8C%D8%AA%D9%85%20%DA%A9%D9%86%DB%8C%20%40mifastvpn`**

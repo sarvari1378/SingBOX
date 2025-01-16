@@ -15,8 +15,8 @@ Zohre, 27, @Farzansarvari
 PedramHS, 25, @aghapedi8657
 Malekaz, 35, @maleka0_0
 MahsaMoradi, 1, @l_Mhs_l
-ParhamGhasemi, 0, @Chemical1373
-ParhamGhasemi-2, 0, @Chemical1373
+ParhamGhasemi, 30, @Chemical1373
+ParhamGhasemi-2, 30, @Chemical1373
 Mehti, 24, @Mehti94
 MehdiPoor, -6
 Parisa, 1, @pris_kh

@@ -1,3 +1,9 @@
+vless://e016b7d6-f779-4bd4-a28b-de599b01be70@a.prolucky.ir:443?encryption=none&security=tls&sni=z.softmeto.site&type=xhttp&path=%2FH%3Fed%3D2560&mode=auto#seria`
+vless://e016b7d6-f779-4bd4-a28b-de599b01be70@b.prolucky.ir:443?encryption=none&security=tls&sni=z.softmeto.site&type=xhttp&path=%2FH%3Fed%3D2560&mode=auto#serib`
+vless://e016b7d6-f779-4bd4-a28b-de599b01be70@c.prolucky.ir:443?encryption=none&security=tls&sni=z.softmeto.site&type=xhttp&path=%2FH%3Fed%3D2560&mode=auto#seric
+ss://e016b7d6-f779-4bd4-a28b-de599b01be70@a.prolucky.ir:443?encryption=none&security=tls&sni=z.softmeto.site&type=xhttp&path=%2FH%3Fed%3D2560&mode=auto#seria`
+ss://e016b7d6-f779-4bd4-a28b-de599b01be70@b.prolucky.ir:443?encryption=none&security=tls&sni=z.softmeto.site&type=xhttp&path=%2FH%3Fed%3D2560&mode=auto#serib`
+ss://e016b7d6-f779-4bd4-a28b-de599b01be70@c.prolucky.ir:443?encryption=none&security=tls&sni=z.softmeto.site&type=xhttp&path=%2FH%3Fed%3D2560&mode=auto#seric
 vless://ZEDMODEON--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=okala.com&type=ws&sni=zmaoz.faculty.ucdavis.edu#%F0%9F%87%A9%F0%9F%87%AA%40Hajmvpn`
 vless://ZEDMODEON--joinZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=cinematicket.org&type=ws&sni=zmaoz.faculty.ucdavis.edu#%F0%9F%87%A9%F0%9F%87%AA%40Hajmvpn`
 ss://ZEDMODEON--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=okala.com&type=ws&sni=zmaoz.faculty.ucdavis.edu#%F0%9F%87%A9%F0%9F%87%AA%40Hajmvpn`

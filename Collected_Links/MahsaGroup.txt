@@ -1,3 +1,7 @@
+vless://Parsashonam-149@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=ParsashonamVPN.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#t.me%2Ffast2ng+%7C+%2849%29+IN```
+vless://Parsashonam-149@[2a01:4f8:1c1b:26eb::1]:8888?security=none&encryption=none&headerType=none&type=tcp#t.me%2Ffast2ng+%7C+%2850%29+IN```
+ss://Parsashonam-149@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=ParsashonamVPN.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#t.me%2Ffast2ng+%7C+%2849%29+IN```
+ss://Parsashonam-149@[2a01:4f8:1c1b:26eb::1]:8888?security=none&encryption=none&headerType=none&type=tcp#t.me%2Ffast2ng+%7C+%2850%29+IN```
 vless://H2h2SdZPDRD3Rp2Ni9Yxaf@203.25.108.73:443?security=reality&encryption=none&pbk=GtjHOyZAi2bHydUgayIweuD8NtLI8ed3W-SkioVASAc&headerType=&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=whatsapp.com&sid=9b7b2a4c7e81aba7#%F0%9F%87%B3%F0%9F%87%B1AliceVPN-NL-vless
 ss://H2h2SdZPDRD3Rp2Ni9Yxaf@203.25.108.73:443?security=reality&encryption=none&pbk=GtjHOyZAi2bHydUgayIweuD8NtLI8ed3W-SkioVASAc&headerType=&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=whatsapp.com&sid=9b7b2a4c7e81aba7#%F0%9F%87%B3%F0%9F%87%B1AliceVPN-NL-vless
 vless://312849b3-63a4-4016-a8eb-a7f5881a1d89@135.181.200.145:443?security=tls&encryption=none&headerType=http&type=tcp&sni=fc.nimaempire.cfd#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%3A%20%40shimashahrakidr`

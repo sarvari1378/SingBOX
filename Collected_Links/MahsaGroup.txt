@@ -27,5 +27,3 @@ vless://de2d2f01-5d81-4929-9941-9e32fc0b5d52@188.245.250.151:7022?encryption=non
 ss://de2d2f01-5d81-4929-9941-9e32fc0b5d52@188.245.250.151:7022?encryption=none&flow=xtls-rprx-vision&security=reality&sni=refersion.com&fp=chrome&pbk=Ty93FBT8aTnN7vuhzDqf313QBQf07X1DBcQNw9sbfEI&allowInsecure=1&type=tcp&headerType=none#🥒@CucumberNet```
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpabVF3WmpGaw%3D%3D@95.164.36.59:8388#t.me%2Ffast2ng+%7C+%2855%29+FR```
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWZlZmNjMy05YWUxLTRlMDEtYTFkMC01MzRmYzE2NzExMjE%3D@95.215.108.67:40031#t.me%2Ffast2ng+%7C+%2856%29+RU```
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638721216101614817.amsterdam-blk-dra.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#t.me%2Ffast2ng+%7C+%2853%29+NL```
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638721216101614817.amsterdam-blk-dra.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#t.me%2Ffast2ng+%7C+%2853%29+NL```

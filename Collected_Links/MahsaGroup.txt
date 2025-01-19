@@ -28,4 +28,3 @@ vless://f85075df-569f-4c46-8c09-baa7a0611cbe@zmaoz.faculty.ucdavis.edu:443?path=
 ss://f85075df-569f-4c46-8c09-baa7a0611cbe@146.75.8.88:80?path=%2Fmelo%2Fws%3Fed%3D2048&security=none&encryption=none&host=melodebot.net&type=ws#BESTIIVPNBOT
 ss://f85075df-569f-4c46-8c09-baa7a0611cbe@speedtest.net:80?path=%2Fmelo%2Fws%3Fed%3D2048&security=none&encryption=none&host=melodebot.net&type=ws#BESTIIVPNBOT
 ss://f85075df-569f-4c46-8c09-baa7a0611cbe@zmaoz.faculty.ucdavis.edu:443?path=%2Fmelo%2Fws%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=melodebot.net&fp=firefox&type=ws&sni=Zmaoz.Faculty.UcdavIS.Edu.#BESTIIVPNBOT
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.243.215.17:990#%F0%9D%97%A0%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%AE%F0%9D%98%86%F0%9D%98%80%F0%9D%97%B6%F0%9D%97%AE+%3A%3A+%F0%9D%90%89%F0%9D%90%A8%F0%9D%90%A2%F0%9D%90%A7%E2%98%9B%EF%B8%8E%E3%80%8EEmadT3ch%E3%80%8F`

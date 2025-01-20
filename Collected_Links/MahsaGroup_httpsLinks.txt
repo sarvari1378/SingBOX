@@ -4,5 +4,3 @@ https://apps.apple.com/us/app/outline-app/id1356177741)
 https://play.google.com/store/apps/details?id=org.outline.android.client)
 https://s3.amazonaws.com/outline-releases/client/android/stable/Outline-Client.apk)
 https://raw.githubusercontent.com/sarvari1378/GPTscripts/main/SUB/BackUp-f67bba
-https://t.me/daily_configs/1762?single)**
-https://github.com/mahsanet/NikaNG/releases/download/v1.8.38/NikaNG_1.8.38_universal-signed.apk)

@@ -1,3 +1,9 @@
+vless://v2rayng__76@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#%F0%9F%86%94v2rayng_76
+vless://v2rayng__76@upgrade.bia2bax.shop:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#%F0%9F%86%94v2rayng_76
+vless://v2rayng__76@baby.bia2bax.shop:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%86%94v2rayng_76
+ss://v2rayng__76@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#%F0%9F%86%94v2rayng_76
+ss://v2rayng__76@upgrade.bia2bax.shop:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#%F0%9F%86%94v2rayng_76
+ss://v2rayng__76@baby.bia2bax.shop:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%86%94v2rayng_76
 vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.0.47:80?encryption=none&security=none&type=ws&host=teleirani.ir&path=%2Fvless-ws%2F%40MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560#%40Daily_Configs
 vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@45.90.96.250:44441?encryption=none&security=reality&sni=tile.openstreetmap.org&fp=chrome&pbk=h-tx4d8yBKf5Cevu1bPJZwrSxT3kCkaMESHBIofaalo&sid=be4243&type=tcp&headerType=none#%40Daily_Configs
 vless://a2ef1a8e-347e-4dc4-a1ff-de9b1ebeaf63@108.61.171.227:443?encryption=none&security=tls&sni=hdfyrplcpnl1.freeairlians.com&alpn=http%2F1.1&fp=chrome&type=ws&host=hdfyrplcpnl1.freeairlians.com&path=%2FPaavgVfC7wqXrfw3l#%40Daily_Configs

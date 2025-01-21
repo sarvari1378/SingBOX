@@ -1,3 +1,5 @@
+vless://0416d09f-a24f-46a2-a913-b0f2be57c009@151.101.33.212:443?type=ws&host=aklisvpn.com&path=/@aklisvpn@aklisvpn@aklisvpn&security=tls&fp=firefox&sni=map.google.com&allowInsecure=true#AKLISvpn%F0%9F%87%BA%F0%9F%87%B8VIP-TestUSA`__
+ss://0416d09f-a24f-46a2-a913-b0f2be57c009@151.101.33.212:443?type=ws&host=aklisvpn.com&path=/@aklisvpn@aklisvpn@aklisvpn&security=tls&fp=firefox&sni=map.google.com&allowInsecure=true#AKLISvpn%F0%9F%87%BA%F0%9F%87%B8VIP-TestUSA`__
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.55:8880?mode=gun&security=none&encryption=none&type=grpc#%40TRICK_MOBIL%F0%9F%87%B8%F0%9F%87%AF
 vless://51b83496-83a6-5ece-b66d-46aff4bf1d7e@94.131.14.177:2086?mode=gun&security=&encryption=none&type=grpc&serviceName=vless-grpc#%40TRICK_MOBIL%F0%9F%87%B1%F0%9F%87%B9
 vless://354e86bf-3d2f-5bfa-2c14-45cd8ac050f6@www.speedtest.net:80?path=%2F%3Fed%3D2048&security=&encryption=none&host=sub-89ytdd0zy-rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--qeiaa57238baaaaaaabaacaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw814.ir.xn--cr8haaaaaaaaaaaaaaaaa.xn--g28h.gamebestir.ir.&type=httpupgrade#%40TRICK_MOBIL

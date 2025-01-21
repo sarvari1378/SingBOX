@@ -1,0 +1,2 @@
+vless://a791597c-ef25-4226-f6f6-bf1d78d390f7@danksplex.com:80?path=%2Fbitcoinfast.com.snapp.ir.speedtest.net%3Fed%3D1048&security=&encryption=none&host=bitcoinfast.com&type=ws#@shokhmiplus
+ss://a791597c-ef25-4226-f6f6-bf1d78d390f7@danksplex.com:80?path=%2Fbitcoinfast.com.snapp.ir.speedtest.net%3Fed%3D1048&security=&encryption=none&host=bitcoinfast.com&type=ws#@shokhmiplus

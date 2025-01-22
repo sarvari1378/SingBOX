@@ -1,3 +1,5 @@
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.108:3237?security=none&type=tcp#🇫🇷[openproxylist.com]
+ss://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.108:3237?security=none&type=tcp#🇫🇷[openproxylist.com]
 vless://739452d9-3da6-44d2-8bb2-649b575a00fd@[2a01:4f8:1c17:ee5c::1]:49978?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A7%F0%9F%87%B7%40shokhmiplus
 vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:21535?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B4%40shokhmiplus
 vmess://eyJhZGQiOiJsaW4wNTAyLmh3Y2FyLnNicyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibGluamEwNS5od2Nhci5zYnMiLCJpZCI6IjM5Y2VjMThmLWE0MzktNDI3Yy05YTRlLWFlYjZmY2RmNmY1MyIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4er8J+HrkBzaG9raG1pcGx1cyIsInNjeSI6ImF1dG8iLCJzbmkiOiJsaW5qYTA1Lmh3Y2FyLnNicyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9

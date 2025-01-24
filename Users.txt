@@ -7,9 +7,9 @@ Moshaverinia, 656
 Mojtabakamyab, 13, @Arefehkamyab
 Behnaz, 17, +989157380448
 PariaGhasemi, 20, @Paria_ghasemi
-AtieKamyab, 0, @Arefehkamyab
+AtieKamyab, 30, @Arefehkamyab
 AlirezaSazegar, 20, @Sazegar_telegram
-Amirparnan, 0, @Arefehkamyab
+Amirparnan, 30, @Arefehkamyab
 HomaKhademi, 25, @Arefehkamyab
 Zohre, 20, @Farzansarvari
 PedramHS, 18, @aghapedi8657
@@ -18,9 +18,5 @@ MahsaMoradi, 24, @l_Mhs_l
 ParhamGhasemi, 23, @Chemical1373
 ParhamGhasemi-2, 23, @Chemical1373
 Mehti, 17, @Mehti94
-MehdiPoor, -13
 Parisa, 24, @pris_kh
-MahmoodEbrahimi, -4
-Nasrin, -2
 Mehrnaz, 8
-JojeJon, 984

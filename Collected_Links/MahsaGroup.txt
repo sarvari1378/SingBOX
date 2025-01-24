@@ -1,8 +1,6 @@
-vless://62bcfdc6-27ce-4586-a09f-336d81864d06@zed.chatoochak.com:2096?security=&encryption=none&headerType=&type=tcp#181ff371c`
-vless://028e3bfe-bec5-44aa-ad20-0c37e4935f02@89.47.197.231:2020?security=none&encryption=none&host=uptv.ir&headerType=http&type=tcp#Germany`
-vless://028e3bfe-bec5-44aa-ad20-0c37e4935f02@89.47.197.231:2020?security=none&encryption=none&host=uptv.ir&headerType=http&type=tcp#Germany`
-vless://f7081028-761a-494e-ef30-9ec1b42d3403@iri.ginuerzht.ir:2053?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40Piazshekan%2814%29`
-ss://62bcfdc6-27ce-4586-a09f-336d81864d06@zed.chatoochak.com:2096?security=&encryption=none&headerType=&type=tcp#181ff371c`
-ss://028e3bfe-bec5-44aa-ad20-0c37e4935f02@89.47.197.231:2020?security=none&encryption=none&host=uptv.ir&headerType=http&type=tcp#Germany`
-ss://028e3bfe-bec5-44aa-ad20-0c37e4935f02@89.47.197.231:2020?security=none&encryption=none&host=uptv.ir&headerType=http&type=tcp#Germany`
-ss://f7081028-761a-494e-ef30-9ec1b42d3403@iri.ginuerzht.ir:2053?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40Piazshekan%2814%29`
+vless://v2rayng_76@baby.bia2bax.shop:26909?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%86%94v2rayng_76
+vless://v2rayng_76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#%F0%9F%86%94v2rayng_76
+vless://v2rayng_76@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#%F0%9F%86%94v2rayng_76
+ss://v2rayng_76@baby.bia2bax.shop:26909?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%86%94v2rayng_76
+ss://v2rayng_76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#%F0%9F%86%94v2rayng_76
+ss://v2rayng_76@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#%F0%9F%86%94v2rayng_76

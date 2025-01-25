@@ -1,3 +1,7 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#1403|11|07_00:30:09
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig90.usecharge.ir:443#1403|11|07_00:30:09
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#1403|11|07_00:30:09
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.231.205.100:3237?security=none&encryption=none&headerType=none&type=tcp#1403|11|07_00:30:09
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.193.42:8880?mode=gun&security=none&encryption=none&type=grpc#1403|11|06_16:01:17
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@fake.namasha.co:443#1403|11|06_16:01:17
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.101:3237?security=none&encryption=none&headerType=none&type=tcp#1403|11|06_16:01:17
@@ -9,7 +13,3 @@ vless://13626d29-6ccf-4d7f-93e8-19d21eb7578e@mehdi.vact.ir:2083?mode=gun&securit
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.231.205.100:3237?security=none&encryption=none&headerType=none&type=tcp#1403|11|05_01:30:33
 vless://TELEGRAM-NUFiLTER-1f52c104722e@nufilter.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=6.fidsxss7x.iR&type=ws#1403|11|05_01:30:33
 vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@45.90.96.250:44441?security=reality&encryption=none&pbk=h-tx4d8yBKf5Cevu1bPJZwrSxT3kCkaMESHBIofaalo&headerType=none&fp=chrome&type=tcp&sni=tile.openstreetmap.org&sid=be4243#1403|11|04_13:25:27
-vless://68bf637d-f323-4d9e-b8dc-80cd799a250d@5.180.30.31:8880?mode=gun&security=none&encryption=none&type=grpc#1403|11|04_13:25:27
-vless://83716d96-b5d5-4d80-9f77-582d96189887@fishlab.ucdavis.edu:443?path=%2F%40UnlimitedDev----%40UnlimitedDev-----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev%3Fed&security=tls&encryption=none&host=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt&fp=randomized&type=ws&sni=fishlab.ucdavis.edu#1403|11|04_13:25:27
-vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.101:3237?security=none&encryption=none&headerType=none&type=tcp#1403|11|03_21:30:28
-vless://3302c92f-f1b6-41cf-a0d4-384867e5541f@77.90.11.193:443?security=reality&encryption=none&pbk=Gk6rNjpZlOLoi9t1dNroi_0ZW29odBJ21QhWQd0uqhE&headerType=none&fp=firefox&type=tcp&sni=refersion.com&sid=4d32acc962b47968#1403|11|03_21:30:28

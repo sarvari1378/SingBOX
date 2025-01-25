@@ -69,5 +69,3 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.26:8880?mode=gun&security=n
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.52:8880?mode=gun&security=none&encryption=none&type=grpc#kurd14
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.38:8880?mode=gun&security=none&encryption=none&type=grpc#kurd15`
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5YkRyNGo0RWtTTFNvaU1u@emamkazem.qawqa.link:443?outline=1&prefix=POST%20K2b50b5V#Bot1](https://t.me/VPN_Raketa_bot?start=ref386960512)
-vmess://eyJpZCI6IjRjNmZmYzc1LTkxYTQtNDYyOC1hYTM3LTVjYWEyODg1ODQ0MyIsIm5ldCI6InRjcCIsInNjeSI6ImF1dG8iLCJwcyI6IiVFMiU5QSU5QyVFRiVCOCU4RlRlbGVncmFtJTNBJTQwc2hva2htaXBsdXMiLCJ0bHMiOiJub25lIiwicG9ydCI6IjQ3NzE4IiwidHlwZSI6Im5vbmUiLCJhZGQiOiIzNy4yNy4yMTQuMyJ9
-ss://eyJpZCI6IjRjNmZmYzc1LTkxYTQtNDYyOC1hYTM3LTVjYWEyODg1ODQ0MyIsIm5ldCI6InRjcCIsInNjeSI6ImF1dG8iLCJwcyI6IiVFMiU5QSU5QyVFRiVCOCU4RlRlbGVncmFtJTNBJTQwc2hva2htaXBsdXMiLCJ0bHMiOiJub25lIiwicG9ydCI6IjQ3NzE4IiwidHlwZSI6Im5vbmUiLCJhZGQiOiIzNy4yNy4yMTQuMyJ9

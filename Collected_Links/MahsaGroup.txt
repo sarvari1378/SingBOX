@@ -40,9 +40,3 @@ ss://d4a49f13-a77a-4783-ac0f-7fdb9ab4deb0@45.142.214.75:443?security=reality&enc
 ss://3146eb6f-8422-4b3f-810b-c0fc251c8e08@62.60.233.176:443?security=reality&encryption=none&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&headerType=none&fp=chrome&type=tcp&sni=google.com#%40Daily_Configs
 ss://8d052411-1bff-42da-81cc-3f1d81550dbd@165.1.64.133:20303?security=reality&encryption=none&pbk=SF-MPoMzBbv3p6dlm_hUgg5yxpB0P93droF86CrnPws&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=be5acf81#%40Daily_Configs
 ss://0db55a6e-94fe-4ea8-b773-d991bf9b3304@45.12.134.120:443?security=reality&encryption=none&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&headerType=none&fp=chrome&type=tcp&sni=google.com#%40Daily_Configs`
-vless://97eb2eb4-eaaa-49cb-9064-d5e3c08809d9@live.wkrq.com:443?path=%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Hopeproject.ir&fp=randomized&type=ws&sni=live.wkrq.com#%40NoForcedHeaven`
-ss://97eb2eb4-eaaa-49cb-9064-d5e3c08809d9@live.wkrq.com:443?path=%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Hopeproject.ir&fp=randomized&type=ws&sni=live.wkrq.com#%40NoForcedHeaven`
-vless://d1115968-5ce8-4f18-f0ce-e2405f8fc19c@37.156.46.230:8880?security=none&type=ws&path=%2F#🇨🇭
-ss://d1115968-5ce8-4f18-f0ce-e2405f8fc19c@37.156.46.230:8880?security=none&type=ws&path=%2F#🇨🇭
-vless://cc6b985d-0362-4129-8763-38564174fb3e@92.60.74.24:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#🇺🇸vless-US](https://t.me/VPN_Raketa_bot?start=ref386960512)
-ss://cc6b985d-0362-4129-8763-38564174fb3e@92.60.74.24:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#🇺🇸vless-US](https://t.me/VPN_Raketa_bot?start=ref386960512)

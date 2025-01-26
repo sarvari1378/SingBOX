@@ -1,3 +1,5 @@
+vless://1ef0ea65-e0f2-4a63-adbc-6ac45b31e2af@147.182.183.207:443?mode=auto&path=%2F%40Grizzlyvpn&security=reality&encryption=none&pbk=z--KbBlQtkBgTcrtdBJeGeCymIrLdaUDwkb44pAp6nY&fp=chrome&spx=%2F&type=xhttp&sni=yahoo.com&sid=4c#%40GrizzlyVPN`
+ss://1ef0ea65-e0f2-4a63-adbc-6ac45b31e2af@147.182.183.207:443?mode=auto&path=%2F%40Grizzlyvpn&security=reality&encryption=none&pbk=z--KbBlQtkBgTcrtdBJeGeCymIrLdaUDwkb44pAp6nY&fp=chrome&spx=%2F&type=xhttp&sni=yahoo.com&sid=4c#%40GrizzlyVPN`
 vless://Parsashonam-155@[2a01:4f8:1c1b:e1d0::1]:8888?security=none&encryption=none&headerType=none&type=tcp#t.me%2Ffast2ng+%7C+%2868%29+DE
 vless://Parsashonam-155@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#t.me%2Ffast2ng+%7C+%2869%29+DE
 vless://Parsashonam-155@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#t.me%2Ffast2ng+%7C+%2870%29+DE```
@@ -6,13 +8,3 @@ ss://Parsashonam-155@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3
 ss://Parsashonam-155@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#t.me%2Ffast2ng+%7C+%2870%29+DE```
 vmess://eyJhZGQiOiIxOTQuOS4xNzIuNjUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImJleW9uZGRiYy5zYnMiLCJpZCI6IjhkOTBjMTI5LTQxNTYtNGQ2Yy05MTE1LTI0ZGYyNWYyNmEwMiIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiLYqNmHINi52LTZgiDYqNqG2Ycg2YfYp9uMINqp2KfZhtin2YTwn5iN8J+YjeKZpe+4jyIsInNjeSI6ImF1dG8iLCJzbmkiOiJiZXlvbmRkYmMuc2JzIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=`
 ss://eyJhZGQiOiIxOTQuOS4xNzIuNjUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImJleW9uZGRiYy5zYnMiLCJpZCI6IjhkOTBjMTI5LTQxNTYtNGQ2Yy05MTE1LTI0ZGYyNWYyNmEwMiIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiLYqNmHINi52LTZgiDYqNqG2Ycg2YfYp9uMINqp2KfZhtin2YTwn5iN8J+YjeKZpe+4jyIsInNjeSI6ImF1dG8iLCJzbmkiOiJiZXlvbmRkYmMuc2JzIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmRERtSDRRZWZtV3FNSjhVVVJackdo@86.104.74.243:14255#%E2%9A%9C%EF%B8%8FTelegram%3A%20%40shokhmiplus%20%F0%9F%87%AB%F0%9F%87%B7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.178:8080#%E2%9A%9C%EF%B8%8FTelegram%3A%20%40shokhmiplus%20%F0%9F%87%BA%F0%9F%87%B8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.178:8080#%E2%9A%9C%EF%B8%8FTelegram%3A%20%40shokhmiplus%20%F0%9F%87%BA%F0%9F%87%B8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5TVg5V0dQZ1VFY1JabWxhYTBZSEhD@103.106.1.92:23492#%E2%9A%9C%EF%B8%8FTelegram%3A%20%40shokhmiplus
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#%E2%9A%9C%EF%B8%8FTelegram%3A%20%40shokhmiplus%20%F0%9F%87%B5%F0%9F%87%B1
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@69.50.93.86:8888#%E2%9A%9C%EF%B8%8FTelegram%3A%20%40shokhmiplus%20%F0%9F%87%BA%F0%9F%87%B8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpubFZxSVZ5S3dXb0RzRDdkVllUOVkw@81.19.140.31:65305#%E2%9A%9C%EF%B8%8FTelegram%3A%20%40shokhmiplus%20%F0%9F%87%A8%F0%9F%87%A6
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ%3D%3D@54.37.18.75:5500#%E2%9A%9C%EF%B8%8FTelegram%3A%20%40shokhmiplus%20%F0%9F%87%AC%F0%9F%87%A7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4emxPcXkydjZ2SjBYdkZUTjh6SUJI@185.190.250.103:57328#%E2%9A%9C%EF%B8%8FTelegram%3A%20%40shokhmiplus%20%F0%9F%87%A7%F0%9F%87%AC
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#%E2%9A%9C%EF%B8%8FTelegram%3A%20%40shokhmiplus

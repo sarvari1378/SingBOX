@@ -1,3 +1,11 @@
+vless://8a3a43b9-27d4-4711-9239-ef8b0ac4831a@safe.sanjesh.fun:7642?security=none&encryption=none&headerType=none&type=tcp#🇫🇮shokhmiplus
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.16:8880/?type=grpc&encryption=none#🇸🇪shokhmiplus
+vless://f6dd98b7-ee43-477a-ec11-f1d115bbd3ad@161.35.73.6:8080/?type=ws&encryption=none&path=%2F#🇩🇪shokhmiplus
+vless://157448af-8ecf-4075-a9e9-b23a6a94899b@138.199.27.206:8443/?type=tcp&encryption=none&security=tls&sni=cdg-1.fromblancwithlove.com&alpn=h2#🇫🇷shokhmiplus```
+ss://8a3a43b9-27d4-4711-9239-ef8b0ac4831a@safe.sanjesh.fun:7642?security=none&encryption=none&headerType=none&type=tcp#🇫🇮shokhmiplus
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.16:8880/?type=grpc&encryption=none#🇸🇪shokhmiplus
+ss://f6dd98b7-ee43-477a-ec11-f1d115bbd3ad@161.35.73.6:8080/?type=ws&encryption=none&path=%2F#🇩🇪shokhmiplus
+ss://157448af-8ecf-4075-a9e9-b23a6a94899b@138.199.27.206:8443/?type=tcp&encryption=none&security=tls&sni=cdg-1.fromblancwithlove.com&alpn=h2#🇫🇷shokhmiplus```
 vless://1ef0ea65-e0f2-4a63-adbc-6ac45b31e2af@147.182.183.207:443?mode=auto&path=%2F%40Grizzlyvpn&security=reality&encryption=none&pbk=z--KbBlQtkBgTcrtdBJeGeCymIrLdaUDwkb44pAp6nY&fp=chrome&spx=%2F&type=xhttp&sni=yahoo.com&sid=4c#%40GrizzlyVPN`
 ss://1ef0ea65-e0f2-4a63-adbc-6ac45b31e2af@147.182.183.207:443?mode=auto&path=%2F%40Grizzlyvpn&security=reality&encryption=none&pbk=z--KbBlQtkBgTcrtdBJeGeCymIrLdaUDwkb44pAp6nY&fp=chrome&spx=%2F&type=xhttp&sni=yahoo.com&sid=4c#%40GrizzlyVPN`
 vless://Parsashonam-155@[2a01:4f8:1c1b:e1d0::1]:8888?security=none&encryption=none&headerType=none&type=tcp#t.me%2Ffast2ng+%7C+%2868%29+DE

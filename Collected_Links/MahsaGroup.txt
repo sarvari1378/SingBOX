@@ -1,0 +1,3 @@
+vless://4e937ea1-2c5b-462d-893b-bc0a31bcd14d@a-config.96hezar.ir:2052?mode=gun&security=none&encryption=none&authority=a-config.96hezar.ir&type=grpc&serviceName=8880vless#%40cpy_teel%20%20%7C%20%20vless`
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvOXY5TlMyTzBzeGViTm14dlowNnNn@a-config.96hezar.ir:4017#%40cpy_teel%20%20%7C%20%20ss
+ss://4e937ea1-2c5b-462d-893b-bc0a31bcd14d@a-config.96hezar.ir:2052?mode=gun&security=none&encryption=none&authority=a-config.96hezar.ir&type=grpc&serviceName=8880vless#%40cpy_teel%20%20%7C%20%20vless`

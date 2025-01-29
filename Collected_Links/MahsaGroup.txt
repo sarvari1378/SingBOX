@@ -4,5 +4,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%40TRICK_MOBIL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%40TRICK_MOBIL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%40TRICK_MOBIL`
-vless://6c3c70a7-3a0b-4a6e-a510-39cdccab43ba@WwW.SpEeDTeSt.NeT:2096?type=httpupgrade&path=%2F%40godserver%3Fed%3D2048&host=primeiosweb.purevps.ir&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=primeiosweb.purevps.ir#ben
-ss://6c3c70a7-3a0b-4a6e-a510-39cdccab43ba@WwW.SpEeDTeSt.NeT:2096?type=httpupgrade&path=%2F%40godserver%3Fed%3D2048&host=primeiosweb.purevps.ir&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=primeiosweb.purevps.ir#ben

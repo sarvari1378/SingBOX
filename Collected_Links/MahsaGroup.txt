@@ -1,3 +1,5 @@
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@104.16.101.43:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=gozargah.tomu0749.workers.dev&type=ws#valid_bv`
+ss://42f36835-730c-4ecc-9daf-20121ae7ba47@104.16.101.43:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=gozargah.tomu0749.workers.dev&type=ws#valid_bv`
 vless://c834946b-c876-50a8-84ce-cad3cba8bd86@fastly.nEt:80?security=none&encryption=none&host=PABLOO-MOSTAFA.COM&type=ws#E-1|shokhmiplus|🇧🇪
 vless://c834946b-c876-50a8-84ce-cad3cba8bd86@faculty.ucdavis.edu:443?allowInsecure=1&security=tls&host=PABLOO-MOSTAFA.COM&fp=qq&type=ws&sni=faculty.ucdavis.edu#E-2|shokhmiplus🇧🇪`
 ss://c834946b-c876-50a8-84ce-cad3cba8bd86@fastly.nEt:80?security=none&encryption=none&host=PABLOO-MOSTAFA.COM&type=ws#E-1|shokhmiplus|🇧🇪

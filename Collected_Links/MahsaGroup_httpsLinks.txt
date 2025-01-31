@@ -5,4 +5,3 @@ https://getoutline.org/)
 https://apps.apple.com/us/app/outline-app/id1356177741)
 https://play.google.com/store/apps/details?id=org.outline.android.client)
 https://s3.amazonaws.com/outline-releases/client/android/stable/Outline-Client.apk)
-https://sub.lping.online/4321af1d9a4281c956a5167ac5f360a8`

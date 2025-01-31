@@ -27,5 +27,3 @@ ss://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.30.125:443?path=%2F%3Fed%3DMARA
 ss://900466aa-aa08-49ed-bf40-d740e5c7d5e7@WWW.SPEEDTEST.NET:2052?path=%2F&security=none&encryption=none&host=FN.CafeBazarZzZ.IP-DDNS.COM&type=httpupgrade#%40Daily_Configs
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@kinsta.com:443?path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#%40Daily_Configs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.154:8080#%40Daily_Configs`
-vless://75a004d6-1d0c-e676-0cf9-1c63c96c6ac4@ie.brobaba.lat:443?security=reality&encryption=none&pbk=xg2c4Bl3toYWpPlnC4gx5NB8SopuoTCCCiIzT0aHE00&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=1ed07e07687e8a02#BESTIIVPNBOT
-ss://75a004d6-1d0c-e676-0cf9-1c63c96c6ac4@ie.brobaba.lat:443?security=reality&encryption=none&pbk=xg2c4Bl3toYWpPlnC4gx5NB8SopuoTCCCiIzT0aHE00&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=1ed07e07687e8a02#BESTIIVPNBOT

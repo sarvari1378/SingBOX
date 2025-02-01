@@ -1,2 +1,1 @@
 https://raw.githubusercontent.com/Vahidqaz/BESTIIVPNBOT/refs/heads/main/BESTIIVPNBOT.txt
-https://8.8.8.8/dns-query"

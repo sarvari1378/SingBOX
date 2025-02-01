@@ -1,12 +1,8 @@
+vless://49b45469-040f-41ed-af56-3ed728db1e05@p.fatemnazeri.ir:51059?security=reality&encryption=none&pbk=E3mBvyOYAP-ZbRGTMq4zEIqjjvs-kmoKE0IHNOivxXU&headerType=none&fp=chrome&type=tcp&sni=sw.fatemnazeri.ir&sid=dcdc0de6347dfe07#%F0%9F%87%A9%F0%9F%87%AA%20%20%D8%A2%D9%84%D9%85%D8%A7%D9%86%20VIP`
+ss://49b45469-040f-41ed-af56-3ed728db1e05@p.fatemnazeri.ir:51059?security=reality&encryption=none&pbk=E3mBvyOYAP-ZbRGTMq4zEIqjjvs-kmoKE0IHNOivxXU&headerType=none&fp=chrome&type=tcp&sni=sw.fatemnazeri.ir&sid=dcdc0de6347dfe07#%F0%9F%87%A9%F0%9F%87%AA%20%20%D8%A2%D9%84%D9%85%D8%A7%D9%86%20VIP`
 vless://tel:v2rayng_76@baby.bia2bax.shop:26909?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%86%94v2rayng_76
 vless://tel:v2rayng_76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#%F0%9F%86%94v2rayng_76
 vless://tel:v2rayng_76@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#%F0%9F%86%94v2rayng_76
 ss://tel:v2rayng_76@baby.bia2bax.shop:26909?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%86%94v2rayng_76
 ss://tel:v2rayng_76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#%F0%9F%86%94v2rayng_76
 ss://tel:v2rayng_76@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#%F0%9F%86%94v2rayng_76
-vless://abb0b05d-4683-42f1-981f-f3537026ac2d@s-9.lp-s.top:1410?path=%2F&security=&encryption=none&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20miraghababa%20WS
-vless://abb0b05d-4683-42f1-981f-f3537026ac2d@s-9.lp-s.top:1411?security=&encryption=none&host=rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online&headerType=http&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20miraghababa%20TCP%2FNimbaha%E2%AD%90%EF%B8%8F`
-vmess://eyJhZGQiOiJzLTkubHAtcy50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWJiMGIwNWQtNDY4My00MmYxLTk4MWYtZjM1MzcwMjZhYzJkIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIxNDA4IiwicHMiOiLwn4e48J+HqiBtaXJhZ2hhYmFiYSBXUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
-ss://eyJhZGQiOiJzLTkubHAtcy50b3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWJiMGIwNWQtNDY4My00MmYxLTk4MWYtZjM1MzcwMjZhYzJkIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIxNDA4IiwicHMiOiLwn4e48J+HqiBtaXJhZ2hhYmFiYSBXUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
-ss://abb0b05d-4683-42f1-981f-f3537026ac2d@s-9.lp-s.top:1410?path=%2F&security=&encryption=none&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20miraghababa%20WS
-ss://abb0b05d-4683-42f1-981f-f3537026ac2d@s-9.lp-s.top:1411?security=&encryption=none&host=rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online&headerType=http&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20miraghababa%20TCP%2FNimbaha%E2%AD%90%EF%B8%8F`

@@ -1,3 +1,7 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig101.usecharge.ir:443#1403|11|13_23:56:51
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig102.usecharge.ir:443#1403|11|13_23:56:51
+vless://5a7d02b8-aace-4fe3-aa4a-9fa3771d51e5@freakconfigs2.usecharge.ir:443?mode=packet-up&path=%2Fln2ray&security=tls&alpn=h2&encryption=none&host=media.sanaiegh.ir&type=xhttp&sni=media.sanaiegh.ir#1403|11|13_23:56:51
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@freakconfigz1.usecharge.ir:3237?security=none&encryption=none&headerType=none&type=tcp#1403|11|13_23:56:51
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig100.usecharge.ir:443#1403|11|13_00:09:19
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig99.usecharge.ir:443#1403|11|13_00:09:19
 vless://5a7d02b8-aace-4fe3-aa4a-9fa3771d51e5@freakconfigs1.usecharge.ir:443?mode=packet-up&path=%2Fln2ray&security=tls&alpn=h2&encryption=none&host=media.sanaiegh.ir&type=xhttp&sni=media.sanaiegh.ir#1403|11|13_00:09:19
@@ -9,7 +13,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig95.usecharg
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig94.usecharge.ir:443#1403|11|10_00:38:39
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig93.usecharge.ir:443#1403|11|09_00:31:31
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig92.usecharge.ir:443#1403|11|09_00:31:31
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig91.usecharge.ir:443#1403|11|08_00:12:01
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig90.usecharge.ir:443#1403|11|08_00:12:01
-vless://5a7d02b8-aace-4fe3-aa4a-9fa3771d51e5@FreakConfig2.plantgreen.ir:443?mode=packet-up&path=%2Fln2ray&security=tls&alpn=h2&encryption=none&host=media.sanaiegh.ir&type=xhttp&sni=media.sanaiegh.ir#1403|11|05_15:34:20
-vless://61d27db4-7011-5cf4-b84e-abb721420ecb@94.131.104.66:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#1403|11|01_22:12:02

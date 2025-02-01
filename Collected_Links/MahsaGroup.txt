@@ -8,10 +8,3 @@ vless://e5559048-b2c0-4668-8f55-581835d1c882@tnl39.vipradvin.ir:8220?security=no
 vless://6841438d-0b0d-4277-9b1a-227f6bc868a0@s26.radnikmax.ir:8452?security=none&encryption=none&headerType=http&type=tcp#Channel+id%3A+%40shokhmiplus+%F0%9F%87%AE%F0%9F%87%B7`
 ss://e5559048-b2c0-4668-8f55-581835d1c882@tnl39.vipradvin.ir:8220?security=none&encryption=none&headerType=http&type=tcp#Channel+id%3A+%40shokhmiplus+%F0%9F%87%AE%F0%9F%87%B7
 ss://6841438d-0b0d-4277-9b1a-227f6bc868a0@s26.radnikmax.ir:8452?security=none&encryption=none&headerType=http&type=tcp#Channel+id%3A+%40shokhmiplus+%F0%9F%87%AE%F0%9F%87%B7`
-vless://1c86a177-d7ff-4a5f-8255-cfeb4e051305@188.245.251.47:8080?type=tcp&path=%2Fdownload&host=sso.farhang.gov.ir&headerType=http&security=none#vpn-jqone5uv
-ss://1c86a177-d7ff-4a5f-8255-cfeb4e051305@188.245.251.47:8080?type=tcp&path=%2Fdownload&host=sso.farhang.gov.ir&headerType=http&security=none#vpn-jqone5uv
-vless://f61625f2-d1d9-4c75-8b89-cfd15d107f2f@elena.fastly80-3.hosting-ip.com:80?path=/ID-@ELiV2RAY-ID-@ELiV2RAY-ID-@ELiV2RAY-ID-@ELiV2RAY-ID-@ELiV2RAY-ID-@ELiV2RAY-ID-@ELiV2RAY-ID-@ELiV2RAY-ID-@ELiV2RAY-ID-@ELiV2RAY-ID-@ELiV2RAY&ed=2560&host=JoinBede-ELiV2-RAY.ir&type=ws#🇦🇹@shokhmiplus
-vless://c3d96d72-eee0-4aef-bca8-03b8c0c1a6df@python.org:80?path=/ID-@ELiV2RAY-ID-@ELiV2RAY-ID-@ELiV2RAY-ID-@ELiV2RAY-ID-@ELiV2RAY-ID-@ELiV2RAY-ID-@ELiV2RAY-ID-@ELiV2RAY-ID-@ELiV2RAY-ID-@ELiV2RAY-ID-@ELiV2RAY&ed=2560&host=Join.ELiV2-RAY.ir&type=ws#🇬🇧@`shokhmiplus
-ss://f61625f2-d1d9-4c75-8b89-cfd15d107f2f@elena.fastly80-3.hosting-ip.com:80?path=/ID-@ELiV2RAY-ID-@ELiV2RAY-ID-@ELiV2RAY-ID-@ELiV2RAY-ID-@ELiV2RAY-ID-@ELiV2RAY-ID-@ELiV2RAY-ID-@ELiV2RAY-ID-@ELiV2RAY-ID-@ELiV2RAY-ID-@ELiV2RAY&ed=2560&host=JoinBede-ELiV2-RAY.ir&type=ws#🇦🇹@shokhmiplus
-ss://c3d96d72-eee0-4aef-bca8-03b8c0c1a6df@python.org:80?path=/ID-@ELiV2RAY-ID-@ELiV2RAY-ID-@ELiV2RAY-ID-@ELiV2RAY-ID-@ELiV2RAY-ID-@ELiV2RAY-ID-@ELiV2RAY-ID-@ELiV2RAY-ID-@ELiV2RAY-ID-@ELiV2RAY-ID-@ELiV2RAY&ed=2560&host=Join.ELiV2-RAY.ir&type=ws#🇬🇧@`shokhmiplus
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@217.182.198.219:7001#xs_filternet`

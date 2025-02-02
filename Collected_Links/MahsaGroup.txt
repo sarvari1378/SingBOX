@@ -1,3 +1,6 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMDYwNTUyNy0yOGU0LTQ0OWMtODBlZS01NjQyY2MxNmE4YWY%3D@[2a02:29e0:1:1ee::1]:80#Channel%20id%3A%20%40shokhmiplus%F0%9F%87%AE%F0%9F%87%B9%5BIPv6%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMDYwNTUyNy0yOGU0LTQ0OWMtODBlZS01NjQyY2MxNmE4YWY%3D@[2a0b:4140:925f::2]:81#Channel%20id%3A%20%40shokhmiplus%F0%9F%87%AD%F0%9F%87%B0%5BIPv6%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMDYwNTUyNy0yOGU0LTQ0OWMtODBlZS01NjQyY2MxNmE4YWY%3D@[2604:2dc0:200:272:ca9e::1]:8080#Channel%20id%3A%20%40shokhmiplus%F0%9F%87%BA%F0%9F%87%B8%5BIPv6%5D`
 vless://13d2e8b0-0eb0-49db-9e25-5928631866e4@138.199.194.113:443?security=none&type=tcp&headerType=http&path=%2F&host=playstation.com#💎
 vless://13d2e8b0-0eb0-49db-9e25-5928631866e4@138.199.194.113:2053?security=reality&type=tcp&headerType=&path=&host=&sni=github.io&fp=chrome&pbk=Ikwx0g2PAiJglT4BkwRHOyWUbMhZJRO1nF-S-1WHPDU&sid=a4c4d9258f0685a4&spx=%2Fmaniwrld#💎
 ss://13d2e8b0-0eb0-49db-9e25-5928631866e4@138.199.194.113:443?security=none&type=tcp&headerType=http&path=%2F&host=playstation.com#💎
@@ -6,4 +9,3 @@ vless://5e1457a5-27ae-469f-86d5-da3b5cc89f9e@tify-binex-join.espikernajafi.ir:66
 vless://cecbe16b-c41e-4007-a187-cd7bc6304925@tify-binex-join.espikernajafi.ir:2053?type=ws&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY%3Fed%3D2560&host=chess.com&security=none#BinexTify%20%F0%9F%8C%9F-d6ehin60d`
 ss://5e1457a5-27ae-469f-86d5-da3b5cc89f9e@tify-binex-join.espikernajafi.ir:6666?type=grpc&serviceName=/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy&authority=&security=none#BinexTiFy%F0%9F%94%A5-6aqidysuc`
 ss://cecbe16b-c41e-4007-a187-cd7bc6304925@tify-binex-join.espikernajafi.ir:2053?type=ws&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY%3Fed%3D2560&host=chess.com&security=none#BinexTify%20%F0%9F%8C%9F-d6ehin60d`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaVFV4T1RRNQ%3D%3D@de1.opensocks.site:1443#t.me%2Ffast2ng+%7C+%2882%29+DE```

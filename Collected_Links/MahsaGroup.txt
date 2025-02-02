@@ -1,0 +1,2 @@
+vless://19d3596a-a6c6-44be-9f18-26f349da4972@eliv2-ray.fastly80-3.hosting-ip.com:80?path=/telegram,@ELiV2RAY--telegram,@ELiV2RAY--telegram,@ELiV2RAY--telegram,@ELiV2RAY--telegram,@ELiV2RAY--telegram,@ELiV2RAY%3Fed%3D2560&host=JoinBede--ELiV2-RAY.ir&type=ws#All-@ELiV2ray`
+ss://19d3596a-a6c6-44be-9f18-26f349da4972@eliv2-ray.fastly80-3.hosting-ip.com:80?path=/telegram,@ELiV2RAY--telegram,@ELiV2RAY--telegram,@ELiV2RAY--telegram,@ELiV2RAY--telegram,@ELiV2RAY--telegram,@ELiV2RAY%3Fed%3D2560&host=JoinBede--ELiV2-RAY.ir&type=ws#All-@ELiV2ray`

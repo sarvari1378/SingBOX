@@ -1,3 +1,7 @@
+vless://13d2e8b0-0eb0-49db-9e25-5928631866e4@138.199.194.113:443?security=none&type=tcp&headerType=http&path=%2F&host=playstation.com#💎
+vless://13d2e8b0-0eb0-49db-9e25-5928631866e4@138.199.194.113:2053?security=reality&type=tcp&headerType=&path=&host=&sni=github.io&fp=chrome&pbk=Ikwx0g2PAiJglT4BkwRHOyWUbMhZJRO1nF-S-1WHPDU&sid=a4c4d9258f0685a4&spx=%2Fmaniwrld#💎
+ss://13d2e8b0-0eb0-49db-9e25-5928631866e4@138.199.194.113:443?security=none&type=tcp&headerType=http&path=%2F&host=playstation.com#💎
+ss://13d2e8b0-0eb0-49db-9e25-5928631866e4@138.199.194.113:2053?security=reality&type=tcp&headerType=&path=&host=&sni=github.io&fp=chrome&pbk=Ikwx0g2PAiJglT4BkwRHOyWUbMhZJRO1nF-S-1WHPDU&sid=a4c4d9258f0685a4&spx=%2Fmaniwrld#💎
 vless://0ee358fe-8d55-445b-89d7-4ed76d58a515@151.101.194.165:80?path=/Telegram-ID-@mobilesignal--Telegram-ID-@mobilesignal--Telegram-ID-@mobilesignal&ed=2560&host=JoinBede-ELiV2-RAY.ir&type=ws#🇦🇹@mobilesignal
 vless://7c478077-7fa2-4e7e-a2bd-d84f1b9e4075@elena.fastly80-3.hosting-ip.com:80?path=/Telegram-ID-@mobilesignal--Telegram-ID-@mobilesignal--Telegram-ID-@mobilesignal&ed=2560&host=Join.ELiV2-RAY.ir&type=ws#🇬🇧@mobilesignal
 vless://55a1198e-a5e7-53cc-88fe-5d05382bc85e@elena.fastly80-3.hosting-ip.com:80?path=%2FTelegram-ID-mobilesignal--Telegram-ID-mobilesignal--Telegram-ID-mobilesignal&host=TG.ELiV2RAY.iR&type=ws#🇫🇷@mobilesignal```

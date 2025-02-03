@@ -1,3 +1,15 @@
+vless://19d3596a-a6c6-44be-9f18-26f349da4972@zula.ir:8080?path=%2Ftelegram---VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram----VPNCUSTOMIZE%3Fed%3D2048&security=none&encryption=none&host=seyyed.webdade.ip-ddns.com&type=ws#%40Daily_Configs
+vless://b00c1456-7489-4cac-8efc-652d2c1fb4b8@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#%40Daily_Configs
+vless://e3cc943b-57cf-4e60-94a8-29197f8790cd@zmaoz.faculty.ucdavis.edu:443?path=%2Folem%2Fws%3Fed%3D4096&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=fonmelo.com&fp=chrome&type=ws&sni=zmaoz.faculty.ucdavis.edu.#%40Daily_Configs
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.231.205.71:3237?security=none&encryption=none&headerType=none&type=tcp#%40Daily_Configs`
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.141:8080#%40Daily_Configs
+ss://19d3596a-a6c6-44be-9f18-26f349da4972@zula.ir:8080?path=%2Ftelegram---VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram----VPNCUSTOMIZE%3Fed%3D2048&security=none&encryption=none&host=seyyed.webdade.ip-ddns.com&type=ws#%40Daily_Configs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#%40Daily_Configs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5TVg5V0dQZ1VFY1JabWxhYTBZSEhD@103.106.1.92:23492#%40Daily_Configs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmRERtSDRRZWZtV3FNSjhVVVJackdo@86.104.74.243:14255#%40Daily_Configs
+ss://b00c1456-7489-4cac-8efc-652d2c1fb4b8@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#%40Daily_Configs
+ss://e3cc943b-57cf-4e60-94a8-29197f8790cd@zmaoz.faculty.ucdavis.edu:443?path=%2Folem%2Fws%3Fed%3D4096&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=fonmelo.com&fp=chrome&type=ws&sni=zmaoz.faculty.ucdavis.edu.#%40Daily_Configs
+ss://1d86846c-5a27-43c8-8981-57bb75c82195@185.231.205.71:3237?security=none&encryption=none&headerType=none&type=tcp#%40Daily_Configs`
 vless://13d2e8b0-0eb0-49db-9e25-5928631866e4@138.199.194.113:443?security=none&type=tcp&headerType=http&path=%2F&host=playstation.com#💎
 vless://13d2e8b0-0eb0-49db-9e25-5928631866e4@138.199.194.113:2053?security=reality&type=tcp&headerType=&path=&host=&sni=github.io&fp=chrome&pbk=Ikwx0g2PAiJglT4BkwRHOyWUbMhZJRO1nF-S-1WHPDU&sid=a4c4d9258f0685a4&spx=%2Fmaniwrld#💎
 ss://13d2e8b0-0eb0-49db-9e25-5928631866e4@138.199.194.113:443?security=none&type=tcp&headerType=http&path=%2F&host=playstation.com#💎

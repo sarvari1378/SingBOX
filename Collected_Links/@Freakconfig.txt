@@ -1,3 +1,7 @@
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@freakconfigz3.usecharge.ir:3237?security=none&encryption=none&headerType=none&type=tcp#1403|11|16_01:13:53
+vless://5a7d02b8-aace-4fe3-aa4a-9fa3771d51e5@freakconfigs3.usecharge.ir:443?mode=packet-up&path=%2Fln2ray&security=tls&alpn=h2&encryption=none&host=media.sanaiegh.ir&type=xhttp&sni=media.sanaiegh.ir#1403|11|16_01:13:53
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@freakconfig107.usecharge.ir:443#1403|11|16_01:13:53
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig106.usecharge.ir:443#1403|11|16_01:13:53
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@freakconfigz2.usecharge.ir:3237?security=&encryption=none&headerType=none&type=tcp#1403|11|14_23:47:51
 vless://5a7d02b8-aace-4fe3-aa4a-9fa3771d51e5@freakconfigs2.usecharge.ir:443?mode=packet-up&path=%2Fln2ray&security=tls&alpn=h2&encryption=none&host=media.sanaiegh.ir&type=xhttp&sni=media.sanaiegh.ir#1403|11|14_23:47:51
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig103.usecharge.ir:443#1403|11|14_23:47:51
@@ -9,7 +13,3 @@ vless://1d86846c-5a27-43c8-8981-57bb75c82195@freakconfigz1.usecharge.ir:3237?sec
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig100.usecharge.ir:443#1403|11|13_00:09:19
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig99.usecharge.ir:443#1403|11|13_00:09:19
 vless://5a7d02b8-aace-4fe3-aa4a-9fa3771d51e5@freakconfigs1.usecharge.ir:443?mode=packet-up&path=%2Fln2ray&security=tls&alpn=h2&encryption=none&host=media.sanaiegh.ir&type=xhttp&sni=media.sanaiegh.ir#1403|11|13_00:09:19
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig98.usecharge.ir:443#1403|11|12_00:37:43
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig97.usecharge.ir:443#1403|11|12_00:37:43
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig96.usecharge.ir:443#1403|11|11_01:02:42
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig97.usecharge.ir:443#1403|11|11_01:02:42

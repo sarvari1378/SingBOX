@@ -1,3 +1,7 @@
+vless://5eaf0943-2ba0-49ae-a3dc-2957429a85d5@87.121.79.113:443?security=none&type=tcp&headerType=http&path=%2F&host=playstation.com#💎
+vless://5eaf0943-2ba0-49ae-a3dc-2957429a85d5@87.121.79.113:2053?security=reality&type=tcp&headerType=&path=&host=&sni=github.io&fp=random&pbk=mCCigQPrTHY9CMHgDgfWo00ij_dgYt0sAc_uHeRFklI&sid=a4c4d9258f0685a4&spx=%2Fmaniwrld#💎
+ss://5eaf0943-2ba0-49ae-a3dc-2957429a85d5@87.121.79.113:443?security=none&type=tcp&headerType=http&path=%2F&host=playstation.com#💎
+ss://5eaf0943-2ba0-49ae-a3dc-2957429a85d5@87.121.79.113:2053?security=reality&type=tcp&headerType=&path=&host=&sni=github.io&fp=random&pbk=mCCigQPrTHY9CMHgDgfWo00ij_dgYt0sAc_uHeRFklI&sid=a4c4d9258f0685a4&spx=%2Fmaniwrld#💎
 vless://Parsashonam-163@[2a01:4f8:1c1b:e1d0::1]:8888?security=none&encryption=none&headerType=none&type=tcp#t.me%2Ffast2ng+%7C+%2888%29+DE
 vless://Parsashonam-163@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#t.me%2Ffast2ng+%7C+%2889%29+DE
 vless://Parsashonam-163@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#t.me%2Ffast2ng+%7C+%2890%29+DE```

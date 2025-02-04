@@ -1,4 +1,4 @@
-vless://5eaf0943-2ba0-49ae-a3dc-2957429a85d5@87.121.79.113:443?security=none&type=tcp&headerType=http&path=%2F&host=playstation.com#💎
-vless://5eaf0943-2ba0-49ae-a3dc-2957429a85d5@87.121.79.113:2053?security=reality&type=tcp&headerType=&path=&host=&sni=github.io&fp=random&pbk=mCCigQPrTHY9CMHgDgfWo00ij_dgYt0sAc_uHeRFklI&sid=a4c4d9258f0685a4&spx=%2Fmaniwrld#💎
-ss://5eaf0943-2ba0-49ae-a3dc-2957429a85d5@87.121.79.113:443?security=none&type=tcp&headerType=http&path=%2F&host=playstation.com#💎
-ss://5eaf0943-2ba0-49ae-a3dc-2957429a85d5@87.121.79.113:2053?security=reality&type=tcp&headerType=&path=&host=&sni=github.io&fp=random&pbk=mCCigQPrTHY9CMHgDgfWo00ij_dgYt0sAc_uHeRFklI&sid=a4c4d9258f0685a4&spx=%2Fmaniwrld#💎
+vless://5eaf0943-2ba0-49ae-a3dc-2957429a85d5@87.121.79.113:2053?security=reality&encryption=none&pbk=mCCigQPrTHY9CMHgDgfWo00ij_dgYt0sAc_uHeRFklI&headerType=none&fp=random&spx=%2Fmaniwrld&type=tcp&sni=github.io&sid=a4c4d9258f0685a4#%F0%9F%92%8E%20%40parsVPNtop
+vless://5eaf0943-2ba0-49ae-a3dc-2957429a85d5@87.121.79.113:443?security=none&encryption=none&host=playstation.com&headerType=http&type=tcp#%F0%9F%92%8E%20%40parsVPNtop`
+ss://5eaf0943-2ba0-49ae-a3dc-2957429a85d5@87.121.79.113:2053?security=reality&encryption=none&pbk=mCCigQPrTHY9CMHgDgfWo00ij_dgYt0sAc_uHeRFklI&headerType=none&fp=random&spx=%2Fmaniwrld&type=tcp&sni=github.io&sid=a4c4d9258f0685a4#%F0%9F%92%8E%20%40parsVPNtop
+ss://5eaf0943-2ba0-49ae-a3dc-2957429a85d5@87.121.79.113:443?security=none&encryption=none&host=playstation.com&headerType=http&type=tcp#%F0%9F%92%8E%20%40parsVPNtop`

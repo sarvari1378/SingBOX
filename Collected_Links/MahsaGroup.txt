@@ -1,7 +1,6 @@
+vless://5eaf0943-2ba0-49ae-a3dc-2957429a85d5@87.121.79.113:443?security=none&type=tcp&headerType=http&path=%2F&host=playstation.com#💎
+vless://5eaf0943-2ba0-49ae-a3dc-2957429a85d5@87.121.79.113:2053?security=reality&type=tcp&headerType=&path=&host=&sni=github.io&fp=random&pbk=mCCigQPrTHY9CMHgDgfWo00ij_dgYt0sAc_uHeRFklI&sid=a4c4d9258f0685a4&spx=%2Fmaniwrld#💎
+ss://5eaf0943-2ba0-49ae-a3dc-2957429a85d5@87.121.79.113:443?security=none&type=tcp&headerType=http&path=%2F&host=playstation.com#💎
+ss://5eaf0943-2ba0-49ae-a3dc-2957429a85d5@87.121.79.113:2053?security=reality&type=tcp&headerType=&path=&host=&sni=github.io&fp=random&pbk=mCCigQPrTHY9CMHgDgfWo00ij_dgYt0sAc_uHeRFklI&sid=a4c4d9258f0685a4&spx=%2Fmaniwrld#💎
 vless://dc441b28-5119-4325-9cfb-52f25246aefc@eliv2-ray.fastly80-3.hosting-ip.com:80?path=/telegram,@ELiV2RAY--telegram,@ELiV2RAY--telegram,@ELiV2RAY--telegram,@ELiV2RAY--telegram,@ELiV2RAY--telegram,@ELiV2RAY%3Fed%3D2560&host=JoinBede--ELiV2-RAY.ir&type=ws#All-@shokhmiplus`
 ss://dc441b28-5119-4325-9cfb-52f25246aefc@eliv2-ray.fastly80-3.hosting-ip.com:80?path=/telegram,@ELiV2RAY--telegram,@ELiV2RAY--telegram,@ELiV2RAY--telegram,@ELiV2RAY--telegram,@ELiV2RAY--telegram,@ELiV2RAY%3Fed%3D2560&host=JoinBede--ELiV2-RAY.ir&type=ws#All-@shokhmiplus`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVEJrWW1Gaw%3D%3D@de2.opensocks.site:8388#%40shokhmiplus%20DE%2002_exp28Feb25
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaVFV4T1RRNQ%3D%3D@de1.opensocks.site:8388#%40shokhmiplus%20DE%2001_exp28Feb25
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOakJsWkRsaw%3D%3D@is3.opensocks.site:8388#%40shokhmiplus%2003_exp28Feb25
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaVFF6T0dGag%3D%3D@ie2.opensocks.site:8388#%40shokhmiplus%20IE%2002_exp28Feb25
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMlZoTkRRMg%3D%3D@uk2.opensocks.site:8388#%40shokhmiplus%20UK%2002_exp28Feb25`

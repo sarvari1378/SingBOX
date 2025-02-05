@@ -21,15 +21,3 @@ ss://8155040b-e61a-48a6-baae-82716daf723b@147.182.183.207:443?encryption=none&se
 ss://13d2e8b0-0eb0-49db-9e25-5928631866e4@138.199.194.113:443?encryption=none&security=none&type=tcp&headerType=http&host=playstation.com#%40Daily_Configs
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.170:8880?encryption=none&security=none&type=grpc#%40Daily_Configs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaakZtWVRZMA==@md1.opensocks.site:8388?type=tcp#@shokhmiplus`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMlZoTkRRMg==@uk2.opensocks.site:8388?type=tcp#@shokhmiplus
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMlZoTkRRMg==@uk1.opensocks.site:8388#SSHMAX-Shadowsocks
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.32.1:8443?path=%2Ftelegram%40v2ray_alpha%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=HaSTi.FrEEAIrlaInES.cOM&fp=randomized&type=ws&sni=hAsTi.fREEaiRlAinEs.Com#%40TRICK_MOBIL
-vless://6c198339-837d-4f61-940f-fa4f6776dc07@dd2.atelienaderr.ir:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=dd2.atelienaderr.ir&fp=chrome&type=ws&sni=dd2.atelienaderr.ir#%40TRICK_MOBIL
-ss://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.32.1:8443?path=%2Ftelegram%40v2ray_alpha%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=HaSTi.FrEEAIrlaInES.cOM&fp=randomized&type=ws&sni=hAsTi.fREEaiRlAinEs.Com#%40TRICK_MOBIL
-ss://6c198339-837d-4f61-940f-fa4f6776dc07@dd2.atelienaderr.ir:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=dd2.atelienaderr.ir&fp=chrome&type=ws&sni=dd2.atelienaderr.ir#%40TRICK_MOBIL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#%40TRICK_MOBIL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#%40Trick_mobil%F0%9F%99%8F
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%40TRICK_MOBIL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%40Trick_mobil%E2%9C%A8%F0%9F%A5%82
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.178.194:443#%40TRICK_MOBIL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#%40TRICK_MOBIL`

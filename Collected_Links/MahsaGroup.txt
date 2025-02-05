@@ -1,3 +1,5 @@
+vless://cefd5a6f-c391-48b2-bde6-8896fd7bd01c@eliv2-ray.fastly80-3.hosting-ip.com:80?path=/telegram,@ELiV2RAY--telegram,@ELiV2RAY--telegram,@ELiV2RAY--telegram,@ELiV2RAY--telegram,@ELiV2RAY--telegram,@ELiV2RAY%3Fed%3D2560&host=JoinBede--ELiV2-RAY.ir&type=ws#All-@shokhmiplus`
+ss://cefd5a6f-c391-48b2-bde6-8896fd7bd01c@eliv2-ray.fastly80-3.hosting-ip.com:80?path=/telegram,@ELiV2RAY--telegram,@ELiV2RAY--telegram,@ELiV2RAY--telegram,@ELiV2RAY--telegram,@ELiV2RAY--telegram,@ELiV2RAY%3Fed%3D2560&host=JoinBede--ELiV2-RAY.ir&type=ws#All-@shokhmiplus`
 vless://027613f3-907c-4519-bb0f-1a844be3cc93@cfg.bahbah.click:65325?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%D8%AA%D8%A7%D9%86%D9%84%20parsVPNtop`
 ss://027613f3-907c-4519-bb0f-1a844be3cc93@cfg.bahbah.click:65325?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%D8%AA%D8%A7%D9%86%D9%84%20parsVPNtop`
 vless://tel%3Av2rayng____76@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#t.me%2Ffast2ng+%7C+%2895%29+FL

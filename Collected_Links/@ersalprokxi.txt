@@ -1,3 +1,10 @@
+vless://ff361441-0bf0-47df-e284-b71e67cc4d91@tify-binex-join.espikernajafi.ir:6666?mode=gun&security=none&encryption=none&type=grpc&serviceName=%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy#1403|11|18_20:11:07
+vless://5610d127-d11b-46dd-bf49-521f08a4b67d@tify-binex-join.espikernajafi.ir:2053?path=%2Ftelegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560&security=none&encryption=none&host=chess.com&type=ws#1403|11|18_20:11:07
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#1403|11|18_19:57:05
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#1403|11|18_19:57:05
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#1403|11|18_19:57:05
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#1403|11|18_19:57:05
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#1403|11|18_19:57:05
 vless://ee802d05-85fb-48bd-867b-57eeacefb78a@join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE%3Fed%3D2048&security=none&encryption=none&host=JoinBede--VPNCUSTOMIZE--VPNCUSTOMIZE.ir&type=ws#1403|11|18_19:31:57
 vless://ff361441-0bf0-47df-e284-b71e67cc4d91@tify-binex-join.espikernajafi.ir:6666?type=grpc&serviceName=/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy&authority=&security=none#1403|11|18_19:31:39
 vless://5610d127-d11b-46dd-bf49-521f08a4b67d@tify-binex-join.espikernajafi.ir:2053?type=ws&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY%3Fed%3D2560&host=chess.com&security=none#1403|11|18_19:31:39
@@ -31,10 +38,3 @@ vless://5a7d02b8-aace-4fe3-aa4a-9fa3771d51e5@freakconfigs5.usecharge.ir:443?mode
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@freakconfig110.usecharge.ir:443#1403|11|18_08:28:51
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig109.usecharge.ir:443#1403|11|18_08:28:51
 vless://e4bfe605-c311-4efb-a1fa-3224dbd1cde7@opn.cdnserver.info:443?encryption=none&security=none&type=xhttp&path=%2F2205ac07&mode=auto#1403|11|18_08:27:19
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@cdnjs.com:8443?encryption=none&security=tls&sni=hastI.frEEaIrlAiNes.Com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=HAsti.FrEeAiRLAIneS.com&path=%2FcVwhB4RnkmUyTlvX%3Fed%3D2560#1403|11|18_08:27:19
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.252.79:8880?encryption=none&security=none&type=grpc#1403|11|18_08:27:19
-vless://2ddbf9ee-6c29-468b-f108-b7f2057797a8@37.156.47.23:30583?encryption=none&security=none&type=ws&path=%2F#1403|11|18_08:27:19
-vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.181:3237?encryption=none&security=none&type=tcp&headerType=none#1403|11|18_08:27:19
-vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.231.205.38:3237?encryption=none&security=none&type=tcp&headerType=none#1403|11|18_08:27:19
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2083?encryption=none&security=tls&sni=hAsTi.frEEairLainEs.Com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=HaSTI.fReeAIrLAINes.COm&path=%2FG9WiaAeAdacfio6X%3Fed%3D2560#1403|11|18_08:27:19
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?encryption=none&security=none&type=ws&host=a.xn--i-sx6a60i.us.kg.&path=%2F%3Fed%3D2560#1403|11|18_08:27:19

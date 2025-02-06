@@ -26,11 +26,3 @@ ss://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=%2F%3Fed%3D2560%2FV2r
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.41:8880?mode=gun&security=none&encryption=none&type=grpc#@mobilesignal
 ss://5dbe9218-8f4d-5c4c-8b27-785e5b01317f@5.252.23.173:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#@mobilesignal
 ss://2ddbf9ee-6c29-468b-f108-b7f2057797a8@37.156.47.23:30583?path=%2F&security=none&encryption=none&type=ws#@mobilesignal
-vless://9564b172-744e-45bb-a720-c1b3115def9d@217.61.63.148:37172?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%86%94Telegram%20%3A%20%40Subscription8%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-vless://ed8dca4a-b1c0-491d-8557-f32ad12f8dbb@65.109.181.193:29308?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%86%94Telegram%20%3A%20%40Subscription8%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-vless://acfb8db7-fbc4-4aac-814d-ef73bd6ce72c@5.75.140.123:4810?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%86%94Telegram%20%3A%20%40Subscription8%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85`
-ss://9564b172-744e-45bb-a720-c1b3115def9d@217.61.63.148:37172?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%86%94Telegram%20%3A%20%40Subscription8%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.171:8080#%F0%9F%86%94Telegram%20%3A%20%40Subscription8%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@35.176.197.229:443#%F0%9F%86%94Telegram%20%3A%20%40Subscription8%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-ss://ed8dca4a-b1c0-491d-8557-f32ad12f8dbb@65.109.181.193:29308?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%86%94Telegram%20%3A%20%40Subscription8%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-ss://acfb8db7-fbc4-4aac-814d-ef73bd6ce72c@5.75.140.123:4810?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%86%94Telegram%20%3A%20%40Subscription8%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85`

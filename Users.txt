@@ -19,5 +19,4 @@ ParhamGhasemi, 10, @Chemical1373
 ParhamGhasemi-2, 10, @Chemical1373
 Mehti, 4, @Mehti94
 Parisa, 11, @pris_kh
-Mehrnaz, -5
 AliZarei, 21

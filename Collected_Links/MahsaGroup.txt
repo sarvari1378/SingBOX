@@ -1,3 +1,7 @@
+vless://ecb449a4-f3cb-4471-984f-035c44f2a21e@77.90.11.193:28622?security=none&encryption=none&headerType=none&type=tcp#%D9%87%D9%85%D9%87%E2%80%8C%DB%8C%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7`
+ss://ecb449a4-f3cb-4471-984f-035c44f2a21e@77.90.11.193:28622?security=none&encryption=none&headerType=none&type=tcp#%D9%87%D9%85%D9%87%E2%80%8C%DB%8C%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7`
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=pormang.webhost99.workers.dev&type=ws#%40shokhmiplus`
+ss://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=pormang.webhost99.workers.dev&type=ws#%40shokhmiplus`
 vless://2b024e2f-f975-49d0-a57a-14d01eac8a5e@huffingtonpost.es:80?mode=auto&path=%2F&security=none&encryption=none&host=Hormozvppn.global.ssl.fastly.net&type=xhttp#hormozvpn
 vless://2b024e2f-f975-49d0-a57a-14d01eac8a5e@huffingtonpost.es:443?mode=auto&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=Hormozvppn.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=www.huffingtonpost.es#hormozvpn
 ss://2b024e2f-f975-49d0-a57a-14d01eac8a5e@huffingtonpost.es:80?mode=auto&path=%2F&security=none&encryption=none&host=Hormozvppn.global.ssl.fastly.net&type=xhttp#hormozvpn

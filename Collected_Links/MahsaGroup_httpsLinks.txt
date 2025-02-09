@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/sarvari1378/GPTscripts/main/SUB/BackUp-fefd86
 https://t.me/NOVA_timeline/6
 https://raw.githubusercontent.com/seyednova/collector/refs/heads/main/configs/proxy_configs.txt#NOVA```
 https://raw.githubusercontent.com/seyednova/wire/refs/heads/main/configs/wireguard_configs.txt#NOVA_WARP```

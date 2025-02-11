@@ -5,7 +5,7 @@ Hesari, 21, @Sweet_life22
 PedramMinai, 75, @books_love_life
 Moshaverinia, 638
 Mojtabakamyab, 25, @Arefehkamyab
-Behnaz, -1, +989157380448
+Behnaz, 30, +989157380448
 PariaGhasemi, 2, @Paria_ghasemi
 AtieKamyab, 12, @Arefehkamyab
 AlirezaSazegar, 2, @Sazegar_telegram
@@ -19,4 +19,5 @@ ParhamGhasemi, 5, @Chemical1373
 ParhamGhasemi-2, 5, @Chemical1373
 Mehti, -1, @Mehti94
 Parisa, 6, @pris_kh
+Parisa, 2, @Pkh7823
 AliZarei, 16

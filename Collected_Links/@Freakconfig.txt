@@ -1,3 +1,7 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@freakconfig122.usecharge.ir:443#1403|11|24_00:53:16
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig121.usecharge.ir:443#1403|11|24_00:53:16
+vless://5a7d02b8-aace-4fe3-aa4a-9fa3771d51e5@freakconfigs11.usecharge.ir:443?mode=packet-up&path=%2Fln2ray&security=tls&alpn=h2&encryption=none&host=media.sanaiegh.ir&type=xhttp&sni=media.sanaiegh.ir#1403|11|24_00:53:16
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@freakconfigz11.usecharge.ir:3237?security=none&encryption=none&headerType=none&type=tcp#1403|11|24_00:53:16
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@freakconfigz10.usecharge.ir:3237?security=none&encryption=none&headerType=none&type=tcp#1403|11|23_00:08:20
 vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@freakconfigs10.usecharge.ir:443?security=tls&alpn=h2&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=mods.lnmarketplace.net#1403|11|23_00:08:20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@freakconfig120.usecharge.ir:443#1403|11|23_00:08:20
@@ -9,7 +13,3 @@ vless://1d86846c-5a27-43c8-8981-57bb75c82195@freakconfigz9.usecharge.ir:3237?sec
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@freakconfigz8.usecharge.ir:3237?security=none&encryption=none&headerType=none&type=tcp#1403|11|21_02:35:44
 vless://5a7d02b8-aace-4fe3-aa4a-9fa3771d51e5@freakconfigs8.usecharge.ir:443?mode=packet-up&path=%2Fln2ray&security=tls&alpn=h2&encryption=none&host=media.sanaiegh.ir&type=xhttp&sni=media.sanaiegh.ir#1403|11|21_02:35:44
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@free116.usecharge.ir:443#1403|11|21_02:35:44
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig114.usecharge.ir:443#1403|11|21_02:35:44
-vless://1d86846c-5a27-43c8-8981-57bb75c82195@freakconfigz7.usecharge.ir:3237?security=none&encryption=none&headerType=none&type=tcp#1403|11|20_17:15:11
-vless://5a7d02b8-aace-4fe3-aa4a-9fa3771d51e5@freakconfigs7.usecharge.ir:443?mode=packet-up&path=%2Fln2ray&security=tls&alpn=h2&encryption=none&host=media.sanaiegh.ir&type=xhttp&sni=media.sanaiegh.ir#1403|11|20_17:15:11
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@freakconfig113.usecharge.ir:443#1403|11|20_17:15:11

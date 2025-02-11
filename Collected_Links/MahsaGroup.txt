@@ -16,5 +16,3 @@ ss://eyJhZGQiOiJiYXphci5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZGU
 ss://V2RAXX@speedtest.net:80?path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&encryption=none&host=V2RAXX.ir&type=ws#%40Daily_Configs`
 vless://b42c0b33-07bd-4a39-877f-17a24cd9ed14@E-L-i-V-2-R-A-Y.fastly80-3.hosting-ip.com:80?path=/telegram,@ELiV2RAY--telegram,@ELiV2RAY--telegram,@ELiV2RAY--telegram,@ELiV2RAY--telegram,@ELiV2RAY--telegram,@ELiV2RAY%3Fed%3D2560&host=JoinBede--ELiV2-RAY.ir&type=ws#All-@ELiV2ray`
 ss://b42c0b33-07bd-4a39-877f-17a24cd9ed14@E-L-i-V-2-R-A-Y.fastly80-3.hosting-ip.com:80?path=/telegram,@ELiV2RAY--telegram,@ELiV2RAY--telegram,@ELiV2RAY--telegram,@ELiV2RAY--telegram,@ELiV2RAY--telegram,@ELiV2RAY%3Fed%3D2560&host=JoinBede--ELiV2-RAY.ir&type=ws#All-@ELiV2ray`
-vless://15ce6637-4b61-4d05-ac41-fd6acc002262@103.180.236.102:15006?type=tcp&security=none#@v2ray_market11```
-ss://15ce6637-4b61-4d05-ac41-fd6acc002262@103.180.236.102:15006?type=tcp&security=none#@v2ray_market11```

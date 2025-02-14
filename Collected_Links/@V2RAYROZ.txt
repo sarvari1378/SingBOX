@@ -1,3 +1,4 @@
+vless://Proxy_mtm-Channel@mehdi.vact.ir:2083?mode=gun&security=reality&encryption=none&pbk=hEiLB7_WfQKIGm7O82wLrDoLwEV__RIM7sfWnhllzXA&fp=chrome&spx=%2F&type=grpc&sni=www.cdn77.com&sid=860beecd2f155e4a#1403|11|26_20:11:47
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig125.usecharge.ir:443#1403|11|26_12:07:54
 vless://0c04dd79-71ad-475e-9a22-8fe625afccbb@ZuLa.ir:8080?path=%2Ftelegram---VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram----VPNCUSTOMIZE%3Fed%3D2048&security=none&encryption=none&host=seyyed.webdade.ip-ddns.com&type=ws#1403|11|26_12:06:10
 vless://350ba876-0706-4525-b342-f70062cb24f8@ZuLa.ir:8080?path=%2Ftelegram---VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram----VPNCUSTOMIZE%3Fed%3D2048&security=none&encryption=none&host=seyyed.webdade.ip-ddns.com&type=ws#1403|11|25_22:31:17
@@ -12,4 +13,3 @@ vless://v2rayng___76@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FLwW5jwrnymnOdqki%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#1403|11|23_20:01:49
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80?path=%2FMTMVPN%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#1403|11|23_12:05:11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig119.usecharge.ir:443#1403|11|23_12:04:30
-vless://b42c0b33-07bd-4a39-877f-17a24cd9ed14@ZuLa.ir:8080?path=%2Ftelegram---VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram----VPNCUSTOMIZE%3Fed%3D2048&security=none&encryption=none&host=seyyed.webdade.ip-ddns.com&type=ws#1403|11|22_22:06:57

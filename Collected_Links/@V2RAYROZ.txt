@@ -1,3 +1,5 @@
+vless://ebe7d94e-c664-48f6-9ab5-b7f68b9029f2@ZuLa.ir:8080?path=%2Ftelegram---VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram----VPNCUSTOMIZE%3Fed%3D2048&security=none&encryption=none&host=seyyed.webdade.ddns-ip.net&type=ws#1403|11|27_11:59:13
+vless://f7fffc7d-9bcf-4806-bff3-c7ed8888b8a6@tify-binex-join.espikernajafi.ir:2053?path=%2Ftelegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560&security=none&encryption=none&type=ws#1403|11|27_11:58:04
 vless://84ebaeed-e356-4d71-8ad5-1b24bf1e01fc@tify-binex-join.espikernajafi.ir:6666?mode=gun&security=none&encryption=none&type=grpc&serviceName=%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy#1403|11|26_22:03:27
 vless://Proxy_mtm-Channel@mehdi.vact.ir:2083?mode=gun&security=reality&encryption=none&pbk=hEiLB7_WfQKIGm7O82wLrDoLwEV__RIM7sfWnhllzXA&fp=chrome&spx=%2F&type=grpc&sni=www.cdn77.com&sid=860beecd2f155e4a#1403|11|26_20:11:47
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig125.usecharge.ir:443#1403|11|26_12:07:54
@@ -11,5 +13,3 @@ vless://4e6a1e53-ed96-4907-b763-3cfb449d43b3@ZuLa.ir:8080?path=%2Ftelegram---VPN
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#1403|11|24_11:52:43
 vless://v2rayng___76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#1403|11|23_22:01:24
 vless://v2rayng___76@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#1403|11|23_22:01:24
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FLwW5jwrnymnOdqki%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#1403|11|23_20:01:49
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80?path=%2FMTMVPN%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#1403|11|23_12:05:11

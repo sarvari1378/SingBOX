@@ -15,8 +15,8 @@ Mahsa, 28, +989398651525
 PedramHS, 26, @aghapedi8657
 Malekaz, 6, @maleka0_0
 MahsaMoradi, 2, @l_Mhs_l
-ParhamGhasemi, 1, @Chemical1373
-ParhamGhasemi-2, 1, @Chemical1373
+ParhamGhasemi, 31, @Chemical1373
+ParhamGhasemi-2, 31, @Chemical1373
 Mehti, 28, @Mehti94
 Parisa, 2, @pris_kh
 Parisa-2, 26, @Pkh7823

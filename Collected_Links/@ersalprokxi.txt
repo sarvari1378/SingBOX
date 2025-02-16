@@ -1,3 +1,6 @@
+vmess://eyJhZGQiOiJiaWlpYS12cG4td2hhbC5mYXN0Lmhvc3RpbmctaXAuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjYXQuSVIuIiwiaWQiOiJpZC0tLUBmZTMweCIsIm5ldCI6IndzIiwicGF0aCI6Ii8_ZWRcdTAwM2QyMDU2LyMxNDAzfDExfDI4XzE5OjMzOjUz
+vmess://eyJhZGQiOiJiaWlpYS12cG4td2hhbC5mYXN0Lmhvc3RpbmctaXAuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjYXQuSVIuIiwiaWQiOiJpZC0tLUBmZTMweCIsIm5ldCI6IndzIiwicGF0aCI6Ii8_ZWRcdTAwM2QyMDU2LyMxNDAzfDExfDI4XzE5OjMzOjUz
+vless://telegram-ArV2ray@www.speedtest.net:80?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry&security=none&encryption=none&host=www.speedtest.net.A.143.speedtest2.livE.&type=ws#1403|11|28_19:14:23
 vmess://eyJhZGQiOiJiaWlpYS12cG4td2hhbC5mYXN0Lmhvc3RpbmctaXAuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjYXQuSVIuIiwiaWQiOiJpZC0tLUBmZTMweCIsIm5ldCI6IndzIiwicGF0aCI6Ii8_ZWRcdTAwM2QyMDU2LyMxNDAzfDExfDI4XzE4OjI5OjAx
 vmess://eyJhZGQiOiJiaWlpYS12cG4td2hhbC5mYXN0Lmhvc3RpbmctaXAuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjYXQuSVIuIiwiaWQiOiJpZC0tLUBmZTMweCIsIm5ldCI6IndzIiwicGF0aCI6Ii8_ZWRcdTAwM2QyMDU2LyMxNDAzfDExfDI4XzE4OjI5OjAx
 vless://fe3080ba-b9f6-4d30-9d43-ca621bff189f@c2.vact.ir:2083?mode=gun&security=reality&encryption=none&pbk=gmfZyQtoXXrck45kkXm_vO3TlB0CcDNvkLkd3-HAfFA&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&sni=www.cdn77.com&sid=b542ac#1403|11|28_18:25:21
@@ -35,6 +38,3 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80?encryption=none&se
 vless://3602c1ed-5506-4d78-a0be-f39a7594e888@49.12.222.117:57818?encryption=none&security=none&type=ws&path=%2F#1403|11|28_07:41:39
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@zula.ir:80?encryption=none&security=none&type=ws&host=a.xn--i-sx6a60i.us.kg.&path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560#1403|11|28_07:41:39
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.231.205.30:3237?encryption=none&security=none&type=tcp&headerType=none#1403|11|28_07:41:39
-vless://26721978-890e-4946-bafa-cb03c9ff7f4a@109.237.99.177:38142?encryption=none&security=none&type=tcp&headerType=none#1403|11|28_07:41:39
-vless://1d86846c-5a27-43c8-8981-57bb75c82195@freakconfigz14.usecharge.ir:3237?encryption=none&security=none&type=tcp&headerType=none#1403|11|28_07:41:39
-vless://8d4ca31a-e0e9-4829-913d-75bc98ff885c@194.87.148.192:39800?encryption=none&security=none&type=tcp&headerType=none#1403|11|28_07:41:39

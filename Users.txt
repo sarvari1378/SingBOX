@@ -10,7 +10,7 @@ PariaGhasemi, 25, @Paria_ghasemi
 AtieKamyab, 5, @Arefehkamyab
 AlirezaSazegar, -5, @Sazegar_telegram
 Amirparnan, 5, @Arefehkamyab
-HomaKhademi, 0, @Arefehkamyab
+HomaKhademi, 30, @Arefehkamyab
 Mahsa, 25, +989398651525
 PedramHS, 23, @aghapedi8657
 Malekaz, 3, @maleka0_0

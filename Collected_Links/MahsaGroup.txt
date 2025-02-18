@@ -23,6 +23,3 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@b2n.ir:80?path=%2Fby-AB_841.[
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@zUla.IR:8443?path=%2FcVwhB4RnkmUyTlvX%3Fed%3D2560.AB_841-.[
 ss://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@www.speedtest.net:2052?path=%2F%3Fed%3D1080.AB_841-.[
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@b2n.ir:80?path=%2Fby-AB_841.[
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#%F0%9F%92%9C%20%40mobilesignal
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#%F0%9F%92%9C%20%40mobilesignal
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.188:8080#%F0%9F%92%9C%20%40mobilesignal```

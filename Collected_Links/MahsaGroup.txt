@@ -1,3 +1,5 @@
+vless://a039eb43-0019-4753-aeed-bfc9b895ddab@join.ELiV2.RAY.fastly80-3.hosting-ip.com:80?path=/telegram,ELiV2RAY-telegram,ELiV2RAY-telegram,ELiV2RAY-telegram,ELiV2RAY%3Fed%3D2560&host=JoinCHANNEL--ELiV2--ELiV2.iR&type=ws#All-@shokhmiplus`
+ss://a039eb43-0019-4753-aeed-bfc9b895ddab@join.ELiV2.RAY.fastly80-3.hosting-ip.com:80?path=/telegram,ELiV2RAY-telegram,ELiV2RAY-telegram,ELiV2RAY-telegram,ELiV2RAY%3Fed%3D2560&host=JoinCHANNEL--ELiV2--ELiV2.iR&type=ws#All-@shokhmiplus`
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@zUla.IR:8443?path=%2FcVwhB4RnkmUyTlvX%3Fed%3D2560.AB_841-.[
 vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@www.speedtest.net:2052?path=%2F%3Fed%3D1080.AB_841-.[
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@b2n.ir:80?path=%2Fby-AB_841.[

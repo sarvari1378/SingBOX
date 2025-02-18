@@ -1,6 +1,4 @@
-Ali, -14, @A_Ali_1380
 VIP, 713
-FatimaVakili, -6, @fatiw_vakili
 Hesari, 14, @Sweet_life22
 PedramMinai, 68, @books_love_life
 Moshaverinia, 631
@@ -8,7 +6,6 @@ Mojtabakamyab, 18, @Arefehkamyab
 Behnaz, 23, +989157380448
 PariaGhasemi, 25, @Paria_ghasemi
 AtieKamyab, 5, @Arefehkamyab
-AlirezaSazegar, -5, @Sazegar_telegram
 Amirparnan, 5, @Arefehkamyab
 HomaKhademi, 30, @Arefehkamyab
 Mahsa, 25, +989398651525

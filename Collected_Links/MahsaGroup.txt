@@ -1,6 +1,2 @@
-vless://telegram:v2rayng_76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#%F0%9F%86%94v2rayng_76
-vless://telegram:v2rayng_76@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#%F0%9F%86%94v2rayng_76
-ss://telegram:v2rayng_76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#%F0%9F%86%94v2rayng_76
-ss://telegram:v2rayng_76@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#%F0%9F%86%94v2rayng_76
 vless://7fb1a822-bd72-4a27-b987-89a4dd398142@de1.lunarmc.ir:465?encryption=none&security=none&type=tcp&headerType=none#@v2ray_market11```
 ss://7fb1a822-bd72-4a27-b987-89a4dd398142@de1.lunarmc.ir:465?encryption=none&security=none&type=tcp&headerType=none#@v2ray_market11```

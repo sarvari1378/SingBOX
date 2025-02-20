@@ -18,6 +18,3 @@ ss://7fb1a822-bd72-4a27-b987-89a4dd398142@de1.lunarmc.ir:465?encryption=none&sec
 ss://9f0577c0-0983-4907-8fa0-e46a795c92da@193.151.152.27:443?encryption=none&security=none&type=ws&path=%2F#%40Daily_Configs
 ss://c97729c5-0833-4501-9600-081d4330d1ce@78.111.86.105:8443?encryption=none&security=reality&sni=www.speedtest.net&fp=chrome&pbk=Yfsv32R_HAXEi1l8Tc-sEHiMiNEuqAEL_7dFSFWwtzQ&sid=3ea6&spx=%2F&type=grpc&authority=&serviceName=JoinBadeChannel%40antimeli&mode=gun#%40Daily_Configs
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80?encryption=none&security=none&type=ws&host=a.xn--i-sx6a60i.us.kg.&path=%2F%3Fed%3D2560#%40Daily_Configs`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#%F0%9F%92%9C%20%40mobilesignal%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#%F0%9F%92%9C%20%40mobilesignal%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.188:8080#%F0%9F%92%9C%20%40mobilesignal%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7

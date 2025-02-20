@@ -1,3 +1,7 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@Freakconfig138.usecharge.ir:443#1403|12|03_00:17:16
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@Freakconfig139.usecharge.ir:443#1403|12|03_00:17:16
+vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS18.usecharge.ir:443?security=tls&alpn=h2&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=mods.lnmarketplace.net#1403|12|03_00:17:16
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@FreakconfigZ18.usecharge.ir:3237?security=none&encryption=none&headerType=none&type=tcp#1403|12|03_00:17:16
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@Freakconfig135.usecharge.ir:443#1403|12|02_00:11:37
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@Freakconfig136.usecharge.ir:443#1403|12|02_00:11:37
 vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@freakconfigs17.usecharge.ir:443?security=tls&alpn=h2&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=mods.lnmarketplace.net#1403|12|02_00:11:37
@@ -9,7 +13,3 @@ vless://1d86846c-5a27-43c8-8981-57bb75c82195@FreakconfigZ16.usecharge.ir:3237?se
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig129.usecharge.ir:443#1403|11|29_00:53:44
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@freakconfig130.usecharge.ir:443#1403|11|29_00:53:44
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@freakconfigz15.usecharge.ir:3237?security=none&encryption=none&headerType=none&type=tcp#1403|11|29_00:53:44
-vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@freakconfigs15.usecharge.ir:443?security=tls&alpn=h2&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=mods.lnmarketplace.net#1403|11|29_00:53:44
-vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@freakconfigs14.usecharge.ir:443?security=tls&alpn=h2&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=mods.lnmarketplace.net#1403|11|28_00:06:12
-vless://1d86846c-5a27-43c8-8981-57bb75c82195@freakconfigz14.usecharge.ir:3237?security=none&encryption=none&headerType=none&type=tcp#1403|11|28_00:06:12
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@freakconfig128.usecharge.ir:443#1403|11|28_00:06:12

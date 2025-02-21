@@ -1,8 +1,0 @@
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@104.16.252.47:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=gozargah.validbv7996.ir&fp=random&type=ws&sni=gozargah.validbv7996.ir#5
-vless://9f0577c0-0983-4907-8fa0-e46a795c92da@193.151.152.27:443?path=%2F&security=none&encryption=none&type=ws#6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#4
-ss://42f36835-730c-4ecc-9daf-20121ae7ba47@104.16.252.47:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=gozargah.validbv7996.ir&fp=random&type=ws&sni=gozargah.validbv7996.ir#5
-ss://9f0577c0-0983-4907-8fa0-e46a795c92da@193.151.152.27:443?path=%2F&security=none&encryption=none&type=ws#6

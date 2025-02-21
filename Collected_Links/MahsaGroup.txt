@@ -1,3 +1,7 @@
+vless://tel@v2rayng_76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#%F0%9F%86%94v2rayng_76
+vless://tel@v2rayng_76@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#%F0%9F%86%94v2rayng_76
+ss://tel@v2rayng_76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#%F0%9F%86%94v2rayng_76
+ss://tel@v2rayng_76@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#%F0%9F%86%94v2rayng_76
 vless://8c65262b-5f3b-4476-bf5b-094f9817c21d@zula.ir:8443?encryption=none&security=tls&sni=foodrover.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=foodrover.ir.&path=%2F#%40Daily_Configs
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.112.1:8443?encryption=none&security=tls&sni=hAsTI.FreEAIRlaiNES.COM&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=hasTI.freeAirlAineS.COm&path=%2Ftelegram%40v2ray_alpha%2F%3Fed%3D2560#%40Daily_Configs
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@190.93.244.221:443?encryption=none&security=tls&sni=gozargah.validbv7996.ir&fp=random&type=ws&host=gozargah.validbv7996.ir&path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560#%40Daily_Configs
@@ -18,11 +22,3 @@ ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:443?encryption=none&secur
 ss://bacff32b-48b5-5191-b222-33538e15c735@45.89.55.188:8880?encryption=none&security=none&type=grpc&authority=&serviceName=vless-grpc&mode=gun#%40Daily_Configs
 ss://384d86c0-2f2c-5156-98b5-27bbc14f4315@join.mosiv2.fastly80-3.hosting-ip.com:80?encryption=none&security=none&type=ws&host=Join-Bede-MOSiv2.IR&path=%2F#%40Daily_Configs
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.75.172:80?encryption=none&security=none&type=ws&host=redw.pooriam.ir&path=%2F#%40Daily_Configs`
-vless://55e6267d-5432-4a67-ac60-3a75d9a2557c@146.75.8.88:80?encryption=none&security=none&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#2w7axFf43o🇩🇪
-vless://55e6267d-5432-4a67-ac60-3a75d9a2557c@151.101.158.204:80?encryption=none&security=none&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#2w7axFf43o🇩🇪
-vless://55e6267d-5432-4a67-ac60-3a75d9a2557c@speedtest.net:80?encryption=none&security=none&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#2w7axFf43o🇩🇪
-vless://55e6267d-5432-4a67-ac60-3a75d9a2557c@zmaoz.faculty.ucdavis.edu:443?encryption=none&security=tls&sni=Zmaoz.Faculty.UcdavIS.Edu.&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#2w7axFf43o🇩🇪
-ss://55e6267d-5432-4a67-ac60-3a75d9a2557c@146.75.8.88:80?encryption=none&security=none&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#2w7axFf43o🇩🇪
-ss://55e6267d-5432-4a67-ac60-3a75d9a2557c@151.101.158.204:80?encryption=none&security=none&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#2w7axFf43o🇩🇪
-ss://55e6267d-5432-4a67-ac60-3a75d9a2557c@speedtest.net:80?encryption=none&security=none&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#2w7axFf43o🇩🇪
-ss://55e6267d-5432-4a67-ac60-3a75d9a2557c@zmaoz.faculty.ucdavis.edu:443?encryption=none&security=tls&sni=Zmaoz.Faculty.UcdavIS.Edu.&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#2w7axFf43o🇩🇪

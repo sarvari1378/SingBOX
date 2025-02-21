@@ -6,13 +6,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#4
 ss://42f36835-730c-4ecc-9daf-20121ae7ba47@104.16.252.47:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=gozargah.validbv7996.ir&fp=random&type=ws&sni=gozargah.validbv7996.ir#5
 ss://9f0577c0-0983-4907-8fa0-e46a795c92da@193.151.152.27:443?path=%2F&security=none&encryption=none&type=ws#6
-vless://70fd5cb0-cd7a-4d95-80a5-c5d5ea4a8c09@89.23.107.71:443?security=reality&encryption=none&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&headerType=none&fp=chrome&type=tcp&sni=google.com#7
-vless://74b3dee8-59f8-49e1-b208-26900a8a792e@194.87.71.74:443?security=reality&encryption=none&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&headerType=none&fp=chrome&type=tcp&sni=google.com#8
-vless://40cf122d-029a-40e4-a0be-bc6024f45b6b@92.118.112.46:443?security=reality&encryption=none&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&headerType=none&fp=chrome&type=tcp&sni=google.com#9
-vless://b95ec877-abcb-49fd-98e1-3eed50d6e629@5.253.41.136:443?security=reality&encryption=none&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&headerType=none&fp=chrome&type=tcp&sni=google.com#10
-vless://9dddab9e-8484-4b21-ba49-457c6b5a1187@45.153.231.248:443?security=reality&encryption=none&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&headerType=none&fp=chrome&type=tcp&sni=google.com#11
-ss://70fd5cb0-cd7a-4d95-80a5-c5d5ea4a8c09@89.23.107.71:443?security=reality&encryption=none&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&headerType=none&fp=chrome&type=tcp&sni=google.com#7
-ss://74b3dee8-59f8-49e1-b208-26900a8a792e@194.87.71.74:443?security=reality&encryption=none&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&headerType=none&fp=chrome&type=tcp&sni=google.com#8
-ss://40cf122d-029a-40e4-a0be-bc6024f45b6b@92.118.112.46:443?security=reality&encryption=none&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&headerType=none&fp=chrome&type=tcp&sni=google.com#9
-ss://b95ec877-abcb-49fd-98e1-3eed50d6e629@5.253.41.136:443?security=reality&encryption=none&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&headerType=none&fp=chrome&type=tcp&sni=google.com#10
-ss://9dddab9e-8484-4b21-ba49-457c6b5a1187@45.153.231.248:443?security=reality&encryption=none&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&headerType=none&fp=chrome&type=tcp&sni=google.com#11

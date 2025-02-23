@@ -54,11 +54,3 @@ ss://280fbbbd-c5cc-4479-a987-c0569d9bcdf2@45.83.143.37:27757?security=reality&en
 ss://e8c5e684-019f-4b79-f741-401008b3a56d@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#%40Daily_Configs
 ss://e8c5e684-019f-4b79-f741-401008b3a56d@zmaoz.faculty.ucdavis.edu:80?path=%2Folem%2Fws%3Fed%3D1024&security=&encryption=none&host=foffmelo.com&type=ws#%40Daily_Configs
 ss://e8c5e684-019f-4b79-f741-401008b3a56d@zmaoz.faculty.ucdavis.edu:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#%40Daily_Configs`
-vless://2c2bf695-e949-4740-8f98-c63293331ce5@146.75.8.88:80?encryption=none&security=none&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#FV2j7ZDqPB🇩🇪
-vless://2c2bf695-e949-4740-8f98-c63293331ce5@151.101.158.204:80?encryption=none&security=none&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#FV2j7ZDqPB🇩🇪
-vless://2c2bf695-e949-4740-8f98-c63293331ce5@speedtest.net:80?encryption=none&security=none&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#FV2j7ZDqPB🇩🇪
-vless://2c2bf695-e949-4740-8f98-c63293331ce5@zmaoz.faculty.ucdavis.edu:443?encryption=none&security=tls&sni=Zmaoz.Faculty.UcdavIS.Edu.&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#FV2j7ZDqPB🇩🇪
-ss://2c2bf695-e949-4740-8f98-c63293331ce5@146.75.8.88:80?encryption=none&security=none&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#FV2j7ZDqPB🇩🇪
-ss://2c2bf695-e949-4740-8f98-c63293331ce5@151.101.158.204:80?encryption=none&security=none&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#FV2j7ZDqPB🇩🇪
-ss://2c2bf695-e949-4740-8f98-c63293331ce5@speedtest.net:80?encryption=none&security=none&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#FV2j7ZDqPB🇩🇪
-ss://2c2bf695-e949-4740-8f98-c63293331ce5@zmaoz.faculty.ucdavis.edu:443?encryption=none&security=tls&sni=Zmaoz.Faculty.UcdavIS.Edu.&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#FV2j7ZDqPB🇩🇪

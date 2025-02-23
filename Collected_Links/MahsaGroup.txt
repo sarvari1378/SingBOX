@@ -1,6 +1,2 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@135.181.85.186:8880?mode=gun&security=none&encryption=none&type=grpc#FI%F0%9F%87%AB%F0%9F%87%AE%C2%B9%20-%20%40ViP_Fragment_v2ray```
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.247.139:8880?mode=gun&security=none&encryption=none&type=grpc#FI%F0%9F%87%AB%F0%9F%87%AE%C2%B2%20-%20%40ViP_Fragment_v2ray```
-vless://bb29c155-d55e-4c07-8403-0581e384f7a2@108.162.192.217:2087?mode=gun&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc&sni=a1.mewface-smart.rest#DE%F0%9F%87%A9%F0%9F%87%AA%20-%20%40ViP_Fragment_v2ray```
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@135.181.85.186:8880?mode=gun&security=none&encryption=none&type=grpc#FI%F0%9F%87%AB%F0%9F%87%AE%C2%B9%20-%20%40ViP_Fragment_v2ray```
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.247.139:8880?mode=gun&security=none&encryption=none&type=grpc#FI%F0%9F%87%AB%F0%9F%87%AE%C2%B2%20-%20%40ViP_Fragment_v2ray```
-ss://bb29c155-d55e-4c07-8403-0581e384f7a2@108.162.192.217:2087?mode=gun&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc&sni=a1.mewface-smart.rest#DE%F0%9F%87%A9%F0%9F%87%AA%20-%20%40ViP_Fragment_v2ray```
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@zula.ir:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#%D8%A2%D9%84%D9%80%D9%80%D9%80%D9%80%D9%85%D9%80%D9%80%D9%80%D9%80%D9%80%D8%A7%D9%86%F0%9F%87%A9%F0%9F%87%AA
+ss://d342d11e-d424-4583-b36e-524ab1f0afa4@zula.ir:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#%D8%A2%D9%84%D9%80%D9%80%D9%80%D9%80%D9%85%D9%80%D9%80%D9%80%D9%80%D9%80%D8%A7%D9%86%F0%9F%87%A9%F0%9F%87%AA

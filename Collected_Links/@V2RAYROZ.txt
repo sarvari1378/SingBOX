@@ -1,3 +1,4 @@
+vless://CoD_VPN@speedtest.net:80?path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&encryption=none&host=V2RAXX.ir&type=ws#1403|12|07_21:59:23
 vless://TELEGRAM-NUFiLTER-ac1bf28574d0@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=6.nufilter-telegram.ir&type=ws#1403|12|07_20:00:55
 vless://92628d08-6c85-4d00-816e-5ae8f8dd6874@join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2FChennel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE&security=none&encryption=none&host=Channel-VPNCUSTOMIZE--Channel-VPNCUSTOMIZE.ir&type=ws#1403|12|07_10:37:41
 vless://TELEGRAM-NUFiLTER-e2b0d6873578@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=3.nufilter-telegram.ir&type=ws#1403|12|07_10:36:13
@@ -12,4 +13,3 @@ vless://telegram-ArV2ray@AC.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-ArV2ry
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638757556339780622.lisbon-mpl-eah.info:8880?mode=gun&security=&encryption=none&type=grpc#1403|12|04_22:00:10
 vless://MMD_Hell@speedtest.net:80?path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&encryption=none&host=V2RAXX.ir&type=ws#1403|12|04_20:08:11
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=%2FLwW5jwrnymnOdqki%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#1403|12|04_12:02:10
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638757556339780622.lisbon-mpl-eah.info:8880?mode=gun&security=none&encryption=none&type=grpc#1403|12|04_12:00:00

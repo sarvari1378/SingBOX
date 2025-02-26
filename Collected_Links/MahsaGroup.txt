@@ -26,10 +26,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.26.255:8880?mode=gun&securi
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.26.255:8880?mode=gun&security=none&encryption=none&type=grpc#@mobilesignal
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@35.176.197.229:443#@mobilesignal
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOakJsWkRsaw%3D%3D@89.221.224.166:8388#@mobilesignal```
-vless://88da5abf-08f2-44fe-951e-358e96bc86ba@svnteam.misvn.ir:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e54b5ad736ae4c38#%E2%80%8C%E2%80%8C%E2%80%8C
-vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:31899?security=none&encryption=none&headerType=none&type=tcp#%E2%80%8C
-vmess://eyJhZGQiOiIxNTAuMjQxLjIyMS42NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiLigIwiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-ss://88da5abf-08f2-44fe-951e-358e96bc86ba@svnteam.misvn.ir:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e54b5ad736ae4c38#%E2%80%8C%E2%80%8C%E2%80%8C
-ss://eyJhZGQiOiIxNTAuMjQxLjIyMS42NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiLigIwiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-ss://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:31899?security=none&encryption=none&headerType=none&type=tcp#%E2%80%8C
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:443#%E2%80%8C`

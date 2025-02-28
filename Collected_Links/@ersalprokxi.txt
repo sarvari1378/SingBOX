@@ -1,3 +1,4 @@
+vless://69d7aa7f-dc51-4f21-93a8-21a21986bd3f@join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=/Channel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&encryption=none&host=Join-VPNCUSTOMIZE-VPNCUSTOMIZE.ir&type=ws#1403|12|10_18:36:53
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.28.107.6:443#1403|12|10_13:43:35
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#1403|12|10_13:43:35
 vmess://eyJhZGQiOiIxMzguMTk5LjE1OC4yNDUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiM2Y2NTBjYzQtMzlkMy00ZWI1LTgyZjEtMTQ5Y2NhMGMzNDJiIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDAiLCJwcyI6IkBEYWlseV9Db25maWdzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifSMxNDAzfDEyfDEwXzEzOjQzOjM1
@@ -37,4 +38,3 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?encryption=non
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?encryption=none&security=none&type=ws&host=a.xn--i-sx6a60i.us.kg.&path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560#1403|12|08_22:57:35
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@190.93.244.221:443?encryption=none&security=tls&sni=gozargah.validbv7996.ir&fp=random&type=ws&host=gozargah.validbv7996.ir&path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560#1403|12|08_22:57:35
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?encryption=none&security=none&type=ws&host=redw.pooriam.ir&path=%2FLwW5jwrnymnOdqki%3Fed%3D2560#1403|12|08_22:57:35
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@zula.ir:80?encryption=none&security=none&type=ws&host=a.xn--i-sx6a60i.us.kg.&path=tmevpnAndroid2%2F%3Fed%3D2560#1403|12|08_22:57:35

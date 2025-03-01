@@ -1,3 +1,11 @@
+vless://1077c841-97d9-45a4-8663-7876e6b0f053@146.75.8.88:80?encryption=none&security=none&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#rpEpSLSapY🇩🇪
+vless://1077c841-97d9-45a4-8663-7876e6b0f053@151.101.158.204:80?encryption=none&security=none&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#rpEpSLSapY🇩🇪
+vless://1077c841-97d9-45a4-8663-7876e6b0f053@speedtest.net:80?encryption=none&security=none&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#rpEpSLSapY🇩🇪
+vless://1077c841-97d9-45a4-8663-7876e6b0f053@zmaoz.faculty.ucdavis.edu:443?encryption=none&security=tls&sni=Zmaoz.Faculty.UcdavIS.Edu.&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#rpEpSLSapY🇩🇪
+ss://1077c841-97d9-45a4-8663-7876e6b0f053@146.75.8.88:80?encryption=none&security=none&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#rpEpSLSapY🇩🇪
+ss://1077c841-97d9-45a4-8663-7876e6b0f053@151.101.158.204:80?encryption=none&security=none&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#rpEpSLSapY🇩🇪
+ss://1077c841-97d9-45a4-8663-7876e6b0f053@speedtest.net:80?encryption=none&security=none&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#rpEpSLSapY🇩🇪
+ss://1077c841-97d9-45a4-8663-7876e6b0f053@zmaoz.faculty.ucdavis.edu:443?encryption=none&security=tls&sni=Zmaoz.Faculty.UcdavIS.Edu.&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#rpEpSLSapY🇩🇪
 vless://8e7fc04e-0d19-445b-b416-4d85bc39d592@185.106.93.148:2002?encryption=none&security=reality&sni=x.ai&fp=chrome&pbk=rd6UkQumq8hDyw_uvrrpsgX_XlOi7xtXlwIkr3peDVQ&sid=a7585ba5f6&spx=%2FDaily_Configs&type=tcp&headerType=none#%40Daily_Configs
 ss://eGNoYWNoYTIwLXBvbHkxMzA1OnRhWHliUnpBWXdpdmk1a1JqTktDTGJQdDN2MlJCK3J5cmt0bE9ncHQ1aFk9@185.106.93.148:443#%40Daily_Configs
 ss://8e7fc04e-0d19-445b-b416-4d85bc39d592@185.106.93.148:2002?encryption=none&security=reality&sni=x.ai&fp=chrome&pbk=rd6UkQumq8hDyw_uvrrpsgX_XlOi7xtXlwIkr3peDVQ&sid=a7585ba5f6&spx=%2FDaily_Configs&type=tcp&headerType=none#%40Daily_Configs

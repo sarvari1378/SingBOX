@@ -1,3 +1,7 @@
+vless://8e7fc04e-0d19-445b-b416-4d85bc39d592@185.106.93.148:2002?encryption=none&security=reality&sni=x.ai&fp=chrome&pbk=rd6UkQumq8hDyw_uvrrpsgX_XlOi7xtXlwIkr3peDVQ&sid=a7585ba5f6&spx=%2FDaily_Configs&type=tcp&headerType=none#%40Daily_Configs
+ss://eGNoYWNoYTIwLXBvbHkxMzA1OnRhWHliUnpBWXdpdmk1a1JqTktDTGJQdDN2MlJCK3J5cmt0bE9ncHQ1aFk9@185.106.93.148:443#%40Daily_Configs
+ss://8e7fc04e-0d19-445b-b416-4d85bc39d592@185.106.93.148:2002?encryption=none&security=reality&sni=x.ai&fp=chrome&pbk=rd6UkQumq8hDyw_uvrrpsgX_XlOi7xtXlwIkr3peDVQ&sid=a7585ba5f6&spx=%2FDaily_Configs&type=tcp&headerType=none#%40Daily_Configs
+ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dGFYeWJSekFZd2l2aTVrUmpOS0NMYlB0M3YyUkIrcnlya3RsT2dwdDVoWT0%3D@185.106.93.148:443#%40Daily_Configs`
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.150:8880?mode=gun&security=none&encryption=none&type=grpc#%40Daily_Configs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.139:8880?mode=gun&security=none&encryption=none&type=grpc#%40Daily_Configs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.128:8880?mode=gun&security=none&encryption=none&type=grpc#%40Daily_Configs

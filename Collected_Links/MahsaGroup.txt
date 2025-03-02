@@ -24,4 +24,3 @@ vless://v2rayng_76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=n
 vless://v2rayng_76@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#%F0%9F%86%94v2rayng_76
 ss://v2rayng_76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#%F0%9F%86%94v2rayng_76
 ss://v2rayng_76@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#%F0%9F%86%94v2rayng_76
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPREE1WWpGaA==@de1.opensocks.site:8388#%40mobilesignal-Shadowsocks%20DE%2001_exp31Mar25```

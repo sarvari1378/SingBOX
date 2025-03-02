@@ -1,0 +1,2 @@
+vless://bd9bbae4-7305-4548-be12-ef1734b3ab1c@185.10.19.62:2082?mode=multi&security=reality&encryption=none&authority=Apple.com&pbk=dJcD0JDKGI9ZdhyYbNzXW1NfAWypPHP1HCOKBB-MA2o&fp=chrome&spx=%2F&type=grpc&serviceName=Hormoz.vp&sni=routedns.net&sid=572df405bc#%40hormozvpn
+ss://bd9bbae4-7305-4548-be12-ef1734b3ab1c@185.10.19.62:2082?mode=multi&security=reality&encryption=none&authority=Apple.com&pbk=dJcD0JDKGI9ZdhyYbNzXW1NfAWypPHP1HCOKBB-MA2o&fp=chrome&spx=%2F&type=grpc&serviceName=Hormoz.vp&sni=routedns.net&sid=572df405bc#%40hormozvpn

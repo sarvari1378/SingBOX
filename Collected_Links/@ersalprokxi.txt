@@ -1,3 +1,12 @@
+vless://e2a5b491-38c9-4379-9033-ee275270da5c@join-bede-configt.nipytee.info:1011?security=none&encryption=none&headerType=none&type=tcp#1403|12|15_00:14:45
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.8.216:8880?mode=gun&security=none&encryption=none&type=grpc#1403|12|15_00:14:45
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.226:8880?mode=gun&security=none&encryption=none&type=grpc#1403|12|15_00:14:45
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.227:8880?mode=gun&security=none&encryption=none&type=grpc#1403|12|15_00:14:45
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.177:8880?mode=gun&security=none&encryption=none&type=grpc#1403|12|15_00:14:45
+vless://c6b34209-523e-4350-a1fd-058a5847d124@151.101.192.155:80?path=ws%2F%3Fed%3D2560%23Telegram%40Freev2alpha&security=none&encryption=none&host=iranhoush.com&type=ws#1403|12|15_00:14:45
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.223:8880?mode=gun&security=none&encryption=none&type=grpc#1403|12|15_00:14:45
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.240.216:8880?mode=gun&security=none&encryption=none&type=grpc#1403|12|15_00:14:45
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.127:8880?mode=gun&security=none&encryption=none&type=grpc#1403|12|15_00:14:45
 vless://aedb9369-ad0a-4a94-8703-d34e4efd30c1@kamyar.vact.ir:443/?type=grpc&serviceName=Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs&authority=&security=reality&pbk=udU8XYAF5qWmGlp1PYLj8qMYCUjK6PRPAMZQX7c6qho&fp=chrome&sni=www.cdn77.com&sid=df663da15896&spx=%2F#1403|12|14_23:18:58
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#1403|12|14_20:39:21
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#1403|12|14_20:39:21
@@ -29,12 +38,3 @@ vless://ccf5ce22-2bb8-40e3-ab48-f6973ecaa3dc@join.unlimiteddev.fastly80-3.hostin
 vless://8789c37d-2c32-460b-ac63-c677fbc9b47e@57.129.29.62:14360?security=none&encryption=none&headerType=none&type=tcp#1403|12|13_23:42:13
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.223:8880?mode=gun&security=none&encryption=none&type=grpc#1403|12|13_23:42:13
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.199:8880?mode=gun&security=none&encryption=none&type=grpc#1403|12|13_23:42:13
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.221:8880?mode=gun&security=none&encryption=none&type=grpc#1403|12|13_23:42:13
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.227:8880?mode=gun&security=none&encryption=none&type=grpc#1403|12|13_23:42:13
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.157:8880?mode=gun&security=none&encryption=none&type=grpc#1403|12|13_23:42:13
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.177:8880?mode=gun&security=none&encryption=none&type=grpc#1403|12|13_23:42:13
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.222:8880?mode=gun&security=none&encryption=none&type=grpc#1403|12|13_23:42:13
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.226:8880?mode=gun&security=none&encryption=none&type=grpc#1403|12|13_23:42:13
-vless://f91b3fd5-b247-4258-9760-2217dbf36213@57.129.23.236:20910?security=reality&encryption=none&pbk=zfcReFxdDu57h_EOZItno2ir1DOQdfGIasn69APU7js&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=1fe8e221b4#1403|12|13_23:42:13
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.204:8880?mode=gun&security=none&encryption=none&type=grpc#1403|12|13_23:42:13
-vmess://eyJhZGQiOiIxNTEuMTAxLjY2LjE2OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYW1kLmFsIiwiaWQiOiI3ZGM3ODU4Mi04OGE4LTRiNGMtOWUzZS01MDgzMWQ2NzI3NjYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvWEVTQUxJU1RIRUJFU1Q_ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjgwIiwicHMiOiIx2YXYp9mH2YcgMzAw2q_bjNqvIDM52KohINiq2LPYquKAjNix2KfbjNqv2KfZhvCfpK_wn5GIVGlja1YyYm90QCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifSMxNDAzfDEyfDEzXzIzOjM2OjI3

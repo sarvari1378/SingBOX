@@ -1,3 +1,4 @@
+vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS33.usecharge.ir:443?security=tls&alpn=h2&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=mods.lnmarketplace.net#1403|12|17_21:01:17
 vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS32.usecharge.ir:443?security=tls&alpn=h2&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=mods.lnmarketplace.net#1403|12|16_21:00:40
 vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS31.usecharge.ir:443?security=tls&alpn=h2&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=mods.lnmarketplace.net#1403|12|15_21:00:21
 vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS30.usecharge.ir:443?security=tls&alpn=h2&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=mods.lnmarketplace.net#1403|12|14_21:00:45
@@ -12,4 +13,3 @@ vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS22.usecharge.ir:443?sec
 vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS21.usecharge.ir:443?security=tls&alpn=h2&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=mods.lnmarketplace.net#1403|12|05_21:00:03
 vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS20.usecharge.ir:443?security=tls&alpn=h2&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=mods.lnmarketplace.net#1403|12|04_21:06:11
 vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS19.usecharge.ir:443?security=tls&alpn=h2&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=mods.lnmarketplace.net#1403|12|04_00:13:25
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@Freakconfig138.usecharge.ir:443#1403|12|03_00:17:16

@@ -3,9 +3,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.125:8880?mode=gun&securi
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.22.144:8880?mode=gun&security=none&encryption=none&type=grpc#%40one_shop_official
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.141:8080#%40one_shop_official
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.125:8880?mode=gun&security=none&encryption=none&type=grpc#%40one_shop_official`
-vless://3dc9015f-20cb-42d6-adab-55ce831bae61@abuja-piqiu.info:2087?encryption=none&security=tls&sni=takdm.aleppo-amrikayekesafat.org&type=ws&host=takdm.aleppo-amrikayekesafat.org&path=%2Fmorano#speednew5##Shadmanegi+Unlimited`
-ss://3dc9015f-20cb-42d6-adab-55ce831bae61@abuja-piqiu.info:2087?encryption=none&security=tls&sni=takdm.aleppo-amrikayekesafat.org&type=ws&host=takdm.aleppo-amrikayekesafat.org&path=%2Fmorano#speednew5##Shadmanegi+Unlimited`
-vless://3dc9015f-20cb-42d6-adab-55ce831bae61@abuja-piqiu.info:2087?encryption=none&security=tls&sni=takdm.aleppo-amrikayekesafat.org&type=ws&host=takdm.aleppo-amrikayekesafat.org&path=%2Fmorano#speednew5##Shadmanegi+Unlimited`
-ss://3dc9015f-20cb-42d6-adab-55ce831bae61@abuja-piqiu.info:2087?encryption=none&security=tls&sni=takdm.aleppo-amrikayekesafat.org&type=ws&host=takdm.aleppo-amrikayekesafat.org&path=%2Fmorano#speednew5##Shadmanegi+Unlimited`
-vless://3dc9015f-20cb-42d6-adab-55ce831bae61@abuja-piqiu.info:2087?encryption=none&security=tls&sni=takdm.aleppo-amrikayekesafat.org&type=ws&host=takdm.aleppo-amrikayekesafat.org&path=%2Fmorano#speednew5##Shadmanegi+Unlimited`
-ss://3dc9015f-20cb-42d6-adab-55ce831bae61@abuja-piqiu.info:2087?encryption=none&security=tls&sni=takdm.aleppo-amrikayekesafat.org&type=ws&host=takdm.aleppo-amrikayekesafat.org&path=%2Fmorano#speednew5##Shadmanegi+Unlimited`

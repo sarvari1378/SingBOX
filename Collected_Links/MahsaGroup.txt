@@ -1,3 +1,7 @@
+vless://3dc9015f-20cb-42d6-adab-55ce831bae61@speedtest.org:2087?security=tls&sni=vqscy.bamako-hipersonictodolist.info&path=/morano&type=ws&host=vqscy.bamako-hipersonictodolist.info##Shadmanegi+Unlimited`
+ss://3dc9015f-20cb-42d6-adab-55ce831bae61@speedtest.org:2087?security=tls&sni=vqscy.bamako-hipersonictodolist.info&path=/morano&type=ws&host=vqscy.bamako-hipersonictodolist.info##Shadmanegi+Unlimited`
+vless://3dc9015f-20cb-42d6-adab-55ce831bae61@speedtest.org:2087?security=tls&sni=vqscy.bamako-hipersonictodolist.info&path=/morano&type=ws&host=vqscy.bamako-hipersonictodolist.info##Shadmanegi+Unlimited`
+ss://3dc9015f-20cb-42d6-adab-55ce831bae61@speedtest.org:2087?security=tls&sni=vqscy.bamako-hipersonictodolist.info&path=/morano&type=ws&host=vqscy.bamako-hipersonictodolist.info##Shadmanegi+Unlimited`
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@zula.ir:80?encryption=none&security=none&type=ws&host=a.xn--i-sx6a60i.us.kg.&path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560#%40Daily_Configs
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80?encryption=none&security=none&type=ws&host=a.xn--i-sx6a60i.us.kg.&path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560#%40Daily_Configs
 vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.56.77:443?encryption=none&security=tls&sni=nautica.foolvpn.me&type=ws&host=nautica.foolvpn.me&path=%2F47.89.39.186-39251#%40Daily_Configs

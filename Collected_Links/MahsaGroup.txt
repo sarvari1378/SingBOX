@@ -1,3 +1,5 @@
+vless://101bb99d-9010-4ef3-b860-fb2f4442cdc2@whatismyipaddress.com:2096?encryption=none&security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s08.elitemizban.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=ws#Shadmanegi+Unlimited`
+ss://101bb99d-9010-4ef3-b860-fb2f4442cdc2@whatismyipaddress.com:2096?encryption=none&security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s08.elitemizban.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=ws#Shadmanegi+Unlimited`
 vless://Parsashonam-187@[2a01:4f8:1c1b:e1d0::1]:8888?security=none&encryption=none&headerType=none&type=tcp#%40one_shop_official
 vless://Parsashonam-187@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#%40one_shop_official
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.204.84:80?path=tmevpnAndroid2%2F%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#%40one_shop_official`
@@ -26,5 +28,3 @@ ss://tel:v2rayng_76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=
 ss://tel:v2rayng_76@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#%F0%9F%86%94v2rayng_76
 vless://101bb99d-9010-4ef3-b860-fb2f4442cdc2@whatismyipaddress.com:2096?encryption=none&security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s08.elitemizban.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=ws#Shadmanegi+Unlimited`
 ss://101bb99d-9010-4ef3-b860-fb2f4442cdc2@whatismyipaddress.com:2096?encryption=none&security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s08.elitemizban.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=ws#Shadmanegi+Unlimited`
-vless://3dc9015f-20cb-42d6-adab-55ce831bae61@abuja-piqiu.info:2087?encryption=none&security=tls&sni=takdm.aleppo-amrikayekesafat.org&type=ws&host=takdm.aleppo-amrikayekesafat.org&path=%2Fmorano#speednew5##Shadmanegi+Unlimited`
-ss://3dc9015f-20cb-42d6-adab-55ce831bae61@abuja-piqiu.info:2087?encryption=none&security=tls&sni=takdm.aleppo-amrikayekesafat.org&type=ws&host=takdm.aleppo-amrikayekesafat.org&path=%2Fmorano#speednew5##Shadmanegi+Unlimited`

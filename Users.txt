@@ -4,7 +4,7 @@ PedramMinai, 48, @books_love_life
 Moshaverinia, 611
 Mojtabakamyab, 28, @Arefehkamyab
 Behnaz, 3, +989157380448
-PariaGhasemi, 5, @Paria_ghasemi
+PariaGhasemi, 35, @Paria_ghasemi
 AtieKamyab, 16, @Arefehkamyab
 Amirparnan, 16, @Arefehkamyab
 HomaKhademi, 10, @Arefehkamyab

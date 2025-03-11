@@ -1,3 +1,7 @@
+vless://09e61488-6297-4251-b03d-bbb995126360@151.101.64.155:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=none&encryption=none&host=1.wexer-rih.ir&type=ws#WS1%20%7C%20%40HajmVPN`
+vless://bc5c6f15-ffc6-43ff-8375-bb91275fd38e@151.101.64.155:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=none&encryption=none&host=2.wexer-rih.ir&type=ws#WS2%20%7C%20%40HajmVPN`
+ss://09e61488-6297-4251-b03d-bbb995126360@151.101.64.155:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=none&encryption=none&host=1.wexer-rih.ir&type=ws#WS1%20%7C%20%40HajmVPN`
+ss://bc5c6f15-ffc6-43ff-8375-bb91275fd38e@151.101.64.155:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=none&encryption=none&host=2.wexer-rih.ir&type=ws#WS2%20%7C%20%40HajmVPN`
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPREE1WWpGaA==@de1.opensocks.site:8388#%40mobilesignal-Shadowsocks%20DE%2001_exp31Mar25
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPREEyTUdaaA==@at1.opensocks.site:8388#%40mobilesignal-Shadowsocks%20AT%2001_exp31Mar25
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpabVExTnpGag==@fr1.opensocks.site:8388#%40mobilesignal-Shadowsocks%20FR%2001_exp31Mar25
@@ -14,5 +18,3 @@ ss://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@104.21.96.1:443?path=%2F3um9NK8jwisKz3
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.204.84:80?path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#%40one_shop_official
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FMTMVPN%2F%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#%40one_shop_official
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%40one_shop_official`
-vless://04f210b3-c06e-4300-a076-a2ee9744bc5e@188.114.97.3:443?type=ws&encryption=none&security=tls&path=%2Fv6445828875&sni=m218.inaonehorseopensleigh.com&host=m218.inaonehorseopensleigh.com#6445828875
-ss://04f210b3-c06e-4300-a076-a2ee9744bc5e@188.114.97.3:443?type=ws&encryption=none&security=tls&path=%2Fv6445828875&sni=m218.inaonehorseopensleigh.com&host=m218.inaonehorseopensleigh.com#6445828875

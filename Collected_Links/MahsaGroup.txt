@@ -31,5 +31,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPREEyTUdaaA==@at1.opensocks.site:8388#%40mob
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpabVExTnpGag==@fr1.opensocks.site:8388#%40mobilesignal-Shadowsocks%20FR%2001_exp31Mar25
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPRE13WldJeg==@is3.opensocks.site:8388#%40mobilesignal-Shadowsocks%20MD%2003_exp31Mar25
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpObU5sT0RZNA==@uk2.opensocks.site:8388#%40mobilesignal-Shadowsocks%20UK%2002_exp31Mar25```
-vless://TELEGRAM-NUFiLTER-fcf1bdf0f771@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=4.nuf-telegram.ir&type=ws#%40V2ry_Proxy+%F0%9F%87%A9%F0%9F%87%AA+ws7
-ss://TELEGRAM-NUFiLTER-fcf1bdf0f771@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=4.nuf-telegram.ir&type=ws#%40V2ry_Proxy+%F0%9F%87%A9%F0%9F%87%AA+ws7

@@ -1,2 +1,5 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRGxqWW1OaA==@de2.opensocks.site:1443/?plugin=obfs-local;obfs=tls;obfs-host=ct.cloudflare.com;obfs-uri=/#SSHMAX-Shadowsocks
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@www.speedtest.net:2096?encryption=none&security=tls&sni=VpKpLlDw6.AtHlEnIc.iNfO&alpn=h3%2Ch2&fp=chrome&type=ws&host=VpKpLlDw6.AtHlEnIc.iNfO#Shadmanegi+Unlimited`
+ss://96a1b724-68d2-4f4d-ab25-38ecd83577bc@www.speedtest.net:2096?encryption=none&security=tls&sni=VpKpLlDw6.AtHlEnIc.iNfO&alpn=h3%2Ch2&fp=chrome&type=ws&host=VpKpLlDw6.AtHlEnIc.iNfO#Shadmanegi+Unlimited`
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@www.speedtest.net:2096?encryption=none&security=tls&sni=LeAwZwUv6.SwImVoRa.iNfO&alpn=h3%2Ch2&fp=chrome&type=ws&host=LeAwZwUv6.SwImVoRa.iNfO#Shadmanegi+Unlimited`
 ss://96a1b724-68d2-4f4d-ab25-38ecd83577bc@www.speedtest.net:2096?encryption=none&security=tls&sni=LeAwZwUv6.SwImVoRa.iNfO&alpn=h3%2Ch2&fp=chrome&type=ws&host=LeAwZwUv6.SwImVoRa.iNfO#Shadmanegi+Unlimited`

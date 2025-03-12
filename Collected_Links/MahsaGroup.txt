@@ -1,12 +1,8 @@
+vless://95701d09-280b-478f-9812-ae2947cc1b1e@5.78.51.81:444?security=&type=tcp&encryption=none#Shadmanegi+Unlimited`
+ss://95701d09-280b-478f-9812-ae2947cc1b1e@5.78.51.81:444?security=&type=tcp&encryption=none#Shadmanegi+Unlimited`
 vless://TELEGRAM-NUFiLTER-5ff4cf4ec67e@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=5.nuf-telegram.ir&type=ws#@vpnstorefast`
 ss://TELEGRAM-NUFiLTER-5ff4cf4ec67e@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=5.nuf-telegram.ir&type=ws#@vpnstorefast`
 vless://b077fb58-0b18-43a2-b2e9-dfe2a6b464db@www.speedtest.net:2087?encryption=none&security=tls&sni=smart.trainofy.info&alpn=h2&fp=chrome&type=grpc#Server#Shadmanegi+Unlimited`
 ss://b077fb58-0b18-43a2-b2e9-dfe2a6b464db@www.speedtest.net:2087?encryption=none&security=tls&sni=smart.trainofy.info&alpn=h2&fp=chrome&type=grpc#Server#Shadmanegi+Unlimited`
 vless://TELEGRAM-NUFiLTER-5ff4cf4ec67e@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=5.nuf-telegram.ir&type=ws#@vpnstorefast`
 ss://TELEGRAM-NUFiLTER-5ff4cf4ec67e@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=5.nuf-telegram.ir&type=ws#@vpnstorefast`
-vless://b077fb58-0b18-43a2-b2e9-dfe2a6b464db@www.speedtest.net:2087?encryption=none&security=tls&sni=smart.trainofy.info&alpn=h2&fp=chrome&type=grpc#Server#Shadmanegi+Unlimited`
-ss://b077fb58-0b18-43a2-b2e9-dfe2a6b464db@www.speedtest.net:2087?encryption=none&security=tls&sni=smart.trainofy.info&alpn=h2&fp=chrome&type=grpc#Server#Shadmanegi+Unlimited`
-vless://tel::v2rayng_76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#%F0%9F%86%94v2rayng_76
-vless://tel::v2rayng_76@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#%F0%9F%86%94v2rayng_76
-ss://tel::v2rayng_76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#%F0%9F%86%94v2rayng_76
-ss://tel::v2rayng_76@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#%F0%9F%86%94v2rayng_76

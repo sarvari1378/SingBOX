@@ -2,9 +2,3 @@ vless://6be69293-aa6e-490b-b584-fd541075a256@151.101.64.155:80?path=%2Ftelegram-
 vless://7d5214a2-1810-4a5b-ac22-5ca4ee999b09@151.101.64.155:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=none&encryption=none&host=2.wexer-rih.ir&type=ws#WS2%20%7C%20%40HajmVPN`
 ss://6be69293-aa6e-490b-b584-fd541075a256@151.101.64.155:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=none&encryption=none&host=1.wexer-rih.ir&type=ws#WS1%20%7C%20%40HajmVPN`
 ss://7d5214a2-1810-4a5b-ac22-5ca4ee999b09@151.101.64.155:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=none&encryption=none&host=2.wexer-rih.ir&type=ws#WS2%20%7C%20%40HajmVPN`
-vless://95701d09-280b-478f-9812-ae2947cc1b1e@5.78.53.184:443?security=&type=tcp&encryption=noneShadmanegi+Unlimited`
-ss://95701d09-280b-478f-9812-ae2947cc1b1e@5.78.53.184:443?security=&type=tcp&encryption=noneShadmanegi+Unlimited`
-vless://tel:::v2rayng_76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#%F0%9F%86%94v2rayng_76
-vless://tel:::v2rayng_76@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#%F0%9F%86%94v2rayng_76
-ss://tel:::v2rayng_76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#%F0%9F%86%94v2rayng_76
-ss://tel:::v2rayng_76@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#%F0%9F%86%94v2rayng_76

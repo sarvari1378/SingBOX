@@ -15,6 +15,6 @@ ParhamGhasemi, 5, @Chemical1373
 ParhamGhasemi-2, 5, @Chemical1373
 Mehti, 2, @Mehti94
 Parisa, 9, @Pkh7823
-Parisa-2, 0, @Pkh7823
+Parisa-2, 30, @Pkh7823
 AliZarei, -14
 Malezasmj, 13, @maleka_smj

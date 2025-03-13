@@ -1,3 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#%F0%9F%92%9C%20%40mobilesignal```
 vless://4375e80e-d06f-4af9-bfec-afbfd63a1584@151.101.64.155:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=none&encryption=none&host=1.wexer-rih.ir&type=ws#WS1%20%7C%20%40HajmVPN`
 vless://55f5accf-0aef-427f-a819-e59b4c79293a@151.101.64.155:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=none&encryption=none&host=2.wexer-rih.ir&type=ws#WS2%20%7C%20%40HajmVPN`
 ss://4375e80e-d06f-4af9-bfec-afbfd63a1584@151.101.64.155:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=none&encryption=none&host=1.wexer-rih.ir&type=ws#WS1%20%7C%20%40HajmVPN`

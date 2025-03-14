@@ -1,6 +1,7 @@
-vless://3e26278c-0015-477b-ece4-18d0db5eb792@roz2.tradehub22.com:2095?security=none&encryption=none&host=Speedtest.net&headerType=http&type=tcp#1403|12|24_20:07:06
+vless://772601ad-4d56-4996-b6a2-a909b51b8ec8@www.speedtest.net:80?path=%2F&security=none&encryption=none&host=join-----spdnet-----vip.mispd.ir&type=httpupgrade#1403|12|24_22:03:19
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=%2FLwW5jwrnymnOdqki%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#1403|12|24_20:07:06
 vless://3e26278c-0015-477b-ece4-18d0db5eb792@roz2.tradehub22.com:2095?security=none&encryption=none&host=Speedtest.net&headerType=http&type=tcp#1403|12|24_12:03:57
-vless://3e26278c-0015-477b-ece4-18d0db5eb792@roz2.tradehub22.com:2095?security=none&encryption=none&host=Speedtest.net&headerType=http&type=tcp#1403|12|24_12:02:53
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=%2FLwW5jwrnymnOdqki%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#1403|12|24_12:02:53
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.193.213.20:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#1403|12|23_22:12:57
 vless://Parsashonam-191@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#1403|12|23_20:09:23
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=%2FLwW5jwrnymnOdqki%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#1403|12|23_11:52:20
@@ -12,4 +13,3 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@JOIN.MOSIV2.fastly80-3.hosting-ip.c
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2FTelegram----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&encryption=none&host=Join----VPNCUSTOMIZE---VPNCUSTOMIZE.IR&type=ws#1403|12|21_22:09:26
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2FTelegram----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&encryption=none&host=Join----VPNCUSTOMIZE---VPNCUSTOMIZE.IR&type=ws#1403|12|21_20:05:00
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=%2FLwW5jwrnymnOdqki%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#1403|12|21_12:10:24
-vless://TELEGRAM-NUFiLTER-1aaac4c1221a@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=1.nuf-telegram.ir&type=ws#1403|12|21_12:08:29

@@ -1,4 +1,4 @@
-vless://772601ad-4d56-4996-b6a2-a909b51b8ec8@www.speedtest.net:80?path=%2F&security=none&encryption=none&host=join-----spdnet-----vip.mispd.ir&type=httpupgrade#1403|12|24_22:03:19
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@188.114.97.155:80?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=showmo.wfft.ir&type=ws#1403|12|24_22:03:19
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=%2FLwW5jwrnymnOdqki%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#1403|12|24_20:07:06
 vless://3e26278c-0015-477b-ece4-18d0db5eb792@roz2.tradehub22.com:2095?security=none&encryption=none&host=Speedtest.net&headerType=http&type=tcp#1403|12|24_12:03:57
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=%2FLwW5jwrnymnOdqki%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#1403|12|24_12:02:53

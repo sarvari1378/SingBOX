@@ -1,5 +1,6 @@
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@188.114.97.155:80?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=showmo.wfft.ir&type=ws#1403|12|25_11:39:22
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.21.55.115:8880?mode=gun&security=none&encryption=none&type=grpc#1403|12|25_11:38:21
+vless://1165bd97-ed5b-46fd-a90e-e30826703193@151.101.64.155:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=none&encryption=none&host=1.wexer-rih.ir&type=ws#1403|12|25_19:58:48
+vless://69470c8f-f07d-43bc-b7be-60e27bf7c396@151.101.64.155:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=none&encryption=none&host=2.wexer-rih.ir&type=ws#1403|12|25_11:39:22
+vless://69470c8f-f07d-43bc-b7be-60e27bf7c396@151.101.64.155:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=none&encryption=none&host=2.wexer-rih.ir&type=ws#1403|12|25_11:38:21
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@188.114.97.155:80?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=showmo.wfft.ir&type=ws#1403|12|24_22:03:19
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=%2FLwW5jwrnymnOdqki%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#1403|12|24_20:07:06
 vless://3e26278c-0015-477b-ece4-18d0db5eb792@roz2.tradehub22.com:2095?security=none&encryption=none&host=Speedtest.net&headerType=http&type=tcp#1403|12|24_12:03:57
@@ -12,4 +13,3 @@ vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@172.67.70.123:2052?path=%2FMOSiV2--
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2FTelegram----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&encryption=none&host=Join-VPNCUSTOMIZE---VPNCUSTOMIZE.IR&type=ws#1403|12|22_20:07:47
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@JOIN.MOSIV2.fastly80-3.hosting-ip.com:80?path=%2FMOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2%3Fed%3D2560&security=none&encryption=none&host=join---bede---mosiv2.ir&type=ws#1403|12|22_12:17:05
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@JOIN.MOSIV2.fastly80-3.hosting-ip.com:80?path=%2FMOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2%3Fed%3D2560&security=none&encryption=none&host=join---bede---mosiv2.ir&type=ws#1403|12|22_12:15:36
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2FTelegram----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&encryption=none&host=Join----VPNCUSTOMIZE---VPNCUSTOMIZE.IR&type=ws#1403|12|21_22:09:26

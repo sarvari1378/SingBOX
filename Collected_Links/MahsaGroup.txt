@@ -1,3 +1,9 @@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.35.109:8880?mode=gun&security=none&encryption=none&type=grpc#%40one_shop_official
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.201.91.167:8880?mode=gun&security=none&encryption=none&type=grpc#%40one_shop_official
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@Free3.plantgreen.ir:8880?mode=gun&security=none&encryption=none&type=grpc#%40one_shop_official`
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.35.109:8880?mode=gun&security=none&encryption=none&type=grpc#%40one_shop_official
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.201.91.167:8880?mode=gun&security=none&encryption=none&type=grpc#%40one_shop_official
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@Free3.plantgreen.ir:8880?mode=gun&security=none&encryption=none&type=grpc#%40one_shop_official`
 vless://95701d09-280b-478f-9812-ae2947cc1b1e@91.107.246.46:443?security=&type=tcp&encryption=none#Shadmanegi+Unlimited`
 ss://95701d09-280b-478f-9812-ae2947cc1b1e@91.107.246.46:443?security=&type=tcp&encryption=none#Shadmanegi+Unlimited`
 vless://566d6ce4-247b-4eaf-9316-58b35644d4bb@whatismyipaddress.com:2096?encryption=none&security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s31.elitemizban.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s31.elitemizban.ir#%40Daily_Configs

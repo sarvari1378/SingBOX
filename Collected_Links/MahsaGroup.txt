@@ -19,5 +19,3 @@ ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2053?encryption=none
 ss://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBEYWlseV9Db25maWdzIiwNCiAgImFkZCI6ICIxMDQuMjEuODAuMSIsDQogICJwb3J0IjogIjIwOTYiLA0KICAiaWQiOiAiYTI5NWVkMTEtMThmOC00YWM0LTgzYjgtYWIyYTdmYWZkZTgyIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ0YXNuaW0udHduMjQuaXIiLA0KICAicGF0aCI6ICIvQE0zSERJTzEiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAidGFzbmltLnR3bjI0LmlyIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 vless://95701d09-280b-478f-9812-ae2947cc1b1e@65.109.179.105:443?security=&type=tcp&encryption=none#Shadmanegi+Unlimited`
 ss://95701d09-280b-478f-9812-ae2947cc1b1e@65.109.179.105:443?security=&type=tcp&encryption=none#Shadmanegi+Unlimited`
-vless://95701d09-280b-478f-9812-ae2947cc1b1e@5.161.144.111:443?security=&type=tcp&encryption=none#Shadmanegi+Unlimited`
-ss://95701d09-280b-478f-9812-ae2947cc1b1e@5.161.144.111:443?security=&type=tcp&encryption=none#Shadmanegi+Unlimited`

@@ -1,2 +1,0 @@
-vless://95701d09-280b-478f-9812-ae2947cc1b1e@65.109.179.105:443?security=&type=tcp&encryption=none#Shadmanegi+Unlimited`
-ss://95701d09-280b-478f-9812-ae2947cc1b1e@65.109.179.105:443?security=&type=tcp&encryption=none#Shadmanegi+Unlimited`

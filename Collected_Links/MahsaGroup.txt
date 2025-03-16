@@ -1,3 +1,7 @@
+vless://95701d09-280b-478f-9812-ae2947cc1b1e@65.109.179.105:443?security=&type=tcp&encryption=none#Shadmanegi+Unlimited`
+ss://95701d09-280b-478f-9812-ae2947cc1b1e@65.109.179.105:443?security=&type=tcp&encryption=none#Shadmanegi+Unlimited`
+vless://95701d09-280b-478f-9812-ae2947cc1b1e@5.161.144.111:443?security=&type=tcp&encryption=none#Shadmanegi+Unlimited`
+ss://95701d09-280b-478f-9812-ae2947cc1b1e@5.161.144.111:443?security=&type=tcp&encryption=none#Shadmanegi+Unlimited`
 vless://f2bcfdd0-71f7-46ba-96fb-a859cd356d34@s12.nimhub.ir:2053?encryption=none&security=none&type=tcp&headerType=http&host=myket.ir%2Ctamin.ir%2Crubika.ir%2Cvarzesh3.com%2Ccafebazaar.ir#%40Daily_Configs
 vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@www.speedtest.net:443?encryption=none&security=tls&sni=pHOTOgrApHipiCTureaI.IR&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=photographipictureai.ir&path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560#%40Daily_Configs
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.49.114:443?encryption=none&security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#%40Daily_Configs

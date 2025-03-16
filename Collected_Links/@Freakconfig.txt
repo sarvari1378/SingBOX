@@ -1,3 +1,7 @@
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@185.146.173.37:2096?path=%2F&security=tls&encryption=none&host=An66Mg2Gf4.MySpDmMeTi.CoM&type=ws&sni=An66Mg2Gf4.MySpDmMeTi.CoM#1403|12|26_21:02:14
+vless://73c732f2-d435-4197-9f33-0d7c1f47d3a9@13.51.241.116:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&sni=zula.ir#1403|12|26_21:02:14
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?path=%2F&security=tls&encryption=none&host=7G6gLgL6fJ.mYsPdMmEtI.cOm&type=ws&sni=7G6gLgL6fJ.mYsPdMmEtI.cOm#1403|12|26_21:02:14
+vless://8d4d81ee-5928-4617-8726-22a47164e766@whatismyipaddress.com:2096?security=tls&encryption=none&host=wwwspeedtestnetwhiteberinsistomd6625996s26.elitemizban.ir&type=ws&sni=wwwspeedtestnetwhiteberinsistomd6625996s26.elitemizban.ir#1403|12|26_21:02:14
 vless://27565e8b-1c00-4a06-9aff-6df4838ce858@91.107.181.182:26528?mode=gun&security=reality&encryption=none&pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&fp=chrome&type=grpc&sni=yahoo.com&sid=8f9d4d9a#1403|12|25_21:31:41
 vless://0cfebfbf-5dfb-430f-918f-6805c9f38b13@185.234.247.110:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#1403|12|25_21:31:41
 vless://f2bcfdd0-71f7-46ba-96fb-a859cd356d34@85.133.218.156:2053?security=none&encryption=none&host=myket.ir%2C%20tamin.ir%2C%20rubika.ir%2C%20varzesh3.com%2C%20cafebazaar.ir&headerType=http&type=tcp#1403|12|25_21:31:41
@@ -9,7 +13,3 @@ vless://f2bcfdd0-71f7-46ba-96fb-a859cd356d34@85.133.218.156:2053?security=none&e
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@Free2.plantgreen.ir:8880?mode=gun&security=none&encryption=none&type=grpc#1403|12|23_21:03:57
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@Free1.plantgreen.ir:8880?mode=gun&security=none&encryption=none&type=grpc#1403|12|22_21:54:15
 vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@freakconfigm.plantgreen.ir:443?security=tls&alpn=h2&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=mods.lnmarketplace.net#1403|12|22_21:00:53
-vless://97e22700-e00a-4fc5-8026-8386a4b6b0b8@freakconfigs1.plantgreen.ir:443?mode=packet-up&path=%2F%40ln2ray&security=tls&alpn=h2&encryption=none&host=media.sanaiegh.ir&type=xhttp&sni=media.sanaiegh.ir#1403|12|22_14:39:45
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@freakconfigm.plantgreen.ir:8880?mode=gun&security=none&encryption=none&type=grpc#1403|12|22_14:21:05
-vless://97e22700-e00a-4fc5-8026-8386a4b6b0b8@freakconfig-1.usecharge.ir:443?mode=packet-up&path=%2F%40ln2ray&security=tls&alpn=h2&encryption=none&host=media.sanaiegh.ir&type=xhttp&sni=media.sanaiegh.ir#1403|12|21_21:01:24
-vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS36.usecharge.ir:443?security=tls&alpn=h2&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=mods.lnmarketplace.net#1403|12|20_21:00:15

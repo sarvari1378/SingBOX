@@ -1,3 +1,17 @@
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.49.114:443?encryption=none&security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#%40Daily_Configs
+vless://e7f12b15-36cb-4c5d-99bb-0384e45445ae@151.101.3.8:80?encryption=none&security=none&type=ws&host=rohammmmmvistav2.ir&path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist#%40Daily_Configs
+vless://d49b7b53-6697-4165-afb6-dce05a65a3c1@cld1.niassa.ir:443?encryption=none&security=reality&sni=eset.com&fp=chrome&pbk=Xy0AQpRkBFWIWzRiG1czWTXok98URMhRt1xBE7jiTWw&sid=2f&type=tcp&headerType=none#%40Daily_Configs
+vless://ca9ac6fc-7269-42c9-8e48-18d8f0449750@138.199.201.254:3030?encryption=none&security=reality&sni=refersion.com&fp=chrome&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&type=tcp&headerType=none#%40Daily_Configs
+vless://95701d09-280b-478f-9812-ae2947cc1b1e@65.109.179.105:443?encryption=none&security=none&type=tcp&headerType=none#%40Daily_Configs
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2053?encryption=none&security=tls&sni=D031tAp7Jq.MySpDmMeTi.CoM&alpn=h2&type=grpc#%40Daily_Configs
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBEYWlseV9Db25maWdzIiwNCiAgImFkZCI6ICIxMDQuMjEuODAuMSIsDQogICJwb3J0IjogIjIwOTYiLA0KICAiaWQiOiAiYTI5NWVkMTEtMThmOC00YWM0LTgzYjgtYWIyYTdmYWZkZTgyIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ0YXNuaW0udHduMjQuaXIiLA0KICAicGF0aCI6ICIvQE0zSERJTzEiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAidGFzbmltLnR3bjI0LmlyIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
+ss://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.49.114:443?encryption=none&security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#%40Daily_Configs
+ss://e7f12b15-36cb-4c5d-99bb-0384e45445ae@151.101.3.8:80?encryption=none&security=none&type=ws&host=rohammmmmvistav2.ir&path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist#%40Daily_Configs
+ss://d49b7b53-6697-4165-afb6-dce05a65a3c1@cld1.niassa.ir:443?encryption=none&security=reality&sni=eset.com&fp=chrome&pbk=Xy0AQpRkBFWIWzRiG1czWTXok98URMhRt1xBE7jiTWw&sid=2f&type=tcp&headerType=none#%40Daily_Configs
+ss://ca9ac6fc-7269-42c9-8e48-18d8f0449750@138.199.201.254:3030?encryption=none&security=reality&sni=refersion.com&fp=chrome&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&type=tcp&headerType=none#%40Daily_Configs
+ss://95701d09-280b-478f-9812-ae2947cc1b1e@65.109.179.105:443?encryption=none&security=none&type=tcp&headerType=none#%40Daily_Configs
+ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2053?encryption=none&security=tls&sni=D031tAp7Jq.MySpDmMeTi.CoM&alpn=h2&type=grpc#%40Daily_Configs
+ss://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBEYWlseV9Db25maWdzIiwNCiAgImFkZCI6ICIxMDQuMjEuODAuMSIsDQogICJwb3J0IjogIjIwOTYiLA0KICAiaWQiOiAiYTI5NWVkMTEtMThmOC00YWM0LTgzYjgtYWIyYTdmYWZkZTgyIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ0YXNuaW0udHduMjQuaXIiLA0KICAicGF0aCI6ICIvQE0zSERJTzEiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAidGFzbmltLnR3bjI0LmlyIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 vless://95701d09-280b-478f-9812-ae2947cc1b1e@65.109.179.105:443?security=&type=tcp&encryption=none#Shadmanegi+Unlimited`
 ss://95701d09-280b-478f-9812-ae2947cc1b1e@65.109.179.105:443?security=&type=tcp&encryption=none#Shadmanegi+Unlimited`
 vless://95701d09-280b-478f-9812-ae2947cc1b1e@5.161.144.111:443?security=&type=tcp&encryption=none#Shadmanegi+Unlimited`
@@ -34,7 +48,3 @@ ss://3a857328-3b53-4333-85b2-a6f2aa22ceb7@23.88.62.209:2089?security=reality&enc
 ss://ca6eaaa9-d470-4173-b46b-4e912e20b9e0@FASTSHOVPNtelegram.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=FastShoVpn.TelegramChannel.com&type=ws#%40Daily_Configs
 ss://tel%3A%3A%3A%3Av2rayng_76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#%40Daily_Configs
 ss://f2bcfdd0-71f7-46ba-96fb-a859cd356d34@s12.nimhub.ir:2053?security=none&encryption=none&host=myket.ir%2Ctamin.ir%2Crubika.ir%2Cvarzesh3.com%2Ccafebazaar.ir&headerType=http&type=tcp#%40Daily_Configs`
-vless://tel::::v2rayng_76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#%F0%9F%86%94v2rayng_76
-vless://tel::::v2rayng_76@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#%F0%9F%86%94v2rayng_76
-ss://tel::::v2rayng_76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#%F0%9F%86%94v2rayng_76
-ss://tel::::v2rayng_76@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#%F0%9F%86%94v2rayng_76

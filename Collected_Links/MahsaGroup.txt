@@ -22,10 +22,3 @@ ss://tel%3A%3A%3A%3A%3Av2rayng_76@upgrade.bia2bax.shop:8080?mode=gun&security=no
 ss://eyJhZGQiOiI1Ny4xMjkuMjQuMTQxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQERhaWx5X0NvbmZpZ3MiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 ss://eyJhZGQiOiI1MS43Ny4yMC4xMzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InRpbGViYW5pLmNvbSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJARGFpbHlfQ29uZmlncyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ0aWxlYmFuaS5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 ss://95701d09-280b-478f-9812-ae2947cc1b1e@65.109.179.105:443?security=none&encryption=none&headerType=none&type=tcp#%40Daily_Configs`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPREE1WWpGaA==@de1.opensocks.site:8388#%40mobilesignal-Shadowsocks%20DE%2001_exp31Mar25
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPREEyTUdaaA==@at1.opensocks.site:8388#%40mobilesignal-Shadowsocks%20AT%2001_exp31Mar25
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpabVExTnpGag==@fr1.opensocks.site:8388#%40mobilesignal-Shadowsocks%20FR%2001_exp31Mar25
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPRE13WldJeg==@is3.opensocks.site:8388#%40mobilesignal-Shadowsocks%20MD%2003_exp31Mar25
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpObU5sT0RZNA==@uk2.opensocks.site:8388#%40mobilesignal-Shadowsocks%20UK%2002_exp31Mar25```
-ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ@45.89.52.66:9001#%F0%9F%87%B9%F0%9F%87%B7%20hamedp71%20`
-ss://YWVzLTI1Ni1jZmI6VlA4WlB4UXBKdFpSQ2pmWg@80.92.204.106:9080#🇩🇪hamedp71`

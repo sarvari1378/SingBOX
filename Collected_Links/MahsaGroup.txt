@@ -35,5 +35,3 @@ ss://19f7214d-17f5-43d0-ee0f-b17cd5fc0376@zmaoz.faculty.ucdavis.edu:80?encryptio
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40one_shop_official
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40one_shop_official
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40one_shop_official`
-vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@soccer120.info:2087?encryption=none&flow=xtls-rprx-vision-udp443&security=tls&sni=Tp288PlM6o.RaMaZaN2.iNfO&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=Tp288PlM6o.RaMaZaN2.iNfO#Shadmanegi+Unlimited`
-ss://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@soccer120.info:2087?encryption=none&flow=xtls-rprx-vision-udp443&security=tls&sni=Tp288PlM6o.RaMaZaN2.iNfO&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=Tp288PlM6o.RaMaZaN2.iNfO#Shadmanegi+Unlimited`

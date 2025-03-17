@@ -1,3 +1,5 @@
+vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@soccer120.info:2087?encryption=none&flow=xtls-rprx-vision-udp443&security=tls&sni=Tp288PlM6o.RaMaZaN2.iNfO&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=Tp288PlM6o.RaMaZaN2.iNfO#Shadmanegi+Unlimited`
+ss://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@soccer120.info:2087?encryption=none&flow=xtls-rprx-vision-udp443&security=tls&sni=Tp288PlM6o.RaMaZaN2.iNfO&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=Tp288PlM6o.RaMaZaN2.iNfO#Shadmanegi+Unlimited`
 vless://tel:::::v2rayng_76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#%F0%9F%86%94v2rayng_76
 vless://tel:::::v2rayng_76@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#%F0%9F%86%94v2rayng_76
 ss://tel:::::v2rayng_76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#%F0%9F%86%94v2rayng_76

@@ -11,8 +11,8 @@ HomaKhademi, 3, @Arefehkamyab
 Mahsa, -2, +989398651525
 PedramHS, 27, @aghapedi8657
 MahsaMoradi, 5, @l_Mhs_l
-ParhamGhasemi, 1, @Chemical1373
-ParhamGhasemi-2, 1, @Chemical1373
+ParhamGhasemi, 31, @Chemical1373
+ParhamGhasemi-2, 31, @Chemical1373
 Mehti, -2, @Mehti94
 Parisa, 5, @Pkh7823
 Parisa-2, 26, @Pkh7823

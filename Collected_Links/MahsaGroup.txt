@@ -1,3 +1,9 @@
+vless://a84a152f-e108-42a0-bc49-d4f50c5f4d0b@zula.ir:8443?type=httpupgrade&path=%2F%40shopcar%3Fed%3D2048&host=shoper.shawarmabestz.ir&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=shoper.shawarmabestz.ir#%E2%9A%A1%EF%B8%8F-test
+ss://a84a152f-e108-42a0-bc49-d4f50c5f4d0b@zula.ir:8443?type=httpupgrade&path=%2F%40shopcar%3Fed%3D2048&host=shoper.shawarmabestz.ir&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=shoper.shawarmabestz.ir#%E2%9A%A1%EF%B8%8F-test
+vless://e1ce065b-d0f8-4fe9-bd16-1e039b09a7d7@151.101.64.155:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=none&encryption=none&host=1.wexer-rih.ir&type=ws#WS1%20%7C%20%40HajmVPN`
+vless://259388c2-31be-4184-b8c1-d79e7a6fe2b5@151.101.64.155:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=none&encryption=none&host=2.wexer-rih.ir&type=ws#WS2%20%7C%20%40HajmVPN`
+ss://e1ce065b-d0f8-4fe9-bd16-1e039b09a7d7@151.101.64.155:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=none&encryption=none&host=1.wexer-rih.ir&type=ws#WS1%20%7C%20%40HajmVPN`
+ss://259388c2-31be-4184-b8c1-d79e7a6fe2b5@151.101.64.155:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=none&encryption=none&host=2.wexer-rih.ir&type=ws#WS2%20%7C%20%40HajmVPN`
 vless://tel::::::v2rayng_76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#%F0%9F%86%94v2rayng_76
 vless://tel::::::v2rayng_76@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#%F0%9F%86%94v2rayng_76
 ss://tel::::::v2rayng_76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#%F0%9F%86%94v2rayng_76

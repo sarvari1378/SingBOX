@@ -1,3 +1,4 @@
+vless://V2RAXX--@speedtest.net:80?mode=auto&path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&encryption=none&host=BIG-bang.global.ssl.fastly.net&type=xhttp#1403|12|27_21:46:56
 vless://19f7214d-17f5-43d0-ee0f-b17cd5fc0376@zmaoz.faculty.ucdavis.edu:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#1403|12|27_20:02:46
 vless://V2RAXX--@speedtest.net:80?mode=auto&path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&encryption=none&host=BIG-bang.global.ssl.fastly.net&type=xhttp#1403|12|27_12:13:23
 vless://19f7214d-17f5-43d0-ee0f-b17cd5fc0376@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#1403|12|27_12:12:02
@@ -12,4 +13,3 @@ vless://69470c8f-f07d-43bc-b7be-60e27bf7c396@151.101.64.155:80?path=%2Ftelegram-
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@188.114.97.155:80?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=showmo.wfft.ir&type=ws#1403|12|24_22:03:19
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=%2FLwW5jwrnymnOdqki%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#1403|12|24_20:07:06
 vless://3e26278c-0015-477b-ece4-18d0db5eb792@roz2.tradehub22.com:2095?security=none&encryption=none&host=Speedtest.net&headerType=http&type=tcp#1403|12|24_12:03:57
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=%2FLwW5jwrnymnOdqki%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#1403|12|24_12:02:53

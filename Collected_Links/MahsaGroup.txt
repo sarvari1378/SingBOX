@@ -1,3 +1,5 @@
+vless://a84a152f-e108-42a0-bc49-d4f50c5f4d0b@zula.ir:8443?type=httpupgrade&path=%2F%40shopcar%3Fed%3D2048&host=shoper.shawarmabestz.ir&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=shoper.shawarmabestz.ir#%E2%9A%A1%EF%B8%8F-test
+ss://a84a152f-e108-42a0-bc49-d4f50c5f4d0b@zula.ir:8443?type=httpupgrade&path=%2F%40shopcar%3Fed%3D2048&host=shoper.shawarmabestz.ir&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=shoper.shawarmabestz.ir#%E2%9A%A1%EF%B8%8F-test
 vless://d49b7b53-6697-4165-afb6-dce05a65a3c1@91.107.152.229:443?security=reality&encryption=none&pbk=Xy0AQpRkBFWIWzRiG1czWTXok98URMhRt1xBE7jiTWw&headerType=none&fp=chrome&type=tcp&sni=eset.com&sid=2f#%40Daily_Configs`
 ss://d49b7b53-6697-4165-afb6-dce05a65a3c1@91.107.152.229:443?security=reality&encryption=none&pbk=Xy0AQpRkBFWIWzRiG1czWTXok98URMhRt1xBE7jiTWw&headerType=none&fp=chrome&type=tcp&sni=eset.com&sid=2f#%40Daily_Configs`
 vless://tel::::::v2rayng_76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#%F0%9F%86%94v2rayng_76

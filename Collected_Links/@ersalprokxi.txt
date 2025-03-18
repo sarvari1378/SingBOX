@@ -1,3 +1,4 @@
+vless://8bb790b3-60ac-40a3-b4ee-779b926ebc3b@51.89.226.95:45477?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#1403|12|28_13:30:24
 vless://c3231e14-aca0-43d0-8970-8b4eb2ec3c3f@chopper.lnmarketplace.net:443?security=tls&alpn=h2&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=chopper.lnmarketplace.net#1403|12|28_12:34:12
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638743594865023672.brussels-lmn-dr.info:8880?mode=gun&security=none&encryption=none&type=grpc#1403|12|28_12:34:12
 vless://bbc775e2-3212-4d76-a71c-f253ff8e0417@DailyConfigs.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=FastShoVpn.TelegramChannel.com&type=ws#1403|12|28_12:34:12
@@ -37,4 +38,3 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBEYWlseV9Db25maWdzIiwNCiAgImFkZCI6ICIz
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.40.28:8880?encryption=none&security=none&type=grpc#1403|12|27_20:28:48
 vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@www.speedtest.net:443?encryption=none&security=tls&sni=pHOTOgrApHipiCTureaI.IR&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=photographipictureai.ir&path=%2F3um9NK8jwisKz35E%3Fed%3D2560#1403|12|27_20:28:48
 vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@104.21.1.12:443?encryption=none&security=tls&sni=pHOTOgrApHipiCTureaI.IR&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=photographipictureai.ir&path=%2Ftelegram-mtmvpn-Channel%20%2F%3Fed%3D2560#1403|12|27_20:28:48
-vless://701a7842-79a2-4a48-882b-c563daad99c1@uk.sashabike.ir:2060?encryption=none&security=reality&sni=refersion.com&fp=chrome&pbk=jW_vraWBLfMcIkPp89pEPSbFQn2VM4qtPO4FAoC2chE&sid=629cc26960e47e39&type=grpc&authority=&serviceName=2086vless&mode=gun#1403|12|27_20:28:48

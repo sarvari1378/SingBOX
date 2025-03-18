@@ -1,3 +1,7 @@
+vless://8d4d81ee-5928-4617-8726-22a47164e766@whatismyipaddress.com:2096?security=tls&encryption=none&host=wwwspeedtestnetwhiteberinsistomd6625996s26.elitemizban.ir&type=ws&sni=wwwspeedtestnetwhiteberinsistomd6625996s26.elitemizban.ir#1403|12|28_21:46:02
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.157:8080#1403|12|28_21:46:02
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2087?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=8RgOrEeQ5s.MySpDmMeTi.CoM#1403|12|28_21:46:02
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVlUyN0xxdUFNT2VYbVllU3RJODk3@sto3.g.edgeservers.org:32448#1403|12|28_21:46:02
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVlUyN0xxdUFNT2VYbVllU3RJODk3@sto3.g.edgeservers.org:32448#1403|12|27_21:01:23
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2087?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=8RgOrEeQ5s.MySpDmMeTi.CoM#1403|12|27_21:01:23
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.157:8080#1403|12|27_21:01:23
@@ -9,7 +13,3 @@ vless://27565e8b-1c00-4a06-9aff-6df4838ce858@91.107.181.182:26528?mode=gun&secur
 vless://0cfebfbf-5dfb-430f-918f-6805c9f38b13@185.234.247.110:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#1403|12|25_21:31:41
 vless://f2bcfdd0-71f7-46ba-96fb-a859cd356d34@85.133.218.156:2053?security=none&encryption=none&host=myket.ir%2C%20tamin.ir%2C%20rubika.ir%2C%20varzesh3.com%2C%20cafebazaar.ir&headerType=http&type=tcp#1403|12|25_21:31:41
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@Free4.plantgreen.ir:8880?mode=gun&security=none&encryption=none&type=grpc#1403|12|25_21:00:30
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@Free3.plantgreen.ir:8880?mode=gun&security=none&encryption=none&type=grpc#1403|12|24_21:31:34
-vless://27565e8b-1c00-4a06-9aff-6df4838ce858@91.107.181.182:26528?mode=gun&security=reality&encryption=none&pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&fp=chrome&type=grpc&sni=yahoo.com&sid=8f9d4d9a#1403|12|23_21:29:58
-vless://0cfebfbf-5dfb-430f-918f-6805c9f38b13@185.234.247.110:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#1403|12|23_21:29:58
-vless://f2bcfdd0-71f7-46ba-96fb-a859cd356d34@85.133.218.156:2053?security=none&encryption=none&host=myket.ir%2C%20tamin.ir%2C%20rubika.ir%2C%20varzesh3.com%2C%20cafebazaar.ir&headerType=http&type=tcp#1403|12|23_21:29:58

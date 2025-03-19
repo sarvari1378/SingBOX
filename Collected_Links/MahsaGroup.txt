@@ -1,4 +1,2 @@
 vless://5ddb70da-5498-498d-916c-dbddbe9315f5@154.81.182.74:32040?type=tcp&path=%2F&host=fast.com&headerType=http&security=none#free-vpn
 ss://5ddb70da-5498-498d-916c-dbddbe9315f5@154.81.182.74:32040?type=tcp&path=%2F&host=fast.com&headerType=http&security=none#free-vpn
-vless://5ddb70da-5498-498d-916c-dbddbe9315f5@154.81.182.74:32040?type=tcp&path=%2F&host=fast.com&headerType=http&security=none#free-vpn
-ss://5ddb70da-5498-498d-916c-dbddbe9315f5@154.81.182.74:32040?type=tcp&path=%2F&host=fast.com&headerType=http&security=none#free-vpn

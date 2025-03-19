@@ -1,3 +1,7 @@
+vless://5ddb70da-5498-498d-916c-dbddbe9315f5@154.81.182.74:32040?type=tcp&path=%2F&host=fast.com&headerType=http&security=none#free-vpn
+ss://5ddb70da-5498-498d-916c-dbddbe9315f5@154.81.182.74:32040?type=tcp&path=%2F&host=fast.com&headerType=http&security=none#free-vpn
+vless://d49b7b53-6697-4165-afb6-dce05a65a3c1@91.107.152.229:443?security=reality&encryption=none&pbk=Xy0AQpRkBFWIWzRiG1czWTXok98URMhRt1xBE7jiTWw&headerType=none&fp=chrome&type=tcp&sni=eset.com&sid=2f#%40Daily_Configs`
+ss://d49b7b53-6697-4165-afb6-dce05a65a3c1@91.107.152.229:443?security=reality&encryption=none&pbk=Xy0AQpRkBFWIWzRiG1czWTXok98URMhRt1xBE7jiTWw&headerType=none&fp=chrome&type=tcp&sni=eset.com&sid=2f#%40Daily_Configs`
 vless://4dc0a354-1fc7-433f-9b58-0fd017b0a6b3@185.125.103.139:30693?security=none&encryption=none&headerType=none&type=tcp#%40Daily_Configs
 vless://e2a5b491-38c9-4379-9033-ee275270da5c@188.213.128.116:1011?security=none&encryption=none&headerType=none&type=tcp#%40Daily_Configs
 vless://95701d09-280b-478f-9812-ae2947cc1b1e@65.109.179.105:443?security=none&encryption=none&headerType=none&type=tcp#%40Daily_Configs

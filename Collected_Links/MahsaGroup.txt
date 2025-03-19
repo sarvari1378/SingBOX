@@ -1,3 +1,7 @@
+vless://5ddb70da-5498-498d-916c-dbddbe9315f5@154.81.182.74:32040?type=tcp&path=%2F&host=fast.com&headerType=http&security=none#free-vpn
+ss://5ddb70da-5498-498d-916c-dbddbe9315f5@154.81.182.74:32040?type=tcp&path=%2F&host=fast.com&headerType=http&security=none#free-vpn
+vless://5ddb70da-5498-498d-916c-dbddbe9315f5@154.81.182.74:32040?type=tcp&path=%2F&host=fast.com&headerType=http&security=none#free-vpn
+ss://5ddb70da-5498-498d-916c-dbddbe9315f5@154.81.182.74:32040?type=tcp&path=%2F&host=fast.com&headerType=http&security=none#free-vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPREE1WWpGaA==@de1.opensocks.site:8388#%40mobilesignal-Shadowsocks%20DE%2001_exp31Mar25
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPREEyTUdaaA==@at1.opensocks.site:8388#%40mobilesignal-Shadowsocks%20AT%2001_exp31Mar25
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpabVExTnpGag==@fr1.opensocks.site:8388#%40mobilesignal-Shadowsocks%20FR%2001_exp31Mar25

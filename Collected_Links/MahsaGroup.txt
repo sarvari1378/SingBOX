@@ -1,3 +1,8 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpObU5sT0RZNA%3D%3D@uk2.opensocks.site:8388#%F0%9F%87%A6%20%F0%9F%87%B2%20%F0%9F%87%AE%20%F0%9F%87%B3%20%F0%9F%87%BD%20%F0%9F%87%B7%20%F0%9F%87%B4%E2%B8%99%EA%A0%8B%EA%A0%8B%EA%A0%8B%EA%A0%8B%EA%A0%8B%EA%A0%8B%EA%A0%8B%EA%A0%8B%EA%A0%8B%EA%A0%8B%EA%A0%8B%EA%A0%8B%EA%A0%8B%EA%A0%8B%EA%A0%8B%EA%A0%8B%EA%A0%8B%EA%A0%8B%EA%A0%8B%EA%A0%8B%EA%A0%8B%EA%A0%8B%EA%A0%8B%EA%A0%8B%EA%A0%8B%EA%A0%8B%EA%A0%8B%EA%A0%8B%EA%A0%8B%EA%A0%8B%EA%A0%8B%EA%A0%8B%EA%A0%8B%EA%A0%8B%EA%A0%8B%EA%A0%8B%EA%A0%8B%EA%A0%8B%EA%A0%8B%DB%96%DB%96%DB%96%DB%96%DB%96%DB%96%DB%96%DB%96%DB%96%DB%96%DB%96%DB%96%DB%96%DB%96%DB%96**
+vless://5ddb70da-5498-498d-916c-dbddbe9315f5@154.81.182.74:32040?type=tcp&path=%2F&host=fast.com&headerType=http&security=none#free-vpn
+ss://5ddb70da-5498-498d-916c-dbddbe9315f5@154.81.182.74:32040?type=tcp&path=%2F&host=fast.com&headerType=http&security=none#free-vpn
+vless://d49b7b53-6697-4165-afb6-dce05a65a3c1@91.107.152.229:443?security=reality&encryption=none&pbk=Xy0AQpRkBFWIWzRiG1czWTXok98URMhRt1xBE7jiTWw&headerType=none&fp=chrome&type=tcp&sni=eset.com&sid=2f#%40Daily_Configs`
+ss://d49b7b53-6697-4165-afb6-dce05a65a3c1@91.107.152.229:443?security=reality&encryption=none&pbk=Xy0AQpRkBFWIWzRiG1czWTXok98URMhRt1xBE7jiTWw&headerType=none&fp=chrome&type=tcp&sni=eset.com&sid=2f#%40Daily_Configs`
 vless://5ddb70da-5498-498d-916c-dbddbe9315f5@154.81.182.74:32040?type=tcp&path=%2F&host=fast.com&headerType=http&security=none#free-vpn
 ss://5ddb70da-5498-498d-916c-dbddbe9315f5@154.81.182.74:32040?type=tcp&path=%2F&host=fast.com&headerType=http&security=none#free-vpn
 vless://5ddb70da-5498-498d-916c-dbddbe9315f5@154.81.182.74:32040?type=tcp&path=%2F&host=fast.com&headerType=http&security=none#free-vpn

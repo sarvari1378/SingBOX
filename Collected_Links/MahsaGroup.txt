@@ -38,6 +38,3 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.40.28:8880?mode=gun&security=non
 ss://cbb4251b-9b20-4c42-b09d-df77666bda12@95.217.183.108:2087?mode=gun&security=reality&encryption=none&pbk=6ezm4CcEWfvptuqvMaweZW5jTaX-M4SdZE2r8JkKsQ0&fp=chrome&type=grpc&sni=www.target.com&sid=bc6f0833#%40Daily_Configs
 ss://c3231e14-aca0-43d0-8970-8b4eb2ec3c3f@45.154.98.29:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=chopper.lnmarketplace.net#%40Daily_Configs
 ss://eyJhZGQiOiJiYXphci5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZWUxLnZtZXNzLnNpdGUiLCJpZCI6IklfTG92ZV/wn4e18J+HuF9TU0hNYXhfMDY1ZTBiZSIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyNET05ULUZPUkdFVC1UTy1TVVBQT1JULVNTSE1BWC5ORVQtVE8tS0VFUC1USElTLVNFUlZFUi1BTElWRSIsInBvcnQiOiI0NDMiLCJwcyI6IkBEYWlseV9Db25maWdzIiwic2N5Ijoibm9uZSIsInNuaSI6ImVlMS52bWVzcy5zaXRlIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2bDVXc0NxZndWOTViWmpGS0MyMVl2@147.45.221.105:55515/?outline=1#📺@V2SayFree
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsQnROTjRNRzNONHlUcnJlMXBCTElT@147.45.221.105:55515/?outline=1#📺@V2SayFree
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWmVxSVVDTWNhbzdSZU5qNUI4M1ly@91.84.109.28:49209/?outline=1#🇳🇱

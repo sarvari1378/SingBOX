@@ -1,3 +1,6 @@
+vless://ddb25cbe-e6da-4562-886f-853e4fe657f0@jp3-3.node.crosswall.org:443?encryption=none&security=reality&sni=www.yahoo.co.jp&fp=edge&pbk=rjw62ORAKn8uTo2rgH1iZFbvxhT5ZzH9zAph5ChSgl4&sid=9987b56cdf4c0681&type=grpc&authority=&serviceName=GunService&mode=gun#1404|01|03_01:08:27
+vless://ddb25cbe-e6da-4562-886f-853e4fe657f0@jp3-1.node.crosswall.org:443?encryption=none&security=reality&sni=www.yahoo.co.jp&fp=qq&pbk=rjw62ORAKn8uTo2rgH1iZFbvxhT5ZzH9zAph5ChSgl4&sid=9987b56cdf4c0681&type=grpc&authority=&serviceName=GunService&mode=gun#1404|01|03_01:08:27
+vless://ddb25cbe-e6da-4562-886f-853e4fe657f0@jp3-2.node.crosswall.org:443?encryption=none&security=reality&sni=www.yahoo.co.jp&fp=safari&pbk=rjw62ORAKn8uTo2rgH1iZFbvxhT5ZzH9zAph5ChSgl4&sid=9987b56cdf4c0681&type=grpc&authority=&serviceName=GunService&mode=gun#1404|01|03_01:08:27
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVlUyN0xxdUFNT2VYbVllU3RJODk3@sto3.g.edgeservers.org:32448#1404|01|02_21:45:44
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#1404|01|02_21:45:44
 vless://c4258f50-fe5d-4b6c-9f09-5a193b7d34ef@185.146.173.7:443?encryption=none&security=tls&sni=sinavm_sinavm.sinabigo.ir&type=ws&host=sinavm_sinavm.sinabigo.ir&path=%2F%40ln2ray%3Fed%3D2560#1404|01|02_21:45:44
@@ -10,6 +13,3 @@ vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@103.148.73.170:443?encryption=none&
 vless://8b54a6c7-2544-4a07-9520-b4e5252ba2b7@89.187.28.126:8443?encryption=none&security=tls&sni=ul-japan1.09vpn.com&type=ws&path=%2Fvless%2F#1404|01|02_21:45:44
 vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@203.75.191.224:443?encryption=none&security=reality&sni=assets.adobedtm.com&fp=chrome&pbk=DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw&sid=6ba85179e30d4fc2&type=tcp&headerType=none#1404|01|02_21:45:44
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#1404|01|02_21:45:44
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.141:8080#1404|01|02_21:45:44
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#1404|01|02_21:45:44
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1REQ5NEBtM2hkaW8xXHVEODNDXHVERkFGQ29uZmlnX05vXzQ4NyIsDQogICJhZGQiOiAiaXJhbi5mYXJzb25saW5lMjQuaXIiLA0KICAicG9ydCI6ICI4NDQzIiwNCiAgImlkIjogImQyY2M2NjIzLTg2NGEtNGI1Ny1jMDMwLThmNTMyNjgxODliNCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiaXJhbi5mYXJzb25saW5lMjQuaXIiLA0KICAicGF0aCI6ICIvXHVEODNDXHVERDk0QE0zSERJTzEiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiaXJhbi5mYXJzb25saW5lMjQuaXIiLA0KICAiYWxwbiI6ICJoMixodHRwLzEuMSxoMyIsDQogICJmcCI6ICJjaHJvbWUiDQp9IzE0MDR8MDF8MDJfMjA6NDg6NTM=

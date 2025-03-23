@@ -1,3 +1,5 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#1404|01|03_16:08:38
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.153:2095?path=%2F&security=none&encryption=none&host=redw.pooriam.ir&type=ws#1404|01|03_16:08:38
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.97.3:80?path=%2FSIGrNRCU4ongDlz4%3Fed%3D2560&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#1404|01|03_14:08:09
 vless://a9b84c67-6143-4db3-abc0-d9fa332205cc@185.85.241.196:47769?security=reality&encryption=none&pbk=yZDga7N5QiyK8-kuNn64zQ2vsSJf5enkWJYWtuoLwUQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=71c63039#1404|01|03_14:08:09
 vless://7e5813d0-e5ac-437c-ba4e-2f8c17a84aae@194.49.53.185:443?security=reality&encryption=none&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maviks.eu&sid=21181028b56c8702#1404|01|03_14:08:09
@@ -36,5 +38,3 @@ vless://1ee47949-8e3e-4c92-ff43-d4bd67490237@tify-binex-join.espikernajafi.ir:66
 vless://802a5ca1-e1cf-4d33-8b05-6f7e577663b5@tify-binex-join.espikernajafi.ir:2053?type=ws&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY%3Fed%3D2560&host=&security=none#1404|01|03_01:53:51
 vless://b1335e20-6006-4bc1-a791-8820772903fd@65.109.200.53:23856?security=none&encryption=none&headerType=none&type=tcp#1404|01|03_01:40:03
 vmess://eyJhZGQiOiI0Ni4yOS4xNjYuMjM3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjBjNDljZDE5LTI3NTgtNGQzOC1lNmE4LTExZjJkNjYzNTg2MCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDc1NTUiLCJwcyI6IkBEYWlseV9Db25maWdzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifSMxNDA0fDAxfDAzXzAxOjQwOjAz
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.236.79:8880?mode=gun&security=none&encryption=none&type=grpc#1404|01|03_01:40:03
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#1404|01|03_01:40:03

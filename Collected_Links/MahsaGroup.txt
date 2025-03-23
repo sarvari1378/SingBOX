@@ -1,3 +1,5 @@
+vless://Bargovpn_Bargovpn@bahbah.khoreshtsabzi.ir:20622?security=reality&encryption=none&pbk=vrdUB9TmPzYF1FTCONaU-RBtVGY7rJ9ee11z5NAW-Hw&headerType=&fp=chrome&type=tcp&sni=refersion.com#%40Bargovpn`
+ss://Bargovpn_Bargovpn@bahbah.khoreshtsabzi.ir:20622?security=reality&encryption=none&pbk=vrdUB9TmPzYF1FTCONaU-RBtVGY7rJ9ee11z5NAW-Hw&headerType=&fp=chrome&type=tcp&sni=refersion.com#%40Bargovpn`
 vless://7e5813d0-e5ac-437c-ba4e-2f8c17a84aae@194.127.173.201:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=maviks.eu&fp=chrome&security=reality&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#🇳🇱S2+@mobilesignal
 vless://3a857328-3b53-4333-85b2-a6f2aa22ceb7@23.88.62.209:2089/?type=tcp&encryption=none&sni=refersion.com&fp=chrome&security=reality&pbk=bvEBes1y2n6327dEgJyZTR6Xz_EuyfLdkEX7DxWGFFg&sid=e3c5c005cae07eb8#🇩🇪S1+@mobilesignal
 ss://7e5813d0-e5ac-437c-ba4e-2f8c17a84aae@194.127.173.201:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=maviks.eu&fp=chrome&security=reality&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#🇳🇱S2+@mobilesignal

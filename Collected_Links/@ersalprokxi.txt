@@ -1,3 +1,6 @@
+vless://telegram-ArV2ray@www.speedtest.net:80?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.b.arv2ry.ip-ddns.com.&type=ws#1404|01|05_20:16:41
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.163:2095?path=%2FTM-AZARBAYJAB1TM-AZARBAYJAB1TM-AZARBAYJAB1&security=none&encryption=none&host=redw.pooriam.ir&type=ws#1404|01|05_19:50:37
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#1404|01|05_19:50:37
 vmess://eyJhZGQiOiIxMDQuMTkuMTUwLjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtY2kubXRuLmlyLmNvbS5vcmcubmV0Lm9tMi5tdXNpY2ZhMTIzLmlyLiIsImlkIjoiOTRmMzMyYjAtYzVkMy00NTMxLWExZDYtNmU2MzU4Y2M2YzcyIiwibmV0IjoiaHR0cHVwZ3JhZGUiLCJwYXRoIjoiL2QzZDNMbWx5WVc1b2IzTjBMbU52YlFcdTAwM2RcdTAwM2Q_ZWRcdTAwM2QyNTYwIiwicG9ydCI6IjIwOTUiLCJwcyI6IjMwMNqv24zaryAzOdiq2YjZhdin2YYhINiq2LPYquKAjNix2KfbjNqv2KfZhvCfmLFUaWNrVjJib3RAIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9IzE0MDR8MDF8MDVfMTg6MDY6MDk=
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.60:2095?path=%2F&security=none&encryption=none&host=redw.pooriam.ir&type=ws#1404|01|05_14:53:10
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.99:80?path=Telegram%40WangCai2%2F%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#1404|01|05_14:53:10
@@ -35,6 +38,3 @@ vmess://eyJhZGQiOiI0Ni4yOS4xNjYuMjM3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vmess://eyJhZGQiOiIyMy4xNTguNTYuMTg0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6IkBEYWlseV9Db25maWdzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifSMxNDA0fDAxfDA1XzExOjI0OjQy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.188.124:8880?mode=gun&security=none&encryption=none&type=grpc#1404|01|05_11:24:42
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.35:8880?mode=gun&security=none&encryption=none&type=grpc#1404|01|05_11:24:42
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.39:8880?mode=gun&security=none&encryption=none&type=grpc#1404|01|05_11:24:42
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.38:8880?mode=gun&security=none&encryption=none&type=grpc#1404|01|05_11:24:42
-vless://v2rayng__76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#1404|01|05_11:24:42

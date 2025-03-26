@@ -20,6 +20,3 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.174.174:8880?encryption=none&sec
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.25:8880?encryption=none&security=none&type=grpc#%40Daily_Configs
 ss://a41c5712-9ee8-4199-bf94-207521f3c304@104.19.223.79:2096?encryption=none&security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s33.elitemizban.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s33.elitemizban.ir&path=%2F#%40Daily_Configs
 ss://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBEYWlseV9Db25maWdzIiwNCiAgImFkZCI6ICJmODQ5NGYuYzMyZC0xNWIyLWYwMjcuc2JzIiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiZGZjNjQzM2YtNDhiMi00MjI2LThjNTEtM2UwYzZjZjFiMGY2IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJzZzA0cy5jMzJkLTE1YjItZjAyNy5zYnMiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40one_shop_official
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:443#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40one_shop_official
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40one_shop_official`

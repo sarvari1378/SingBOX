@@ -7,5 +7,3 @@ ss://5e1306ff-3ffa-4166-89ab-1a06ff42eca6@www.speedtest.net:443?path=%2FTelegram
 vless://b78fb3f5-e6a9-4e00-859f-3a886b19b394@mw2.niassa.ir:443?security=reality&encryption=none&pbk=3Yzz5Unz5elPLlaQkzgBxirSUbvIRbg9XlJ1Vruc4RI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=eset.com&sid=8819#%F0%9F%87%A9%F0%9F%87%AAhttps%3A%2F%2Ft.me%2Fserver_vip_pubg`
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#%F0%9F%87%BA%F0%9F%87%B8https%3A%2F%2Ft.me%2Fserver_vip_pubg
 ss://b78fb3f5-e6a9-4e00-859f-3a886b19b394@mw2.niassa.ir:443?security=reality&encryption=none&pbk=3Yzz5Unz5elPLlaQkzgBxirSUbvIRbg9XlJ1Vruc4RI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=eset.com&sid=8819#%F0%9F%87%A9%F0%9F%87%AAhttps%3A%2F%2Ft.me%2Fserver_vip_pubg`
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?security=tls&sni=UoCmUcLi11.rIpLeToOrY.InFo&fp=chrome&type=ws&host=UoCmUcLi11.rIpLeToOrY.InFo&encryption=none#Shadmanegi+Unlimited`
-ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?security=tls&sni=UoCmUcLi11.rIpLeToOrY.InFo&fp=chrome&type=ws&host=UoCmUcLi11.rIpLeToOrY.InFo&encryption=none#Shadmanegi+Unlimited`

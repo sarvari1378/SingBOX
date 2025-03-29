@@ -1,3 +1,5 @@
+https://t.me/daily_configs/1762?single)**
+https://github.com/mahsanet/NikaNG/releases/download/v1.8.38/NikaNG_1.8.38_universal-signed.apk)
 https://github.com/KaringX/karing/releases/download/v1.1.1.584/karing_1.1.1.584_android_arm64-v8a.apk)
 https://play.google.com/store/apps/details?id=com.MahsaNet.MahsaNG)
 https://play.google.com/store/apps/details?id=app.hiddify.com)
@@ -20,4 +22,3 @@ https://apps.apple.com/us/app/streisand/id6450534064)
 https://apps.apple.com/us/app/foxray/id6448898396)
 https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690)
 https://github.com/2dust/v2rayN/releases)
-https://raw.githubusercontent.com/sarvari1378/GPTscripts/main/SUB/BackUp-c7bc90

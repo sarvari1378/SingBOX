@@ -1,19 +1,19 @@
-VIP, 672
-Hesari, 4, @Sweet_life22
-PedramMinai, 27, @books_love_life
-Moshaverinia, 590
-Mojtabakamyab, 7, @Arefehkamyab
-Behnaz, 12, +989157380448
-PariaGhasemi, 14, @Paria_ghasemi
-AtieKamyab, 26, @Arefehkamyab
-Amirparnan, 26, @Arefehkamyab
-HomaKhademi, -11, @Arefehkamyab
-PedramHS, 13, @aghapedi8657
-MahsaMoradi, 22, @l_Mhs_l
-ParhamGhasemi, 17, @Chemical1373
-ParhamGhasemi-2, 17, @Chemical1373
-Mehti, -16, @Mehti94
-Parisa, -9, @Pkh7823
-Parisa-2, 12, @Pkh7823
-AliZarei, -32
-Malezasmj, -5, @maleka_smj
+VIP, 671
+Hesari, 3, @Sweet_life22
+PedramMinai, 26, @books_love_life
+Moshaverinia, 589
+Mojtabakamyab, 6, @Arefehkamyab
+Behnaz, 11, +989157380448
+PariaGhasemi, 13, @Paria_ghasemi
+AtieKamyab, 25, @Arefehkamyab
+Amirparnan, 25, @Arefehkamyab
+HomaKhademi, -12, @Arefehkamyab
+PedramHS, 12, @aghapedi8657
+MahsaMoradi, 21, @l_Mhs_l
+ParhamGhasemi, 16, @Chemical1373
+ParhamGhasemi-2, 16, @Chemical1373
+Mehti, -17, @Mehti94
+Parisa, -10, @Pkh7823
+Parisa-2, 11, @Pkh7823
+AliZarei, -33
+Malezasmj, -6, @maleka_smj

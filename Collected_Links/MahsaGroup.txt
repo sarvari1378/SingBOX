@@ -1,3 +1,5 @@
+vless://eadc7e51-2852-5d62-8c0e-078ab5d34661@94.131.98.104:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#%40Config4Free%20%7C%20%F0%9F%87%B8%F0%9F%87%AA`
+ss://eadc7e51-2852-5d62-8c0e-078ab5d34661@94.131.98.104:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#%40Config4Free%20%7C%20%F0%9F%87%B8%F0%9F%87%AA`
 vless://c804d197-b78f-4114-8f5e-12fb97e95dd8@207.154.224.68:54280?mode=gun&security=reality&encryption=none&pbk=ZRmfE4xJHk1EI5WTAoOPv97CS95jqOKz25zs-CvMA18&fp=chrome&spx=%2F&type=grpc&sni=grizzly.viraticket.ir&sid=d0f89f#%40GrizzlyVpn%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7`
 ss://c804d197-b78f-4114-8f5e-12fb97e95dd8@207.154.224.68:54280?mode=gun&security=reality&encryption=none&pbk=ZRmfE4xJHk1EI5WTAoOPv97CS95jqOKz25zs-CvMA18&fp=chrome&spx=%2F&type=grpc&sni=grizzly.viraticket.ir&sid=d0f89f#%40GrizzlyVpn%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7`
 vless://7c317161-5cf8-4cbc-811a-d1297c41bb23@84.8.147.131:443?security=tls&alpn=h2&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=YAPC-1.afshin.ir#%40Daily_Configs

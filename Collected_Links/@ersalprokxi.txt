@@ -1,3 +1,4 @@
+vmess://eyJhZGQiOiIxMDQuMTkuMTUwLjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtY2kubXRuLmlyLmNvbS5vcmcubmV0Lm9tMi5tdXNpY2ZhMTIzLmlyLiIsImlkIjoiOTRmMzMyYjAtYzVkMy00NTMxLWExZDYtNmU2MzU4Y2M2YzcyIiwibmV0IjoiaHR0cHVwZ3JhZGUiLCJwYXRoIjoiL2QzZDNMbWx5WVc1b2IzTjBMbU52YlFcdTAwM2RcdTAwM2Q_ZWRcdTAwM2QyNTYwIiwicG9ydCI6IjIwOTUiLCJwcyI6IjMwMNqv24zaryAzOdiq2YjZhdin2YYhINiq2LPYquKAjNix2KfbjNqv2KfZhvCfpKlUaWNrVjJib3RAIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9IzE0MDR8MDF8MTJfMTY6MzA6MDg=
 vmess://eyJhZGQiOiJnMi1kdWJhaS5zcGVlZG9tYXN0ZXIubmV0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiIiLCJpZCI6IjM3ODkzMTgxLWY1M2UtNDQ3Ni05OGRmLThiMDVhZDQ1NzA1NyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTYwMDAiLCJwcyI6Ilvwn4em8J-Hql0gLSBEdWJhaSAtIFRlbGVncmFtIDogQHZwbno0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifSMxNDA0fDAxfDEyXzE0OjM4OjAz
 vless://b5efc2f6-2c03-4d26-8cd4-046755fd9f74@best1.bestshop10.ir:16072?mode=gun&security=none&encryption=none&type=grpc#1404|01|12_14:20:05
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.182:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#1404|01|12_14:20:05
@@ -37,4 +38,3 @@ vless://962e4859-6bbe-40bb-9c2d-7e4e2b86423c@104.19.54.50:8080?path=%2FChannel--
 vless://eadc7e51-2852-5d62-8c0e-078ab5d34661@94.131.98.104:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#1404|01|12_02:03:40
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.33:8880?mode=gun&security=none&encryption=none&type=grpc#1404|01|12_02:03:40
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.39:8880?mode=gun&security=none&encryption=none&type=grpc#1404|01|12_02:03:40
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.212:8880?mode=gun&security=none&encryption=none&type=grpc#1404|01|12_02:03:40

@@ -1,3 +1,4 @@
+vless://2d1b86fe-bc58-4b13-871c-51a5621782bc@207.154.224.68:54280?mode=gun&security=reality&encryption=none&pbk=ZRmfE4xJHk1EI5WTAoOPv97CS95jqOKz25zs-CvMA18&fp=chrome&spx=%2F&type=grpc&sni=grizzly.viraticket.ir&sid=d0f89f#1404|01|12_10:22:26
 vless://1325fc61-3723-4591-90cb-b66d9a079aad@huffingtonpost.es:80?type=xhttp&mode=auto&host=joinbede_unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480&security=none#1404|01|12_06:36:23
 vless://1325fc61-3723-4591-90cb-b66d9a079aad@huffingtonpost.es:80?type=xhttp&mode=auto&host=joinbede_unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480&security=none#1404|01|12_06:36:23
 vless://962e4859-6bbe-40bb-9c2d-7e4e2b86423c@104.19.54.50:8080?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=VPNCUSTOMIZE.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&fp=randomized&type=ws#1404|01|12_03:20:18
@@ -37,4 +38,3 @@ vless://eadc7e51-2852-5d62-8c0e-078ab5d34661@94.131.98.104:8880?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.33:8880?mode=gun&security=none&encryption=none&type=grpc#1404|01|11_22:08:37
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.39:8880?mode=gun&security=none&encryption=none&type=grpc#1404|01|11_22:08:37
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.212:8880?mode=gun&security=none&encryption=none&type=grpc#1404|01|11_22:08:37
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.46:8880?mode=gun&security=none&encryption=none&type=grpc#1404|01|11_22:08:37

@@ -1,3 +1,5 @@
+vless://2d1b86fe-bc58-4b13-871c-51a5621782bc@207.154.224.68:54280?mode=gun&security=reality&encryption=none&pbk=ZRmfE4xJHk1EI5WTAoOPv97CS95jqOKz25zs-CvMA18&fp=chrome&spx=%2F&type=grpc&sni=grizzly.viraticket.ir&sid=d0f89f#%40GrizzlyVpn`
+ss://2d1b86fe-bc58-4b13-871c-51a5621782bc@207.154.224.68:54280?mode=gun&security=reality&encryption=none&pbk=ZRmfE4xJHk1EI5WTAoOPv97CS95jqOKz25zs-CvMA18&fp=chrome&spx=%2F&type=grpc&sni=grizzly.viraticket.ir&sid=d0f89f#%40GrizzlyVpn`
 vless://eadc7e51-2852-5d62-8c0e-078ab5d34661@94.131.98.104:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#%40Daily_Configs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.33:8880?mode=gun&security=none&encryption=none&type=grpc#%40Daily_Configs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.39:8880?mode=gun&security=none&encryption=none&type=grpc#%40Daily_Configs

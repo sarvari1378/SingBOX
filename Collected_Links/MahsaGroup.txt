@@ -1,3 +1,8 @@
+vless://b65b23fb-b0bf-42aa-c603-142899cf72a0@91.107.180.115:8080?security=none&encryption=none&headerType=none&type=tcp#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40one_shop_official`
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%40one_shop_official
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40one_shop_official
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%40one_shop_official
+ss://b65b23fb-b0bf-42aa-c603-142899cf72a0@91.107.180.115:8080?security=none&encryption=none&headerType=none&type=tcp#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40one_shop_official`
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.188.124:8880?mode=gun&security=none&encryption=none&type=grpc#%40Daily_Configs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.104:8880?mode=gun&security=none&encryption=none&type=grpc#%40Daily_Configs
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.148.22:8443?path=%2F&security=tls&encryption=none&host=ZlLgGdEq13.gAgShOw.bLoG&type=ws&sni=ZlLgGdEq13.gAgShOw.bLoG#%40Daily_Configs

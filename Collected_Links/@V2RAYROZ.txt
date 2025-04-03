@@ -1,3 +1,4 @@
+vless://Parsashonam-210@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#1404|01|14_23:05:25
 vless://2ba922c9-9294-457e-abdd-cfe6250330dd@104.19.54.50:8080?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=VPNCUSTOMIZE.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&fp=randomized&type=ws#1404|01|14_20:22:18
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.97.3:80?path=%2FTelegram-%40WedBaZtel-------------wedbazTel------%2F%3Fed&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#1404|01|14_12:21:29
 vless://80c9743a-d7d8-4a10-b28c-16ae5f75a077@tify-binex-join.espikernajafi.ir:6666?mode=gun&security=none&encryption=none&type=grpc&serviceName=%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy#1404|01|14_12:20:23
@@ -12,4 +13,3 @@ vless://V2RAXXX@speedtest.net:80?mode=auto&path=%2FTelegram%2CV2RAXX%2CTelegram%
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.233:80?path=Telegram%40WangCai2%2F%3Fed%3D2560&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#1404|01|11_22:12:25
 vless://8d074e26-1282-42d4-996b-e6463fe292ea@207.154.224.68:54280?mode=gun&security=reality&encryption=none&pbk=ZRmfE4xJHk1EI5WTAoOPv97CS95jqOKz25zs-CvMA18&fp=chrome&spx=%2F&type=grpc&sni=grizzly.viraticket.ir&sid=d0f89f#1404|01|11_20:00:50
 vless://V2RAXX@speedtest.net:80?mode=auto&path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&encryption=none&host=V2RAXX-join.global.ssl.fastly.net&type=xhttp#1404|01|11_12:21:13
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPREEyTUdaaA%3D%3D@at1.opensocks.site:8388#1404|01|11_12:17:22

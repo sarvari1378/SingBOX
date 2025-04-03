@@ -1,3 +1,5 @@
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.97.3:80?path=%2FTelegram-%40WedBaZtel-------------wedbazTel------%2F%3Fed&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#1404|01|14_12:21:29
+vless://80c9743a-d7d8-4a10-b28c-16ae5f75a077@tify-binex-join.espikernajafi.ir:6666?mode=gun&security=none&encryption=none&type=grpc&serviceName=%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy#1404|01|14_12:20:23
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.97.3:80?path=%2FTelegram-%40WedBaZtel-------------wedbazTel------%2F%3Fed&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#1404|01|13_22:10:08
 vless://9893b755-3289-4769-880a-73068e80a89e@104.19.54.50:8080?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=VPNCUSTOMIZE.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&fp=randomized&type=ws#1404|01|13_20:01:27
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.97.3:80?path=%2FSIGrNRCU4ongDlz4%3Fed%3D2560&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#1404|01|13_12:04:10
@@ -11,5 +13,3 @@ vless://8d074e26-1282-42d4-996b-e6463fe292ea@207.154.224.68:54280?mode=gun&secur
 vless://V2RAXX@speedtest.net:80?mode=auto&path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&encryption=none&host=V2RAXX-join.global.ssl.fastly.net&type=xhttp#1404|01|11_12:21:13
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPREEyTUdaaA%3D%3D@at1.opensocks.site:8388#1404|01|11_12:17:22
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.233:80?path=Telegram%40WangCai2%2F%3Fed%3D2560&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#1404|01|10_22:08:58
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638781262651218937.london-shledrc-acad.info:8880?mode=gun&security=none&encryption=none&type=grpc#1404|01|10_20:00:21
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#1404|01|10_12:29:04

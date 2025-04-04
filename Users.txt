@@ -1,5 +1,5 @@
 VIP, 668
-Hesari, 0, @Sweet_life22
+Hesari, 32, @Sweet_life22
 PedramMinai, 23, @books_love_life
 Moshaverinia, 586
 Mojtabakamyab, 3, @Arefehkamyab
@@ -13,7 +13,6 @@ MahsaMoradi, 18, @l_Mhs_l
 ParhamGhasemi, 13, @Chemical1373
 ParhamGhasemi-2, 13, @Chemical1373
 Mehti, -20, @Mehti94
-Parisa, -13, @Pkh7823
 Parisa-2, 8, @Pkh7823
 AliZarei, -36
 Malezasmj, -9, @maleka_smj

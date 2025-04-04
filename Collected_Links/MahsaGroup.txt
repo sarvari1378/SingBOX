@@ -17,10 +17,3 @@ vless://ec1c2edd-0e3c-47cc-9de6-f486bc2b1f6b@cloudflare.com.domain.connect.com.f
 vless://dca3fc4c-444d-4a5a-8c37-5382934d9a46@cloudflare.com.domain.connect.com.fast.com.main.shik-posh.sbs:443?type=tcp&security=none#%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84-%E2%80%8C%20%D8%AD%D8%AA%D9%85%D8%A7%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%E2%9D%A4%EF%B8%8F%20%7C%20%40Config4Free`
 ss://ec1c2edd-0e3c-47cc-9de6-f486bc2b1f6b@cloudflare.com.domain.connect.com.fast.com.main.shik-posh.sbs:8880?type=tcp&security=reality&pbk=jsKBmF3CoxN7WMFkaSYo21EjzFa6PTpVIgKk5BDJ3kA&fp=chrome&sni=stackoverflow.com&sid=1fd23bda8a&spx=%2F#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84-%E2%80%8C%20%D8%AD%D8%AA%D9%85%D8%A7%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%E2%9D%A4%EF%B8%8F%20%7C%20%40Config4Free%E2%80%8C
 ss://dca3fc4c-444d-4a5a-8c37-5382934d9a46@cloudflare.com.domain.connect.com.fast.com.main.shik-posh.sbs:443?type=tcp&security=none#%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84-%E2%80%8C%20%D8%AD%D8%AA%D9%85%D8%A7%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%E2%9D%A4%EF%B8%8F%20%7C%20%40Config4Free`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpycWN5ZmxWcmJ1bzZ4U1hCVFBuYlNk@147.45.60.102:52392/?outline=1#🇪🇪87
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphVEZCV2RsQ01SYmVXYjBtYnZ6U1F1@91.84.111.27:58575/?outline=1#🇳🇱83
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3RGN1RER0cktXUTNxZG5iUXQycE52@147.45.60.102:52392/?outline=1#🇪🇪88
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%40one_shop_official
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40one_shop_official
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%40one_shop_official
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40one_shop_official`

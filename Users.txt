@@ -15,4 +15,4 @@ ParhamGhasemi-2, 12, @Chemical1373
 Mehti, -21, @Mehti94
 Parisa-2, 7, @Pkh7823
 AliZarei, -37
-Malezasmj, -10, @maleka_smj
+Malezasmj, 31, @maleka_smj

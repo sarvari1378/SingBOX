@@ -1,3 +1,5 @@
+vless://49a5ac58-c80d-4816-8f45-f5b1fd6f1eca@tify-binex-join.espikernajafi.ir:6666?type=grpc&serviceName=/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy&authority=&security=none#1404|01|17_22:26:06
+vless://03384056-b93a-49f1-f1d2-08d86c31d0a2@tify-binex-join.espikernajafi.ir:2053?type=ws&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY%3Fed%3D2560&host=&security=none#1404|01|17_22:26:06
 vless://5e1306ff-3ffa-4166-89ab-1a06ff42eca6@www.speedtest.net:443?path=%2FTelegram-XV2ry2%3Fed%3D512&security=tls&encryption=none&host=www.speedtest.net.www.google.com.bing.com.visa.com.tls.htr.ddns-ip.net&type=ws&sni=www.speedtest.net.www.google.com.bing.com.visa.com.tls.htr.ddns-ip.net#1404|01|17_21:43:55
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.35:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#1404|01|17_21:43:55
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.194:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#1404|01|17_21:43:55
@@ -36,5 +38,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.20:8880?encryption=none&sec
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638779006056435872.rasht-drec-abac.info:8880?encryption=none&security=none&type=grpc#1404|01|17_12:48:27
 vless://9fdc6f83-bfbd-40dd-8e4e-1678ee20351c@inthenameofgodfragment.ignorelist.com:443?encryption=none&security=tls&sni=fari7.ati-app.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=ws&host=fari7.ati-app.com&path=%2Fwss#1404|01|17_12:48:27
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.8:8880?encryption=none&security=none&type=grpc#1404|01|17_12:48:27
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.202:8880?encryption=none&security=none&type=grpc#1404|01|17_12:48:27
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.188.124:8880?encryption=none&security=none&type=grpc#1404|01|17_07:24:09

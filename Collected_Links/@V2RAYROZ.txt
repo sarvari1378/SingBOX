@@ -1,4 +1,6 @@
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@188.114.97.155:80?path=%2Ftelegram%3AMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=none&encryption=none&host=showmo.wfft.ir&type=ws#1404|01|19_20:14:33
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#1404|01|19_12:20:38
+vless://bc7dbc36-f3a7-4cc8-9364-eba6e889cee2@188.245.253.147:223?security=reality&encryption=none&pbk=JOKX-kH_SOPrdPG26TdJzO6YSDItrRGXKhtv70Bn81o&headerType=none&fp=chrome&type=tcp&sni=SHOPTOR.SODOGODPING.IR&sid=c7f175a94bd79f8d#1404|01|19_12:18:34
 vless://bdf08f76-6683-4054-b499-8ea0232d1bd7@tify-binex-join.espikernajafi.ir:2053?path=%2Ftelegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560&security=none&encryption=none&type=ws#1404|01|18_22:47:30
 vless://5860e370-9482-49fa-9d08-4989291a405a@95.38.141.6:59069?mode=gun&security=none&encryption=none&type=grpc#1404|01|18_20:14:47
 vless://8dabe69a-0cf2-47d1-bce2-2404bb1d67d5@104.19.150.10:2095?path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560&security=none&encryption=none&host=mci.mtn.ir.com.org.net.om.org.my-digimento0.ir.&type=httpupgrade#1404|01|18_12:13:17
@@ -11,5 +13,3 @@ vless://6d91bc33-2d86-4839-9205-02024ff483c7@162.159.129.11:443?path=%2FTelegram
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.42:8880?mode=gun&security=none&encryption=none&type=grpc#1404|01|16_20:05:26
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@172.64.152.226:80?path=%2FTelegram%40sinavm&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#1404|01|16_12:01:06
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.97.3:80?path=%2FSIGrNRCU4ongDlz4%3Fed&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#1404|01|16_11:59:39
-vless://e207c137-47aa-4f56-b82b-19e3d4ee72a6@51.77.108.99:13004?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#1404|01|15_22:02:46
-vless://3204b4d4-911a-4079-8a8d-9830aaf457e8@104.19.54.50:8080?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=none&encryption=none&host=IPV2RY.www.webdade.com.www.speedtest.net.irna.ir.ips.mdffood.ir.&type=ws#1404|01|15_20:05:07

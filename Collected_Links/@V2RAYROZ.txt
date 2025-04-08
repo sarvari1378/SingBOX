@@ -1,3 +1,4 @@
+vless://85808aed-e4a3-4e7f-ae75-f68cb45d5608@www.speedtest.net:8880?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=VPNCUSTOMIZE.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&fp=randomized&type=ws#1404|01|19_22:05:59
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@188.114.97.155:80?path=%2Ftelegram%3AMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=none&encryption=none&host=showmo.wfft.ir&type=ws#1404|01|19_20:14:33
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#1404|01|19_12:20:38
 vless://bc7dbc36-f3a7-4cc8-9364-eba6e889cee2@188.245.253.147:223?security=reality&encryption=none&pbk=JOKX-kH_SOPrdPG26TdJzO6YSDItrRGXKhtv70Bn81o&headerType=none&fp=chrome&type=tcp&sni=SHOPTOR.SODOGODPING.IR&sid=c7f175a94bd79f8d#1404|01|19_12:18:34
@@ -12,4 +13,3 @@ vmess://eyJhZGQiOiIxMDQuMTkuMTUwLjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vless://6d91bc33-2d86-4839-9205-02024ff483c7@162.159.129.11:443?path=%2FTelegram%40wedbazTel-------------wedbazTel%2F%3D37.1.195.124&security=tls&alpn=http%2F1.1&encryption=none&host=wtestfrtt.requesttest.cloudns.org&fp=random&type=ws&sni=wtestfrtt.requesttest.cloudns.org#1404|01|16_22:10:00
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.42:8880?mode=gun&security=none&encryption=none&type=grpc#1404|01|16_20:05:26
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@172.64.152.226:80?path=%2FTelegram%40sinavm&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#1404|01|16_12:01:06
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.97.3:80?path=%2FSIGrNRCU4ongDlz4%3Fed&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#1404|01|16_11:59:39

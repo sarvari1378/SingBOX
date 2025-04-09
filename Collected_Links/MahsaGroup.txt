@@ -1,3 +1,5 @@
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=TySpSgQg.rIcKtMoUsE.InFo&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=TySpSgQg.rIcKtMoUsE.InFo&path=%2F#%23Shadmanegi%2BUnlimited
+ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=TySpSgQg.rIcKtMoUsE.InFo&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=TySpSgQg.rIcKtMoUsE.InFo&path=%2F#%23Shadmanegi%2BUnlimited
 vless://923bbb5e-3f65-43ae-a0c0-9a83c464073f@mrconfigchannel.hajalii.com:443?encryption=none&security=tls&sni=mrconfigchannel-cdn.hajalii.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=xhttp&path=%2F&mode=auto#%40Daily_Configs
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.41.190:8443?encryption=none&security=tls&sni=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2F%3Fed%3D2560#%40Daily_Configs
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@104.21.73.239:443?encryption=none&security=tls&sni=DigITALsciENTIfiCrESeARCHGRoup.IR&alpn=http%2F1.1&fp=randomized&type=ws&host=digitalscientificresearchgroup.ir&path=%2F4McLR3NKFOydbxDs%2FMTguMTk5LjIxMy4yMDE#%40Daily_Configs

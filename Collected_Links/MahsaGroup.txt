@@ -1,0 +1,5 @@
+vless://e89dc2da-c6a3-4c23-9669-a9f009b04e9c@gr-tcp-mci.connectix-d1.info:8081?security=&encryption=none&host=check-host.net&headerType=http&type=tcp#%40one_shop_official
+vless://e89dc2da-c6a3-4c23-9669-a9f009b04e9c@real-mtn-fl.connectix-d1.info:80?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=randomized&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40one_shop_official
+ss://e89dc2da-c6a3-4c23-9669-a9f009b04e9c@gr-tcp-mci.connectix-d1.info:8081?security=&encryption=none&host=check-host.net&headerType=http&type=tcp#%40one_shop_official
+ss://e89dc2da-c6a3-4c23-9669-a9f009b04e9c@real-mtn-fl.connectix-d1.info:80?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=randomized&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40one_shop_official
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplODlkYzJkYS1jNmEzLTRjMjMtOTY2OS1hOWYwMDliMDRlOWM%3D@outline-tr.connectix-d1.info:1935#%40one_shop_official`

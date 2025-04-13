@@ -6,5 +6,3 @@ ss://b1d79822-c06b-4225-a9d5-d8878a8f5dc1@144.76.231.27:51406?security=&encrypti
 ss://46cb2dc2-1626-11f0-b2ee-52540017d97b@a6.vixsm.ir:10742?mode=gun&security=&encryption=none&type=grpc&serviceName=xyz#%D8%B9%D8%B6%D9%88%20%D8%B4%DB%8C%D8%AF%20%3A%20%40one_shop_official
 ss://46cb2dc2-1626-11f0-b2ee-52540017d97b@t4.vixsm.ir:4811?security=&encryption=none&headerType=none&type=tcp#%40one_shop_official
 ss://fc69b618-4e36-49bb-9f26-5115a0e722be@144.76.231.27:51406?security=&encryption=none&headerType=&type=tcp#%D8%B9%D8%B6%D9%88%20%D8%B4%DB%8C%D8%AF%20%3A%20%40one_shop_official`
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@138.197.202.176:59483?encryption=none&security=none&fp=chrome&type=grpc#%40amirw_shop_q`
-ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@138.197.202.176:59483?encryption=none&security=none&fp=chrome&type=grpc#%40amirw_shop_q`

@@ -1,3 +1,11 @@
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=ZqFsGsMr.cAfUnEaR.InFo&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=ZqFsGsMr.cAfUnEaR.InFo&path=%2F#%23Shadmanegi%2BUnlimited
+ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=ZqFsGsMr.cAfUnEaR.InFo&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=ZqFsGsMr.cAfUnEaR.InFo&path=%2F#%23Shadmanegi%2BUnlimited
+vless://Parsashonam-220@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed%3D2048&security=none&encryption=none&host=Parsashonam-DE.ir&type=ws#%40Fast2ng%20%F0%9F%87%A9%F0%9F%87%AA
+vless://Parsashonam-220@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#%40Fast2ng%20%F0%9F%87%A9%F0%9F%87%AA
+vless://Parsashonam-220@[2a01:4f8:1c1b:e1d0::1]:8888?security=none&encryption=none&headerType=none&type=tcp#%40Fast2ng%20%F0%9F%87%A9%F0%9F%87%AA%20%D9%86%DB%8C%D8%A7%D8%B2%D9%85%D9%86%D8%AF%20%D9%81%D8%B9%D8%A7%D9%84%20%D8%A8%D9%88%D8%AF%D9%86%20ipv6```
+ss://Parsashonam-220@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed%3D2048&security=none&encryption=none&host=Parsashonam-DE.ir&type=ws#%40Fast2ng%20%F0%9F%87%A9%F0%9F%87%AA
+ss://Parsashonam-220@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#%40Fast2ng%20%F0%9F%87%A9%F0%9F%87%AA
+ss://Parsashonam-220@[2a01:4f8:1c1b:e1d0::1]:8888?security=none&encryption=none&headerType=none&type=tcp#%40Fast2ng%20%F0%9F%87%A9%F0%9F%87%AA%20%D9%86%DB%8C%D8%A7%D8%B2%D9%85%D9%86%D8%AF%20%D9%81%D8%B9%D8%A7%D9%84%20%D8%A8%D9%88%D8%AF%D9%86%20ipv6```
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.41.190:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#%40Daily_Configs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.52:8880?mode=gun&security=none&encryption=none&type=grpc#%40Daily_Configs
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@165.227.53.5:59483?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#%40Daily_Configs

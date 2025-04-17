@@ -10,8 +10,8 @@ Amirparnan, 9, @Arefehkamyab
 HomaKhademi, -28, @Arefehkamyab
 PedramHS, 27, @aghapedi8657
 MahsaMoradi, 5, @l_Mhs_l
-ParhamGhasemi, 0, @Chemical1373
-ParhamGhasemi-2, 0, @Chemical1373
+ParhamGhasemi, 31, @Chemical1373
+ParhamGhasemi-2, 31, @Chemical1373
 Mehti, -33, @Mehti94
 Parisa, 26, @Pkh7823
 AliZarei, -49

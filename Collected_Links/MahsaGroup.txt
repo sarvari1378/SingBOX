@@ -1,3 +1,5 @@
+vless://15298f41-e80b-463a-b85b-0c903258a1c8@162.159.1.33:443?security=tls&encryption=none&host=cr7.medicaltreatment.ir&fp=chrome&type=ws&sni=cr7.medicaltreatment.ir#[🇨🇦]t.me/amirw_shop_q`
+ss://15298f41-e80b-463a-b85b-0c903258a1c8@162.159.1.33:443?security=tls&encryption=none&host=cr7.medicaltreatment.ir&fp=chrome&type=ws&sni=cr7.medicaltreatment.ir#[🇨🇦]t.me/amirw_shop_q`
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.20:8119#t.me%2Fmobilesignal🇨🇭```
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.31:8880?mode=gun&security=none&encryption=none&type=grpc#%D8%B9%D8%B6%D9%88%20%D8%B4%DB%8C%D8%AF%20%3A%20%40one_shop_official
 vless://6babb657-1524-43bb-b421-11bda27bc9de@www.speedtest.net:443?path=salaam&security=tls&alpn=h2&encryption=none&host=gpt.smatiz.info&fp=chrome&type=ws&sni=gpt.smatiz.info#%D8%B9%D8%B6%D9%88%20%D8%B4%DB%8C%D8%AF%20%3A%20%40one_shop_official`

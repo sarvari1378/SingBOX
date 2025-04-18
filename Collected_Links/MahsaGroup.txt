@@ -1,3 +1,10 @@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.55:8880?mode=gun&security=none&encryption=none&type=grpc#%40one_shop_official%F0%9F%A4%8D%F0%9F%9A%80
+vless://46cb3ca5-1626-11f0-b2ee-52540017d97b@t2.vixsm.ir:4814?security=&encryption=none&headerType=none&type=tcp#@one_shop_official😈❤`
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%D8%B9%D8%B6%D9%88%20%D8%B4%DB%8C%D8%AF%20%3A%20%40one_shop_official
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%40one_shop_official%F0%9F%A4%8D%F0%9F%9A%80
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#%D8%B9%D8%B6%D9%88%20%D8%B4%DB%8C%D8%AF%20%3A%20%40one_shop_official
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.55:8880?mode=gun&security=none&encryption=none&type=grpc#%40one_shop_official%F0%9F%A4%8D%F0%9F%9A%80
+ss://46cb3ca5-1626-11f0-b2ee-52540017d97b@t2.vixsm.ir:4814?security=&encryption=none&headerType=none&type=tcp#@one_shop_official😈❤`
 vless://ef9ff6ce-eda5-4982-b609-fb41ed1062fa@91.92.40.78:2070?security=&encryption=none&headerType=none&type=tcp#%40Daily_Configs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.111:8880?mode=gun&security=none&encryption=none&type=grpc#%40Daily_Configs
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=local.rogsoftwaregroup.com#%40Daily_Configs

@@ -1,3 +1,5 @@
+vless://f3f48bd1-5f3c-47ce-bd04-3a9a2ccb51b8@FreakConfig.fastly80-3.hosting-ip.com:80?path=%2FjoinMTMVPN%3Fed%3D2560&security=none&encryption=none&host=mt.acvs.ir&type=ws#1404|01|29_21:43:33
+vless://944d8b74-7a64-4b07-a278-9f968e9ef99c@mw5.asalemaraghe.ir:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=mw5.asalemaraghe.ir&fp=chrome&type=ws&sni=mw5.asalemaraghe.ir#1404|01|29_21:43:33
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.146:8080#1404|01|28_20:58:40
 vless://5f6ff057-f685-4625-9ca0-b5828ccb2384@[0:0:0:0:0:ffff:9de6:644d]:2001?security=none&seed=ec9e6ebd-2661-4a66-b83f-5ea98d58aef9&encryption=none&headerType=utp&type=kcp#1404|01|28_20:58:40
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#1404|01|27_21:01:53
@@ -11,5 +13,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@Freakconfigs10.felafel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig9.felafel.org:443#1404|01|23_21:02:30
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@Freakconfigs9.felafel.org:443#1404|01|23_21:02:30
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig8.felafel.org:443#1404|01|22_21:02:03
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@Freakconfigs8.felafel.org:443#1404|01|22_21:02:03
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig7.felafel.org:443#1404|01|21_21:00:41

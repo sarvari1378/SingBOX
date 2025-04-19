@@ -17,10 +17,3 @@ ss://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBEYWlseV9Db25maWdzIiwNCiAgImFkZCI6ICJrYXB
 ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.161.104:443?encryption=none&security=tls&sni=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512#%40Daily_Configs
 ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.27.94:443?encryption=none&security=tls&sni=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512#%40Daily_Configs
 ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.12.54:443?encryption=none&security=tls&sni=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512#%40Daily_Configs`
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.55:8880?mode=gun&security=none&encryption=none&type=grpc#%40one_shop_official%F0%9F%A4%8D%F0%9F%9A%80
-vless://46cb3ca5-1626-11f0-b2ee-52540017d97b@t2.vixsm.ir:4814?security=&encryption=none&headerType=none&type=tcp#@one_shop_official😈❤`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%D8%B9%D8%B6%D9%88%20%D8%B4%DB%8C%D8%AF%20%3A%20%40one_shop_official
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%40one_shop_official%F0%9F%A4%8D%F0%9F%9A%80
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#%D8%B9%D8%B6%D9%88%20%D8%B4%DB%8C%D8%AF%20%3A%20%40one_shop_official
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.55:8880?mode=gun&security=none&encryption=none&type=grpc#%40one_shop_official%F0%9F%A4%8D%F0%9F%9A%80
-ss://46cb3ca5-1626-11f0-b2ee-52540017d97b@t2.vixsm.ir:4814?security=&encryption=none&headerType=none&type=tcp#@one_shop_official😈❤`

@@ -1,3 +1,5 @@
+vless://90efad13-d266-4d10-a914-bc40028ec469@94.131.108.195:53221?security=none&encryption=none&headerType=none&type=tcp#1404|02|02_00:29:23
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#1404|02|02_00:29:23
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.247:8880?mode=gun&security=none&encryption=none&type=grpc#1404|01|31_20:33:19
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#1404|01|31_20:33:19
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:8880?mode=gun&security=none&encryption=none&type=grpc#1404|01|31_20:33:19
@@ -11,5 +13,3 @@ vless://5f6ff057-f685-4625-9ca0-b5828ccb2384@[0:0:0:0:0:ffff:9de6:644d]:2001?sec
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#1404|01|27_21:01:53
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@Freakconfigs13.felafel.org:443#1404|01|27_21:01:53
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig12.felafel.org:443#1404|01|26_21:01:11
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@Freakconfigs12.felafel.org:443#1404|01|26_21:01:11
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig11.felafel.org:443#1404|01|25_21:13:30

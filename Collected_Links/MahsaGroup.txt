@@ -1,5 +1,8 @@
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=GyKlAgNi.rOcKsToNeY.InFo&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=GyKlAgNi.rOcKsToNeY.InFo&path=%2F#%23Shadmanegi%2BUnlimited
 ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=GyKlAgNi.rOcKsToNeY.InFo&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=GyKlAgNi.rOcKsToNeY.InFo&path=%2F#%23Shadmanegi%2BUnlimited
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.20:8119#t.me%2Fmobilesignal🇨🇭```
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=GyKlAgNi.rOcKsToNeY.InFo&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=GyKlAgNi.rOcKsToNeY.InFo&path=%2F#%23Shadmanegi%2BUnlimited
+ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=GyKlAgNi.rOcKsToNeY.InFo&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=GyKlAgNi.rOcKsToNeY.InFo&path=%2F#%23Shadmanegi%2BUnlimited
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.25:80?encryption=none&security=none&type=ws&host=digitalscientificresearchgroup.ir&path=%2F#%40Daily_Configs
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.27.94:443?encryption=none&security=tls&sni=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2F%3Fed%3D2560#%40Daily_Configs
 vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.186.41:443?encryption=none&security=tls&sni=cr7.traneh.dpdns.org&type=ws&host=cr7.traneh.dpdns.org&path=%2Fsinavm-sinavm%2F%3Fed%3D2560#%40Daily_Configs

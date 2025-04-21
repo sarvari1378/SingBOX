@@ -1,5 +1,6 @@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146:8880?mode=gun&security=none&encryption=none&type=grpc#1404|02|01_20:08:10
 vless://2c72029d-7cc5-4d88-93b0-6483a2f4f771@huffingtonpost.es:80?mode=auto&path=%2FWedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel%3Fed%3D2048&security=none&encryption=none&host=Wedbaz.COM&type=xhttp#1404|02|01_12:07:48
-vless://2c72029d-7cc5-4d88-93b0-6483a2f4f771@huffingtonpost.es:80?mode=auto&path=%2FWedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel%3Fed%3D2048&security=none&encryption=none&host=Wedbaz.COM&type=xhttp#1404|02|01_12:05:01
+vless://4befd844-b7a9-4992-94ae-fd0f2887fc75@ip.sitwe.ir:8080?path=%2Ftelegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry%3Fed%3D2048&security=none&encryption=none&host=ip.sitwe.ir&type=httpupgrade#1404|02|01_12:05:01
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.106:8880?mode=gun&security=none&encryption=none&type=grpc#1404|01|31_22:13:25
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.106:8880?mode=gun&security=none&encryption=none&type=grpc#1404|01|31_20:11:05
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.15.132:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#1404|01|31_12:53:51
@@ -12,4 +13,3 @@ vless://32ccc4ee-1e2e-4405-c7cd-257efe2cdde9@tify-binex-join.espikernajafi.ir:20
 vless://f3f48bd1-5f3c-47ce-bd04-3a9a2ccb51b8@PROXY-MTM.fastly80-3.hosting-ip.com:80?path=%2FjoinMTMVPN%3Fed%3D2560&security=none&encryption=none&host=mt.acvs.ir&type=ws#1404|01|29_20:19:23
 vless://1a35d31c-4cc4-400a-9f49-a289496cd347@188.245.105.235:4298?mode=gun&security=none&encryption=none&type=grpc&serviceName=WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel#1404|01|29_12:19:08
 vless://e89188b0-3cd1-4f56-aaad-078912950049@PROXY-MTM.fastly80-3.hosting-ip.com:80?path=%2FjoinMTMVPN%3Fed%3D2560&security=none&encryption=none&host=mt.acvs.ir&type=ws#1404|01|29_12:17:02
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?path=%2FTelegram%40WedbazTelsecurity&security=none&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws&sni=5-55sfjslf.ifenxiang.cfd#1404|01|28_22:06:39

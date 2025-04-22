@@ -18,4 +18,3 @@ ss://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBEYWlseV9Db25maWdzIiwNCiAgImFkZCI6ICI0NS4
 ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.89.111.198:2052?encryption=none&security=none&type=ws&host=omidyzvg2.kamaleriz.info&path=%2F#%40Daily_Configs
 ss://c7fb7cc9-be80-44dc-bfe3-a7d1429ca8b2@78.47.195.49:20878?encryption=none&security=none&type=tcp&headerType=none#%40Daily_Configs
 ss://46db85a1-9d97-46f8-9b7a-ff9704510e5e@85.209.156.7:8880?encryption=none&security=none&type=grpc&authority=&serviceName=vless-grpc&mode=gun#%40Daily_Configs`
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.20:8119#t.me%2Fmobilesignal🇨🇭```

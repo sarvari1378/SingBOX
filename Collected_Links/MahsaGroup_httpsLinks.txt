@@ -1,2 +1,5 @@
+https://raw.githubusercontent.com/davudsedft/vless/refs/heads/main/vmess.txt
+https://raw.githubusercontent.com/davudsedft/vless/refs/heads/main/shadowsocks.txt
+https://raw.githubusercontent.com/davudsedft/vless/refs/heads/main/trojan.txt
 https://t.me/daily_configs/1762?single)**
 https://github.com/mahsanet/NikaNG/releases/download/v1.8.38/NikaNG_1.8.38_universal-signed.apk)

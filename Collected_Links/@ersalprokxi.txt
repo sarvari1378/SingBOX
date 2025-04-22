@@ -1,3 +1,5 @@
+vless://4470f40c-963e-488c-9821-5aac0c5ff930@huffingtonpost.es:80?flow&type=xhttp&host=joinbede_vmessorg.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed%3D2480&mode=auto&extra=&security=none#1404|02|03_01:40:35
+vless://a7e0cb26-4d5e-454c-90f8-439c988b8aaa@www.speedtest.net:8880?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&fp=randomized&type=ws#1404|02|03_01:20:15
 vless://a7e0cb26-4d5e-454c-90f8-439c988b8aaa@www.speedtest.net:8880?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&fp=randomized&type=ws#1404|02|03_00:20:17
 vless://90efad13-d266-4d10-a914-bc40028ec469@94.131.108.195:53221?encryption=none&security=none&type=tcp&headerType=none#1404|02|03_00:11:38
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.189.99.53:8880?encryption=none&security=none&type=grpc#1404|02|03_00:11:38
@@ -36,5 +38,3 @@ vless://4088e698-69fd-4d15-98bc-f1fe4c071642@162.159.138.232:2086?path=%2FTM%40A
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@104.25.254.4:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vlee.amclubs.nyc.mn&type=ws&sni=vlee.amclubs.nyc.mn#1404|02|02_13:11:39
 vless://55a3df5c-143c-43e5-ed36-4624fc39cafd@188.245.67.48:2086?mode=gun&security=reality&encryption=none&pbk=rgZ1XMscV95wDl3uauQ6FgwNvpgz1_Icr_SL1KpaVHs&fp=chrome&type=grpc&sni=www.cdn77.com#1404|02|02_13:11:39
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.193.213.0:80?path=%2F&security=none&encryption=none&host=psycho.suex12.ir&type=ws#1404|02|02_13:11:39
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#1404|02|02_13:11:39
-vless://4088e698-69fd-4d15-98bc-f1fe4c071642@162.159.138.232:2086?path=%2FTM%40Azarbayjab1%3Fed%3D2560&security=none&encryption=none&host=digitalscientificresearchgroup.ir&type=ws#1404|02|02_13:11:39

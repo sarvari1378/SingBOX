@@ -1,5 +1,6 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#1404|02|03_20:05:04
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#1404|02|03_12:14:26
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#1404|02|03_12:13:01
+vless://4e079396-6b0d-464b-8eba-31c94781ad30@WedBaZtel.smartexchangevip.com:47410?mode=multi&security=reality&encryption=none&pbk=Jfq4z2hrrkBAOOC6W9J1f2wOR5wAx4MbY3NC5X_CxUA&fp=chrome&spx=%2F&type=grpc&serviceName=%2F%40WedBaZtel----------%40WedBaZtel-----------%40WedBaZtel----%40WedBaZtel-------%40WedBaZtel-----%40WedBaZtel----------%40WedBaZtel-----------%40WedBaZtel----%40WedBaZtel-------%40WedBaZtel-----%40WedBaZtel----------%40WedBaZtel-----------%40WedBaZtel----%40WedBaZtel-------%40WedBaZtel&sni=refersion.com&sid=d4#1404|02|03_12:13:01
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146:8880?mode=gun&security=none&encryption=none&type=grpc#1404|02|02_22:04:31
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@159.65.106.188:59483?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#1404|02|02_20:03:29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3M2E5NjJiZDMyYTU4NDQ1@57.128.190.245:47419#1404|02|02_12:10:23
@@ -12,4 +13,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.106:8880?mode=gun&security
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.15.132:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#1404|01|31_12:53:51
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.52:8880?mode=gun&security=none&encryption=none&type=grpc#1404|01|31_12:51:46
 vless://fa149110-3364-4b5b-b3b2-c703452fe1c0@www.speedtest.net:8880?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&fp=randomized&type=ws#1404|01|30_22:20:56
-vless://52c9faa5-9396-484e-8c8d-66576c1ef772@194.182.79.65:40359?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#1404|01|30_20:04:22

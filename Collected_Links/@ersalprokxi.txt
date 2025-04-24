@@ -1,3 +1,4 @@
+vless://69202128-d396-4f5b-8188-7d2702d1210a@www.speedtest.net:8880?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&fp=randomized&type=ws#1404|02|04_17:51:56
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1051::1]:21614?security=&encryption=none&headerType=none&type=tcp#1404|02|04_14:31:26
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:2411::1]:26454?security=&encryption=none&headerType=none&type=tcp#1404|02|04_14:31:26
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.193.213.0:80?path=%2F&security=&encryption=none&host=psycho.suex12.ir&type=ws#1404|02|04_14:31:26
@@ -37,4 +38,3 @@ vless://3202d35a-c51c-4055-bcd7-3eb000c13dc3@44.247.180.82:80?security=none&encr
 vless://15298f41-e80b-463a-b85b-0c903258a1c8@fonts.net:443?path=sinavm-sinavm%2F%3Fed%3D2560&security=tls&encryption=none&host=d5.medicaltreatment.ir&fp=chrome&type=ws&sni=d5.medicaltreatment.ir#1404|02|03_22:42:09
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@pk.saint.ydns.eu:443?security=reality&encryption=none&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#1404|02|03_22:42:09
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@in.saint.ydns.eu:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#1404|02|03_22:42:09
-vless://ca9074b2-2442-43b8-c7ab-5440cb7f3ef7@zmaoz.faculty.ucdavis.edu:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#1404|02|03_22:42:09

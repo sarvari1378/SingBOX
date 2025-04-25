@@ -3,4 +3,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMcWxQSTE5b3FudW5HTlNMTXZkWHlC@147.45.60.33:1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#%F0%9F%92%9C%20%40mobilesignal`
 vless://c07faf64-1ecb-4641-9105-52477c90d7e3@sar.nightlegend805.xyz:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#pOuYa`
 ss://c07faf64-1ecb-4641-9105-52477c90d7e3@sar.nightlegend805.xyz:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#pOuYa`
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.20:8119#t.me%2Fmobilesignal🇨🇭```

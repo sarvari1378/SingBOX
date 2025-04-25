@@ -1,3 +1,4 @@
+vless://bf4c45e7-2723-457d-8f81-6789c3f42439@www.speedtest.net:8880?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&fp=randomized&type=ws#1404|02|05_17:24:06
 vmess://eyJhZGQiOiI0NS4xMi4xMzguODIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiY2RlOWYwNzQtYzkzMC00YWEzLWE1NTgtNDZiYmM5ZDBhNWExIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1NDc1NyIsInBzIjoi8J-Smdiz2LHZiNixINio24zYtNiq2LEg2K_YsSB2cG5mYXN0MnJheUAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9IzE0MDR8MDJ8MDVfMTU6MDA6MTg=
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.64.1:443?path=%2FEujcp9ekQlNJr3cu%3Fed%3D2560flow%3D-udp443flow%3D-udp443&security=tls&encryption=none&host=psycho.suex12.ir&fp=chrome&type=ws&sni=pSycho.SueX12.Ir#1404|02|05_15:00:18
 vless://84fcffc1-4f4f-4b66-bd2c-31a59681268b@void.crehistory.org:2096?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=void.crehistory.org#1404|02|05_15:00:18
@@ -37,4 +38,3 @@ vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1051::1]:21614?security=&encryption=n
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:2411::1]:26454?security=&encryption=none&headerType=none&type=tcp#1404|02|05_00:44:39
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@104.25.254.4:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vlee.amclubs.nyc.mn&type=ws&sni=vlee.amclubs.nyc.mn#1404|02|05_00:44:39
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.27.94:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#1404|02|05_00:44:39
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.17.148.22:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#1404|02|05_00:44:39

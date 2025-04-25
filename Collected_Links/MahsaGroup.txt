@@ -1,3 +1,5 @@
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=GyKlAgNi.rOcKsToNeY.InFo&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=GyKlAgNi.rOcKsToNeY.InFo&path=%2F#%23Shadmanegi%2BUnlimited
+ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=GyKlAgNi.rOcKsToNeY.InFo&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=GyKlAgNi.rOcKsToNeY.InFo&path=%2F#%23Shadmanegi%2BUnlimited
 vless://15298f41-e80b-463a-b85b-0c903258a1c8@199.34.228.185:443?encryption=none&security=tls&sni=d5.medicaltreatment.ir&type=ws&host=d5.medicaltreatment.ir&path=sinavm-sinavm%2F%3Fed#%40Daily_Configs
 vless://2a219df1-a04b-4424-bfd2-cb37aeb10b2c@netherlanddddd.mehrdadsadaf.com:7594?encryption=none&security=reality&sni=dash.cloudflare.com&fp=chrome&pbk=AZSptdvlWvvmKWEDTY56UsIcnTP8nGCafvPEQOozrxw&sid=765e8e700426816c&type=grpc&authority=&serviceName=7594vless&mode=gun#%40Daily_Configs
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.27.94:443?encryption=none&security=tls&sni=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2F%3Fed%3D2560#%40Daily_Configs

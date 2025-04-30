@@ -1,3 +1,5 @@
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=ZjJuNdIy.rIpLeToOrY.InFo&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=ZjJuNdIy.rIpLeToOrY.InFo&path=%2F#%23Shadmanegi%2BUnlimited
+ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=ZjJuNdIy.rIpLeToOrY.InFo&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=ZjJuNdIy.rIpLeToOrY.InFo&path=%2F#%23Shadmanegi%2BUnlimited
 vless://f0c07578-25e4-4397-d037-a89dcaf4dc65@172.105.94.189:55372?encryption=none&security=reality&sni=microsoft.com&fp=chrome&pbk=qiWe2SHKDfGG_GdZXYwYNoKFBGWxFjDKtNFJ4Qvo8SA&spx=%2F&type=tcp&headerType=http#%40Daily_Configs
 vless://eb5f5964-1b12-457b-b8a6-bca5332e0494@138.128.224.100:443?encryption=none&security=tls&sni=s6.design-mobo.ir&alpn=http%2F1.1&fp=chrome&type=ws&path=%2Ftelegram-mitivpn#%40Daily_Configs
 vless://5c43f10d-1824-4f3b-accb-d13116929a69@www.speedtest.net:443?encryption=none&security=tls&type=xhttp&host=camel.dgclix.ir&path=%2F&mode=auto#%40Daily_Configs

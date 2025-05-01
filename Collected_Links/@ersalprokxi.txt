@@ -1,3 +1,12 @@
+vless://5985a6e3-1ed7-48bb-871d-6a432870642a@www.speedtest.net:8880?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&fp=randomized&type=ws#1404|02|11_20:02:37
+vless://telegram-id-ArV2ray1@151.101.64.155:80?path=%2F-ArV2ry%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry%3Fed%3D2048&security=none&encryption=none&host=mard.ankaboti.com.&type=ws#1404|02|11_20:02:37
+vless://telegram-id-ArV2ray1@www.speedtest.net:2052?path=%2F-ArV2ry%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry&security=none&encryption=none&host=Www.speedtest.net.e.2.salatinmaccv.ir.&type=ws#1404|02|11_20:02:37
+vless://d1306a65-2a35-48f8-8e9d-68fb69704ab3@uk.darkteam.vipt-t.info:13039?mode=gun&security=none&encryption=none&type=grpc&serviceName=DarkTeam_VPN#1404|02|11_20:02:37
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#1404|02|11_20:02:37
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#1404|02|11_20:02:37
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#1404|02|11_19:51:31
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#1404|02|11_19:51:31
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@74.177.241.104:443#1404|02|11_19:51:31
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#1404|02|11_15:27:29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#1404|02|11_15:27:29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#1404|02|11_15:27:29
@@ -29,12 +38,3 @@ vless://telegram-id-ArV2ray1@www.speedtest.net:2052?path=%2F-ArV2ry%40ArV2ry-TEL
 vless://d1306a65-2a35-48f8-8e9d-68fb69704ab3@uk.darkteam.vipt-t.info:13039?mode=gun&security=none&encryption=none&type=grpc&serviceName=DarkTeam_VPN#1404|02|11_00:01:35
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@131.145.27.239:443#1404|02|11_00:01:35
 vless://581fa7d6-976e-4b20-d6de-1a4daa07fed6@darkteam.vipt-t.info:19356?mode=gun&security=none&encryption=none&type=grpc&serviceName=DarkTeam_VPN#1404|02|11_00:01:35
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#1404|02|11_00:01:35
-vless://3a9b0631-07be-4d49-8acc-f1ff84a70c05@www.speedtest.net:8880?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&fp=randomized&type=ws#1404|02|10_20:07:45
-vmess://eyJhZGQiOiJiaWlpYS12cG4td2hhbC5mYXN0Lmhvc3RpbmctaXAuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjYXQuSVIuIiwiaWQiOiJpZDQ4LS0tQHZwbi13aGFsIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZFx1MDAzZDIwNTYvIzE0MDR8MDJ8MTBfMTg6MzQ6MzA=
-vmess://eyJhZGQiOiI0NS4xMi4xMzguODIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiY2RlOWYwNzQtYzkzMC00YWEzLWE1NTgtNDZiYmM5ZDBhNWExIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1NDc1NyIsInBzIjoiMzAw2q_bjNqvIDM52KrZiNmF2KfZhiEg2KrYs9iq4oCM2LHYp9uM2q_Yp9mG8J-kr1RpY2tWMmJvdEAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9IzE0MDR8MDJ8MTBfMTc6Mjg6MzY=
-vless://f0c07578-25e4-4397-d037-a89dcaf4dc65@172.105.94.189:55372?encryption=none&security=reality&sni=microsoft.com&fp=chrome&pbk=qiWe2SHKDfGG_GdZXYwYNoKFBGWxFjDKtNFJ4Qvo8SA&spx=%2F&type=tcp&headerType=http#1404|02|10_16:31:59
-vless://eb5f5964-1b12-457b-b8a6-bca5332e0494@138.128.224.100:443?encryption=none&security=tls&sni=s6.design-mobo.ir&alpn=http%2F1.1&fp=chrome&type=ws&path=%2Ftelegram-mitivpn#1404|02|10_16:31:59
-vless://5c43f10d-1824-4f3b-accb-d13116929a69@www.speedtest.net:443?encryption=none&security=tls&type=xhttp&host=camel.dgclix.ir&path=%2F&mode=auto#1404|02|10_16:31:59
-vless://37ce86f5-df0c-0384-a4b2-8cedd9a1aedc@37.156.46.65:31548?encryption=none&flow=xtls-rprx-vision&security=reality&sni=stackoverflow.com&fp=chrome&pbk=KmXtdOimd1xGGg7V2rvo74_HxMd6_bzFyosF6Z5c22A&sid=d6d54c08fbbf895f&spx=%2FJOKERRVPNJoin_Bade_Channel%40JOKERRVPN&type=tcp&headerType=none#1404|02|10_16:31:59
-vless://2fd823dd-767b-4245-b56e-4790ca8c1a93@172.82.67.154:11476?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=dHyiM189GsudgANJT4X9fxzsTnBUvoEUAjrJFnPGp2I&sid=eeb3b8&type=tcp&headerType=none#1404|02|10_16:31:59

@@ -6,3 +6,4 @@ ss://4685521b-ee0b-4976-9323-42352daba9e0@tify-binex-join.espikernajafi.ir:2053?
 ss://telegram-id-ArV2ray1@151.101.64.155:80?path=%2F-ArV2ry%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry%3Fed%3D2048&security=none&encryption=none&host=mard.ankaboti.com.&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20All%20WS%20%7C%20%40HajmVPN`
 vless://eb5f5964-1b12-457b-b8a6-bca5332e0494@138.128.224.100:443?path=%2Ftelegram-mitivpn&security=tls&alpn=http%2F1.1&encryption=none&fp=chrome&type=ws&sni=s6.design-mobo.ir#@MiTiVPN
 ss://eb5f5964-1b12-457b-b8a6-bca5332e0494@138.128.224.100:443?path=%2Ftelegram-mitivpn&security=tls&alpn=http%2F1.1&encryption=none&fp=chrome&type=ws&sni=s6.design-mobo.ir#@MiTiVPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuckJDbXY3aXMzMmZnNFdUZjVId1Nt@h110vpntr.outlinekeys.net:65262#t.me/mobilesignal(Türkiye🇹🇷)`

@@ -1,3 +1,4 @@
+vless://8e36e81d-bd59-4da7-9265-db55c9a863e0@api.acveo.ir:8080/?type=httpupgrade&path=%2FTelegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs%3Fed%3D2048&host=api.acveo.ir&security=none#1404|02|12_14:23:21
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.147.22:2096?path=%2F&security=tls&encryption=none&host=ScKzAhYz14.qUiCkOrA.OrG&fp=chrome&type=ws&sni=ScKzAhYz14.qUiCkOrA.OrG#1404|02|12_13:40:44
 vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@104.18.12.149:443?path=%2F&security=tls&encryption=none&host=d1.medicaldream.ir&fp=chrome&type=ws&sni=d1.medicaldream.ir#1404|02|12_13:40:44
 vless://6babb657-1524-43bb-b421-11bda27bc9de@www.speedtest.net:443?path=salaam&security=tls&alpn=h2&encryption=none&host=gpt.smatiz.info&fp=chrome&type=ws&sni=gpt.smatiz.info#1404|02|12_13:40:44
@@ -37,4 +38,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#140
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#1404|02|11_20:02:37
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#1404|02|11_19:51:31
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#1404|02|11_19:51:31
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@74.177.241.104:443#1404|02|11_19:51:31

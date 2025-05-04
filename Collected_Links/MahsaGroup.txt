@@ -1,3 +1,5 @@
+vless://7d5a9596-0dea-4ad7-8de5-18605a0cad39@54.37.79.80:2222?security=&encryption=none&host=divarcdn.ir&headerType=http&type=tcp#Tcp-mikqla1j
+ss://7d5a9596-0dea-4ad7-8de5-18605a0cad39@54.37.79.80:2222?security=&encryption=none&host=divarcdn.ir&headerType=http&type=tcp#Tcp-mikqla1j
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@199.34.228.147:2096?encryption=none&security=tls&sni=DrOt0Ai1Oq.DeRaKhT.iNfO&fp=chrome&type=ws&host=DrOt0Ai1Oq.DeRaKhT.iNfO&path=%2F#%40Daily_Configs
 vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@185.18.250.239:2087?encryption=none&security=tls&sni=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&path=%2F#%40Daily_Configs
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.7.247:8443?encryption=none&security=tls&sni=NuWoLcZn28.qUiCkOrA.OrG&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=NuWoLcZn28.qUiCkOrA.OrG&path=%2F#%40Daily_Configs

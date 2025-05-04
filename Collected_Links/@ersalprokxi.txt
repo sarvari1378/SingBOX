@@ -1,3 +1,4 @@
+vless://8f6598b8-54fa-4cf1-b968-0fe82d993779@python.org:80?type=xhttp&mode=auto&host=jointo_unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480&security=none#1404|02|14_09:48:11
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@199.34.228.147:2096?encryption=none&security=tls&sni=DrOt0Ai1Oq.DeRaKhT.iNfO&fp=chrome&type=ws&host=DrOt0Ai1Oq.DeRaKhT.iNfO&path=%2F#1404|02|14_08:29:25
 vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@185.18.250.239:2087?encryption=none&security=tls&sni=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&path=%2F#1404|02|14_08:29:25
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.7.247:8443?encryption=none&security=tls&sni=NuWoLcZn28.qUiCkOrA.OrG&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=NuWoLcZn28.qUiCkOrA.OrG&path=%2F#1404|02|14_08:29:25
@@ -37,4 +38,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#140
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#1404|02|13_23:07:55
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#1404|02|13_23:07:55
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#1404|02|13_23:07:55
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a1.samanehha.co:443#1404|02|13_23:07:55

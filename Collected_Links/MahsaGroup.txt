@@ -1,3 +1,7 @@
+vless://c5752b7c-968b-4ff5-a23f-bc0c7f36f62f@54.37.79.80:4444/?type=ws&path=%2F%3Fed%3D2048&host=speedtest.net&security=none#Ws-peednsv5
+ss://c5752b7c-968b-4ff5-a23f-bc0c7f36f62f@54.37.79.80:4444/?type=ws&path=%2F%3Fed%3D2048&host=speedtest.net&security=none#Ws-peednsv5
+vless://a86ee227-1873-46c4-b31e-72e72dcc023c@54.37.79.80:3333/?type=tcp&security=reality&pbk=6Egz-Xf23MSrsfs1bvOtsRFRicSurq6gZopZlpsaXBQ&fp=chrome&sni=refersion.com&sid=977e&spx=%2Fwww.speedtest.net%2Frun#Real-liz388x9
+ss://a86ee227-1873-46c4-b31e-72e72dcc023c@54.37.79.80:3333/?type=tcp&security=reality&pbk=6Egz-Xf23MSrsfs1bvOtsRFRicSurq6gZopZlpsaXBQ&fp=chrome&sni=refersion.com&sid=977e&spx=%2Fwww.speedtest.net%2Frun#Real-liz388x9
 vless://7d5a9596-0dea-4ad7-8de5-18605a0cad39@54.37.79.80:2222?security=&encryption=none&host=divarcdn.ir&headerType=http&type=tcp#Tcp-mikqla1j
 ss://7d5a9596-0dea-4ad7-8de5-18605a0cad39@54.37.79.80:2222?security=&encryption=none&host=divarcdn.ir&headerType=http&type=tcp#Tcp-mikqla1j
 vless://2c0050c0-9b32-48ee-b46c-16f2844bad6d@164.90.180.228:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=gr1.tak30zanjan.ir&fp=chrome&security=reality&pbk=9kw-s--kXR8_jKj5J0l2HD502FDzxYN9XefdketMlF8&sid=8e5f1d0b#@meli_proxyy`

@@ -1,3 +1,5 @@
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=ZqFsGsMr.cAfUnEaR.InFo&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=ZqFsGsMr.cAfUnEaR.InFo&path=%2F#%23Shadmanegi%2BUnlimited
+ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=ZqFsGsMr.cAfUnEaR.InFo&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=ZqFsGsMr.cAfUnEaR.InFo&path=%2F#%23Shadmanegi%2BUnlimited
 vless://b08d2303-cfbe-4361-ab8c-7dc304fa06b6@49.12.225.140:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tgju.org&fp=chrome&pbk=T7Cwk-B3EvZqqRywIgN_TNotJiUOXYUI9bHqYKPnTi0&sid=105e89ba3d2a1c3b&type=tcp&headerType=none#Tel%3A%40Daily_Configs
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?encryption=none&security=none&type=ws&host=redfree8mahsang6.redfree8.ir&path=%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512#Tel%3A%40Daily_Configs
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.8.211.35:8443?encryption=none&security=tls&sni=NuWoLcZn28.qUiCkOrA.OrG&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=NuWoLcZn28.qUiCkOrA.OrG&path=%2F#Tel%3A%40Daily_Configs

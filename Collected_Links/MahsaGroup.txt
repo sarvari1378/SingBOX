@@ -1,5 +1,0 @@
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=UfTwJzAj.rIpLeToOrY.InFo&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=UfTwJzAj.rIpLeToOrY.InFo&path=%2F#%23Shadmanegi%2BUnlimited
-ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=UfTwJzAj.rIpLeToOrY.InFo&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=UfTwJzAj.rIpLeToOrY.InFo&path=%2F#%23Shadmanegi%2BUnlimited
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%40one_shop_official
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%40one_shop_official%E2%9A%A1%F0%9F%9A%80
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#Join%20%40one_shop_official`

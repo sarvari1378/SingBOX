@@ -1,3 +1,5 @@
+vless://9a9a8e07-2735-46cb-9a94-686d030ca654@hormozgan.losehismind.ir:443?path=%2F&security=tls&encryption=none&type=ws&sni=hormozgan.losehismind.ir#%40hormozvpn
+ss://9a9a8e07-2735-46cb-9a94-686d030ca654@hormozgan.losehismind.ir:443?path=%2F&security=tls&encryption=none&type=ws&sni=hormozgan.losehismind.ir#%40hormozvpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4aW10a1oyQXhvQjdBVm5I@admin.c4.havij.co:443?type=tcp#[🇬🇧]t.me/amirw_shop_q`
 vless://0d083787-080d-4eaa-a741-e78c8fcd9547@151.101.66.228:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[🇨🇦]t.me/amirw_shop_q`
 ss://0d083787-080d-4eaa-a741-e78c8fcd9547@151.101.66.228:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[🇨🇦]t.me/amirw_shop_q`

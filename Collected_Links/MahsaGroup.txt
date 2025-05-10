@@ -1,3 +1,6 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4aW10a1oyQXhvQjdBVm5I@admin.c4.havij.co:443?type=tcp#[🇬🇧]t.me/amirw_shop_q`
+vless://0d083787-080d-4eaa-a741-e78c8fcd9547@151.101.66.228:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[🇨🇦]t.me/amirw_shop_q`
+ss://0d083787-080d-4eaa-a741-e78c8fcd9547@151.101.66.228:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[🇨🇦]t.me/amirw_shop_q`
 vless://8504ec26-1cf1-4f17-9f65-9173eeb96950@shop.cafegamingblackhorse.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tgju.org&fp=chrome&pbk=T7Cwk-B3EvZqqRywIgN_TNotJiUOXYUI9bHqYKPnTi0&sid=105e89ba3d2a1c3b&type=tcp&headerType=none#%40Daily_Configs
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?encryption=none&security=none&sni=ipsychO.SUEx12.Ir&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=ipsycho.suex12.ir&path=%2Fre5IzbZ9IZZMddtw%3Fed%3D2560%2F%3FTELEGRAM%40MARAMBASHI_MARAMBASHI#%40Daily_Configs
 vless://f807d70f-d5bd-45b7-aa1e-abcd0a79cfe7@213.21.245.83:443?encryption=none&security=reality&sni=www.cdn77.com&fp=chrome&pbk=TXHciLv9Ctu7k7sdIcadLJIEa1WTCIseYctDMa6NW0c&sid=7e39db0c&type=tcp&headerType=none&host=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI#%40Daily_Configs

@@ -1,5 +1,7 @@
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=UfTwJzAj.rIpLeToOrY.InFo&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=UfTwJzAj.rIpLeToOrY.InFo&path=%2F#%23Shadmanegi%2BUnlimited
 ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=UfTwJzAj.rIpLeToOrY.InFo&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=UfTwJzAj.rIpLeToOrY.InFo&path=%2F#%23Shadmanegi%2BUnlimited
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=UfTwJzAj.rIpLeToOrY.InFo&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=UfTwJzAj.rIpLeToOrY.InFo&path=%2F#%23Shadmanegi%2BUnlimited
+ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=UfTwJzAj.rIpLeToOrY.InFo&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=UfTwJzAj.rIpLeToOrY.InFo&path=%2F#%23Shadmanegi%2BUnlimited
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptTGxoeDNIZkJ0dkl0TFRm@admin.c4.havij.co:443?type=tcp#[🇬🇧]t.me/amirw_shop_q`
 vless://9a9a8e07-2735-46cb-9a94-686d030ca654@hormozgan.losehismind.ir:443?path=%2F&security=tls&encryption=none&type=ws&sni=hormozgan.losehismind.ir#%40hormozvpn
 ss://9a9a8e07-2735-46cb-9a94-686d030ca654@hormozgan.losehismind.ir:443?path=%2F&security=tls&encryption=none&type=ws&sni=hormozgan.losehismind.ir#%40hormozvpn
@@ -24,7 +26,3 @@ ss://10b59513-ef76-4494-a925-305ec45dd3a4@45.95.233.8:2040?encryption=none&secur
 ss://10b59513-ef76-4494-a925-305ec45dd3a4@45.12.139.44:2040?encryption=none&security=reality&sni=github.com&fp=chrome&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&sid=27cfa05000c23cc4&type=tcp&headerType=none#%40Daily_Configs
 ss://10b59513-ef76-4494-a925-305ec45dd3a4@77.246.100.169:2040?encryption=none&security=reality&sni=github.com&fp=chrome&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&sid=27cfa05000c23cc4&type=tcp&headerType=none#%40Daily_Configs
 ss://10b59513-ef76-4494-a925-305ec45dd3a4@91.84.106.196:2040?encryption=none&security=reality&sni=cdnjs.com&fp=chrome&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&sid=27cfa05000c23cc4&type=tcp&headerType=none#%40Daily_Configs`
-vless://80a53317-30aa-49a5-9704-5d4ec64d1813@104.21.16.1:443?path=%2FVAakZuIDJ7nIrgrG%3Fed%3D2560&security=tls&encryption=none&host=mmrez-509.pages.dev&type=ws#t.me%2Fmmlieen2`
-ss://80a53317-30aa-49a5-9704-5d4ec64d1813@104.21.16.1:443?path=%2FVAakZuIDJ7nIrgrG%3Fed%3D2560&security=tls&encryption=none&host=mmrez-509.pages.dev&type=ws#t.me%2Fmmlieen2`
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=UfTwJzAj.rIpLeToOrY.InFo&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=UfTwJzAj.rIpLeToOrY.InFo&path=%2F#%23Shadmanegi%2BUnlimited
-ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=UfTwJzAj.rIpLeToOrY.InFo&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=UfTwJzAj.rIpLeToOrY.InFo&path=%2F#%23Shadmanegi%2BUnlimited

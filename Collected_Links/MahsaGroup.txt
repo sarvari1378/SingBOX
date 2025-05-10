@@ -1,3 +1,5 @@
+vless://2cc09c17-3272-4892-a52d-b39e0df000e3@dns2.arashiphone.com:2087?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=FTP.adabefarsi.eu.&fp=chrome&type=ws&sni=FTP.adabefarsi.eu.#[🇨🇦]t.me/amirw_shop_q`
+ss://2cc09c17-3272-4892-a52d-b39e0df000e3@dns2.arashiphone.com:2087?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=FTP.adabefarsi.eu.&fp=chrome&type=ws&sni=FTP.adabefarsi.eu.#[🇨🇦]t.me/amirw_shop_q`
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=UfTwJzAj.rIpLeToOrY.InFo&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=UfTwJzAj.rIpLeToOrY.InFo&path=%2F#%23Shadmanegi%2BUnlimited
 ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=UfTwJzAj.rIpLeToOrY.InFo&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=UfTwJzAj.rIpLeToOrY.InFo&path=%2F#%23Shadmanegi%2BUnlimited
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638820786839338668.dublin-shledrc-acbn.info:8880?mode=gun&security=&encryption=none&type=grpc#%5B%F0%9F%8F%81%5Dt.me%2Famirw_shop_q`

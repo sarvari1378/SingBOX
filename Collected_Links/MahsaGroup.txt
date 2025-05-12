@@ -1,3 +1,5 @@
+vless://e8eb34f9-0379-4122-9fc9-2e9eb4417470@65.109.192.110:10915/?type=tcp&path=%2F&host=divarcdn.com&headerType=http&security=none#cycja6e7
+ss://e8eb34f9-0379-4122-9fc9-2e9eb4417470@65.109.192.110:10915/?type=tcp&path=%2F&host=divarcdn.com&headerType=http&security=none#cycja6e7
 vless://f38865d8-5aca-4135-8d56-7c39aa779b9b@nodes.maviks.eu:8443?security=reality&encryption=none&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maviks.eu&sid=f203719d3ff9a5f5#%40VPNTV20
 vless://f38865d8-5aca-4135-8d56-7c39aa779b9b@e.nl.cdn.maviks.eu:443?path=%2FpLmdwS3fSrE9WwdgE3LdG2%3Fed%3D2560&security=tls&encryption=none&host=cdn-nodes.maviks.eu&fp=chrome&type=ws&sni=cdn-nodes.maviks.eu#%40VPNTV20
 vless://f38865d8-5aca-4135-8d56-7c39aa779b9b@ru.maviks.eu:443?security=reality&encryption=none&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maviks.eu&sid=0f917152a871e9c0#%40VPNTV20

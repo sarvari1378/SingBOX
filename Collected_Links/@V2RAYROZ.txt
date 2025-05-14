@@ -1,5 +1,6 @@
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.147:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh33v1.cinema33.shop#1404|02|24_20:01:07
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?mode=gun&security=none&encryption=none&type=grpc#1404|02|24_12:18:46
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.166:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh35v4.gym35fit.shop#1404|02|24_12:16:56
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.245.166.86:59483?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#1404|02|24_12:16:56
 vless://6abbaf96-4b16-48d3-b996-a6067fc6eb2c@tgju.org:8080?path=%2F%3Fed%2FTelegram%40WedBaZ------&security=none&encryption=none&host=M4.nF9JZ2st7N.zULAiR.ORG.&type=ws#1404|02|23_22:08:50
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.166:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh35v4.gym35fit.shop#1404|02|23_20:08:51
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2Fre5IzbZ9IZZMddtw%3Fed%3D2560%2F%3FJOKERRVPNJoin_Bade_Channel%40JOKERRVPN&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=ipsycho.suex12.ir&fp=randomized&type=ws&sni=ipsychO.SUEx12.Ir#1404|02|23_13:08:04
@@ -12,4 +13,3 @@ vless://08fefda4-9bec-4f36-b673-8f8e6e60a8ff@germany.gamingbazirani.ir:600?secur
 vless://72c1e757-6f85-40ed-b149-b059954c3400@clientproo.xyz:443?security=none&encryption=none&headerType=none&type=tcp#1404|02|21_20:03:28
 vless://2491ed46-13f6-4650-bb76-e8fb251d6ea2@tify-binex-join.espikernajafi.ir:6666?mode=gun&security=none&encryption=none&type=grpc&serviceName=%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy#1404|02|21_12:32:56
 vless://2491ed46-13f6-4650-bb76-e8fb251d6ea2@tify-binex-join.espikernajafi.ir:6666?mode=gun&security=none&encryption=none&type=grpc&serviceName=%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy#1404|02|21_12:31:39
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.147.22:2096?path=%2F&security=tls&encryption=none&host=ScKzAhYz14.qUiCkOrA.OrG&fp=chrome&type=ws&sni=ScKzAhYz14.qUiCkOrA.OrG#1404|02|20_22:07:50

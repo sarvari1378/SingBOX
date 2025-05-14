@@ -1,4 +1,4 @@
-vless://a6e0280d-5df8-4de7-811a-db42402867a2@151.101.3.8:80?path=%2Fspdnet%3Fed%3D1024&security=none&encryption=none&host=Ws.speedtest.Spdnet.ir&type=ws#1404|02|24_22:04:24
+vless://685214a5-d9a2-40a5-ae75-a10bbc4334f0@77.90.11.28:443?security=reality&encryption=none&pbk=ampnaChEHEYr1TDX5A17QMBa_l0LnK3jWNDxVw31Kls&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=refersion.com&sid=cb#1404|02|24_22:04:24
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.147:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh33v1.cinema33.shop#1404|02|24_20:01:07
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?mode=gun&security=none&encryption=none&type=grpc#1404|02|24_12:18:46
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.245.166.86:59483?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#1404|02|24_12:16:56

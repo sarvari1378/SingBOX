@@ -1,6 +1,2 @@
 vless://9bf09a16-c5f1-4c9f-889d-25b9889df1b0@91.107.181.155:2025?mode=gun&security=&encryption=none&type=grpc&serviceName=vless#SERVE%2011
 ss://9bf09a16-c5f1-4c9f-889d-25b9889df1b0@91.107.181.155:2025?mode=gun&security=&encryption=none&type=grpc&serviceName=vless#SERVE%2011
-vless://e4c7f547-30d0-f8f1-8052-9877c2813e54@164.90.198.167:7919?mode=gun&security=reality&encryption=none&pbk=pGqdVploN2ecwM2JhMMw5c4TLliXSl0QBkcCooArEXY&fp=randomized&type=grpc&serviceName=7919vless&sni=refersion.com&sid=a1535a37b19ad500#%40one_shop_official%E2%9A%A1%E2%AD%90
-vless://98e5860e-09e0-4dc8-bdea-efe6cd95cfcd@tr.lunarmc.ir:12534?mode=gun&security=reality&encryption=none&pbk=FWFeQEGQMcGNBEFciUbQSVyiAxH88kt4q0VlXKOGX04&fp=chrome&spx=%2F&type=grpc&sni=stackoverflow.com&sid=5355a70761ec07#%40one_shop_official%F0%9F%98%88%F0%9F%94%A5`
-ss://e4c7f547-30d0-f8f1-8052-9877c2813e54@164.90.198.167:7919?mode=gun&security=reality&encryption=none&pbk=pGqdVploN2ecwM2JhMMw5c4TLliXSl0QBkcCooArEXY&fp=randomized&type=grpc&serviceName=7919vless&sni=refersion.com&sid=a1535a37b19ad500#%40one_shop_official%E2%9A%A1%E2%AD%90
-ss://98e5860e-09e0-4dc8-bdea-efe6cd95cfcd@tr.lunarmc.ir:12534?mode=gun&security=reality&encryption=none&pbk=FWFeQEGQMcGNBEFciUbQSVyiAxH88kt4q0VlXKOGX04&fp=chrome&spx=%2F&type=grpc&sni=stackoverflow.com&sid=5355a70761ec07#%40one_shop_official%F0%9F%98%88%F0%9F%94%A5`

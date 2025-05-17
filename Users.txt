@@ -10,7 +10,7 @@ Amirparnan, 9, @Arefehkamyab
 HomaKhademi, 19, @Arefehkamyab
 PedramHS, -3, @aghapedi8657
 MahsaMoradi, 6, @l_Mhs_l
-ParhamGhasemi, 1, @Chemical1373
-ParhamGhasemi-2, 1, @Chemical1373
+ParhamGhasemi, 31, @Chemical1373
+ParhamGhasemi-2, 31, @Chemical1373
 Parisa, -4, @Pkh7823
 Malezasmj, 27, @maleka_smj

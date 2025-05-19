@@ -20,5 +20,3 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?encryption=none&sec
 ss://1ebefa01-716a-5bd4-9ae1-48d6bd8fff13@41.216.182.162:2052?encryption=none&security=none&type=grpc&authority=&serviceName=vless-grpc&mode=gun#%40Daily_Configs
 ss://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBEYWlseV9Db25maWdzIiwNCiAgImFkZCI6ICI0NS4xMjkuMy4xNjYiLA0KICAicG9ydCI6ICIyOTM0NiIsDQogICJpZCI6ICI4MmE0OTFlZC0yMWVkLTQ0OGEtOTIzMi04ZDhlMjUzODcxNTkiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 ss://abe89c58-7732-4e91-963a-8842a50fcb73@raid-it.fiddlefish.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=americanfruits.net&alpn=http%2F1.1&fp=chrome&pbk=Y4eRIAUc68W2ivUAlyXhapiolAOWCVLdXBLf_KdZDSI&sid=d4&type=tcp&headerType=None#%40Daily_Configs`
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@89.46.238.35:989#%F0%9F%92%9C%20%40mobilesignal
-ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg@45.89.52.66:9043#%F0%9F%92%9C%20%40mobilesignal`

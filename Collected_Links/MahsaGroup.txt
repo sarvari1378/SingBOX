@@ -1,3 +1,5 @@
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=TySpSgQg.rIcKtMoUsE.InFo&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=TySpSgQg.rIcKtMoUsE.InFo&path=%2F#%23Shadmanegi%2BUnlimited
+ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=TySpSgQg.rIcKtMoUsE.InFo&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=TySpSgQg.rIcKtMoUsE.InFo&path=%2F#%23Shadmanegi%2BUnlimited
 vless://a5053089-8d6e-0ef9-8d09-aebb94f33aff@51.195.35.2:5234?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.com&fp=chrome&pbk=1juiWgfU1-cGsbu9zxKCly7Vn3WGES5x6S86r90_vwc&sid=b7e284c9b786f709&type=tcp&headerType=none&host=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI#%40Daily_Configs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@78.47.141.72:8880?encryption=none&security=none&type=grpc#%40Daily_Configs
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.197.108.20:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#%40Daily_Configs

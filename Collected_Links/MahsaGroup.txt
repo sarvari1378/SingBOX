@@ -1,3 +1,5 @@
+vless://V2rayvpn_official@n1.boutiqueman.shop:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=n1.boutiqueman.shop#Telegram%3Av2rayvpn_official
+ss://V2rayvpn_official@n1.boutiqueman.shop:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=n1.boutiqueman.shop#Telegram%3Av2rayvpn_official
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.129.165.20:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F#%40Daily_Configs
 vless://a5053089-8d6e-0ef9-8d09-aebb94f33aff@146.19.143.150:5234?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.com&fp=chrome&pbk=1juiWgfU1-cGsbu9zxKCly7Vn3WGES5x6S86r90_vwc&sid=b7e284c9b786f709&type=tcp&headerType=none&host=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI#%40Daily_Configs
 vless://a5053089-8d6e-0ef9-8d09-aebb94f33aff@146.19.143.150:5234?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.com&fp=chrome&pbk=1juiWgfU1-cGsbu9zxKCly7Vn3WGES5x6S86r90_vwc&sid=b7e284c9b786f709&type=tcp&headerType=none#%40Daily_Configs
@@ -20,5 +22,3 @@ ss://e312a92d-fdc7-49be-adfc-94c5f2a282ee@de-vpnmizban.gamingbazirani.ir:443?enc
 ss://e78f654c-fa48-40d6-a840-07b8611bb2d8@shop.cafegamingblackhorse.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tgju.org&fp=chrome&pbk=T7Cwk-B3EvZqqRywIgN_TNotJiUOXYUI9bHqYKPnTi0&sid=105e89ba3d2a1c3b&type=tcp&headerType=none#%40Daily_Configs`
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@89.46.238.35:989#%F0%9F%92%9C%20%40mobilesignal
 ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg@45.89.52.66:9043#%F0%9F%92%9C%20%40mobilesignal`
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=TySpSgQg.rIcKtMoUsE.InFo&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=TySpSgQg.rIcKtMoUsE.InFo&path=%2F#%23Shadmanegi%2BUnlimited
-ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=TySpSgQg.rIcKtMoUsE.InFo&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=TySpSgQg.rIcKtMoUsE.InFo&path=%2F#%23Shadmanegi%2BUnlimited

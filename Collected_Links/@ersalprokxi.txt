@@ -1,3 +1,4 @@
+vless://telegram-id-ArV2ray@www.speedtest.net:80?path=%2F-ArV2ry%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry&security=none&encryption=none&host=www.speedtest.net.a.9.speedtest20.sbs.&type=ws#1404|02|29_15:51:49
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.129.165.20:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F#1404|02|29_14:05:44
 vless://a5053089-8d6e-0ef9-8d09-aebb94f33aff@146.19.143.150:5234?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.com&fp=chrome&pbk=1juiWgfU1-cGsbu9zxKCly7Vn3WGES5x6S86r90_vwc&sid=b7e284c9b786f709&type=tcp&headerType=none&host=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI#1404|02|29_14:05:44
 vless://a5053089-8d6e-0ef9-8d09-aebb94f33aff@146.19.143.150:5234?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.com&fp=chrome&pbk=1juiWgfU1-cGsbu9zxKCly7Vn3WGES5x6S86r90_vwc&sid=b7e284c9b786f709&type=tcp&headerType=none#1404|02|29_14:05:44
@@ -37,4 +38,3 @@ vless://f12977e6-d296-4d94-9aaf-d31770b70f84@104.21.69.44:443?path=%2F&security=
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c1b:1aa0::1]:36568?security=none&encryption=none&headerType=none&type=tcp#1404|02|28_21:42:42
 vless://5a76615b-10e1-46f7-d521-17662f3c7287@157.180.80.139:8880?mode=gun&security=none&encryption=none&type=grpc#1404|02|28_21:30:49
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDFkZGNlZC1lNmVlLTQxNzUtOWMxYS1lNTI0MDA5ZjkwNDU%3D@144.126.146.38:30100#1404|02|28_21:30:49
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4QXZ1bDI5cG81Y25yNFZOVGFTNHNo@104.192.227.162:443#1404|02|28_21:30:49

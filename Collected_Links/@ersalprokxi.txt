@@ -1,3 +1,4 @@
+vless://telegram-id-ArV2ray@www.speedtest.net:80?path=%2F-ArV2ry%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry&security=none&encryption=none&host=www.speedtest.net.a.9.speedtest20.sbs.&type=ws#1404|02|29_02:37:54
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.17.147.22:8443?path=%2F&security=tls&encryption=none&host=YqDaWy48R5.mAkEfOrLeSs.InFo&type=ws&sni=YqDaWy48R5.mAkEfOrLeSs.InFo#1404|02|29_01:09:36
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#1404|02|29_01:09:36
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?mode=gun&security=none&encryption=none&type=grpc#1404|02|29_01:09:36
@@ -37,4 +38,3 @@ vless://e607e472-cee3-4ea7-c731-4a041a961a05@91.107.253.168:8880?encryption=none
 vless://811846fb-595e-4984-80a6-e0fed34fe2b5@shop.cafegamingblackhorse.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tgju.org&fp=chrome&pbk=T7Cwk-B3EvZqqRywIgN_TNotJiUOXYUI9bHqYKPnTi0&sid=105e89ba3d2a1c3b&type=tcp&headerType=none#1404|02|27_18:16:38
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.208.56:80?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%20%40vpnAndroid2%2F%3Fed%3D2560#1404|02|27_18:16:38
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.148.106.214:80?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%20%40vpnAndroid2%2F%3Fed%3D2560#1404|02|27_18:16:38
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.7.24:80?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%20%40vpnAndroid2%2F%3Fed%3D2560#1404|02|27_18:16:38

@@ -1,3 +1,5 @@
+vless://26b63e3a-60f9-4630-b180-fde6c4339602@www.zula.ir:8880?path=%2FChannel----VPNCUSTOMIZE%3Fed%3D2048&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=Join.vpncustomize.iran.ir.arvancloud.ir.www.speedtest.net.persiancampel.iR&fp=randomized&type=ws#1404|02|31_16:27:19
+vless://26b63e3a-60f9-4630-b180-fde6c4339602@140.248.128.69:443/?type=ws&host=Channel-VPNCUSTOMIZE.ir&path=/Channel----VPNCUSTOMIZE%3Fed%3D2048&security=tls&sni=Channel-VPNCUSTOMIZE&allowInsecure=1#1404|02|31_16:27:19
 vless://5a76615b-10e1-46f7-d521-17662f3c7287@157.180.80.98:8880?mode=gun&security=none&encryption=none&type=grpc#1404|02|31_15:33:49
 vless://b77143a4-d480-42fb-8ba3-1f7282948a97@77.110.98.221:36994?security=reality&encryption=none&pbk=B0o9qWjR8-Rwid0pZe-C4LPfxUJCDSWANN0CMbbPxSY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=8b5ba7aca4#1404|02|31_15:33:49
 vless://jointelegram%40V2rayvpn_official@n1.boutiqueman.shop:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=n1.boutiqueman.shop#1404|02|31_15:33:49
@@ -36,5 +38,3 @@ vless://d4e36d8c-623b-4413-b461-a99d786c4b55@lunavopershian.adas.monster:38290?t
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?encryption=none&security=none&type=ws&host=REEdfREe8MahSaNg2.rEDOrG.IR&path=%2FTelegram%40MTMVPN#1404|02|30_17:50:42
 vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@104.17.148.22:8880?encryption=none&security=none&type=ws&host=www.speedtest.net.zula.ir.cfw1.afhudvbhgfnet.ddns-ip.nEt.&path=%2F%3Fed%3D2560#1404|02|30_17:50:42
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.127:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#1404|02|30_17:50:42
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.8.211.220:80?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%40vpnAndroid2%2F%3Fed%3D2560#1404|02|30_17:50:42
-vless://02d647f7-c7be-4af2-bb3d-c921ad94ca26@shop.cafegamingblackhorse.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tgju.org&fp=chrome&pbk=T7Cwk-B3EvZqqRywIgN_TNotJiUOXYUI9bHqYKPnTi0&sid=105e89ba3d2a1c3b&type=tcp&headerType=none#1404|02|30_17:50:42

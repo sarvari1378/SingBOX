@@ -1,3 +1,4 @@
+vless://telegram-id-ArV2ray@193.46.81.83:3567?mode=gun&security=reality&encryption=none&pbk=_5Hw5RRcDyCnW7H3Ubmp9UnqNiQUaKfB5rPTDqI_kAA&fp=chrome&type=grpc&serviceName=telegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray&sni=maps.google.com&sid=c14b9292de5a8d6f#1404|02|31_12:14:36
 vless://96ae2f29-3479-4dce-84e5-24fe691d1a7a@www.zula.ir:8880?path=%2FChannel----VPNCUSTOMIZE%3Fed%3D2048&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=Join.vpncustomize.iran.ir.arvancloud.ir.www.speedtest.net.persiancampel.iR&fp=randomized&type=ws#1404|02|31_00:18:33
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.182.1:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#1404|02|30_23:31:42
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#1404|02|30_23:31:42
@@ -37,4 +38,3 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.193.30.20:80?encryption=none&se
 vless://e607e472-cee3-4ea7-c731-4a041a961a05@91.107.150.160:8880?encryption=none&security=none&type=grpc#1404|02|30_08:39:13
 vless://37b6dd9d-fe73-4083-a5be-ad3d11c484c5@188.34.201.88:16072?encryption=none&security=none&type=grpc#1404|02|30_08:39:13
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.229.205:80?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%40vpnAndroid2%2F%3Fed%3D2560#1404|02|30_08:39:13
-vless://e607e472-cee3-4ea7-c731-4a041a961a05@5.75.194.94:8880?encryption=none&security=none&type=grpc#1404|02|30_08:39:13

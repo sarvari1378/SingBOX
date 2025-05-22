@@ -1,3 +1,5 @@
+vless://8ec3ee9d-38d1-4b6a-a080-e2d646a64997@bless.network:443?encryption=none&security=tls&sni=azarandooz.idtokens.workers.dev&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=ws&host=azarandooz.idtokens.workers.dev&path=%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot#%40AzarAndoozVPNbot
+ss://8ec3ee9d-38d1-4b6a-a080-e2d646a64997@bless.network:443?encryption=none&security=tls&sni=azarandooz.idtokens.workers.dev&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=ws&host=azarandooz.idtokens.workers.dev&path=%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot#%40AzarAndoozVPNbot
 vless://e8904c41-e39a-47a4-bf5a-a389318568c8@syntax7417.ignorelist.com:41884?type=grpc&serviceName=&authority=&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=syntax7417.ignorelist.com#%40configs_center-m2c7fg44
 vless://00cbb0de-a568-493e-a66a-ce8ec4c845b7@syntax7417.ignorelist.com:41884?type=grpc&serviceName=&authority=&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=syntax7417.ignorelist.com#%40configs_center-zglg8nyp
 vless://c8fd4413-ea9b-450d-aa59-69838d473144@syntax7417.ignorelist.com:51314?type=grpc&serviceName=&authority=&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=syntax7417.ignorelist.com#%40configs_center-bu6o9nsh
@@ -47,5 +49,3 @@ vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=no
 ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=ZjJuNdIy.rIpLeToOrY.InFo&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=ZjJuNdIy.rIpLeToOrY.InFo&path=%2F#%23Shadmanegi%2BUnlimited
 vless://9bf09a16-c5f1-4c9f-889d-25b9889df1b0@91.107.181.155:2025?mode=gun&security=&encryption=none&type=grpc&serviceName=vless#SERVE%2011
 ss://9bf09a16-c5f1-4c9f-889d-25b9889df1b0@91.107.181.155:2025?mode=gun&security=&encryption=none&type=grpc&serviceName=vless#SERVE%2011
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@89.46.238.35:989#%F0%9F%92%9C%20%40mobilesignal
-ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg@45.89.52.66:9043#%F0%9F%92%9C%20%40mobilesignal`

@@ -1,3 +1,5 @@
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=ZjJuNdIy.rIpLeToOrY.InFo&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=ZjJuNdIy.rIpLeToOrY.InFo&path=%2F#%23Shadmanegi%2BUnlimited
+ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=ZjJuNdIy.rIpLeToOrY.InFo&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=ZjJuNdIy.rIpLeToOrY.InFo&path=%2F#%23Shadmanegi%2BUnlimited
 vless://e8904c41-e39a-47a4-bf5a-a389318568c8@syntax7417.ignorelist.com:41884?type=grpc&serviceName=&authority=&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=syntax7417.ignorelist.com#%40configs_center-m2c7fg44
 vless://00cbb0de-a568-493e-a66a-ce8ec4c845b7@syntax7417.ignorelist.com:41884?type=grpc&serviceName=&authority=&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=syntax7417.ignorelist.com#%40configs_center-zglg8nyp
 vless://c8fd4413-ea9b-450d-aa59-69838d473144@syntax7417.ignorelist.com:51314?type=grpc&serviceName=&authority=&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=syntax7417.ignorelist.com#%40configs_center-bu6o9nsh

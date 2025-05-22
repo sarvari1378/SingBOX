@@ -1,3 +1,4 @@
+vless://f56c315c-a8a6-4f15-b8e0-fcc2afe13b29@140.248.128.69:443?path=%2FVPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE%3Fed&security=tls&encryption=none&host=Channel-VPNCUSTOMIZE.ir&type=ws&sni=Channel-VPNCUSTOMIZE.ir#1404|03|01_20:04:06
 vless://f56c315c-a8a6-4f15-b8e0-fcc2afe13b29@www.zula.ir:8080?path=%2FChannel-ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY----Channel-ELiV2RAY---ELiV2RAY%3Fed%3D2048&security=none&encryption=none&host=Abrarvan1.com.&type=ws#1404|03|01_12:30:29
 vless://f56c315c-a8a6-4f15-b8e0-fcc2afe13b29@140.248.128.69:80?path=%2FChannel-ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY----Channel-ELiV2RAY---ELiV2RAY%3Fed%3D2048&security=none&encryption=none&host=Channel-ELiV2.RAY.neT&type=ws#1404|03|01_12:29:02
 vless://e9d968c7-a840-4cdd-9fb3-44f5daa5c195@140.248.128.69:80?path=%2FChannel-ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY----Channel-ELiV2RAY---ELiV2RAY%3Fed%3D2048&security=none&encryption=none&host=Channel-ELiV2.RAY.neT&type=ws#1404|02|31_21:58:22
@@ -12,4 +13,3 @@ vless://c3ca1fa4-3022-4806-8072-9d744bb554c6@www.zula.ir:8880?path=%2FChannel---
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#1404|02|29_12:31:40
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#1404|02|29_12:30:17
 vless://76e80a6d-9865-4e56-842f-ba62c0fa91c3@167.235.28.81:6893?security=none&encryption=none&host=%2FJoin_Bade_Channel%40JOKERRVPN&headerType=none&type=tcp#1404|02|28_22:22:50
-vless://da304b40-0a8e-4de1-8458-ed1802f03022@www.zula.ir:8880?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join.vpncustomize.iran.ir.arvancloud.ir.www.speedtest.netty.ip-ddns.com.&fp=randomized&type=ws#1404|02|28_20:09:44

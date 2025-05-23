@@ -1,4 +1,2 @@
-vless://chanell%40V2rayvpn_official@n1.boutiqueman.shop:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=n1.boutiqueman.shop#V2rayvpn_official
-ss://chanell%40V2rayvpn_official@n1.boutiqueman.shop:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=n1.boutiqueman.shop#V2rayvpn_official
-vless://9bf09a16-c5f1-4c9f-889d-25b9889df1b0@91.107.181.155:2025?mode=gun&security=&encryption=none&type=grpc&serviceName=vless#SERVE%2011
-ss://9bf09a16-c5f1-4c9f-889d-25b9889df1b0@91.107.181.155:2025?mode=gun&security=&encryption=none&type=grpc&serviceName=vless#SERVE%2011
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@62.100.205.48:989#%F0%9F%92%9C%20%40mobilesignal
+ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA@217.30.10.18:9027#%F0%9F%92%9C%20%40mobilesignal

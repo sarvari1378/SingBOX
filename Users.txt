@@ -6,7 +6,7 @@ Mojtabakamyab, 10, @Arefehkamyab
 Behnaz, 17, +989157380448
 PariaGhasemi, 18, @Paria_ghasemi
 AtieKamyab, 31, @Arefehkamyab
-Amirparnan, 0, @Arefehkamyab
+Amirparnan, 31, @Arefehkamyab
 HomaKhademi, 10, @Arefehkamyab
 PedramHS, 26, @aghapedi8657
 MahsaMoradi, -3, @l_Mhs_l

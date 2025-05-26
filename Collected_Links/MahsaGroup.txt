@@ -1,8 +1,0 @@
-vless://tel%40V2rayvpn_official@n1.boutiqueman.shop:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=n1.boutiqueman.shop#V2rayvpn_official
-ss://tel%40V2rayvpn_official@n1.boutiqueman.shop:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=n1.boutiqueman.shop#V2rayvpn_official
-vless://b530bc20-47ec-495f-b19d-a3ae32ab3743@140.248.180.60:443/?host=JOIN-ELiV2RAY.IR&path=/Channel-ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY----Channel-ELiV2RAY---ELiV2RAY%3Fed%3D2048&security=tls&sni=JOIN-ELiV2RAY.IR&allowInsecure=1&fp=qq&type=ws#⚡All-Net-@ELiV2RaY
-vless://b530bc20-47ec-495f-b19d-a3ae32ab3743@ufc.ru:80?path=%2FChannel-ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY----Channel-ELiV2RAY---ELiV2RAY%3Fed%3D2048&host=JOIN-ELiV2RAY.IR&type=ws#🔥All-@ELiV2RaY`
-vless://b530bc20-47ec-495f-b19d-a3ae32ab3743@www.zula.ir:8080?path=%2FChannel-ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY----Channel-ELiV2RAY---ELiV2RAY%3Fed%3D2048&host=ir-ddos.com.&type=ws#🇩🇪WS-ELiV2RAY`
-ss://b530bc20-47ec-495f-b19d-a3ae32ab3743@140.248.180.60:443/?host=JOIN-ELiV2RAY.IR&path=/Channel-ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY----Channel-ELiV2RAY---ELiV2RAY%3Fed%3D2048&security=tls&sni=JOIN-ELiV2RAY.IR&allowInsecure=1&fp=qq&type=ws#⚡All-Net-@ELiV2RaY
-ss://b530bc20-47ec-495f-b19d-a3ae32ab3743@ufc.ru:80?path=%2FChannel-ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY----Channel-ELiV2RAY---ELiV2RAY%3Fed%3D2048&host=JOIN-ELiV2RAY.IR&type=ws#🔥All-@ELiV2RaY`
-ss://b530bc20-47ec-495f-b19d-a3ae32ab3743@www.zula.ir:8080?path=%2FChannel-ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY----Channel-ELiV2RAY---ELiV2RAY%3Fed%3D2048&host=ir-ddos.com.&type=ws#🇩🇪WS-ELiV2RAY`

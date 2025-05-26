@@ -1,3 +1,5 @@
+vless://tel%40V2rayvpn_official@n1.boutiqueman.shop:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=n1.boutiqueman.shop#V2rayvpn_official
+ss://tel%40V2rayvpn_official@n1.boutiqueman.shop:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=n1.boutiqueman.shop#V2rayvpn_official
 vless://6603a779-07c9-4bc9-8f61-4a09c238653a@62.60.193.221:32774?encryption=none&security=none&type=ws&path=%2F6603a779#%40Daily_Configs
 vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@104.26.12.101:2052?encryption=none&security=none&type=ws&host=hit.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.trepaspeedtest.betrat.com.eu.com.sh847.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.fffffffff.ddns-ip.net.&path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D1080#%40Daily_Configs
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?encryption=none&security=none&type=ws&host=REEdfREe8MahSaNg2.rEDOrG.IR&path=%2FTELEGRAM%40MARAMBASHI_MARAMBASHI#%40Daily_Configs

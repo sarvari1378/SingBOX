@@ -1,3 +1,5 @@
+vless://telegram%40V2rayvpn_official@n1.boutiqueman.shop:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=n1.boutiqueman.shop#V2rayvpn_official
+ss://telegram%40V2rayvpn_official@n1.boutiqueman.shop:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=n1.boutiqueman.shop#V2rayvpn_official
 vless://6603a779-07c9-4bc9-8f61-4a09c238653a@62.60.193.221:32774?encryption=none&security=none&type=ws&host=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&path=%2F6603a779#%40Daily_Configs
 vless://f8467c42-f9e5-4c07-9854-517ef3090ef5@104.16.172.185:2053?encryption=none&security=tls&sni=fantin.dpdns.org&fp=random&type=ws&host=fantin.dpdns.org&path=%2F%3Fed%3D2560#%40Daily_Configs
 vless://908fe4f8-eb66-42eb-bd97-8d88be7f0ac4@172.67.195.73:2053?encryption=none&security=tls&sni=txmt.conetcdata.dpdns.org&fp=random&type=ws&host=txmt.conetcdata.dpdns.org&path=%2F%3Fed%3D2560#%40Daily_Configs

@@ -1,6 +1,6 @@
+vless://4d9aab0a-bbf3-406b-8b49-efc3241b8f47@bless.network:443?path=%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=azarandooz.marzneshin.workers.dev&fp=chrome&type=ws&sni=azarandooz.marzneshin.workers.dev#%F0%9F%87%BA%F0%9F%87%A6%40AzarAndoozVPN``
+ss://4d9aab0a-bbf3-406b-8b49-efc3241b8f47@bless.network:443?path=%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=azarandooz.marzneshin.workers.dev&fp=chrome&type=ws&sni=azarandooz.marzneshin.workers.dev#%F0%9F%87%BA%F0%9F%87%A6%40AzarAndoozVPN``
 vless://6ba6c3ee-3324-4649-a58c-2a5241944bdf@ir.lunarmc.ir:2020?type=grpc&serviceName=&authority=&security=none#turkey-dmyba54v`
 ss://6ba6c3ee-3324-4649-a58c-2a5241944bdf@ir.lunarmc.ir:2020?type=grpc&serviceName=&authority=&security=none#turkey-dmyba54v`
-vless://telegram%40V2rayvpn_official@n1.boutiqueman.shop:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=n1.boutiqueman.shop#V2rayvpn_official
-ss://telegram%40V2rayvpn_official@n1.boutiqueman.shop:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=n1.boutiqueman.shop#V2rayvpn_official
 vless://telegram%40V2rayvpn_official@n1.boutiqueman.shop:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=n1.boutiqueman.shop#V2rayvpn_official
 ss://telegram%40V2rayvpn_official@n1.boutiqueman.shop:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=n1.boutiqueman.shop#V2rayvpn_official

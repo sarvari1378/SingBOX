@@ -1,3 +1,5 @@
+vless://d8c6ba07-2566-430b-b2a4-e8700347f686@dl.dllavanddownload.ir:3053?type=tcp&path=%2Ffree.php&host=F51.ir&headerType=http&security=none#%5B%F0%9F%87%B8%F0%9F%87%AA%5DTelegram%20%40Avandvpn`
+ss://d8c6ba07-2566-430b-b2a4-e8700347f686@dl.dllavanddownload.ir:3053?type=tcp&path=%2Ffree.php&host=F51.ir&headerType=http&security=none#%5B%F0%9F%87%B8%F0%9F%87%AA%5DTelegram%20%40Avandvpn`
 vless://66abb453-9692-4fde-a24f-95e646ce6410@116.203.149.50:22940?security=none&encryption=none&host=%40one_shop_official&headerType=http&type=tcp#%40one_shop_official`
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.164:8080#%40one_shop_official
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5TVg5V0dQZ1VFY1JabWxhYTBZSEhD@103.106.1.92:23492#%40one_shop_official

@@ -1,3 +1,4 @@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#1404|03|10_20:12:15
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.129.164.20:8880?security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#1404|03|10_12:16:52
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?mode=gun&security=none&encryption=none&type=grpc#1404|03|10_12:04:35
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@ufc.ru:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=CHANNEL-ELiV2RAY-ELiV2RAY.IR&type=ws#1404|03|09_22:09:44
@@ -12,4 +13,3 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@176.124.223.20:8880?path=%2F%3Fed%3
 vless://75698d2b-62b2-406a-aa0b-6738fe12e73f@95.164.16.166:2087?mode=gun&security=reality&encryption=none&pbk=UmfiIOjfgdKF7C2cWhO-rzHeKHHxONToNSjTNpilA00&fp=chrome&spx=%2F&type=grpc&serviceName=telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry&sni=www.cdn77.com&sid=34f2#1404|03|07_19:58:17
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5TVg5V0dQZ1VFY1JabWxhYTBZSEhD@103.106.1.92:23492#1404|03|07_12:09:02
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#1404|03|07_12:07:21
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#1404|03|06_22:01:58

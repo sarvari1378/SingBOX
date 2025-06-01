@@ -1,3 +1,7 @@
+vless://999ede55-0aaa-4b54-9dad-c2abe0188940@nwarne.fast.hosting-ip.com:80?path=%2Fde%3Fed%3D1048&security=none&encryption=none&host=okamigreen.com&type=ws#%F0%9F%94%A5Allahvpn%F0%9F%9A%80
+ss://999ede55-0aaa-4b54-9dad-c2abe0188940@nwarne.fast.hosting-ip.com:80?path=%2Fde%3Fed%3D1048&security=none&encryption=none&host=okamigreen.com&type=ws#%F0%9F%94%A5Allahvpn%F0%9F%9A%80
+vless://V2rayvpn_official@n1.cafedorehami.shop:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=n1.cafedorehami.shop#V2rayvpn_official
+ss://V2rayvpn_official@n1.cafedorehami.shop:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=n1.cafedorehami.shop#V2rayvpn_official
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@80.211.194.250:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40ShadowProxy66%20%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%40Daily_Configs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=none&encryption=none&type=grpc#%40Daily_Configs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#%40Daily_Configs

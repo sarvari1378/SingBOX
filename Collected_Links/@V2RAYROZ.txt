@@ -1,3 +1,5 @@
+vless://telegram-id-ArV2ray9@151.101.64.155:80?path=%2F-ArV2ry%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry%3Fed%3D2048&security=none&encryption=none&host=mard.ankaboti.com.&type=ws#1404|03|11_12:11:36
+vless://64f05df5-3f67-41ae-dbfe-56e55cfb72f3@tify-binex-join.espikernajafi.ir:2053?path=%2Ftelegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560&security=none&encryption=none&type=ws#1404|03|11_12:09:29
 vless://telegram-id-ArV2ray9@151.101.64.155:80?path=%2F-ArV2ry%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry%3Fed%3D2048&security=none&encryption=none&host=mard.ankaboti.com.&type=ws#1404|03|10_22:03:11
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#1404|03|10_20:12:15
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.129.164.20:8880?security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#1404|03|10_12:16:52
@@ -11,5 +13,3 @@ vmess://eyJhZGQiOiIxNDIuMTMyLjE4NS4xNTYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#1404|03|08_12:10:42
 vless://d8cc0a1b-c74e-4989-86dd-602313f73730@aS.mispd.ir:443?security=reality&encryption=none&pbk=RHHsE0zRMURF68hhYudInePtzoOV5Z1VZaIMsFHTUnM&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=tgju.org&sid=99fe#1404|03|08_12:08:50
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@176.124.223.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#1404|03|07_22:03:52
-vless://75698d2b-62b2-406a-aa0b-6738fe12e73f@95.164.16.166:2087?mode=gun&security=reality&encryption=none&pbk=UmfiIOjfgdKF7C2cWhO-rzHeKHHxONToNSjTNpilA00&fp=chrome&spx=%2F&type=grpc&serviceName=telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry&sni=www.cdn77.com&sid=34f2#1404|03|07_19:58:17
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5TVg5V0dQZ1VFY1JabWxhYTBZSEhD@103.106.1.92:23492#1404|03|07_12:09:02

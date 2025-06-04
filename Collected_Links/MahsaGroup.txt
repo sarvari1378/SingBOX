@@ -2,5 +2,3 @@ vless://0e6727fb-d915-4190-b21e-4481b9d0fe47@159.89.28.167:23216?encryption=none
 ss://0e6727fb-d915-4190-b21e-4481b9d0fe47@159.89.28.167:23216?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=sXXiffZ2phEkZKSQaxRuCrmmf2b-k40yJ0xaBoPYMWc&sid=bb77da&spx=%2F&type=xhttp&path=%2F&mode=auto#%40GrizzlyVPN%20%D8%A2%D9%84%D9%85%D8%A7%D9%86```
 vless://telegram%3AV2rayvpn_official@n1.cafedorehami.shop:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=n1.cafedorehami.shop#V2rayvpn_official
 ss://telegram%3AV2rayvpn_official@n1.cafedorehami.shop:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=n1.cafedorehami.shop#V2rayvpn_official
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=UfTwJzAj.rIpLeToOrY.InFo&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=UfTwJzAj.rIpLeToOrY.InFo&path=%2F#%23Shadmanegi%2BUnlimited
-ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=UfTwJzAj.rIpLeToOrY.InFo&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=UfTwJzAj.rIpLeToOrY.InFo&path=%2F#%23Shadmanegi%2BUnlimited

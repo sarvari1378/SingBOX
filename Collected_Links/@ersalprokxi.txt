@@ -1,3 +1,4 @@
+vless://telegram-id-ArV2ray11@151.101.64.155:80?path=%2F-ArV2ry%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry%3Fed%3D2048&security=none&encryption=none&host=mard.ankaboti.com.&type=ws#1404|03|15_01:54:29
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.18.250.162:8880?path=%2FChannel%20id%3A%20%40ShadowProxy66%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#1404|03|14_23:36:23
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.211.213:8880?path=%2FChannel%20id%3A%20%40ShadowProxy66%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#1404|03|14_23:36:23
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.80.111.215:8880?path=%2FChannel%20id%3A%20%40ShadowProxy66%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#1404|03|14_23:36:23
@@ -37,4 +38,3 @@ vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.206.76:443?security=tls&enc
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#1404|03|14_13:55:42
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.200.160.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#1404|03|14_13:55:42
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.4.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#1404|03|14_13:55:42
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@167.68.11.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#1404|03|14_13:55:42

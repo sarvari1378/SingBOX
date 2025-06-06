@@ -1,3 +1,5 @@
+vless://0d0782a3-2c62-4936-b893-5790188778ea@www.speedtest.net:443?path=%2F&security=tls&encryption=none&alpn=h3,h2&host=XbU10cS9vT.gIgA1.oRg&fp=chrome&type=ws&sni=XbU10cS9vT.gIgA1.oRg#%23Shadmanegi+Unlimited```
+ss://0d0782a3-2c62-4936-b893-5790188778ea@www.speedtest.net:443?path=%2F&security=tls&encryption=none&alpn=h3,h2&host=XbU10cS9vT.gIgA1.oRg&fp=chrome&type=ws&sni=XbU10cS9vT.gIgA1.oRg#%23Shadmanegi+Unlimited```
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#PersianGulf%2080%20%28%40proxy_kafee%29
 vless://7f9ae078-a9bd-40af-8b5d-698419f68998@www.speedtest.net:2086?path=%2Ftel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.kArvashAsadi.ir.&type=httpupgrade#%40proxy_kafee%20vip%20%F0%9F%87%A9%F0%9F%87%AA%201
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.200.160.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#PersianGulf%2081%20%28%40proxy_kafee%29

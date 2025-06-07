@@ -1,3 +1,5 @@
+vless://telegram%3A%3AV2rayvpn_official@n1.cafedorehami.shop:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=n1.cafedorehami.shop#V2rayvpn_official
+ss://telegram%3A%3AV2rayvpn_official@n1.cafedorehami.shop:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=n1.cafedorehami.shop#V2rayvpn_official
 vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@104.21.75.66:2086?encryption=none&security=none&type=ws&host=domain2025.dpdns.org&path=%2Fs9OZ6FClZzVoeUpN%3Fed%3D2560#%40Daily_Configs
 vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@172.67.215.253:2086?encryption=none&security=none&type=ws&host=domain2025.dpdns.org&path=%2F5iOpl6glcE8I64UV%3Fed%3D2560#%40Daily_Configs
 vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@172.67.215.253:2052?encryption=none&security=none&type=ws&host=domain2025.dpdns.org&path=%2FahiWVFUV6Bj3gGKk%3Fed%3D2560#%40Daily_Configs

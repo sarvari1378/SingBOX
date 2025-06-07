@@ -1,5 +1,6 @@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#1404|03|17_20:01:25
 vless://d3541bb4-2cb5-4372-beab-fac34d5b8539@199.232.13.32:80?path=%2Fnetherlands%2Famsterdam%2Fvl%2Fws%2Ftls&security=none&encryption=none&host=Channel----VPNCUSTOMIZE.ir&type=ws#1404|03|17_12:12:57
-vless://d3541bb4-2cb5-4372-beab-fac34d5b8539@199.232.13.32:80?path=%2Fnetherlands%2Famsterdam%2Fvl%2Fws%2Ftls&security=none&encryption=none&host=Channel----VPNCUSTOMIZE.ir&type=ws#1404|03|17_12:10:54
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#1404|03|17_12:10:54
 vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@140.248.129.58:443?path=%2FChannel-MOSIV2--MOSIV2--Channel-MOSIV2--MOSIV2%3Fed%3D2560&security=tls&encryption=none&host=Channel--MOSIV2--MOSIV2.IR&fp=qq&type=ws&sni=Channel--MOSIV2--MOSIV2.IR#1404|03|16_22:51:08
 vless://telegram-id-ArV2ray11@151.101.64.155:80?path=%2F-ArV2ry%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry%3Fed%3D2048&security=none&encryption=none&host=mard.ankaboti.com.&type=ws#1404|03|16_20:04:13
 vless://cf069ba9-3d6d-482f-9982-20fc55d04c9b@tgju.org.tr.systemgamingirani.ir:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e54b5ad736ae4c38#1404|03|16_12:21:34
@@ -12,4 +13,3 @@ vless://42ae80f7-764f-47d7-8c3c-9a3817210e91@194.182.79.41:48615?mode=gun&securi
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#1404|03|14_20:09:34
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.200.160.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#1404|03|14_12:01:15
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#1404|03|14_12:00:15
-vless://7934696d-3c22-4197-ab71-dbaddd3ed531@194.182.79.100:42438?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#1404|03|13_21:58:10

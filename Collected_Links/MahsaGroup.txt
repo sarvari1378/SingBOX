@@ -1,4 +1,4 @@
+vless://V2rayvpn_official@n1.cafedorehami.shop:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=n1.cafedorehami.shop#V2rayvpn_official
+ss://V2rayvpn_official@n1.cafedorehami.shop:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=n1.cafedorehami.shop#V2rayvpn_official
 vless://8c9a892c-e9d5-4fff-bfdb-8ef9c50272b1@162.251.82.187:80?type=ws&host=my-mail-management-pr0-git-land-manager.clients-github.com&path=/58834/mail-template#t.me/amirw_shop_q`
 ss://8c9a892c-e9d5-4fff-bfdb-8ef9c50272b1@162.251.82.187:80?type=ws&host=my-mail-management-pr0-git-land-manager.clients-github.com&path=/58834/mail-template#t.me/amirw_shop_q`
-vless://03084875-a592-4a0a-894e-1f3850b1970b@bless.network:443?path=%2F%40AzarAndoozVPNbot&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=azarandooz-cybernetics.pages.dev&fp=chrome&type=ws&sni=azarandooz-cybernetics.pages.dev#%5B%F0%9F%87%A8%F0%9F%87%A6%5Dt.me/amirw_shop_q`
-ss://03084875-a592-4a0a-894e-1f3850b1970b@bless.network:443?path=%2F%40AzarAndoozVPNbot&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=azarandooz-cybernetics.pages.dev&fp=chrome&type=ws&sni=azarandooz-cybernetics.pages.dev#%5B%F0%9F%87%A8%F0%9F%87%A6%5Dt.me/amirw_shop_q`

@@ -1,5 +1,5 @@
-vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@172.67.215.253:2082?path=%2FzgXMXYP1CPe1GKrv%3Fed%3D2560&security=none&encryption=none&host=domain2025.dpdns.org&type=ws#1404|03|20_12:04:19
-vless://9761fd53-e191-459a-b68e-ccde488e3e51@91.99.24.244:23324?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#1404|03|20_12:03:14
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#1404|03|20_12:04:19
+vless://99e7663b-3c55-46a3-8b84-f174d814cc93@arvancloud.fn.ir.systemgamingirani.ir:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e54b5ad736ae4c38#1404|03|20_12:03:14
 vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@104.21.75.66:80?path=%2F942voDlUa1wjdNSl%3Fed%3D2560&security=none&encryption=none&host=domain2025.dpdns.org&type=ws#1404|03|19_22:40:26
 vless://00fa602f-58cd-4f57-888d-5bbf234ca79c@128.140.105.111:8443?mode=auto&path=%2FLianPingBot&security=reality&encryption=none&pbk=wlPxU9P1fUny_aPX8BTv-ujgUlfw4hQ1l1KsK0Pv2kw&fp=chrome&spx=%2F&type=xhttp&sni=speedtest.net&sid=db5a#1404|03|19_20:05:05
 vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@www.speedtest.net:80?path=%2FJaxavRV98PXaUKdZ%3Fed%3D2560&security=none&encryption=none&host=domain2025.dpdns.org&type=ws#1404|03|19_12:11:06

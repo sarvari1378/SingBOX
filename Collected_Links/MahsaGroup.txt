@@ -1,3 +1,5 @@
+vless://99e7663b-3c55-46a3-8b84-f174d814cc93@arvancloud.nl.ir.systemgamingirani.ir:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e54b5ad736ae4c38#Germany🇩🇪`
+ss://99e7663b-3c55-46a3-8b84-f174d814cc93@arvancloud.nl.ir.systemgamingirani.ir:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e54b5ad736ae4c38#Germany🇩🇪`
 vless://channel%40v2rayvpn_official@n1.cafedorehami.shop:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=n1.cafedorehami.shop#%40Daily_Configs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.12:8880?mode=gun&security=none&encryption=none&type=grpc#%40Daily_Configs
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#%40Daily_Configs

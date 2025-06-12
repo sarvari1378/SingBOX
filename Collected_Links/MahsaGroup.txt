@@ -1,3 +1,5 @@
+vless://v2rayvpn_official@n1.cafedorehami.shop:80?security=&encryption=none&type=grpc&serviceName=n1.cafedorehami.shop#v2rayvpn_official
+ss://v2rayvpn_official@n1.cafedorehami.shop:80?security=&encryption=none&type=grpc&serviceName=n1.cafedorehami.shop#v2rayvpn_official
 vless://dd3d18b9-28df-4680-a79e-e1c0c8d5496d@bless.network:443?encryption=none&security=tls&sni=azarandooz.prospective.workers.dev&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=azarandooz.prospective.workers.dev&path=%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot#%F0%9F%87%B7%F0%9F%87%BA%40AzarAndoozVPNbot```
 ss://dd3d18b9-28df-4680-a79e-e1c0c8d5496d@bless.network:443?encryption=none&security=tls&sni=azarandooz.prospective.workers.dev&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=azarandooz.prospective.workers.dev&path=%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot#%F0%9F%87%B7%F0%9F%87%BA%40AzarAndoozVPNbot```
 vless://0d0782a3-2c62-4936-b893-5790188778ea@www.speedtest.net:443?path=%2F&security=tls&encryption=none&alpn=h3,h2&host=ZuStWp5Y51.gIgA3.oRg&fp=chrome&type=ws&sni=ZuStWp5Y51.gIgA3.oRg#%23Shadmanegi+Unlimited```
@@ -27,5 +29,3 @@ ss://464e755f-27a5-4990-b029-33d3b7a0c154@65.109.209.140:2087?encryption=none&se
 ss://b7469549-3b24-4f2f-b5e8-ff17dd547e01@194.182.79.143:36936?encryption=none&security=none&type=grpc&authority=&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&mode=gun#%40Daily_Configs`
 vless://channel%40v2rayvpn_official@n1.cafedorehami.shop:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=n1.cafedorehami.shop#Telegram%40v2rayvpn_official
 ss://channel%40v2rayvpn_official@n1.cafedorehami.shop:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=n1.cafedorehami.shop#Telegram%40v2rayvpn_official
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@89.46.238.35:989#%F0%9F%92%9C%20%40mobilesignal
-ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg@45.89.52.66:9043#%F0%9F%92%9C%20%40mobilesignal`

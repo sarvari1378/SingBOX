@@ -1,4 +1,2 @@
-vless://c52f4794-761d-4a0e-9db4-3ac8410bcd5a@95.38.106.177:57519?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
-vless://2d47a067-fa29-4d62-b596-b58c8782e880@185.232.152.17:12243?path=%2F&security=none&encryption=none&type=ws#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
-ss://c52f4794-761d-4a0e-9db4-3ac8410bcd5a@95.38.106.177:57519?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
-ss://2d47a067-fa29-4d62-b596-b58c8782e880@185.232.152.17:12243?path=%2F&security=none&encryption=none&type=ws#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
+vless://5303bdb3-7e5d-4fb0-9c37-2d0fd8cff419@95.38.197.28:8081?security=none&encryption=none&headerType=none&type=tcp#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
+ss://5303bdb3-7e5d-4fb0-9c37-2d0fd8cff419@95.38.197.28:8081?security=none&encryption=none&headerType=none&type=tcp#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF

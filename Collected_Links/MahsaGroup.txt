@@ -1,0 +1,2 @@
+vless://0d0782a3-2c62-4936-b893-5790188778ea@www.speedtest.net:443?path=%2F&security=tls&encryption=none&alpn=h3,h2&host=EoIiDbXhQp.GiGa1.OrG&fp=chrome&type=ws&sni=EoIiDbXhQp.GiGa1.OrG#%23Shadmanegi+Unlimited```
+ss://0d0782a3-2c62-4936-b893-5790188778ea@www.speedtest.net:443?path=%2F&security=tls&encryption=none&alpn=h3,h2&host=EoIiDbXhQp.GiGa1.OrG&fp=chrome&type=ws&sni=EoIiDbXhQp.GiGa1.OrG#%23Shadmanegi+Unlimited```

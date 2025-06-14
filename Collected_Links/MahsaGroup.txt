@@ -1,2 +1,0 @@
-vless://15868173-1378-4984-a4e2-07d51591b237@sos.sashabike.ir:8880?path=%2F%3Fed%3D2048&security=none&encryption=none&host=heidi.ns.clooudflare.com.mahxray.com.&type=httpupgrade#SOS```
-ss://15868173-1378-4984-a4e2-07d51591b237@sos.sashabike.ir:8880?path=%2F%3Fed%3D2048&security=none&encryption=none&host=heidi.ns.clooudflare.com.mahxray.com.&type=httpupgrade#SOS```

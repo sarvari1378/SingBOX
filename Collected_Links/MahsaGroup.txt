@@ -1,2 +1,0 @@
-vless://6cc03cd6-918d-4604-9b6c-581cc4663a27@us10.newmew.site:2086?encryption=none&security=none&type=ws&path=%2F#%40Hormozvpn
-ss://6cc03cd6-918d-4604-9b6c-581cc4663a27@us10.newmew.site:2086?encryption=none&security=none&type=ws&path=%2F#%40Hormozvpn

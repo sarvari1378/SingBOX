@@ -1,0 +1,2 @@
+vless://d311973e-894c-4f78-8902-8a95799734ff@vipshop.heroicshop.ir:8821?security=none&encryption=none&headerType=none&type=tcp#Hormozvpn```
+ss://d311973e-894c-4f78-8902-8a95799734ff@vipshop.heroicshop.ir:8821?security=none&encryption=none&headerType=none&type=tcp#Hormozvpn```

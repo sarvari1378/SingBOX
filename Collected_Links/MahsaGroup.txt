@@ -1,2 +1,2 @@
-vless://14b66f90-df36-457d-93fe-f5283c57cff0@135.84.67.74:2083?encryption=none&security=tls&sni=elite.vip-morteza.xyz&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=elite.vip-morteza.xyz&path=%2F#749%20%E2%9C%82%EF%B8%8F-%F0%9F%87%BA%F0%9F%87%B8US-4%20of%2032%20total%3D7807%28%40GheychiAmoozesh%29
-ss://14b66f90-df36-457d-93fe-f5283c57cff0@135.84.67.74:2083?encryption=none&security=tls&sni=elite.vip-morteza.xyz&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=elite.vip-morteza.xyz&path=%2F#749%20%E2%9C%82%EF%B8%8F-%F0%9F%87%BA%F0%9F%87%B8US-4%20of%2032%20total%3D7807%28%40GheychiAmoozesh%29
+vless://6cc03cd6-918d-4604-9b6c-581cc4663a27@us10.newmew.site:2086?path=%2F&security=&encryption=none&type=ws#USA-Hormozvpn
+ss://6cc03cd6-918d-4604-9b6c-581cc4663a27@us10.newmew.site:2086?path=%2F&security=&encryption=none&type=ws#USA-Hormozvpn

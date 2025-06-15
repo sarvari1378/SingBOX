@@ -1,2 +1,0 @@
-vless://d895495c-d1ed-46e4-9235-35c54c9ed901@nl.spirako.com:443?security=reality&encryption=none&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=website.com#Telegram%3A%20%20%40na_sa67`
-ss://d895495c-d1ed-46e4-9235-35c54c9ed901@nl.spirako.com:443?security=reality&encryption=none&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=website.com#Telegram%3A%20%20%40na_sa67`

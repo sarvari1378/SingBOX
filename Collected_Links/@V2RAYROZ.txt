@@ -1,3 +1,4 @@
+vless://f5a45265-3620-49ff-98b9-a862d5f3a09d@162.128.76.63:36729?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#1404|03|27_01:39:25
 vless://bc22dfaf-ddad-4e59-99c9-3a9844b71408@ir-backup-b.limitedhighspeed.com:2087?path=%2F&security=none&encryption=none&host=stream48.cdn.asset.filimo.com&type=ws#1404|03|26_23:15:19
 vless://39cd70fb-3d7d-4556-b41c-88cbeab75df5@trvip.irannoweb.art:8080?security=none&encryption=none&headerType=http&type=tcp#1404|03|26_22:57:34
 vless://telegram-id-ArV2ray3@84.32.101.93:443?mode=gun&security=reality&encryption=none&pbk=0ZELy90Fb5sh7DULwsa14x1B1NY-NO2Ga847T_Z-oXY&fp=chrome&type=grpc&serviceName=telegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray&sni=ftp.debian.org&sid=688c#1404|03|26_20:34:12
@@ -12,4 +13,3 @@ vless://b8be6118-0dd7-4402-ae1a-69b2816f3a7f@172.67.101.86:80?path=%2FBaRAyeIran
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.66.208.89:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=fggerlad.gerald81.dpdns.org&type=ws#1404|03|26_01:28:14
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@172.67.62.141:80?path=%2FBaRAyeIran%3Fed%3D2560&security=none&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#1404|03|26_01:28:14
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#1404|03|26_00:09:14
-vless://17c96bd1-ed87-4ba7-8d98-49f9e15d4a58@usa1.linkinfo.me:8444?security=none&encryption=none&headerType=http&type=tcp#1404|03|25_23:06:16

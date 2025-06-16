@@ -1,3 +1,4 @@
+vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=di.dibdibini.dpdns.org&type=ws#1404|03|26_21:50:19
 vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.53.233:80?path=%2FBaRAyeIran%3Fed%3D2560&security=none&encryption=none&host=di.dibdibini.dpdns.org&fp=random&type=ws&sni=di.dibdibini.dpdns.org#1404|03|26_19:38:37
 vless://eb899be2-f306-468e-bb4d-1c43f7d49c00@104.16.102.112:2086?path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560&security=none&encryption=none&host=mci.mtn.ir.com.org.net.om.org.net.javadv2.ir.&type=httpupgrade#1404|03|26_19:38:37
 vless://5f566fbf-13bc-4312-ae37-ea173c4ef4bb@89.34.230.246:14116?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#1404|03|26_19:38:37
@@ -37,4 +38,3 @@ vless://72ad4918-47cb-4ccc-ab21-e52b869547a0@herfeh-honarmand.com:80?path=%2FMos
 vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.11.138:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=kssepa.sabzipolobamahi.dpdns.org&type=ws#1404|03|26_10:08:58
 vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.11.138:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=kssepa.sabzipolobamahi.dpdns.org&type=ws#1404|03|26_10:08:58
 vless://e63e93a0-d092-4d12-9f79-b5137ae03af4@85.133.215.9:5969?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#1404|03|26_10:08:58
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@199.34.228.187:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=edmz.ambercc.filegear-sg.me&type=ws&sni=edmz.ambercc.filegear-sg.me#1404|03|26_10:08:58

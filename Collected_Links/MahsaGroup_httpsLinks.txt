@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/subscribe/protocols/vless
+https://github.com/xchacha20-poly1305/husi/releases/tag/v0.11.0-beta.0

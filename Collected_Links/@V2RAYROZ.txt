@@ -1,3 +1,4 @@
+vmess://eyJhZGQiOiJob3N0LXNwZWVkLm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic2t5cm9vbS5vbmxpbmUsIGdoYXJhci5pciwgaWdhcC5uZXQiLCJpZCI6ImU0YTVmNmYyLTRiOGEtNDVjNi05NGUxLTA0YWNlY2Q5NDUxMyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIwODMiLCJwcyI6IkBWMlJBWVJPWiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0jMTQwNHwwM3wyN18xODoyMzo1MQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#1404|03|27_17:04:09
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#1404|03|27_14:57:58
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#1404|03|27_14:57:58
@@ -12,4 +13,3 @@ vless://a943a9e0-792e-4efe-af1e-54751a44fef8@95.164.17.75:443?mode=gun&security=
 vless://f5a45265-3620-49ff-98b9-a862d5f3a09d@162.128.76.63:36729?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#1404|03|27_01:39:25
 vless://bc22dfaf-ddad-4e59-99c9-3a9844b71408@ir-backup-b.limitedhighspeed.com:2087?path=%2F&security=none&encryption=none&host=stream48.cdn.asset.filimo.com&type=ws#1404|03|26_23:15:19
 vless://39cd70fb-3d7d-4556-b41c-88cbeab75df5@trvip.irannoweb.art:8080?security=none&encryption=none&headerType=http&type=tcp#1404|03|26_22:57:34
-vless://telegram-id-ArV2ray3@84.32.101.93:443?mode=gun&security=reality&encryption=none&pbk=0ZELy90Fb5sh7DULwsa14x1B1NY-NO2Ga847T_Z-oXY&fp=chrome&type=grpc&serviceName=telegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray&sni=ftp.debian.org&sid=688c#1404|03|26_20:34:12

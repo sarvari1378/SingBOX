@@ -1,0 +1,2 @@
+vless://708c7382-1fe0-4ab9-a8ec-41f3511233d1@tunel2.digikala2.com:14051?security=none&type=tcp&headerType=http&path=%2Fpath&host=#%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D9%85%D9%84%DB%8C%20%F0%9F%87%AE%F0%9F%87%B7%F0%9F%9A%80
+ss://708c7382-1fe0-4ab9-a8ec-41f3511233d1@tunel2.digikala2.com:14051?security=none&type=tcp&headerType=http&path=%2Fpath&host=#%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D9%85%D9%84%DB%8C%20%F0%9F%87%AE%F0%9F%87%B7%F0%9F%9A%80

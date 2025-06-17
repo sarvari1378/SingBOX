@@ -1,3 +1,5 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@FreakConfig.usecharge.ir:443#1404|03|28_00:54:47
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@2FreakConfig.usecharge.ir:443#1404|03|28_00:54:47
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#1404|03|22_20:59:53
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.116.16.35:48172#1404|03|22_20:59:53
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@kavir.lnmarketplace.net:443?mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&host=kavir.lnmarketplace.net&fp=firefox&type=xhttp&sni=kavir.lnmarketplace.net#1404|03|22_20:59:53
@@ -11,5 +13,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#140
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.116.16.35:48172#1404|03|19_21:11:28
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@kavir.lnmarketplace.net:443?mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&host=kavir.lnmarketplace.net&fp=firefox&type=xhttp&sni=kavir.lnmarketplace.net#1404|03|19_21:11:28
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.116.16.35:48172#1404|03|18_21:19:22
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WDB4SnM3Qm40eVh4ZVBiUWhmc0txYzBDaUFpNWE3dGNWNkdGUEN5WVduND06TGlXTStIK1NXTXJObllaaU9qcG1PeldNVzBCTVlDQnJMQzU3TzVVYitOcz0%3D@212.118.42.181:9260#1404|03|18_21:19:22
-vless://3536e1fa-0850-44d1-b123-925ce12476cf@kavir.lnmarketplace.net:443?mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&host=kavir.lnmarketplace.net&fp=firefox&type=xhttp&sni=kavir.lnmarketplace.net#1404|03|18_21:19:22

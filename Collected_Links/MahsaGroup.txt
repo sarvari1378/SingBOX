@@ -1,4 +1,0 @@
-vless://bceda5dd-d61a-41cf-94e8-59745be56625@ns2.hemayatland.ir:2053?security=&encryption=none&host=fast.com&headerType=http&type=tcp#%40ROJproxy%20%F0%9F%8F%B4%F3%A0%81%A7%F3%A0%81%A2%F3%A0%81%A5%F3%A0%81%AE%F3%A0%81%A7%F3%A0%81%BFEngland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OTg4NGU0ODkxNTc0OTFm@151.240.110.214:11252#%40ROJproxy%20Netmile2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOTFkNmY0Y2IyZjhkYjJk@151.240.110.212:11255#%40ROJproxy%20netmile
-ss://bceda5dd-d61a-41cf-94e8-59745be56625@ns2.hemayatland.ir:2053?security=&encryption=none&host=fast.com&headerType=http&type=tcp#%40ROJproxy%20%F0%9F%8F%B4%F3%A0%81%A7%F3%A0%81%A2%F3%A0%81%A5%F3%A0%81%AE%F3%A0%81%A7%F3%A0%81%BFEngland

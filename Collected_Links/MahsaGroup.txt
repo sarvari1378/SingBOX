@@ -1,2 +1,0 @@
-vless://d89b753c-aeef-4fab-9c31-744397572941@217.60.36.198:14961?type=ws&path=%2FVPNPacket&host=&security=none#%40VPNPacket-rz8jgd6n
-ss://d89b753c-aeef-4fab-9c31-744397572941@217.60.36.198:14961?type=ws&path=%2FVPNPacket&host=&security=none#%40VPNPacket-rz8jgd6n

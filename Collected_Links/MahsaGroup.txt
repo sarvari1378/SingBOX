@@ -1,0 +1,6 @@
+vless://58c27d0a-c914-40c6-2c2b-653fd69a1248@lavin2.stevejobs-net.com:39044?security=none&encryption=none&host=speedtest.com&headerType=http&type=tcp#%40Sezar_Sec
+vless://c20b38bd-fa5e-47a7-8f28-8d7b728cdeb9@ts.fgsm.ir:443?path=%2F&security=tls&encryption=none&type=ws&sni=ts.fgsm.ir#%40Sezar_Sec
+vless://9ceb4327-952c-4d87-981c-d933bd81ced9@81.12.21.147:443?security=none&encryption=none&headerType=none&type=tcp#%40Sezar_Sec
+ss://58c27d0a-c914-40c6-2c2b-653fd69a1248@lavin2.stevejobs-net.com:39044?security=none&encryption=none&host=speedtest.com&headerType=http&type=tcp#%40Sezar_Sec
+ss://c20b38bd-fa5e-47a7-8f28-8d7b728cdeb9@ts.fgsm.ir:443?path=%2F&security=tls&encryption=none&type=ws&sni=ts.fgsm.ir#%40Sezar_Sec
+ss://9ceb4327-952c-4d87-981c-d933bd81ced9@81.12.21.147:443?security=none&encryption=none&headerType=none&type=tcp#%40Sezar_Sec

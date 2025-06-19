@@ -1,0 +1,2 @@
+vless://db0c5a97-2d8a-48cf-a035-c68f0daf5f5f@2.144.7.253:45524?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF%20%D9%86%DA%A9%D9%86%DB%8C%D8%AF%20%F0%9F%99%8F%F0%9F%8F%BB%F0%9F%A4%8D`
+ss://db0c5a97-2d8a-48cf-a035-c68f0daf5f5f@2.144.7.253:45524?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF%20%D9%86%DA%A9%D9%86%DB%8C%D8%AF%20%F0%9F%99%8F%F0%9F%8F%BB%F0%9F%A4%8D`

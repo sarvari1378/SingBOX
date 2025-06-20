@@ -1,2 +1,2 @@
-vless://6dec3973-5119-4410-bbb1-bf9191122934@p1.nimguard.ir:1010?encryption=none&security=tls&sni=chess.com&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B7%40Surfboardv2ray```
-ss://6dec3973-5119-4410-bbb1-bf9191122934@p1.nimguard.ir:1010?encryption=none&security=tls&sni=chess.com&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B7%40Surfboardv2ray```
+vless://8e09a4d7-80fc-4bb3-b3fb-1eb23211756a@104.21.48.1:2083?security=tls&sni=TaBNAK.TWn24.iR&type=ws&host=tabnak.twn24.ir&path=%2F1TEFUc8jfVepEuGq7R6Cczl&fp=chrome&alpn=http%2F1.1#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%3A@cryptto_Ai
+ss://8e09a4d7-80fc-4bb3-b3fb-1eb23211756a@104.21.48.1:2083?security=tls&sni=TaBNAK.TWn24.iR&type=ws&host=tabnak.twn24.ir&path=%2F1TEFUc8jfVepEuGq7R6Cczl&fp=chrome&alpn=http%2F1.1#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%3A@cryptto_Ai

@@ -1,2 +1,0 @@
-vless://c0897efd-edb8-432a-bbbe-e5d2daff948e@a1.graphapp.ir:2121?security=reality&encryption=none&pbk=8C0SElSc2U3jqim6AFkqwy2trWXhIAuh_5W1KOrSRF4&headerType=none&fp=firefox&type=tcp&sni=journalofbigdata.springeropen.com#%5B%F0%9F%87%AC%F0%9F%87%A7%5Dt.me%2FConfigsHub
-ss://c0897efd-edb8-432a-bbbe-e5d2daff948e@a1.graphapp.ir:2121?security=reality&encryption=none&pbk=8C0SElSc2U3jqim6AFkqwy2trWXhIAuh_5W1KOrSRF4&headerType=none&fp=firefox&type=tcp&sni=journalofbigdata.springeropen.com#%5B%F0%9F%87%AC%F0%9F%87%A7%5Dt.me%2FConfigsHub

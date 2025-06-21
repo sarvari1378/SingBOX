@@ -1,3 +1,5 @@
+vmess://eyJhZGQiOiJzMi5kbnM0d2FyZHMuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImI2NjM4MmRhLTc4ZGMtNDkxNi03ZWRkLTEzZWExNWQ4NjAwZiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIwODgiLCJwcyI6IkBDYXBvaXQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9IzE0MDR8MDN8MzFfMjI6MDg6MTE=
+vless://8e7ac060-8523-4d06-a9d7-d7fa878b2ff6@sv2.tikoserver.com:31982?type=tcp&headerType=none&security=none#1404|03|31_22:06:59
 vless://0c5d51cd-14af-da89-975d-99bd7a60d762@shop.fox-11-fox.com:2052?type=tcp&headerType=none&security=none#1404|03|31_19:24:40
 vless://cba0b35b-8943-4c70-a864-9f78145b7897@104.24.60.135:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=agolna.mahsaamini.dpdns.org&type=ws#1404|03|31_19:23:44
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#1404|03|31_19:23:44
@@ -36,5 +38,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFWndpZ0I%3D@j4o1v1d1m8-fb-hk14.6pzfwf.com:56
 ss://YWVzLTI1Ni1nY206NkNON0Y2Q0ZYTUxQU0kyWQ%3D%3D@185.255.123.183:20016#1404|03|31_10:39:52
 ss://YWVzLTI1Ni1nY206TTlSMDNOUkI1Mk5BMDBQRw%3D%3D@185.90.61.157:20034#1404|03|31_10:39:52
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@5.10.214.20:8880?path=Telegram%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%942%2F%3Fed%3D2560&security=none&encryption=none&host=ip.langmanshanxi.top&type=ws#1404|03|31_10:39:52
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@192.200.160.213:8880?path=%2F&security=none&encryption=none&host=jp.laoyoutiao.link&type=ws#1404|03|31_10:39:52
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFWndpZ0I%3D@j4o1v1d1m8-fb-hk14.6pzfwf.com:56014#1404|03|30_23:49:12

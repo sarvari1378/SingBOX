@@ -1,0 +1,2 @@
+vless://3058e698-61fd-4d12-95bc-f1fe4c071713@www.speedtest.net:443?path=%2FTelegram%40V2ray_Alpha&security=tls&alpn=http%2F1.1&encryption=none&host=hozori.ir&type=ws&sni=hOZori.iR#%40Spotify_Porteghali%206003
+ss://3058e698-61fd-4d12-95bc-f1fe4c071713@www.speedtest.net:443?path=%2FTelegram%40V2ray_Alpha&security=tls&alpn=http%2F1.1&encryption=none&host=hozori.ir&type=ws&sni=hOZori.iR#%40Spotify_Porteghali%206003

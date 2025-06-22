@@ -1,5 +1,5 @@
-vless://c20c208d-482a-48fb-9dd8-b7f9f5fd807d@185.49.105.233:6000?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#1404|03|31_21:26:24
-vless://78c27184-27e9-4d0f-963f-c22c2a80e404@legendvpn.nightwolf.shop:41449?security=none&encryption=none&headerType=http&type=tcp#1404|03|31_19:42:44
+vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@turkey.jewelll.ir:3311?mode=gun&security=none&encryption=none&type=grpc#1404|04|01_04:03:43
+vless://e8dc92da-89f4-4b1e-b1ba-3911c1ac8362@ir4.golden-dragon66.pw:9211?mode=gun&security=none&encryption=none&type=grpc#1404|04|01_04:03:43
 vless://38e6d66d-89b4-4a1a-b0fc-b8e8f2b510d9@nim.france-learns.ir:42535?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#1404|03|31_17:58:29
 vless://e8f77e17-ba18-488c-8a47-a84780a3f97f@ns4.esfahansiman.com:443?path=TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=WWW.pegAh-Esfahan.De.&fp=chrome&type=ws&sni=WWW.pegAh-Esfahan.De.#1404|03|28_23:27:24
 vless://7b6503eb-a641-4eb4-9620-9b219a51e3ab@ssl2.komanserver.ir:443?path=%2Fdigikala.com%2Flogin%2F%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&type=httpupgrade&sni=am.komanserver.ir.#1404|03|28_19:13:26

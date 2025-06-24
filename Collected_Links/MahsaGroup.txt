@@ -1,0 +1,12 @@
+vless://5b0e1347-1e9b-4b83-a27b-468e3dafb69b@2sudo.winapp3.ir:80?mode=auto&path=%2F&security=none&encryption=none&host=fn5.global.ssl.fastly.net&type=xhttp#%40Daily_Configs
+vless://b7b8d862-e736-4ded-be89-711d49d2415b@ir3.tunneled.site:5050?security=none&encryption=none&headerType=none&type=tcp#%40Daily_Configs
+vless://65f02728-83d4-4ff5-b74f-f32d8b8dfe12@151.101.3.8:80?path=%2Fwp-admin&security=none&encryption=none&host=www.swlamp.com&type=ws#%40Daily_Configs
+vless://c8593b7b-f3b6-4cfb-b87c-8278fd9b5f89@food3.hamrahconfig.com:80?path=%2Fdownload&security=none&encryption=none&host=okhaji.com&type=ws#%40Daily_Configs
+vless://30678ab8-5d17-464e-8820-fc1b1dfe5f7b@iza5.lalash.ir:80?mode=auto&path=%2F&security=none&encryption=none&host=reza-aliyari722.global.ssl.fastly.net&type=xhttp#%40Daily_Configs
+vless://65f02728-83d4-4ff5-b74f-f32d8b8dfe12@151.101.3.8:80?path=%2Fwp-admin&security=none&encryption=none&host=www.swlamp.com&type=ws#%40Daily_Configs
+ss://5b0e1347-1e9b-4b83-a27b-468e3dafb69b@2sudo.winapp3.ir:80?mode=auto&path=%2F&security=none&encryption=none&host=fn5.global.ssl.fastly.net&type=xhttp#%40Daily_Configs
+ss://b7b8d862-e736-4ded-be89-711d49d2415b@ir3.tunneled.site:5050?security=none&encryption=none&headerType=none&type=tcp#%40Daily_Configs
+ss://65f02728-83d4-4ff5-b74f-f32d8b8dfe12@151.101.3.8:80?path=%2Fwp-admin&security=none&encryption=none&host=www.swlamp.com&type=ws#%40Daily_Configs
+ss://c8593b7b-f3b6-4cfb-b87c-8278fd9b5f89@food3.hamrahconfig.com:80?path=%2Fdownload&security=none&encryption=none&host=okhaji.com&type=ws#%40Daily_Configs
+ss://30678ab8-5d17-464e-8820-fc1b1dfe5f7b@iza5.lalash.ir:80?mode=auto&path=%2F&security=none&encryption=none&host=reza-aliyari722.global.ssl.fastly.net&type=xhttp#%40Daily_Configs
+ss://65f02728-83d4-4ff5-b74f-f32d8b8dfe12@151.101.3.8:80?path=%2Fwp-admin&security=none&encryption=none&host=www.swlamp.com&type=ws#%40Daily_Configs

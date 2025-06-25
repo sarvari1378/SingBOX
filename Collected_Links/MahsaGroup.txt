@@ -1,0 +1,2 @@
+vless://d09d1e35-deb1-486c-bc88-21ab35f68c48@safar64.ucpubg.org:8080?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40FRE3PROXY+%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C
+ss://d09d1e35-deb1-486c-bc88-21ab35f68c48@safar64.ucpubg.org:8080?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40FRE3PROXY+%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C

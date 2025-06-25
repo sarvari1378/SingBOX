@@ -1,3 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@2FreakConfig.usecharge.ir:443#1404|04|04_15:24:13
 vless://542f694b-e8bd-4b9e-858c-ccb1c46a3316@www.speedtest.net:80?path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=PaMCHALL.cOM.&type=ws#1404|04|04_10:14:51
 vless://de04cf26-cf7a-4977-9c56-0cda457a53af@85.133.195.219:5000?security=none&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&headerType=http&type=tcp#1404|04|04_10:09:14
 vmess://eyJhZGQiOiJob3N0LXNwZWVkLm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiaDIsaHR0cC8xLjEiLCJmcCI6InJhbmRvbWl6ZWQiLCJob3N0Ijoic2t5cm9vbS5vbmxpbmUsZ2hhcmFyLmlyLGlnYXAubmV0IiwiaWQiOiJhNzY2ZDE3OS0wZmEwLTQ3MmYtOWZjYy04NGVlODg5NDJkYTgiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDgzIiwicHMiOiJAVjJSQVlST1oiLCJzY3kiOiJhdXRvIiwic25pIjoiaG9zdC1zcGVlZC5uZXQiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0jMTQwNHwwNHwwNF8xMDowNDo0OA==
@@ -12,4 +13,3 @@ vless://7e3b4e5a-483f-4c2d-957d-765137dbe186@h2.tikmarket1.site:2095?path=%2F&se
 vless://b06b60cd-8218-46c0-b2ed-37e89ac39634@t2.gately.xyz:1215?security=none&encryption=none&headerType=http&type=tcp#1404|04|01_14:09:48
 vmess://eyJhZGQiOiJob3N0LXNwZWVkLm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiaDIsaHR0cC8xLjEiLCJmcCI6InJhbmRvbWl6ZWQiLCJob3N0Ijoic2t5cm9vbS5vbmxpbmUsZ2hhcmFyLmlyLGlnYXAubmV0IiwiaWQiOiIyOGFhNjI1NS04NTNhLTQ2ZDktYTg3MS0wZDg0N2I2YWEyYzAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDgzIiwicHMiOiJAVjJSQVlST1oiLCJzY3kiOiJhdXRvIiwic25pIjoiaG9zdC1zcGVlZC5uZXQiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0jMTQwNHwwNHwwMV8xMDo1OTo1Mg==
 vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@turkey.jewelll.ir:3311?mode=gun&security=none&encryption=none&type=grpc#1404|04|01_04:03:43
-vless://e8dc92da-89f4-4b1e-b1ba-3911c1ac8362@ir4.golden-dragon66.pw:9211?mode=gun&security=none&encryption=none&type=grpc#1404|04|01_04:03:43

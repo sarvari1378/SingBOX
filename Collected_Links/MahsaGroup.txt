@@ -1,10 +1,6 @@
-vless://0f704340-8572-4e22-a428-3f83f9e2f62d.top:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=Q2amozed.com&type=ws#%F0%9F%94%B0%20%40v2rayng_fars%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%94%B0
-ss://0f704340-8572-4e22-a428-3f83f9e2f62d.top:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=Q2amozed.com&type=ws#%F0%9F%94%B0%20%40v2rayng_fars%20%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%94%B0
-vless://6a2cd2c2-06e2-4849-b1ea-dc3b869d0c57@main.zdshop.ir:2086?path=%2FShhProxy%3Fed%3D1024&security=&encryption=none&host=grns.speedgo.ir&type=ws#Telegram%20%3A%20%40V2rayEnglish
-ss://6a2cd2c2-06e2-4849-b1ea-dc3b869d0c57@main.zdshop.ir:2086?path=%2FShhProxy%3Fed%3D1024&security=&encryption=none&host=grns.speedgo.ir&type=ws#Telegram%20%3A%20%40V2rayEnglish
-vmess://eyJhZGQiOiIxNTEuMTAxLjMuOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibG9naW4uc2luYWJhbmsuaXIiLCJpZCI6IjFmN2UyOTQ3LWM0YTUtNGUzYy1iMjg0LTc3N2ZmNzNhMDg2ZSIsIm5ldCI6InhodHRwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6Imdyb3VwIGlkOiBAY29ubmVjdF9iZW1hbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
-ss://eyJhZGQiOiIxNTEuMTAxLjMuOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibG9naW4uc2luYWJhbmsuaXIiLCJpZCI6IjFmN2UyOTQ3LWM0YTUtNGUzYy1iMjg0LTc3N2ZmNzNhMDg2ZSIsIm5ldCI6InhodHRwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6Imdyb3VwIGlkOiBAY29ubmVjdF9iZW1hbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
-vless://883d8ce8-cf03-4c77-a4e0-a20669e73c2b@vip.filterchi.shop:2089?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40confegraigan%20%7C%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C`
-ss://883d8ce8-cf03-4c77-a4e0-a20669e73c2b@vip.filterchi.shop:2089?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40confegraigan%20%7C%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C`
-vless://76812b81-f2af-4911-9eb5-a64f573d6826.beat2headphones.com:80?type=ws&path=%2F#Swift-76812b
-ss://76812b81-f2af-4911-9eb5-a64f573d6826.beat2headphones.com:80?type=ws&path=%2F#Swift-76812b
+vless://b60ca649-7b11-43b1-b9e7-99eba427b266@151.101.3.8:80?path=%2Fdownload%3Fed%3D2560&security=&encryption=none&host=melovy.ir&type=ws#%F0%9F%91%BD%20%D9%81%D8%B6%D8%A7%DB%8C%DB%8C%20%F0%9F%94%A5
+ss://b60ca649-7b11-43b1-b9e7-99eba427b266@151.101.3.8:80?path=%2Fdownload%3Fed%3D2560&security=&encryption=none&host=melovy.ir&type=ws#%F0%9F%91%BD%20%D9%81%D8%B6%D8%A7%DB%8C%DB%8C%20%F0%9F%94%A5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@2FreakConfig.usecharge.ir:443#%F0%9F%87%AC%F0%9F%87%A7%20Free_Netplus
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@FreakConfig.usecharge.ir:443#%F0%9F%87%AC%F0%9F%87%A7%20Free_Netplus
+vless://37c6ed34-9359-41d1-9c41-485392b54a23@api.wedasichetinvalieybiyox.sbs:2400?security=none&encryption=none&headerType=none&type=tcp#Telegram%20%3A%20%40V2rayEnglish`
+ss://37c6ed34-9359-41d1-9c41-485392b54a23@api.wedasichetinvalieybiyox.sbs:2400?security=none&encryption=none&headerType=none&type=tcp#Telegram%20%3A%20%40V2rayEnglish`

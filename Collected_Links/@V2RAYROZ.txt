@@ -1,3 +1,7 @@
+vless://9b1308fc-3dbc-466b-ba0f-2b724651f382@arman.api.cdn-ir.uplinker.sbs:9005?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&sni=server-14043.prod.hosts.ooklaserver.net#1404|04|05_12:33:22
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#1404|04|05_12:28:21
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#1404|04|05_11:54:14
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#1404|04|05_11:54:14
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@2FreakConfig.usecharge.ir:443#1404|04|05_11:42:57
 vless://9d63d77f-a12c-4355-b218-0f9a642eed2a@netmeli.noytads.ir:80?mode=auto&path=%2Fpath%2Fv2rayng&security=none&encryption=none&host=slamdashserver-alochetoriaservise-rwork-your-name.global.ssl.fastly.net&type=xhttp#1404|04|05_11:38:32
 vless://6f5aa5fc-c4f3-4dac-bd2b-66394aeb2076@151.101.3.8:80?mode=auto&path=%2FBargovpnBargovpnV3xhttp%3Fed%3D2048&security=none&encryption=none&host=bargovpn.global.ssl.fastly.net&type=xhttp#1404|04|05_11:35:09
@@ -9,7 +13,3 @@ vless://turboo-server@turbooserver.ultra-irancell.com:65000?security=reality&enc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#1404|04|04_19:54:46
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#1404|04|04_19:54:46
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#1404|04|04_19:54:46
-vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=abcd.taraneh.dpdns.org&fp=random&type=ws&sni=abcd.taraneh.dpdns.org#1404|04|04_19:54:46
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@2FreakConfig.usecharge.ir:443#1404|04|04_15:24:13
-vless://542f694b-e8bd-4b9e-858c-ccb1c46a3316@www.speedtest.net:80?path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=PaMCHALL.cOM.&type=ws#1404|04|04_10:14:51
-vless://de04cf26-cf7a-4977-9c56-0cda457a53af@85.133.195.219:5000?security=none&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&headerType=http&type=tcp#1404|04|04_10:09:14

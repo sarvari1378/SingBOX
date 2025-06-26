@@ -1,3 +1,5 @@
+vless://5a79581f-48d0-448a-83ae-bcd756d47bd4@FASTSHOVPNTELEGRAM.fast.hosting-ip.com:80?mode=auto&path=%2FFASTSHOVPN%3Fed%3D2048&security=none&encryption=none&host=velnemikone.global.ssl.fastly.net&type=xhttp#1404|04|05_22:03:01
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCQWRRU3d6cXVPWEQycmdSakpnVGRo@158.255.77.34:35390#1404|04|05_21:57:05
 vless://48735946-f706-4873-b9b6-d9f0255475cc@85.9.206.79:443?security=reality&encryption=none&pbk=QYWJdS4JDdSmQKeMkJfPshFuz0bC3jhm9yW3uJfQFmw&headerType=none&fp=chrome&type=tcp&sni=www.refersion.com&sid=b4#1404|04|05_18:55:24
 vless://8b4c316e-f05a-413e-bda5-a7383a123a77@85.133.201.45:18818?security=none&encryption=none&headerType=http&type=tcp#1404|04|05_18:55:24
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#1404|04|05_17:30:30
@@ -11,5 +13,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#1404|04|05_11:54:14
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#1404|04|05_11:54:14
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@2FreakConfig.usecharge.ir:443#1404|04|05_11:42:57
-vless://9d63d77f-a12c-4355-b218-0f9a642eed2a@netmeli.noytads.ir:80?mode=auto&path=%2Fpath%2Fv2rayng&security=none&encryption=none&host=slamdashserver-alochetoriaservise-rwork-your-name.global.ssl.fastly.net&type=xhttp#1404|04|05_11:38:32
-vless://6f5aa5fc-c4f3-4dac-bd2b-66394aeb2076@151.101.3.8:80?mode=auto&path=%2FBargovpnBargovpnV3xhttp%3Fed%3D2048&security=none&encryption=none&host=bargovpn.global.ssl.fastly.net&type=xhttp#1404|04|05_11:35:09

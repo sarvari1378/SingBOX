@@ -1,3 +1,9 @@
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.230:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#1404|04|06_19:44:27
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.230:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#1404|04|06_19:44:27
+vless://cccb0647-df95-4b57-9ea1-8cf97a9af8cc@Arv.vipmehspd.ir:981?security=none&encryption=none&headerType=none&type=tcp#1404|04|06_19:44:27
+vless://77574e63-cfdc-41b9-a84c-13c91b3d819c@Subfourteen.iranfreedomserver.com:7005?security=reality&encryption=none&pbk=VkxXfuqbYbk_b_KzkphMsR4apMZXAcfnWKAErqyghlY&headerType=none&fp=chrome&type=tcp&sni=refersion.com#1404|04|06_19:44:27
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.210:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#1404|04|06_19:44:27
+vless://8afd939e-b1f5-4548-a047-af268e9dbdbb@okatamizonlineshopetamiiz.ivy-net.ir:2070?type=tcp&headerType=http&host=parsabr.com&security=none#1404|04|06_19:08:11
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.17.147.22:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=&encryption=none&host=mail.ski1plag.ir&type=ws#1404|04|06_18:36:04
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.181.110:80?path=%2F%3Fed%3D2580&security=&encryption=none&host=pari.parinazz.dpdns.org&type=ws#1404|04|06_18:36:04
 vless://d97f2c60-389b-469d-8dd1-3d7be5b4b8cd@78.111.84.71:8443?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#1404|04|06_18:36:04
@@ -32,9 +38,3 @@ vless://a5b02134-d838-4c8f-ad42-cc6905264e4b@marzban56.boshrachoice.ir:8443?type
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.171:8080#1404|04|05_22:43:46
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443?type=tcp#1404|04|05_22:42:40
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#1404|04|05_22:32:52
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@2FreakConfig.usecharge.ir:443#1404|04|05_22:32:39
-vless://2ee654be-dcf2-4a6b-acfb-e7945263a1cf@config_v_2ray-99916.edges.chat2.fun:80?mode=auto&path=%2FGaMeOpTiMiZeR%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=utt.ac.ir&type=xhttp#1404|04|05_22:32:05
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#1404|04|05_22:31:36
-vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.181.110:80?path=%2F%3Fed%3D2580&security=none&encryption=none&host=pari.parinazz.dpdns.org&type=ws#1404|04|05_22:05:46
-vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.11.138:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=kssepa.sabzipolobamahi.dpdns.org&type=ws#1404|04|05_22:05:46
-vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org&type=ws#1404|04|05_22:05:46

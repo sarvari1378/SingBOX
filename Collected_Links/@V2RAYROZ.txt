@@ -1,3 +1,6 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#1404|04|06_23:21:10
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@3FreakConfig.usecharge.ir:443#1404|04|06_23:17:51
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@172.166.8.137:443#1404|04|06_23:13:43
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#1404|04|06_22:32:26
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=abcd.taraneh.dpdns.org&fp=random&type=ws&sni=abcd.taraneh.dpdns.org#1404|04|06_22:32:26
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@2FreakConfig.usecharge.ir:443#1404|04|06_22:32:26
@@ -10,6 +13,3 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.210:443?security=none&enc
 vless://f6232313-e4bc-4861-834d-85fd98ba642a@mci.dl101movis.ir:80?mode=auto&path=%2F&security=none&encryption=none&host=bahbahbahvpn.ir&type=xhttp#1404|04|06_19:43:36
 vless://f998b63e-bfbe-4a7d-a6c0-800d8febb806@fastshovpntelegramm.vinamarketcenter.ir:443?security=reality&encryption=none&pbk=CMB9AENkMsO9qHpxrdodZurjDEW4-l9ruDjsyZYzvVQ&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=journalofbigdata.springeropen.com&sid=f6#1404|04|06_19:41:46
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@2FreakConfig.usecharge.ir:443#1404|04|06_19:28:43
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#1404|04|06_19:27:26
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@2FreakConfig.usecharge.ir:443#1404|04|06_15:11:07
-vless://turboo-server@turboo-server.aftabz.com:65001?security=reality&encryption=none&pbk=paXwzQ6qDGHFfMlpY1vX6-lZrkI2gUzP3nXg91ZrBQw&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=tgju.org&sid=0efa0583a943#1404|04|06_13:47:38

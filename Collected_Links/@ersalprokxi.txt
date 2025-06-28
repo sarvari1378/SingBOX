@@ -1,3 +1,5 @@
+vless://3824fba1-352a-44f6-89c3-66bacce658eb@104.18.26.90:443?path=%2FkBoXBiT5qlTK5H01%3Fed&security=tls&alpn=http%2F1.1&encryption=none&host=s4.main-2.workers.dev&fp=randomized&type=ws&sni=S4.MaiN-2.WORkErS.Dev#1404|04|07_16:38:09
+vless://3824fba1-352a-44f6-89c3-66bacce658eb@104.18.26.90:443?path=%2FkBoXBiT5qlTK5H01%3Fed&security=tls&alpn=http%2F1.1&encryption=none&host=s4.main-2.workers.dev&fp=randomized&type=ws&sni=S4.MaiN-2.WORkErS.Dev#1404|04|07_16:28:35
 vless://316315d1-964c-4989-d3cd-d6bb14fffa06@asia6.novahomedesigntips.com:6677?type=ws&path=/&security=none#1404|04|07_15:25:46
 vless://dbc9b263-f858-44c1-af4f-4e4ee1723490@193.151.137.17:4411?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#1404|04|07_15:02:56
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.198.191:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#1404|04|07_15:02:56
@@ -36,5 +38,3 @@ vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.203.193:443?security=none&enc
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.181.193:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#1404|04|07_12:59:08
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#1404|04|07_12:28:56
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#1404|04|07_12:28:56
-vless://a9f40576-6321-491f-bb4a-7d8a762eea27@vip.mosen1server.ir:80?security=none&encryption=none&headerType=none&type=tcp#1404|04|07_12:28:56
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@62.133.63.212:57456#1404|04|07_12:28:56

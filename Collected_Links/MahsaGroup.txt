@@ -1,3 +1,7 @@
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&security=none&encryption=none&host=my.ski1plag.ir&type=ws#Telegram%20%3A%20%40V2rayEnglish`
+ss://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&security=none&encryption=none&host=my.ski1plag.ir&type=ws#Telegram%20%3A%20%40V2rayEnglish`
+vless://52ddd2b7-d2da-4169-b11d-b51679c01eb0@S1.LoadBalance.LAT:2090?mode=gun&security=reality&encryption=none&pbk=OTv4I7eaaqHgYAlL5EIrDlotApPujvk9OoJU58FRGz4&fp=firefox&type=grpc&serviceName=mgrpcm&sni=refersion.com&sid=e17185329455b179#Telegram%20%3A%20%40V2rayEnglish`
+ss://52ddd2b7-d2da-4169-b11d-b51679c01eb0@S1.LoadBalance.LAT:2090?mode=gun&security=reality&encryption=none&pbk=OTv4I7eaaqHgYAlL5EIrDlotApPujvk9OoJU58FRGz4&fp=firefox&type=grpc&serviceName=mgrpcm&sni=refersion.com&sid=e17185329455b179#Telegram%20%3A%20%40V2rayEnglish`
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.206.230:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%40vpnv2r4y%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7`
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.195.73:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%40vpnv2r4y%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7`
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.121:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%40vpnv2r4y%20%7C%20%D9%87%D9%85%D9%87%20%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7`

@@ -1,3 +1,5 @@
+vless://7a3ba820-45a0-4e89-a7fd-705490b1c6c6@37.120.167.155:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=VA4JOM8nUh1NHGMoeNNTWHnp4tAA2wG2hauNSUTLHxk&host=nobitex.ir&fp=firefox&type=xhttp&sni=nobitex.ir&sid=4a25#1404|04|08_09:25:29
+vless://608a27b5-be97-4ce6-8c70-d7cdcd2cba8c@ir.holy3buy.website:27364?security=none&encryption=none&host=digikala.com&headerType=http&type=tcp#1404|04|08_09:00:21
 vless://04f59fbe-08e5-4683-b5d4-bde3327be774@api.digi-asa.ir:12854?security=none&seed=FeymPy9HR8&encryption=none&headerType=wireguard&type=kcp#1404|04|08_03:40:09
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.121:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#1404|04|08_03:40:09
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.80.183:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#1404|04|08_03:40:09
@@ -36,5 +38,3 @@ vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.193.96:443?encryption=none&se
 vless://3824fba1-352a-44f6-89c3-66bacce658eb@104.18.26.90:443?path=%2FkBoXBiT5qlTK5H01%3Fed&security=tls&alpn=http%2F1.1&encryption=none&host=s4.main-2.workers.dev&fp=randomized&type=ws&sni=S4.MaiN-2.WORkErS.Dev#1404|04|07_16:38:09
 vless://3824fba1-352a-44f6-89c3-66bacce658eb@104.18.26.90:443?path=%2FkBoXBiT5qlTK5H01%3Fed&security=tls&alpn=http%2F1.1&encryption=none&host=s4.main-2.workers.dev&fp=randomized&type=ws&sni=S4.MaiN-2.WORkErS.Dev#1404|04|07_16:28:35
 vless://316315d1-964c-4989-d3cd-d6bb14fffa06@asia6.novahomedesigntips.com:6677?type=ws&path=/&security=none#1404|04|07_15:25:46
-vless://dbc9b263-f858-44c1-af4f-4e4ee1723490@193.151.137.17:4411?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#1404|04|07_15:02:56
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.198.191:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#1404|04|07_15:02:56

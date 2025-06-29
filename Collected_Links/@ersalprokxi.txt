@@ -1,3 +1,4 @@
+vmess://eyJhZGQiOiJwbC12MnJheS5pcHJhY2V2cG4uY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMyxoMixodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiMDM5MGQ4NzMtMmU0Yi00N2VjLWFlYjItNjY4Zjk1ODE5OWQ5IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMDgzIiwicHMiOiIzMDDar9uM2q8gMznYqtmI2YXYp9mGISDYqtiz2KrigIzYsdin24zar9in2Ybwn6SpVGlja1YyYm90QCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0jMTQwNHwwNHwwOF8xNzo0OTowNA==
 vless://bce0c7cb-08d1-46a7-b77b-7bff8b46252f@172.67.220.140:443?path=%2FRyxyg63Pk7cFSnZBROjL3Q5vTymr&security=tls&alpn=http%2F1.1&encryption=none&host=ffffffffff.000890604.xyz&fp=chrome&type=ws&sni=FfFfffFFFf.000890604.Xyz#1404|04|08_16:07:15
 vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@komaki.sibrayane.store:2051?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#1404|04|08_16:07:15
 vless://ffcf7ec1-3e09-4821-b3d9-b426a107b73b@104.21.44.248:443?path=%2FO9jlBCbIm3xr1D40NK&security=tls&alpn=http%2F1.1&encryption=none&host=edfrt.freevpnatm2025.dpdns.org&fp=chrome&type=ws&sni=EDfrT.frEEvPNatm2025.DPdNS.oRG#1404|04|08_16:07:15
@@ -37,4 +38,3 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.195.240:443?encryption=none&s
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.206.91:51615?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#1404|04|08_12:18:07
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=speed.cloudflare.com&fp=chrome&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&type=tcp&headerType=none#1404|04|08_12:18:07
 vless://6fcb287e-1b92-4c03-b5ca-aa668dad2f51@arv.vipmehspd.ir:981?encryption=none&security=none&type=tcp&headerType=none#1404|04|08_12:18:07
-vless://0c0a38a1-c5db-4780-8f1c-fc4338af7ef0@185.141.107.176:2080?encryption=none&security=none&type=tcp&headerType=none#1404|04|08_12:18:07

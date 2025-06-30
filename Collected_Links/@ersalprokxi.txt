@@ -1,3 +1,4 @@
+vless://77b7af06-6e10-4afa-a9bb-461fab6db315@pfwie.marfanet.com:55700?security=reality&encryption=none&pbk=upY29Nxcyc_8q8shNAv_0XNdn0WJdy93iNlKbxLmFUA&headerType=none&fp=firefox&spx=%2Fblog%2Fcategory%2Ftechnology%2F&type=tcp&sni=refersion.com&sid=ae839dceb524a40b#1404|04|10_01:21:41
 vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.130.239:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#1404|04|10_00:23:11
 vless://77dd9c10-be76-463b-8899-5c2509a0809b@91.107.242.241:21254?security=reality&encryption=none&pbk=3kh6wi_RybCxTsl6dCggTDLTutruDdIbIr4fYgu6oEE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=a20a8fdc#1404|04|10_00:23:11
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.169.206:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#1404|04|10_00:23:11
@@ -37,4 +38,3 @@ vless://bea34b73-3244-475b-b914-7bb80e1cda91@mar13t.rasmar1400.com:2080?encrypti
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#1404|04|09_18:38:06
 vless://f633fabf-ee7e-4562-a2c2-459848818b29@151.101.3.8:80?encryption=none&security=none&type=xhttp&host=Namaid4.global.ssl.fastly.net&path=%2FV3xhttp%3Fed%3D2048&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D#1404|04|09_18:38:06
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#1404|04|09_18:38:06
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.122.47:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#1404|04|09_18:38:06

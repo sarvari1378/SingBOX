@@ -1,3 +1,9 @@
+vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@172.67.164.239:80?path=%2FBaRAyeIran%3Fed%3D2560&security=none&encryption=none&host=barayeiran.nastaranh.dpdns.org&fp=random&type=ws&sni=barayeiran.nastaranh.dpdns.org#1404|04|10_22:23:59
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443#1404|04|10_22:23:59
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#1404|04|10_22:23:59
+vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.14.202:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#1404|04|10_22:23:59
+vless://a2eda8e1-4452-481b-9a71-aab18d3ed17e@0lan.amazon-osishop.ir:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.%3A8880&headerType=http&type=tcp#1404|04|10_22:23:59
+vless://51e673c9-6e15-4268-802a-439fb27a542a@www.speedtest.net:80?path=%2FMosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2%3Fed%3D2560&security=none&encryption=none&host=pamchall.com.&type=ws#1404|04|10_22:23:59
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#1404|04|10_20:40:24
 vless://501e344a-0b50-42b9-841f-9aa51fbe3e95@panel-feri2.todecentral.info:38495?security=none&encryption=none&headerType=none&type=tcp#1404|04|10_20:40:24
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.139.18:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#1404|04|10_12:44:08
@@ -7,9 +13,3 @@ vless://3aa91a41-e724-4306-a94c-0683b1080445@FASTSHOVPNTELEGRAMMM.vinamarketcent
 vless://a812a015-a65b-4003-ac5f-266e141c6405@www.speedtest.net:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=none&encryption=none&host=Www.speedtest.net.developsp.ir.vegaskala.com.&type=ws#1404|04|10_12:44:08
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@162.159.129.67:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vle.amclubsdns.dpdns.org&fp=randomized&type=ws&sni=vle.amclubsdns.dpdns.org#1404|04|10_09:59:47
 vless://b8be6118-0dd7-4402-ae1a-69b2816f3a7f@172.67.101.86:80?path=%2FBaRAyeIran%3Fed%3D2560&security=none&encryption=none&host=br.presskiwi.dpdns.org&type=ws#1404|04|10_09:59:47
-vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.66.137.85:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=fggerlad.gerald81.dpdns.org&fp=random&type=ws&sni=fggerlad.gerald81.dpdns.org#1404|04|10_09:59:47
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.185:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#1404|04|10_09:59:47
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.150.74:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#1404|04|10_09:59:47
-vless://77b7af06-6e10-4afa-a9bb-461fab6db315@pfwie.marfanet.com:55700?security=reality&encryption=none&pbk=upY29Nxcyc_8q8shNAv_0XNdn0WJdy93iNlKbxLmFUA&headerType=none&fp=firefox&spx=%2Fblog%2Fcategory%2Ftechnology%2F&type=tcp&sni=refersion.com&sid=ae839dceb524a40b#1404|04|10_02:44:57
-vmess://eyJhZGQiOiJwcm9uZS5tYXJmYW5ldC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InJlZmVyc2lvbi5jb20iLCJpZCI6ImM0ZWM2N2E4LTFkY2MtNDcxZC1hNmQ3LTRkOWI5ZWMxNzI2ZCIsIm5ldCI6InRjcCIsInBhdGgiOiIvYXBpL3YxL3N0YXR1cyIsInBvcnQiOiI1NjMyMCIsInBzIjoiQFYyUkFZUk9aIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifSMxNDA0fDA0fDEwXzAyOjQ0OjU3
-vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.204.237:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#1404|04|10_02:44:57

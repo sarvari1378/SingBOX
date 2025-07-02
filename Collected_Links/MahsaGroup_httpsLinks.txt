@@ -1,8 +1,0 @@
-https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/output/IR.txt)|
-https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/output/converted.txt)|
-https://raw.githubusercontent.com/Surfboardv2ray/TGParse/refs/heads/main/configtg.txt)|
-https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/selector/random)
-https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/custom/udp.txt)
-https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/custom/ipv6.txt)|
-https://t.me/kaanfing/7?single)
-https://t.me/kaanfing/11?single)

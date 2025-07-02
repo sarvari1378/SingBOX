@@ -1,3 +1,5 @@
+vless://651de6cb-df22-45cd-8842-438fdbef87fb@2.59.135.137:7022?security=reality&encryption=none&pbk=vj5pvcr-2G1kK7hKp937WrwAPtVg4p94HpqeCAuauD4&headerType=none&fp=firefox&type=tcp&sni=refersion.com#1404|04|11_17:20:51
+vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#1404|04|11_17:20:51
 vless://7585f059-2c89-4a02-9dff-394bb7913ef5@whatismyipaddress.com:2096?path=%2F&security=tls&encryption=none&host=wwwspeedtestnetwhiteberinsistomd6625996s01.gatesriver.ir&fp=chrome&type=ws&sni=wwwspeedtestnetwhiteberinsistomd6625996s01.gatesriver.ir#1404|04|11_16:04:31
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.202.155:443?encryption=none&security=none&fp=chrome&type=tcp&headerType=http&host=zula.ir#1404|04|11_15:42:16
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.190.38:51615?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#1404|04|11_15:42:16
@@ -36,5 +38,3 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.162.239:443?security=&encrypt
 vless://ae9539b5-70dd-41b5-9666-11a29559a840@84.47.233.110:59761?security=&encryption=none&host=Fast.com&headerType=http&type=tcp#1404|04|11_03:16:40
 vless://5cd2602a-ac2a-4dea-a2c5-0a16b0e2b0d8@speedy.mooo.info:80?mode=auto&path=%2F&security=&encryption=none&host=veneta911.ir&type=xhttp#1404|04|11_03:16:40
 vmess://eyJhZGQiOiJwcm9kMDItbGIwMi1jbG91ZDAxLmN5YmVyc2NhbGVyLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6IjU3ZjkzOTU3LTA2NGMtNDQ4Ni1hZDJlLWY0MDZlNmM3ZmJlMyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjMzNjc4IiwicHMiOiLaqdin2YbYp9mEINmF2Kfwn5GIdnBuX2dtYWlsbCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0jMTQwNHwwNHwxMV8wMzoxNjo0MA==
-vless://f78ce1bb-0fa6-4ef4-b4c9-b91014a7055d@104.24.135.83:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=&encryption=none&host=delam.ahaysiahzangi.dpdns.org&type=ws#1404|04|11_03:16:40
-vless://2f33cc6f-c80a-4c19-ac4f-66547bfdd33d@b.kalantar.sbs:1501?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#1404|04|11_03:16:40

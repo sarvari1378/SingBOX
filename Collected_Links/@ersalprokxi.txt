@@ -1,3 +1,5 @@
+vless://9cf8d292-153b-4bb9-87fc-1a48907dfda9@104.18.13.51:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.xiazitong.zone.id&fp=randomized&type=ws&sni=a.xiazitong.zone.id#1404|04|12_00:43:42
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fdownload&security=none&encryption=none&host=my.ski1plag.ir&type=ws#1404|04|12_00:43:42
 vless://bd41a471-ee04-4f88-85d0-83fa3de57253@dev.loadbalance.iranstars-shop.ir:2689?mode=gun&security=reality&encryption=none&pbk=L4WAAdlTv7i2tDZwPcvYrCfZg2IDCI_sp5LElu3u91U&fp=firefox&type=grpc&serviceName=nama&sni=refersion.com&sid=b6c24852f86067a6#1404|04|11_23:33:32
 vless://a84263bb-49ab-43dc-a352-c464414e8a62@netherlands.secretvibe.ru:443?security=reality&encryption=none&pbk=IFgSZ6-4ceD0tPigCvDBPHtrb6YUNPfxf1EVGUfAwBA&headerType=none&fp=chrome&spx=%2FvmiSRoMfiNdUwkz&type=tcp&flow=xtls-rprx-vision&sni=netherlands.secretvibe.ru&sid=df9038e40a9b#1404|04|11_23:33:32
 vless://a84263bb-49ab-43dc-a352-c464414e8a62@germany1.secretvibe.ru:443?security=reality&encryption=none&pbk=GHl0OQmUmM8JzAraDgnn2ic7lzuWhjUMkZus6DzSvys&headerType=none&fp=chrome&spx=%2F2JhYDrpVcIa4da5&type=tcp&flow=xtls-rprx-vision&sni=germany1.secretvibe.ru&sid=5660c4#1404|04|11_23:33:32
@@ -36,5 +38,3 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.202.155:443?security=none&enc
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.190.38:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#1404|04|11_17:53:58
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.203.193:443?security=none&encryption=none&host=zula.ir&headerType=http&fp=chrome&type=tcp#1404|04|11_17:53:58
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.69:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#1404|04|11_17:53:58
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.207.21:443?security=none&encryption=none&host=zula.ir&headerType=http&fp=chrome&type=tcp#1404|04|11_17:53:58
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.194.54:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#1404|04|11_17:53:58

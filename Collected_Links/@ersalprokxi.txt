@@ -1,3 +1,4 @@
+vless://94a67a9d-b27d-42f9-bee9-05de7203b998@91.99.144.18:20200?mode=gun&security=reality&encryption=none&pbk=b14Nibi1pMPwFPqgiyZRS3a6-Y-Q8EsE5urKnA-RkAc&fp=firefox&type=grpc&sni=www.speedtest.net&sid=adf8a1f5689177a2#1404|04|11_20:18:44
 vless://07e4b0e8-32ab-4b3f-819a-2ebcb158d8a2@91.107.151.153:443?security=reality&encryption=none&pbk=doLJKYk2mlGk0_6djrQabvaZOV83Sco5EqeKkdklcgo&host=%2FBIA_CHANEL%40JOKERRVPN&headerType=none&fp=chrome&spx=%2FCopy-az-chahnnel-JOKERRVPN&type=tcp&sni=tgju.org&sid=265a1f1e2e#1404|04|11_17:53:58
 vless://1c88c964-a039-4c9a-b1e5-5e93eef57fd8@91.107.154.77:8443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#1404|04|11_17:53:58
 vless://07e4b0e8-32ab-4b3f-819a-2ebcb158d8a2@spdnet.get-service.ir:443?security=reality&encryption=none&pbk=doLJKYk2mlGk0_6djrQabvaZOV83Sco5EqeKkdklcgo&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=tgju.org&sid=265a1f1e2e#1404|04|11_17:53:58
@@ -37,4 +38,3 @@ vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?path=%2F%3Fed%3D2
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.70:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#1404|04|11_12:56:51
 vmess://eyJhZGQiOiJzaC5zcnYudGUxNDUwLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImMyOGI5MmVhLWRmOWMtNDM5Zi05ZjUzLTkzMGQ1ZTUzNGE4NCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDAzMSIsInBzIjoiMzAw2q_bjNqvIDM52KrZiNmF2KfZhiEg2KrYs9iq4oCM2LHYp9uM2q_Yp9mG8J-kqVRpY2tWMkJvdEAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9IzE0MDR8MDR8MTFfMTA6MDM6MTk=
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#1404|04|11_09:45:50
-vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=di.dibdibini.dpdns.org&type=ws#1404|04|11_09:45:50

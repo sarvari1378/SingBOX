@@ -1,3 +1,5 @@
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.22.16.91:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=random&type=ws&sni=kawaiifreevpn-7ds.pages.dev#1404|04|12_16:03:40
+vless://db67312c-8388-470c-a8aa-9995732a6f8d@85.9.99.89:450?security=none&encryption=none&headerType=http&type=tcp#1404|04|12_16:03:40
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@lewis.ns.cloudflare.com:443?encryption=none&security=tls&sni=rc.ylks0033.dpdns.org&type=ws&host=rc.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#1404|04|12_15:10:14
 vless://cb87c632-4825-4b2e-8991-f3f619645fee@kci2.kci2cfjiasucdn.dpdns.org:443?encryption=none&security=tls&sni=kci2.kci2cfjiasucdn.dpdns.org&type=ws&host=kci2.kci2cfjiasucdn.dpdns.org&path=%2F#1404|04|12_15:10:14
 vless://d1237c01-58b5-48f9-8a27-8a396b7f5422@104.18.209.108:80?encryption=none&security=none&type=ws&host=ey.nazanin.dpdns.org&path=%2F%3Fed%3D2560#1404|04|12_15:10:14
@@ -36,5 +38,3 @@ vless://a84263bb-49ab-43dc-a352-c464414e8a62@netherlands.secretvibe.ru:443?secur
 vless://a84263bb-49ab-43dc-a352-c464414e8a62@germany1.secretvibe.ru:443?security=reality&encryption=none&pbk=GHl0OQmUmM8JzAraDgnn2ic7lzuWhjUMkZus6DzSvys&headerType=none&fp=chrome&spx=%2F2JhYDrpVcIa4da5&type=tcp&flow=xtls-rprx-vision&sni=germany1.secretvibe.ru&sid=5660c4#1404|04|11_23:33:32
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.65:443?security=none&encryption=none&host=account.zula.ir%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&headerType=http&type=tcp#1404|04|11_23:33:32
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.10:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40VPN66&headerType=http&type=tcp#1404|04|11_23:33:32
-vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.130.239:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#1404|04|11_23:33:32
-vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#1404|04|11_23:33:32

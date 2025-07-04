@@ -1,2 +1,14 @@
-vless://e6dd8605-5b91-461f-b7c0-364e105efaca@142.132.227.65:33776?type=tcp&security=none#%40-%40netmelli15
-ss://e6dd8605-5b91-461f-b7c0-364e105efaca@142.132.227.65:33776?type=tcp&security=none#%40-%40netmelli15
+vless://e0641a89-707d-459a-a7ce-98e7fe90d43a@xpanel-ir.panelfreedom.com:2092?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#Telegram+%3A+%40V2rayEnglish`
+ss://e0641a89-707d-459a-a7ce-98e7fe90d43a@xpanel-ir.panelfreedom.com:2092?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#Telegram+%3A+%40V2rayEnglish`
+vless://c9ccb279-7ef2-4ca9-bb59-2a5090469fe2@xpanel-ir.panelfreedom.com:2092?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#Telegram+%3A+%40V2rayEnglish`
+ss://c9ccb279-7ef2-4ca9-bb59-2a5090469fe2@xpanel-ir.panelfreedom.com:2092?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#Telegram+%3A+%40V2rayEnglish`
+vless://cc6d2d57-3397-4580-b186-0430f38ff5f1@xpanel-ir.panelfreedom.com:2092?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#Telegram+%3A+%40V2rayEnglish`
+ss://cc6d2d57-3397-4580-b186-0430f38ff5f1@xpanel-ir.panelfreedom.com:2092?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#Telegram+%3A+%40V2rayEnglish`
+vless://77cf5d01-12e4-49d0-97ab-88e86ad6bf10@xpanel-ir.panelfreedom.com:2092?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#Telegram+%3A+%40V2rayEnglish`
+ss://77cf5d01-12e4-49d0-97ab-88e86ad6bf10@xpanel-ir.panelfreedom.com:2092?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#Telegram+%3A+%40V2rayEnglish`
+vless://eda0b1f4-a4c2-4f30-812c-12a6c6773103@xpanel-ir.panelfreedom.com:2092?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#Telegram+%3A+%40V2rayEnglish`
+ss://eda0b1f4-a4c2-4f30-812c-12a6c6773103@xpanel-ir.panelfreedom.com:2092?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#Telegram+%3A+%40V2rayEnglish`
+vmess://eyJhZGQiOiIxODUuMTI2LjI1NS43OCIsImFpZCI6IjAiLCJob3N0IjoiMTg1LjEyNi4yNTUuNzgiLCJpZCI6IjVlYWExMjFkLTQzNjItNDQ0ZC04MjE5LTI5YjAyYzM1MzAzYSIsIm5ldCI6IndzIiwicGF0aCI6Ii9zcGVlZHRlc3QiLCJwb3J0IjoiMzU5NjYiLCJwcyI6IlVBIiwic2N5IjoiYXV0byIsInNuaSI6Inp1bGEuaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vmess://eyJhZGQiOiIyMy4xMzIuMjI4LjIxNyIsImFpZCI6IjAiLCJob3N0IjoiMjMuMTMyLjIyOC4yMTciLCJpZCI6IjVlYWExMjFkLTQzNjItNDQ0ZC04MjE5LTI5YjAyYzM1MzAzYSIsIm5ldCI6IndzIiwicGF0aCI6Ii9zcGVlZHRlc3QiLCJwb3J0IjoiNTA0OTEiLCJwcyI6IklUIiwic2N5IjoiYXV0byIsInNuaSI6Inp1bGEuaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+ss://eyJhZGQiOiIxODUuMTI2LjI1NS43OCIsImFpZCI6IjAiLCJob3N0IjoiMTg1LjEyNi4yNTUuNzgiLCJpZCI6IjVlYWExMjFkLTQzNjItNDQ0ZC04MjE5LTI5YjAyYzM1MzAzYSIsIm5ldCI6IndzIiwicGF0aCI6Ii9zcGVlZHRlc3QiLCJwb3J0IjoiMzU5NjYiLCJwcyI6IlVBIiwic2N5IjoiYXV0byIsInNuaSI6Inp1bGEuaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+ss://eyJhZGQiOiIyMy4xMzIuMjI4LjIxNyIsImFpZCI6IjAiLCJob3N0IjoiMjMuMTMyLjIyOC4yMTciLCJpZCI6IjVlYWExMjFkLTQzNjItNDQ0ZC04MjE5LTI5YjAyYzM1MzAzYSIsIm5ldCI6IndzIiwicGF0aCI6Ii9zcGVlZHRlc3QiLCJwb3J0IjoiNTA0OTEiLCJwcyI6IklUIiwic2N5IjoiYXV0byIsInNuaSI6Inp1bGEuaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=

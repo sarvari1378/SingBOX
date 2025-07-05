@@ -1,8 +1,0 @@
-vless://d38498d1-fcff-48e1-ab52-a1e28dd83eba@xpanel-ir.panelfreedom.com:2092?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#Telegram+%3A+%40V2rayEnglish`
-ss://d38498d1-fcff-48e1-ab52-a1e28dd83eba@xpanel-ir.panelfreedom.com:2092?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#Telegram+%3A+%40V2rayEnglish`
-vless://d0f1632f-4057-4951-99e9-0f91a1a3171e@xpanel-ir.panelfreedom.com:2092?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#Telegram+%3A+%40V2rayEnglish`
-ss://d0f1632f-4057-4951-99e9-0f91a1a3171e@xpanel-ir.panelfreedom.com:2092?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#Telegram+%3A+%40V2rayEnglish`
-vless://79c6905b-9d9f-4a6d-bfff-e280692ad116@xpanel-ir.panelfreedom.com:2092?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#Telegram+%3A+%40V2rayEnglish`
-ss://79c6905b-9d9f-4a6d-bfff-e280692ad116@xpanel-ir.panelfreedom.com:2092?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#Telegram+%3A+%40V2rayEnglish`
-vless://0c5d51cd-14af-da89-975d-99bd7a60d762@shop.fox-11-fox.com:2052?security=none&encryption=none&headerType=none&type=tcp`
-ss://0c5d51cd-14af-da89-975d-99bd7a60d762@shop.fox-11-fox.com:2052?security=none&encryption=none&headerType=none&type=tcp`

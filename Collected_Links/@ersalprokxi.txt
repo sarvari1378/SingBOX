@@ -1,3 +1,5 @@
+vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@101reel.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=barayeiranmahsang.sabzipolobamahi.dpdns.org&fp=random&type=ws&sni=barayeiranmahsang.sabzipolobamahi.dpdns.org#1404|04|14_20:30:34
+vless://941d092e-8313-452a-ba21-c9995dcba79d@101reel.com:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=havvas.shohreh.dpdns.org&fp=random&type=ws&sni=havvas.shohreh.dpdns.org#1404|04|14_20:30:34
 vless://b8b81afb-c24b-43b7-e816-0b7dcaf4ce67@chrom3.infospeedtest.com:13096?security=none&encryption=none&host=trello.com&headerType=http&type=tcp#1404|04|14_19:33:54
 vmess://eyJhZGQiOiIxMDcuMTcyLjk2LjIyNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI3MThlNDJjNy03NTkxLTQxNzYtZTJlZC00YjNkZDIzNGY1YjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIwOTUiLCJwcyI6IuKkvyDwnZCC8J2QofCdkJrwnZCn8J2Qp_CdkJ7wnZClOiBAdnBuejQg4oCiIDIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9IzE0MDR8MDR8MTRfMTk6MzM6NTQ=
 vmess://eyJhZGQiOiIxMDcuMTcyLjk2LjIyNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMzg0ODA0MC1lODc5LTRiMmItZjYzMC00ZDkwOTQ0ZWQ0MTEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjUwMDEyIiwicHMiOiLipL8g8J2QgvCdkKHwnZCa8J2Qp_CdkKfwnZCe8J2QpTogQHZwbno0IOKAoiAzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifSMxNDA0fDA0fDE0XzE5OjMzOjU0
@@ -36,5 +38,3 @@ vless://1c88c964-a039-4c9a-b1e5-5e93eef57fd8@91.107.154.77:2070?security=none&en
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.190.38:51615?security=none&encryption=none&host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#1404|04|14_18:21:27
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.195.73:443?security=none&encryption=none&host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#1404|04|14_18:21:27
 vless://1a2880c5-c4dc-42df-8013-627584af81f4@77.72.80.143:8080?path=%2F&security=none&encryption=none&type=ws#1404|04|14_18:21:27
-vless://6bdc18b7-a33f-46ae-a5e3-df7cb21f36b2@91.99.184.231:45103?mode=gun&security=none&encryption=none&type=grpc#1404|04|14_18:21:27
-vless://3ed3966a-ca0e-4a46-a437-8000836fa495@sd.mciickoir.ir:9620?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#1404|04|14_18:21:27

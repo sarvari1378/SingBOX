@@ -1,3 +1,7 @@
+vless://941d092e-8313-452a-ba21-c9995dcba79d@104.18.151.58:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=havvas.shohreh.dpdns.org&fp=random&type=ws&sni=havvas.shohreh.dpdns.org#1404|04|16_02:22:59
+vless://e8ddaf1d-fc64-48bf-8688-b7cdc32eb795@cellone.learn-new.ir:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=ikTKkSZZZ18NraMIwbLCP8ln6NmsD77VTSKWTESIOAk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=khanacademy.org&sid=6acf3ba5790e4324#1404|04|16_01:53:39
+vmess://eyJhZGQiOiJwcm9tLmxlYXJuLW5ldy5pciIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6IiIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiJlOGRkYWYxZC1mYzY0LTQ4YmYtODY4OC1iN2NkYzMyZWI3OTUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL1FVZU1FV3V0WlBZWVZubktqIiwicG9ydCI6IjgwIiwicHMiOiLipL8g8J2QgvCdkKHwnZCa8J2Qp_CdkKfwnZCe8J2QpTogQHZwbno0IOKAoiDwn4ep8J-HqiAyIiwic2N5IjoiYXV0byIsInNuaSI6InNwZWVkdGVzdC5uZXQiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0jMTQwNHwwNHwxNl8wMTo1MzozOQ==
+vless://55f552e6-0ca5-4e08-8989-8ea38f48055d@cellone.moon-night.ir:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=3vUR24mjjFpGWH1SXOye4ByKlKzQOEDjCHEH5gSoZFw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=khanacademy.org&sid=0afdc08e9f7d#1404|04|16_01:53:39
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#1404|04|16_01:12:37
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#1404|04|16_01:12:37
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&fp=random&type=ws&sni=barayeiranmahsang.loseyourself.dpdns.org#1404|04|16_00:52:27
@@ -34,7 +38,3 @@ vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D256
 vless://f051c346-59d1-4cd9-9c8a-3603e535d65c@193.162.129.71:2080?security=none&encryption=none&headerType=none&type=tcp#1404|04|15_21:11:23
 vless://a8f7da6e-e26b-4a57-fdfe-19aea862342a@85.133.253.219:443?security=none&encryption=none&headerType=none&type=tcp#1404|04|15_20:36:48
 vless://627712cf-d0e1-4545-81fb-241e7fda0284@192.9.247.127:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=b295-23ae29-6bh.xn--4gq62f52gppi29k.com#1404|04|15_20:36:48
-vless://627712cf-d0e1-4545-81fb-241e7fda0284@3bd9.55dca.e048.f64-fef1f.yfjcs.com:443?security=tls&encryption=none&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=yfhk2.xn--4gq62f52gppi29k.com#1404|04|15_20:36:48
-vless://627712cf-d0e1-4545-81fb-241e7fda0284@64.181.255.250:443?security=tls&encryption=none&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=b295-23ae29-6bh.xn--4gq62f52gppi29k.com#1404|04|15_20:36:48
-vless://627712cf-d0e1-4545-81fb-241e7fda0284@3bd9.55dca.e048.f8-fef1f.yfjcs.com:443?security=tls&encryption=none&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yfsg-1.xn--4gq62f52gppi29k.com#1404|04|15_20:36:48
-vless://627712cf-d0e1-4545-81fb-241e7fda0284@3bd9.55dca.e048.f9-fef1f.yfjcs.com:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yfsg-1.xn--4gq62f52gppi29k.com#1404|04|15_20:36:48

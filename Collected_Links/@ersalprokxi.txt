@@ -1,3 +1,9 @@
+vless://bd12cf37-bd2b-4f3b-be23-e91146bf1914@45.159.148.172:2092?security=none&encryption=none&host=parsabr.com%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&headerType=http&type=tcp#1404|04|17_14:11:10
+ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@series-a2-mec.varzesh360.co:443?type=raw&security=none#1404|04|17_14:10:49
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.108:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&fp=randomized&type=ws#1404|04|17_14:09:44
+vless://bd12cf37-bd2b-4f3b-be23-e91146bf1914@45.159.148.172:2092?security=none&encryption=none&host=parsabr.com%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&headerType=http&type=tcp#1404|04|17_14:07:37
+vless://3ac27215-cf7c-4d75-98b3-4e83b5d97623@85.133.195.84:8854?security=none&encryption=none&headerType=none&type=tcp#1404|04|17_13:52:42
+vless://375805ec-e355-4e09-afe1-6dbc4da21f2e@91.99.166.88:8443?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#1404|04|17_13:52:42
 vless://188f1242-b0c0-4992-b480-1da44dae1700@300232332.webnama.com.tr:1517?encryption=none&security=none&type=tcp&headerType=http&host=testspeed-foreign.tci.ir#1404|04|17_11:28:32
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?encryption=none&security=none&type=ws&host=sib.sibzamini.dpdns.org&path=%2F%3Fed%3D2560%2F#1404|04|17_11:28:32
 vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.18.26.90:80?encryption=none&security=none&type=ws&host=dw.alibichareh.dpdns.org&path=%2F%3Fed%3D2590#1404|04|17_11:28:32
@@ -32,9 +38,3 @@ vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=%2F%3Fed%3D2
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.108:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&fp=randomized&type=ws#1404|04|17_02:04:39
 vless://b163c030-ca39-4117-bfbd-895c124d5551@noda1.hello-car.monster:7001?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#1404|04|17_01:16:56
 vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.18.26.90:80?path=%2F%3Fed%3D2590&security=none&encryption=none&host=dw.alibichareh.dpdns.org&type=ws#1404|04|17_01:11:08
-vless://7f502367-c958-4e74-9ac7-1364406e69f5@65.109.191.147:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#1404|04|17_01:11:08
-vless://f73e9865-80c3-45ba-8391-597139c37bdc@91.99.129.82:443?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp#1404|04|17_01:11:08
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@4.250.60.151:443#1404|04|17_01:11:08
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@74.177.202.58:443#1404|04|17_01:11:08
-vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.18.26.90:80?path=%2F%3Fed%3D2590&security=none&encryption=none&host=dw.alibichareh.dpdns.org&type=ws#1404|04|17_00:08:42
-vless://7f502367-c958-4e74-9ac7-1364406e69f5@65.109.191.147:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#1404|04|17_00:08:42

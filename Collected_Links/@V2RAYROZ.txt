@@ -1,3 +1,8 @@
+vless://75fde681-ec64-4654-86fa-30732e8e179c@172.67.92.147:443?path=%2Fassets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#1404|04|18_22:57:40
+vless://Telegram--TokaVpn--TokaVpn@91.99.172.196:2025?security=reality&encryption=none&pbk=WpvjPUZ5x3SIvDzSr5q9v0bfhzo36obh3CXIqJVmnkY&headerType=none&fp=chrome&spx=%2F-%40TokaVpn---%40TokaVpn---%40TokaVpn---%40TokaVpn---%40TokaVpn---%40TokaVpn---%40TokaVpn---%40TokaVpn---%40TokaVpn---%40TokaVpn---%40TokaVpn---%40TokaVpn---%40TokaVpn---%40TokaVpn---%40TokaVpn---%40TokaVpn---%40TokaVpn---%40TokaVpn---%40TokaVpn---%40TokaVpn---%40TokaVpn---%40TokaVpn---%40ToakVpn&type=tcp&sni=yahoo.com&sid=91355b9b818617#1404|04|18_22:57:40
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=random&type=ws&sni=kawaiifreevpn-7ds.pages.dev#1404|04|18_22:57:40
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@172.165.94.205:443#1404|04|18_22:57:40
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#1404|04|18_22:57:40
 vless://1523920e-b41f-42d9-970e-6f672b56f025@mtn.venzo.com.tr:80?path=%2Ftelegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560&security=none&encryption=none&host=www.spEedtest.net.jariCopEn.fuN.&type=httpupgrade#1404|04|18_20:47:16
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#1404|04|18_20:34:15
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#1404|04|18_20:34:15
@@ -8,8 +13,3 @@ vless://5092bd94-6af6-4e74-bea1-5a9179a31611@104.18.26.90:80?path=%2F%40XpnTeam%
 vless://5092bd94-6af6-4e74-bea1-5a9179a31611@mtn.venzo.com.tr:80?path=%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048&security=none&encryption=none&host=www.sPeedtest.net.ElectrOluxxv.iR.&type=httpupgrade#1404|04|18_12:48:36
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@131.145.123.5:443#1404|04|17_23:46:03
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#1404|04|17_20:15:37
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#1404|04|17_20:14:04
-vless://Telegram--TokaVpn--TokaVpn@91.99.172.196:2025?security=reality&encryption=none&pbk=WpvjPUZ5x3SIvDzSr5q9v0bfhzo36obh3CXIqJVmnkY&headerType=none&fp=chrome&spx=%2F-%40TokaVpn---%40TokaVpn---%40TokaVpn---%40TokaVpn---%40TokaVpn---%40TokaVpn---%40TokaVpn---%40TokaVpn---%40TokaVpn---%40TokaVpn---%40TokaVpn---%40TokaVpn---%40TokaVpn---%40TokaVpn---%40TokaVpn---%40TokaVpn---%40TokaVpn---%40TokaVpn---%40TokaVpn---%40TokaVpn---%40TokaVpn---%40TokaVpn---%40ToakVpn&type=tcp&sni=yahoo.com&sid=91355b9b818617#1404|04|17_20:14:04
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#1404|04|17_17:09:18
-vless://ab27ace5-bbcf-4eb4-b147-823677a66020@FASTSHOVPNTELEGRAM.fast.hosting-ip.com:80?mode=auto&path=%2FFASTSHOVPN%3Fed%3D2048&security=none&encryption=none&host=FASTSHOVPNTELEGRAMMMMMMM.COM&type=xhttp#1404|04|17_17:09:18
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#1404|04|17_17:09:18

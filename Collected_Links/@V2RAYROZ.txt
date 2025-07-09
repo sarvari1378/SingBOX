@@ -1,3 +1,6 @@
+vless://1523920e-b41f-42d9-970e-6f672b56f025@mtn.venzo.com.tr:80?path=%2Ftelegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560&security=none&encryption=none&host=www.spEedtest.net.jariCopEn.fuN.&type=httpupgrade#1404|04|18_20:35:36
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#1404|04|18_20:34:15
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#1404|04|18_20:34:15
 vless://26d4cd7c-f8bb-4c51-a07a-e7ed2a161b7b@193.111.235.155:4912?security=none&encryption=none&headerType=http&type=tcp#1404|04|18_12:50:48
 vless://ab27ace5-bbcf-4eb4-b147-823677a66020@FASTSHOVPNTELEGRAM.fast.hosting-ip.com:80?mode=auto&path=%2FFASTSHOVPN%3Fed%3D2048&security=none&encryption=none&host=FASTSHOVPNTELEGRAMMMMMMM.COM&type=xhttp#1404|04|18_12:48:36
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#1404|04|18_12:48:36
@@ -10,6 +13,3 @@ vless://Telegram--TokaVpn--TokaVpn@91.99.172.196:2025?security=reality&encryptio
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#1404|04|17_17:09:18
 vless://ab27ace5-bbcf-4eb4-b147-823677a66020@FASTSHOVPNTELEGRAM.fast.hosting-ip.com:80?mode=auto&path=%2FFASTSHOVPN%3Fed%3D2048&security=none&encryption=none&host=FASTSHOVPNTELEGRAMMMMMMM.COM&type=xhttp#1404|04|17_17:09:18
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#1404|04|17_17:09:18
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#1404|04|17_12:39:41
-vless://dc80ee7e-bad0-450c-a218-f12e05680885@141.11.202.250:2096?path=%2F%3Fed%3D2096&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=arm1.dollardoon.com&fp=chrome&type=ws&sni=arm1.dollardoon.com#1404|04|17_12:38:41
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#1404|04|17_00:14:34

@@ -1,3 +1,6 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#1404|04|18_09:14:12
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#1404|04|18_09:14:12
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#1404|04|18_09:14:12
 vless://bf3c99e7-68b4-4bad-b110-ebaf2ecab772@speedtest.net:80?type=xhttp&security=none&host=speedy_lool.global.ssl.fastly.net&path=%2Fadmin%3Fed%3D2048&mode=auto#1404|04|18_08:26:20
 vmess://eyJhZGQiOiIxNDYuNTkuNTUuNTAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im8ubWV0dWppLmNvbSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJARGFpbHlfQ29uZmlncyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0jMTQwNHwwNHwxOF8wNzo1Mzo0MA==
 vless://c1b31d85-a2e0-447f-9e40-5054cdb8103e@91.99.150.150:48940?security=none&encryption=none&headerType=none&type=tcp#1404|04|18_07:53:40
@@ -35,6 +38,3 @@ vless://b1a8ceea-6601-45b5-a674-7e5b64ab6f6f@162.159.129.11:2053?path=%2F%3Fed%3
 vless://30939f46-144d-4652-9c8e-543fad8c1931@parmis.crocodileserver.ir:443?security=reality&encryption=none&pbk=bNqWVghgIlng83CQFziNhIA8TTKUFsv0gHkVxbBOmh8&headerType=none&fp=firefox&type=tcp&sni=sw.crocodileserver.ir&sid=1da8d08f24e92861#1404|04|17_23:16:43
 vless://30939f46-144d-4652-9c8e-543fad8c1931@parmis.crocodileserver.ir:443?security=reality&encryption=none&pbk=bNqWVghgIlng83CQFziNhIA8TTKUFsv0gHkVxbBOmh8&headerType=none&fp=firefox&type=tcp&sni=rtf.crocodileserver.ir&sid=1da8d08f24e92861#1404|04|17_23:16:43
 vless://c0c05be3-6eb9-4fec-a5f5-2d7241c4fad3@www.speedtest.net:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ARM1.dollardoon.com&type=ws#1404|04|17_23:16:43
-vless://b055036a-2d81-4d46-ab18-4e1898b58cec@mtn.ivy-net.ir:80?path=%2F%3Fed&security=none&encryption=none&host=feArLESS-cHANge.oNEEat.CO.&type=ws#1404|04|17_23:16:43
-vless://401374e6-df77-41fb-f638-dad8184f175b@172.67.68.36:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v2.hiddendom.shop#1404|04|17_23:16:43
-vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.150:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#1404|04|17_23:16:43

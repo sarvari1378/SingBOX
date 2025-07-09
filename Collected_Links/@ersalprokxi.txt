@@ -1,3 +1,4 @@
+vless://bd56f20a-cec1-4a52-b779-1609e8516240@ir.holy3buy.website:11212?security=none&encryption=none&headerType=none&type=tcp#1404|04|18_10:31:38
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#1404|04|18_09:14:12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#1404|04|18_09:14:12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#1404|04|18_09:14:12
@@ -37,4 +38,3 @@ vless://4bcb875b-bc40-4455-b242-cc32e58ae871@104.18.26.90:2096?path=%2Fnodudrws&
 vless://b1a8ceea-6601-45b5-a674-7e5b64ab6f6f@162.159.129.11:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sub.divib.dynv6.net&type=ws&sni=sub.divib.dynv6.net#1404|04|17_23:48:55
 vless://30939f46-144d-4652-9c8e-543fad8c1931@parmis.crocodileserver.ir:443?security=reality&encryption=none&pbk=bNqWVghgIlng83CQFziNhIA8TTKUFsv0gHkVxbBOmh8&headerType=none&fp=firefox&type=tcp&sni=sw.crocodileserver.ir&sid=1da8d08f24e92861#1404|04|17_23:16:43
 vless://30939f46-144d-4652-9c8e-543fad8c1931@parmis.crocodileserver.ir:443?security=reality&encryption=none&pbk=bNqWVghgIlng83CQFziNhIA8TTKUFsv0gHkVxbBOmh8&headerType=none&fp=firefox&type=tcp&sni=rtf.crocodileserver.ir&sid=1da8d08f24e92861#1404|04|17_23:16:43
-vless://c0c05be3-6eb9-4fec-a5f5-2d7241c4fad3@www.speedtest.net:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ARM1.dollardoon.com&type=ws#1404|04|17_23:16:43

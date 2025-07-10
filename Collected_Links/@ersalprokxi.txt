@@ -1,3 +1,6 @@
+vless://64ae5329-e630-4257-b0ad-a3f840728806@ir.holy3buy.website:30510?security=none&encryption=none&headerType=none&type=tcp#1404|04|19_16:22:25
+vless://1445889a-5fa6-4de3-b09a-918a37d000c1@power.teampluss.ir:80?path=%2FPak91jqn-Mehskl.ir.shop.com%3Fed%3D2048&security=none&encryption=none&host=Babakari.ir&type=ws#1404|04|19_16:02:17
+vless://1445889a-5fa6-4de3-b09a-918a37d000c1@power.teampluss.ir:80?path=%2FPak91jqn-Mehskl.ir.shop.com%3Fed%3D2048&security=none&encryption=none&host=Boy9ja.abdo.fr&type=ws#1404|04|19_16:02:17
 vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?mode=auto&path=%2FZed&security=none&encryption=none&host=Ryanjames.global.ssl.fastly.net&type=xhttp#1404|04|19_15:08:05
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1MDYzNFx1MDYzMVx1MDY0OFx1MDYzOSBcdTA2NDJcdTA2Q0NcdTA2NDVcdTA2MkEgXHUwNjI3XHUwNjMyIDIwIFx1MDYyQVx1MDY0OFx1MDY0NVx1MDYyN1x1MDY0NiB8IEBBcnlhbmFuZXRfYm90IiwNCiAgImFkZCI6ICI5NC4xODIuMjIzLjgiLA0KICAicG9ydCI6ICIyMDg4MyIsDQogICJpZCI6ICIwM2IwMGY1MS05MWZkLTQwM2UtOWIyMy0xYTEzNjQ2NGI4NjQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogImh0dHAiLA0KICAiaG9zdCI6ICJ0ZWxld2ViaW9uLmNvbSIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0jMTQwNHwwNHwxOV8xNDo1ODo0MA==
 vless://2a66e7e4-0bc2-4255-9bf0-7428f7258714@91.207.18.223:11904?encryption=none&security=none&type=tcp&headerType=none#1404|04|19_14:03:58
@@ -35,6 +38,3 @@ vmess://eyJhZGQiOiI0My4xNTMuMTA0LjYyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vless://13753795-cc6b-4110-83c9-5d11f5918508@185.58.242.84:8008?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#1404|04|19_10:45:16
 vless://5a930c65-d55c-41fb-9730-18781026e18c@62.60.198.103:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=speedtest.net&fp=safari&pbk=oEUevfK4ZYD7IXa3KkveDQLScHeXIkilyrRWDj-DpDo&sid=e8&spx=%2F&type=tcp&headerType=none#1404|04|19_10:45:16
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.123:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FTelegramU0001F1E8U0001F1F3#1404|04|19_10:45:16
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.73:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F#1404|04|19_10:45:16
-vless://40eaefca-ede1-4ff6-8f3a-807dc36c9b74@91.107.141.97:39466?encryption=none&security=none&type=tcp&headerType=none#1404|04|19_10:45:16
-vless://6bcb4f37-bba7-4ae0-afac-d43195c72c12@www.speedtest.net:443?encryption=none&security=tls&sni=my.digikala.dynv6.net&type=ws&host=my.digikala.dynv6.net&path=%2F--------v2rayNGcloud-----%3Fed%3D2560#1404|04|19_10:45:16

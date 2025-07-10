@@ -1,3 +1,4 @@
+vless://b9d8c373-cb2d-4c06-8039-46af4f0d9718@am2.aparat-movies-download.ir:4450?security=reality&encryption=none&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=zhaket.com#1404|04|19_23:07:22
 vless://b9d8c373-cb2d-4c06-8039-46af4f0d9718@am2.aparat-movies-download.ir:4450?security=reality&encryption=none&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=zhaket.com#1404|04|19_22:29:27
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@74.177.199.135:443#1404|04|19_22:13:37
 vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?mode=auto&path=%2FZed&security=none&encryption=none&host=Ryanjames.global.ssl.fastly.net&type=xhttp#1404|04|19_22:12:40
@@ -37,4 +38,3 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBHb2xlc3Rhbl9WUE4gLSBKT0lOIiwNCiAgImFk
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.146:8880?encryption=none&security=none&type=grpc#1404|04|19_14:03:58
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?encryption=none&security=none&type=grpc#1404|04|19_14:03:58
 vless://029254f9-05e8-47b2-a9a9-6e62e84aeb92@172.234.150.158:2321?encryption=none&security=none&type=tcp&headerType=none#1404|04|19_14:03:58
-vless://7c6a9976-adbe-4d56-8c4f-f6d7d1f98e7a@r1.vipfastconnect.site:2083?mode=gun&security=reality&encryption=none&pbk=Q9KrxctP_L5fT1sL_sQLejDpNn7KdH1b-wZ_GR0UtX4&fp=chrome&type=grpc&serviceName=vless2083&sni=wordpress.org&sid=f414e49bc35be542#1404|04|19_12:33:58

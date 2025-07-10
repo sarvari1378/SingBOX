@@ -1,3 +1,6 @@
+vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?mode=auto&path=%2FZed&security=&encryption=none&host=Ryanjames.global.ssl.fastly.net&type=xhttp#1404|04|19_20:03:07
+vless://146518a9-c8b5-43f2-a3e2-3fb3b697369a@ep1.rolexcloud.net:443?mode=auto&path=%2Fasiatech.ir&security=reality&encryption=none&pbk=gAwjo7y5nfNWyQIKu8BZSeEHyx03bTJymjVzEFRmahk&host=ep1.rolexcloud.net&fp=chrome&spx=%2F&type=xhttp&sni=yahoo.com&sid=13664108#1404|04|19_20:01:02
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@74.177.199.135:443#1404|04|19_20:01:02
 vless://9368b093-d790-4096-9d8a-1265e82f9e2f@172.66.47.15:443?path=%2Ftelegram%40v2ray_alpha%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=ggggr.pages.dev&fp=randomized&type=ws&sni=GgGgr.PaGES.dEV#1404|04|19_12:32:20
 vless://Parsashonam-280@188.114.96.0:8080?path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&security=none&encryption=none&host=FragmentFi.Rubika.cYoU.&type=ws#1404|04|19_12:32:20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@172.187.105.25:443#1404|04|19_12:30:58
@@ -10,6 +13,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co
 vless://1523920e-b41f-42d9-970e-6f672b56f025@mtn.venzo.com.tr:80?path=%2Ftelegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560&security=none&encryption=none&host=www.spEedtest.net.jariCopEn.fuN.&type=httpupgrade#1404|04|18_20:47:16
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#1404|04|18_20:34:15
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#1404|04|18_20:34:15
-vless://26d4cd7c-f8bb-4c51-a07a-e7ed2a161b7b@193.111.235.155:4912?security=none&encryption=none&headerType=http&type=tcp#1404|04|18_12:50:48
-vless://ab27ace5-bbcf-4eb4-b147-823677a66020@FASTSHOVPNTELEGRAM.fast.hosting-ip.com:80?mode=auto&path=%2FFASTSHOVPN%3Fed%3D2048&security=none&encryption=none&host=FASTSHOVPNTELEGRAMMMMMMM.COM&type=xhttp#1404|04|18_12:48:36
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#1404|04|18_12:48:36

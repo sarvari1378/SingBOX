@@ -1,3 +1,4 @@
+vless://0a506a60-ae3e-499d-9cbd-ab003f9f3f3b@www.speedtest.net:443?path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=freedom.zistarvinbiotech.ir&fp=randomized&type=ws&sni=FREEDOm.ZiStarvInbioTeCh.ir#1404|04|20_02:27:30
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?encryption=none&security=none&type=ws&host=1750293123492.china.baidu.bilibili.china.aeko.cn&path=%2F#1404|04|20_01:19:25
 vless://3d1622e6-7ac5-4715-b635-7bd542e0a70b@tr.panelmarzban.com:3036?encryption=none&security=reality&sni=refersion.com&fp=chrome&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&type=tcp&headerType=none#1404|04|20_01:19:25
 vless://37616cb2-7853-4cbf-acc0-24818df2c89b@193.151.133.67:2070?encryption=none&security=none&type=tcp&headerType=http#1404|04|20_01:19:25
@@ -37,4 +38,3 @@ vless://453aeace-638f-441e-98cd-6dbab6e0c75e@143.198.196.86:80?path=%2FFREE%20by
 vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?mode=auto&path=%2FZed&security=none&encryption=none&host=Ryanjames.global.ssl.fastly.net&type=xhttp#1404|04|19_17:50:23
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@172.187.105.25:443#1404|04|19_17:00:35
 vless://64ae5329-e630-4257-b0ad-a3f840728806@ir.holy3buy.website:30510?security=none&encryption=none&headerType=none&type=tcp#1404|04|19_16:22:25
-vless://1445889a-5fa6-4de3-b09a-918a37d000c1@power.teampluss.ir:80?path=%2FPak91jqn-Mehskl.ir.shop.com%3Fed%3D2048&security=none&encryption=none&host=Babakari.ir&type=ws#1404|04|19_16:02:17

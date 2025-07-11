@@ -1,3 +1,4 @@
+vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?mode=auto&path=%2FZed&security=none&encryption=none&host=Ryanjames.global.ssl.fastly.net&type=xhttp#1404|04|20_08:04:30
 vless://ad3f6da1-35f2-474b-8cf2-05824faceadb@irantehran2025.adas.monster:18221?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#1404|04|20_06:10:22
 vless://3bcc6dbf-0ab4-4674-85c8-39bd994434f9@s3.esrtz.onl:46470?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#1404|04|20_04:24:00
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@74.177.199.135:443#1404|04|20_03:26:12
@@ -37,4 +38,3 @@ vmess://eyJhZGQiOiI0Ny4xMDQuMTg2LjEzMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#1404|04|19_21:34:27
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#1404|04|19_21:34:27
 vless://029f4737-0bb2-477e-8c9f-2ffb7933e284@royal26.starlinkz.cloud:31878?security=none&encryption=none&host=confingplus&headerType=http&type=tcp#1404|04|19_20:35:04
-vless://bf3c99e7-68b4-4bad-b110-ebaf2ecab772@speedtest.net:80?mode=auto&path=%2Fadmin%3Fed%3D2048&security=none&encryption=none&host=speedy_lool.global.ssl.fastly.net&type=xhttp#1404|04|19_20:34:53
